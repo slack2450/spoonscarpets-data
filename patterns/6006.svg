@@ -1,0 +1,115 @@
+<?xml version="1.0" ?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="400" height="400" viewBox="0 0 400 400">
+  <title>The John Francis Basset, Camborne — crimson scrollwork and fan-tipped cartouches</title>
+  <defs>
+    <g id="cartouche">
+      <path d="M0 300C30 260 99 230 154 237C202 238 244 253 278 278C253 244 238 202 237 154C230 99 260 30 300 0C260 -30 230 -99 237 -154C238 -202 253 -244 278 -278C244 -253 202 -238 154 -237C99 -230 30 -260 0 -300C-30 -260 -99 -230 -154 -237C-202 -238 -244 -253 -278 -278C-253 -244 -238 -202 -237 -154C-230 -99 -260 -30 -300 0C-260 30 -230 99 -237 154C-238 202 -253 244 -278 278C-244 253 -202 238 -154 237C-99 230 -30 260 0 300Z" fill="#602038"/>
+      <use xlink:href="#corner-ornaments" transform="rotate(0)"/>
+      <use xlink:href="#side-floret" transform="rotate(0)"/>
+      <use xlink:href="#corner-ornaments" transform="rotate(90)"/>
+      <use xlink:href="#side-floret" transform="rotate(90)"/>
+      <use xlink:href="#corner-ornaments" transform="rotate(180)"/>
+      <use xlink:href="#side-floret" transform="rotate(180)"/>
+      <use xlink:href="#corner-ornaments" transform="rotate(270)"/>
+      <use xlink:href="#side-floret" transform="rotate(270)"/>
+    </g>
+    <g id="acanthus">
+      <path d="M -2 305 C 12 288 28 269 51 258 C 88 241 126 232 161 235
+ C 209 238 247 257 281 274 L 276 281
+ C 240 263 194 250 157 248 C 111 245 69 257 38 276
+ C 22 286 14 301 7 313 Z" fill="#a82940"/>
+      <path d="M 24 279 C 39 272 60 263 79 259
+ C 62 271 57 285 61 301 C 64 313 74 318 85 318
+ C 84 306 80 298 87 288 C 93 277 110 269 125 273
+ C 145 277 155 293 149 308 C 146 317 140 321 132 320
+ C 135 311 132 303 124 300 C 116 297 108 301 106 308
+ C 102 317 111 324 124 325 C 131 326 139 324 146 320
+ C 141 336 125 348 111 347 Q 103 347 101 339
+ C 97 348 89 356 80 356 Q 71 353 69 343
+ C 64 348 58 349 52 347 C 52 332 43 326 35 325
+ Q 21 322 16 312 C 25 313 33 310 38 306
+ C 33 303 31 298 32 293 Q 24 291 19 291 Z" fill="#a82940"/>
+      <path d="M 49 317 Q 61 327 76 325 Q 70 334 74 342
+ Q 62 338 61 330 Q 52 329 49 317 Z" fill="#762439"/>
+      <path d="M 96 330 Q 103 335 116 334 Q 109 341 104 340 Z" fill="#762439"/>
+      <path d="M 150 250 C 174 250 203 257 230 266
+ C 213 264 196 264 181 266 C 184 281 183 292 195 294
+ C 207 296 217 290 233 284 C 224 300 211 311 194 314
+ C 185 317 177 312 175 305 Q 168 311 159 306
+ Q 173 294 163 270 Q 158 257 150 250 Z" fill="#a82940"/>
+      <path d="M 276 278 C 252 286 237 298 227 310
+ C 219 321 216 328 218 339 Q 224 338 229 334
+ Q 229 342 222 350 C 238 350 247 338 249 328
+ Q 253 329 256 332 Q 257 321 252 317
+ C 255 306 262 294 276 283 Z" fill="#a82940"/>
+      <path d="M 167 308 Q 173 329 189 328 Q 194 343 208 345
+ Q 207 350 201 352 Q 183 349 180 334 Q 166 331 162 317 Z" fill="#762439"/>
+      <path d="M 82 307 C 80 290 97 277 113 277 Q 123 277 130 282
+ C 118 280 108 283 101 289 Q 89 300 89 310 Z" fill="#8d2439"/>
+      <path d="M 97 285 C 99 282 106 279 112 279 Q 111 286 108 290
+ Q 102 292 97 290 Z" fill="#762439"/>
+      <path d="M 130 288 Q 143 293 142 305 Q 140 310 137 313
+ Q 139 300 129 296 Z" fill="#8d2439"/>
+      <path d="M 28 282 Q 43 270 60 267 Q 47 274 39 286 Q 32 288 28 289 Z" fill="#8d2439"/>
+      <path d="M 42 289 Q 48 281 54 278 Q 48 288 48 297
+ Q 46 305 46 308 Q 40 301 42 289 Z" fill="#762439"/>
+      <path d="M 233 326 Q 236 314 248 304 Q 244 313 241 318 Z" fill="#8d2439"/>
+      <path d="M 162 254 C 177 253 190 255 205 259 Q 185 257 174 261 Z" fill="#8d2439"/>
+    </g>
+    <g id="side-floret">
+      <path d="M0 291 C 5 287 9 287 12 290 Q 15 294 13 302
+ Q 20 298 26 301 Q 28 311 20 319 Q 17 323 12 321
+ Q 14 327 10 333 Q 4 332 0 339 Q -4 332 -10 333
+ Q -14 327 -12 321 Q -17 323 -20 319 Q -28 311 -26 301
+ Q -20 298 -13 302 Q -15 294 -12 290 Q -9 286 0 291 Z" fill="#a82940"/>
+      <path d="M0 301 Q5 306 3 316 L0 325 L-3 316 Q-5 306 0 301 Z" fill="#762439"/>
+    </g>
+    <g id="corner-bud">
+      <path d="M 150 152 C 169 157 197 154 224 143
+ Q 222 181 239 238 Q 186 221 145 223
+ C 156 195 158 171 150 152 Z" fill="#a82940"/>
+      <path d="M161 163 Q170 167 180 165 L181 181 Q172 180 166 179 Z" fill="#531b30"/>
+      <path d="M196 164 L211 159 L212 178 L198 179 Z" fill="#531b30"/>
+      <path d="M166 191 L181 193 L180 211 L160 211 Z" fill="#531b30"/>
+      <path d="M198 193 L214 193 L219 218 L197 212 Z" fill="#531b30"/>
+      <path d="M143 144 C132 146 121 146 115 139 Q115 129 124 123
+ Q133 118 141 119 Q139 131 144 138 Z" fill="#b59a98"/>
+      <path d="M149 139 Q144 128 146 117 Q155 114 161 117
+ Q161 126 155 138 Z" fill="#b59a98"/>
+      <path d="M158 144 Q162 133 169 124 Q180 125 189 134
+ Q185 145 174 149 Q165 151 158 150 Z" fill="#b59a98"/>
+      <path d="M140 148 Q134 157 122 163 Q116 157 115 147 Q128 149 140 145 Z" fill="#b59a98"/>
+      <path d="M145 156 Q149 166 145 177 Q142 183 134 188
+ Q122 181 122 170 Q132 159 145 156 Z" fill="#b59a98"/>
+      <path d="M 156 153 Q 182 159 218 147 L 216 151 Q 189 164 159 158 Z" fill="#8d2439"/>
+      <path d="M 153 216 Q 181 214 222 225 L 228 230 Q 185 221 152 220 Z" fill="#8d2439"/>
+    </g>
+    <g id="outer-leaf">
+      <path d="M 270 277 Q 288 274 307 280 C 316 272 330 270 339 276
+ Q 349 283 347 294 Q 364 291 373 303 Q 377 308 374 319
+ Q 387 322 389 333 Q 391 342 385 348
+ Q 398 361 395 373 Q 392 383 403 402
+ Q 383 391 373 395 Q 360 398 348 385 Q 339 391 331 388
+ Q 320 383 319 374 Q 308 378 301 372 Q 292 365 294 347
+ Q 282 349 276 339 Q 270 329 278 314 Q 283 304 278 295 Z" fill="none" stroke="#762439" stroke-width="4.6" stroke-linejoin="round"/>
+    </g>
+    <g id="corner-ornaments">
+      <use xlink:href="#outer-leaf"/>
+      <use xlink:href="#acanthus"/>
+      <use xlink:href="#acanthus" transform="matrix(0 1 1 0 0 0)"/>
+      <use xlink:href="#corner-bud"/>
+    </g>
+  </defs>
+  <rect width="400" height="400" fill="#531b30"/>
+  <g transform="scale(.5)">
+    <use xlink:href="#cartouche" transform="translate(-400 -400)"/>
+    <use xlink:href="#cartouche" transform="translate(-400 400)"/>
+    <use xlink:href="#cartouche" transform="translate(-400 1200)"/>
+    <use xlink:href="#cartouche" transform="translate(400 -400)"/>
+    <use xlink:href="#cartouche" transform="translate(400 400)"/>
+    <use xlink:href="#cartouche" transform="translate(400 1200)"/>
+    <use xlink:href="#cartouche" transform="translate(1200 -400)"/>
+    <use xlink:href="#cartouche" transform="translate(1200 400)"/>
+    <use xlink:href="#cartouche" transform="translate(1200 1200)"/>
+  </g>
+</svg>

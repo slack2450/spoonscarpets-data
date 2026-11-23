@@ -1,0 +1,84 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="800" height="800" viewBox="0 0 800 800">
+<title>The Crown, Worcester — ivory lattice, ochre scrolls and mauve-centred medallions</title>
+<desc>Two alternating medallions joined by pointed lenses and scroll eyes, reconstructed from three floor photographs.</desc>
+<defs>
+<path id="stepped-star-opening" d="M 0 -126 Q 18 -110 35 -89 L 88 -89 L 90 -38 Q 103 -21 125 0 Q 106 19 91 36 L 88 89 L 36 90 Q 18 109 0 125 Q -19 109 -36 90 L -88 89 L -91 37 Q -109 17 -125 0 Q -106 -20 -91 -37 L -88 -89 L -35 -89 Q -18 -111 0 -126 Z"/>
+<clipPath id="stepped-star-clip"><use xlink:href="#stepped-star-opening"/></clipPath>
+<g id="stepped-star-ochre"><path d="M 109 -4 Q 96 25 82 42 Q 67 65 51 92 L 66 96 Q 81 71 94 49 L 123 11 L 129 -4 Z"/><path d="M -3 100 Q 11 100 24 107 L 9 128 L -3 128 Z"/></g>
+<g id="stepped-star"><use xlink:href="#stepped-star-opening" fill="#694652"/><g clip-path="url(#stepped-star-clip)" fill="#A88948"><use xlink:href="#stepped-star-ochre" transform="matrix(1 0 0 1 0 0)"/><use xlink:href="#stepped-star-ochre" transform="matrix(1 0 0 -1 0 0)"/><use xlink:href="#stepped-star-ochre" transform="matrix(-1 0 0 1 0 0)"/><use xlink:href="#stepped-star-ochre" transform="matrix(-1 0 0 -1 0 0)"/></g><ellipse cx="0" cy="0" rx="31" ry="31" fill="#A47E99"/></g>
+<path id="diagonal-kite-opening" d="M 195 0 C 220 34 232 71 250 100 Q 266 119 281 127 Q 315 94 362 76 C 341 49 330 26 326 0 C 329 -28 342 -51 362 -76 Q 315 -94 281 -127 Q 263 -117 250 -100 C 230 -68 217 -35 195 0 Z"/>
+<clipPath id="diagonal-kite-clip"><use xlink:href="#diagonal-kite-opening"/></clipPath>
+<g id="diagonal-kite-ochre"><path d="M 305 -5 C 285 23 264 52 240 91 L 252 106 Q 279 65 313 23 Q 330 34 341 41 L 326 -1 L 323 -5 Z"/></g>
+<g id="diagonal-kite"><use xlink:href="#diagonal-kite-opening" fill="#694652"/><g clip-path="url(#diagonal-kite-clip)" fill="#A88948"><use xlink:href="#diagonal-kite-ochre" transform="matrix(1 0 0 1 0 0)"/><use xlink:href="#diagonal-kite-ochre" transform="matrix(1 0 0 -1 0 0)"/></g></g>
+<path id="upright-eye-opening" d="M 400 -80 C 377 -65 350 -23 350 0 C 350 26 377 64 400 80 C 423 64 450 26 450 0 C 450 -24 423 -65 400 -80 Z"/>
+<clipPath id="upright-eye-clip"><use xlink:href="#upright-eye-opening"/></clipPath>
+<g id="upright-eye-ochre"><path d="M 359 37 Q 379 53 396 55 Q 414 57 441 37 L 422 67 Q 408 74 400 73 Q 386 76 374 64 Z"/></g>
+<g id="upright-eye"><use xlink:href="#upright-eye-opening" fill="#694652"/><g clip-path="url(#upright-eye-clip)" fill="#A88948"><use xlink:href="#upright-eye-ochre" transform="matrix(1 0 0 1 0 0)"/><use xlink:href="#upright-eye-ochre" transform="matrix(1 0 0 -1 0 0)"/></g></g>
+<path id="scroll-opening" d="M 159 8 C 143 17 126 33 114 48 L 114 114 L 49 114 Q 31 128 21 141 C 31 154 48 162 61 176 C 81 195 87 216 91 240 C 115 244 142 249 164 265 Q 175 257 182 245 C 172 229 169 213 176 194 C 186 173 203 161 225 162 Q 234 161 243 164 Q 248 152 259 143 C 232 120 215 98 205 72 C 193 43 179 22 159 8 Z"/>
+<clipPath id="scroll-clip"><use xlink:href="#scroll-opening"/></clipPath>
+<g id="scroll-ochre"><path d="M 156 4 L 169 4 C 175 50 193 84 221 111 Q 236 123 250 137 Q 232 136 224 144 Q 214 153 214 170 L 201 171 C 194 155 182 144 166 142 C 148 142 134 159 134 176 C 134 194 151 204 175 211 L 179 222 Q 162 221 154 230 Q 141 251 122 252 C 106 252 93 245 83 238 L 84 216 Q 99 216 113 229 Q 123 238 131 227 Q 143 218 134 207 C 117 187 117 169 126 151 C 140 126 161 120 181 128 Q 194 134 200 133 Q 207 131 212 123 C 183 95 159 60 156 26 Z"/><path d="M 37 129 Q 47 114 52 106 L 65 104 Q 62 113 74 126 Q 57 126 37 129 Z"/></g>
+<g id="scroll"><use xlink:href="#scroll-opening" fill="#694652"/><g clip-path="url(#scroll-clip)" fill="#A88948"><use xlink:href="#scroll-ochre" transform="matrix(1 0 0 1 0 0)"/></g></g>
+<path id="horizontal-lens-opening" d="M 295 142 C 309 126 355 99 400 99 C 443 99 485 124 505 142 C 482 159 435 186 400 187 C 360 186 319 162 295 142 Z"/>
+<clipPath id="horizontal-lens-clip"><use xlink:href="#horizontal-lens-opening"/></clipPath>
+<g id="horizontal-lens-ochre"><path d="M 291 133 Q 310 130 317 144 L 325 159 Q 311 154 294 151 Z"/></g>
+<g id="horizontal-lens"><use xlink:href="#horizontal-lens-opening" fill="#694652"/><g clip-path="url(#horizontal-lens-clip)" fill="#A88948"><use xlink:href="#horizontal-lens-ochre" transform="matrix(1 0 0 1 0 0)"/><use xlink:href="#horizontal-lens-ochre" transform="matrix(-1 0 0 1 800 0)"/></g></g>
+<path id="plaque-spandrel-opening" d="M 275 157 Q 269 168 258 176 C 280 195 283 220 267 245 C 254 264 227 277 202 259 Q 191 264 181 278 C 212 300 234 340 234 385 Q 253 391 270 380 C 293 363 304 319 307 275 L 388 275 Q 390 246 388 210 C 347 199 311 185 275 157 Z"/>
+<clipPath id="plaque-spandrel-clip"><use xlink:href="#plaque-spandrel-opening"/></clipPath>
+<g id="plaque-spandrel-ochre"><path d="M 311 181 Q 345 218 371 239 Q 379 247 374 258 Q 371 268 359 278 L 397 280 L 397 228 Q 375 228 351 207 L 332 185 Z"/><path d="M 248 384 Q 271 368 273 353 L 274 296 L 310 296 L 310 311 L 289 312 L 289 354 Q 289 372 269 388 Z"/></g>
+<g id="plaque-spandrel"><use xlink:href="#plaque-spandrel-opening" fill="#694652"/><g clip-path="url(#plaque-spandrel-clip)" fill="#A88948"><use xlink:href="#plaque-spandrel-ochre" transform="matrix(1 0 0 1 0 0)"/></g></g>
+<path id="crown-arc-opening" d="M 0 167 C 16 173 38 190 52 210 Q 64 231 66 266 C 92 266 126 273 151 283 C 127 301 101 335 80 365 Q 40 335 13 328 Q 0 325 -13 328 Q -42 336 -80 365 C -102 335 -127 301 -151 283 C -125 273 -92 266 -66 266 Q -64 230 -52 210 C -38 190 -16 173 0 167 Z"/>
+<clipPath id="crown-arc-clip"><use xlink:href="#crown-arc-opening"/></clipPath>
+<g id="crown-arc-ochre"><path d="M -3 161 L 6 162 Q 10 180 16 186 Q 43 197 61 216 L 57 225 Q 28 213 8 211 L -3 211 Z"/><path d="M -3 307 Q 55 302 102 264 L 122 270 Q 80 307 18 322 L 3 338 L -3 336 Z"/><path d="M 131 279 Q 139 272 145 267 L 150 283 L 135 297 Z"/></g>
+<g id="crown-arc"><use xlink:href="#crown-arc-opening" fill="#694652"/><g clip-path="url(#crown-arc-clip)" fill="#A88948"><use xlink:href="#crown-arc-ochre" transform="matrix(1 0 0 1 0 0)"/><use xlink:href="#crown-arc-ochre" transform="matrix(-1 0 0 1 0 0)"/></g></g>
+<path id="scroll-eye-opening" d="M 198 201 Q 207 184 222 183 C 235 181 247 191 253 203 C 260 219 252 232 238 241 C 225 249 211 243 203 234 Q 190 220 198 201 Z"/>
+<clipPath id="scroll-eye-clip"><use xlink:href="#scroll-eye-opening"/></clipPath>
+<g id="scroll-eye-ochre"><path d="M 188 207 Q 204 204 208 189 L 215 194 Q 210 207 199 214 Z"/></g>
+<g id="scroll-eye"><use xlink:href="#scroll-eye-opening" fill="#694652"/><g clip-path="url(#scroll-eye-clip)" fill="#A88948"><use xlink:href="#scroll-eye-ochre" transform="matrix(1 0 0 1 0 0)"/></g></g>
+<path id="centre-plaque-opening" d="M 334 296 L 466 296 C 469 342 479 374 512 400 C 480 426 470 459 466 504 L 334 504 C 330 459 320 427 288 400 C 320 373 329 341 334 296 Z"/>
+<clipPath id="centre-plaque-clip"><use xlink:href="#centre-plaque-opening"/></clipPath>
+<g id="centre-plaque-ochre"><path d="M 327 295 L 368 295 Q 361 305 355 311 L 330 311 Z"/></g>
+<g id="centre-plaque"><use xlink:href="#centre-plaque-opening" fill="#694652"/><g clip-path="url(#centre-plaque-clip)" fill="#A88948"><use xlink:href="#centre-plaque-ochre" transform="matrix(1 0 0 1 0 0)"/><use xlink:href="#centre-plaque-ochre" transform="matrix(1 0 0 -1 0 800)"/><use xlink:href="#centre-plaque-ochre" transform="matrix(-1 0 0 1 800 0)"/><use xlink:href="#centre-plaque-ochre" transform="matrix(-1 0 0 -1 800 800)"/></g><ellipse cx="400" cy="400" rx="30" ry="31" fill="#A47E99"/></g>
+<path id="side-lens-opening" d="M 167 296 C 193 316 213 364 214 400 C 213 437 193 484 167 504 C 148 478 124 438 94 400 C 124 364 148 323 167 296 Z"/>
+<clipPath id="side-lens-clip"><use xlink:href="#side-lens-opening"/></clipPath>
+<g id="side-lens-ochre"><path d="M 158 295 L 170 292 C 179 319 182 343 193 361 Q 204 378 219 388 L 219 403 L 196 403 C 182 383 173 365 169 346 Q 166 323 158 314 Z"/></g>
+<g id="side-lens"><use xlink:href="#side-lens-opening" fill="#694652"/><g clip-path="url(#side-lens-clip)" fill="#A88948"><use xlink:href="#side-lens-ochre" transform="matrix(1 0 0 1 0 0)"/><use xlink:href="#side-lens-ochre" transform="matrix(1 0 0 -1 0 800)"/></g></g>
+<path id="side-eye-opening" d="M -78 400 C -62 375 -30 354 0 348 C 30 354 62 375 78 400 C 62 425 30 446 0 452 C -30 446 -62 425 -78 400 Z"/>
+<clipPath id="side-eye-clip"><use xlink:href="#side-eye-opening"/></clipPath>
+<g id="side-eye-ochre"><path d="M 42 365 Q 60 388 52 407 Q 50 421 40 434 L 50 440 L 75 405 L 75 396 L 52 362 Z"/></g>
+<g id="side-eye"><use xlink:href="#side-eye-opening" fill="#694652"/><g clip-path="url(#side-eye-clip)" fill="#A88948"><use xlink:href="#side-eye-ochre" transform="matrix(1 0 0 1 0 0)"/><use xlink:href="#side-eye-ochre" transform="matrix(-1 0 0 1 0 0)"/></g></g>
+</defs>
+<rect width="800" height="800" fill="#D1CEC4"/>
+<use xlink:href="#stepped-star" transform="matrix(1 0 0 1 0 0)"/>
+<use xlink:href="#stepped-star" transform="matrix(1 0 0 1 0 800)"/>
+<use xlink:href="#stepped-star" transform="matrix(1 0 0 1 800 0)"/>
+<use xlink:href="#stepped-star" transform="matrix(1 0 0 1 800 800)"/>
+<use xlink:href="#diagonal-kite" transform="matrix(1 0 0 1 0 0)"/>
+<use xlink:href="#diagonal-kite" transform="matrix(1 0 0 1 0 800)"/>
+<use xlink:href="#diagonal-kite" transform="matrix(-1 0 0 1 800 0)"/>
+<use xlink:href="#diagonal-kite" transform="matrix(-1 0 0 1 800 800)"/>
+<use xlink:href="#upright-eye" transform="matrix(1 0 0 1 0 0)"/>
+<use xlink:href="#upright-eye" transform="matrix(1 0 0 1 0 800)"/>
+<use xlink:href="#scroll" transform="matrix(1 0 0 1 0 0)"/>
+<use xlink:href="#scroll" transform="matrix(1 0 0 -1 0 800)"/>
+<use xlink:href="#scroll" transform="matrix(-1 0 0 1 800 0)"/>
+<use xlink:href="#scroll" transform="matrix(-1 0 0 -1 800 800)"/>
+<use xlink:href="#horizontal-lens" transform="matrix(1 0 0 1 0 0)"/>
+<use xlink:href="#horizontal-lens" transform="matrix(1 0 0 -1 0 800)"/>
+<use xlink:href="#plaque-spandrel" transform="matrix(1 0 0 1 0 0)"/>
+<use xlink:href="#plaque-spandrel" transform="matrix(1 0 0 -1 0 800)"/>
+<use xlink:href="#plaque-spandrel" transform="matrix(-1 0 0 1 800 0)"/>
+<use xlink:href="#plaque-spandrel" transform="matrix(-1 0 0 -1 800 800)"/>
+<use xlink:href="#crown-arc" transform="matrix(1 0 0 1 0 0)"/>
+<use xlink:href="#crown-arc" transform="matrix(1 0 0 -1 0 800)"/>
+<use xlink:href="#crown-arc" transform="matrix(1 0 0 1 800 0)"/>
+<use xlink:href="#crown-arc" transform="matrix(1 0 0 -1 800 800)"/>
+<use xlink:href="#scroll-eye" transform="matrix(1 0 0 1 0 0)"/>
+<use xlink:href="#scroll-eye" transform="matrix(1 0 0 -1 0 800)"/>
+<use xlink:href="#scroll-eye" transform="matrix(-1 0 0 1 800 0)"/>
+<use xlink:href="#scroll-eye" transform="matrix(-1 0 0 -1 800 800)"/>
+<use xlink:href="#centre-plaque" transform="matrix(1 0 0 1 0 0)"/>
+<use xlink:href="#side-lens" transform="matrix(1 0 0 1 0 0)"/>
+<use xlink:href="#side-lens" transform="matrix(-1 0 0 1 800 0)"/>
+<use xlink:href="#side-eye" transform="matrix(1 0 0 1 0 0)"/>
+<use xlink:href="#side-eye" transform="matrix(1 0 0 1 800 0)"/>
+</svg>

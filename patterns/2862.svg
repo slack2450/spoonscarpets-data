@@ -1,0 +1,197 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="260" height="260" viewBox="0 0 260 260">
+<title>The Furze Wren, Bexleyheath — claret and slate fretwork carpet</title>
+<defs>
+<g id="silver-block">
+<path fill="#556063" d="M-8 -7 H-5 V-8 H6 V-6 H8 V6 H6 V8 H-6 V6 H-8 Z"/>
+<path fill="#a6a39c" d="M-6 -6 H4 V-5 H6 V4 H5 V6 H-5 V4 H-6 Z"/>
+<path fill="#857479" d="M-1 -2 H2 V0 H1 V2 H-1 Z M-5 3 H-3 V5 H-5 Z"/>
+</g>
+<g id="four-beads">
+<rect x="7" y="-0.9" width="116" height="1.8" fill="#556063"/>
+<use xlink:href="#silver-block" transform="translate(27 0)"/>
+<use xlink:href="#silver-block" transform="translate(52 0)"/>
+<use xlink:href="#silver-block" transform="translate(78 0)"/>
+<use xlink:href="#silver-block" transform="translate(103 0)"/>
+</g>
+<g id="crossing">
+<rect x="-10" y="-10" width="20" height="20" fill="#22272a"/>
+<path fill="#556063" d="M-8 -8 H8 V8 H-8 Z M-5 -5 V5 H5 V-5 Z"/>
+<path fill="#4f2932" d="M-5 -5 H5 V5 H-5 Z"/>
+<rect x="-2.5" y="-2.5" width="5" height="5" fill="#857479"/>
+</g>
+<g id="claret-medallion-keys">
+<path fill="#683b46" d="M19 20 H21 V19 H37 V21 H40 V32 H37 V35 H34 V38 H31 V40 H20 V38 H19 Z"/>
+<path fill="#857479" d="M22 22 H34 V23 H37 V28 H34 V31 H31 V34 H28 V37 H22 Z"/>
+<path fill="#857479" d="M25 25 H32 V28 H30 V30 H28 V33 H25 Z"/>
+<path fill="#4f2932" d="M33 34 H36 V36 H38 V39 H41 V41 H43 V44 H40 V42 H37 V39 H35 V37 H33 Z"/>
+<path fill="#4f2932" d="M43 19 H62 V41 H58 V39 H55 V42 H51 V39 H43 Z"/>
+<path fill="#4f2932" d="M45 21 H60 V37 H57 V33 H54 V29 H50 V37 H45 Z"/>
+<path fill="#683b46" d="M50 25 H56 V27 H58 V32 H54 V30 H51 V34 H49 V28 H50 Z"/>
+<path fill="#4f2932" d="M50 36 H53 V41 H50 Z"/>
+<g transform="matrix(0 1 1 0 0 0)">
+<path fill="#4f2932" d="M43 19 H62 V41 H58 V39 H55 V42 H51 V39 H43 Z"/>
+<path fill="#4f2932" d="M45 21 H60 V37 H57 V33 H54 V29 H50 V37 H45 Z"/>
+<path fill="#683b46" d="M50 25 H56 V27 H58 V32 H54 V30 H51 V34 H49 V28 H50 Z"/>
+<path fill="#4f2932" d="M50 36 H53 V41 H50 Z"/>
+</g>
+</g>
+<g id="claret-medallion-knots">
+<path fill="#556063" d="M49 49 H58 V51 H60 V54 H56 V55 H54 V59 H50 V57 H48 V51 H49 Z"/>
+<path fill="#4f2932" d="M51 50 H56 V53 H53 V56 H50 V52 H51 Z"/>
+</g>
+<g id="claret-medallion">
+<rect x="10.5" y="10.5" width="109" height="109" fill="#4f2932"/>
+<rect x="14" y="14" width="102" height="102" fill="#683b46"/>
+<use xlink:href="#claret-medallion-keys"/>
+<use xlink:href="#claret-medallion-keys" transform="rotate(90 65 65)"/>
+<use xlink:href="#claret-medallion-keys" transform="rotate(180 65 65)"/>
+<use xlink:href="#claret-medallion-keys" transform="rotate(270 65 65)"/>
+<path fill="#683b46" d="M44 43 H86 V44 H87 V86 H86 V87 H44 V86 H43 V44 H44 Z"/>
+<path fill="#857479" d="M47 46 H83 V47 H84 V83 H83 V84 H47 V83 H46 V47 H47 Z"/>
+<use xlink:href="#claret-medallion-knots"/>
+<use xlink:href="#claret-medallion-knots" transform="rotate(90 65 65)"/>
+<use xlink:href="#claret-medallion-knots" transform="rotate(180 65 65)"/>
+<use xlink:href="#claret-medallion-knots" transform="rotate(270 65 65)"/>
+<path fill="#4f2932" d="M58 53 H62 V51 H68 V53 H72 V56 H76 V61 H78 V69 H76 V74 H73 V77 H69 V78 H61 V77 H57 V74 H54 V70 H52 V61 H54 V57 H58 Z"/>
+<path fill="#556063" d="M60 57 H70 V59 H73 V71 H70 V73 H60 V71 H57 V60 H60 Z"/>
+<path fill="#a6a39c" d="M61 60 H69 V61 H70 V69 H69 V70 H61 V69 H60 V61 H61 Z"/>
+</g>
+<g id="slate-medallion-keys">
+<path fill="#4f2932" d="M19 20 H21 V19 H37 V21 H40 V32 H37 V35 H34 V38 H31 V40 H20 V38 H19 Z"/>
+<path fill="#683b46" d="M22 22 H34 V23 H37 V28 H34 V31 H31 V34 H28 V37 H22 Z"/>
+<path fill="#857479" d="M25 25 H32 V28 H30 V30 H28 V33 H25 Z"/>
+<path fill="#22272a" d="M33 34 H36 V36 H38 V39 H41 V41 H43 V44 H40 V42 H37 V39 H35 V37 H33 Z"/>
+<path fill="#556063" d="M43 19 H62 V41 H58 V39 H55 V42 H51 V39 H43 Z"/>
+<path fill="#857479" d="M45 21 H60 V37 H57 V33 H54 V29 H50 V37 H45 Z"/>
+<path fill="#556063" d="M50 25 H56 V27 H58 V32 H54 V30 H51 V34 H49 V28 H50 Z"/>
+<path fill="#22272a" d="M50 36 H53 V41 H50 Z"/>
+<g transform="matrix(0 1 1 0 0 0)">
+<path fill="#556063" d="M43 19 H62 V41 H58 V39 H55 V42 H51 V39 H43 Z"/>
+<path fill="#857479" d="M45 21 H60 V37 H57 V33 H54 V29 H50 V37 H45 Z"/>
+<path fill="#556063" d="M50 25 H56 V27 H58 V32 H54 V30 H51 V34 H49 V28 H50 Z"/>
+<path fill="#22272a" d="M50 36 H53 V41 H50 Z"/>
+</g>
+</g>
+<g id="slate-medallion-knots">
+<path fill="#556063" d="M49 49 H58 V51 H60 V54 H56 V55 H54 V59 H50 V57 H48 V51 H49 Z"/>
+<path fill="#22272a" d="M51 50 H56 V53 H53 V56 H50 V52 H51 Z"/>
+</g>
+<g id="slate-medallion">
+<rect x="10.5" y="10.5" width="109" height="109" fill="#556063"/>
+<rect x="14" y="14" width="102" height="102" fill="#556063"/>
+<use xlink:href="#slate-medallion-keys"/>
+<use xlink:href="#slate-medallion-keys" transform="rotate(90 65 65)"/>
+<use xlink:href="#slate-medallion-keys" transform="rotate(180 65 65)"/>
+<use xlink:href="#slate-medallion-keys" transform="rotate(270 65 65)"/>
+<path fill="#22272a" d="M44 43 H86 V44 H87 V86 H86 V87 H44 V86 H43 V44 H44 Z"/>
+<path fill="#857479" d="M47 46 H83 V47 H84 V83 H83 V84 H47 V83 H46 V47 H47 Z"/>
+<use xlink:href="#slate-medallion-knots"/>
+<use xlink:href="#slate-medallion-knots" transform="rotate(90 65 65)"/>
+<use xlink:href="#slate-medallion-knots" transform="rotate(180 65 65)"/>
+<use xlink:href="#slate-medallion-knots" transform="rotate(270 65 65)"/>
+<path fill="#22272a" d="M58 53 H62 V51 H68 V53 H72 V56 H76 V61 H78 V69 H76 V74 H73 V77 H69 V78 H61 V77 H57 V74 H54 V70 H52 V61 H54 V57 H58 Z"/>
+<path fill="#556063" d="M60 57 H70 V59 H73 V71 H70 V73 H60 V71 H57 V60 H60 Z"/>
+<path fill="#a6a39c" d="M61 60 H69 V61 H70 V69 H69 V70 H61 V69 H60 V61 H61 Z"/>
+</g>
+<g id="slate-fret-keys">
+<path fill="#683b46" d="M19 20 H21 V19 H37 V21 H40 V32 H37 V35 H34 V38 H31 V40 H20 V38 H19 Z"/>
+<path fill="#857479" d="M22 22 H34 V23 H37 V28 H34 V31 H31 V34 H28 V37 H22 Z"/>
+<path fill="#683b46" d="M25 25 H32 V28 H30 V30 H28 V33 H25 Z"/>
+<path fill="#22272a" d="M33 34 H36 V36 H38 V39 H41 V41 H43 V44 H40 V42 H37 V39 H35 V37 H33 Z"/>
+<path fill="#4f2932" d="M43 19 H62 V41 H58 V39 H55 V42 H51 V39 H43 Z"/>
+<path fill="#683b46" d="M45 21 H60 V37 H57 V33 H54 V29 H50 V37 H45 Z"/>
+<path fill="#4f2932" d="M50 25 H56 V27 H58 V32 H54 V30 H51 V34 H49 V28 H50 Z"/>
+<path fill="#22272a" d="M50 36 H53 V41 H50 Z"/>
+<g transform="matrix(0 1 1 0 0 0)">
+<path fill="#4f2932" d="M43 19 H62 V41 H58 V39 H55 V42 H51 V39 H43 Z"/>
+<path fill="#683b46" d="M45 21 H60 V37 H57 V33 H54 V29 H50 V37 H45 Z"/>
+<path fill="#4f2932" d="M50 25 H56 V27 H58 V32 H54 V30 H51 V34 H49 V28 H50 Z"/>
+<path fill="#22272a" d="M50 36 H53 V41 H50 Z"/>
+</g>
+</g>
+<g id="slate-fret-knots">
+<path fill="#22272a" d="M49 49 H58 V51 H60 V54 H56 V55 H54 V59 H50 V57 H48 V51 H49 Z"/>
+<path fill="#556063" d="M51 50 H56 V53 H53 V56 H50 V52 H51 Z"/>
+</g>
+<g id="slate-fret">
+<rect x="10.5" y="10.5" width="109" height="109" fill="#556063"/>
+<rect x="14" y="14" width="102" height="102" fill="#556063"/>
+<use xlink:href="#slate-fret-keys"/>
+<use xlink:href="#slate-fret-keys" transform="rotate(90 65 65)"/>
+<use xlink:href="#slate-fret-keys" transform="rotate(180 65 65)"/>
+<use xlink:href="#slate-fret-keys" transform="rotate(270 65 65)"/>
+<path fill="#4f2932" d="M44 43 H86 V44 H87 V86 H86 V87 H44 V86 H43 V44 H44 Z"/>
+<path fill="#857479" d="M47 46 H83 V47 H84 V83 H83 V84 H47 V83 H46 V47 H47 Z"/>
+<use xlink:href="#slate-fret-knots"/>
+<use xlink:href="#slate-fret-knots" transform="rotate(90 65 65)"/>
+<use xlink:href="#slate-fret-knots" transform="rotate(180 65 65)"/>
+<use xlink:href="#slate-fret-knots" transform="rotate(270 65 65)"/>
+<path fill="#556063" d="M58 53 H62 V51 H68 V53 H72 V56 H76 V61 H78 V69 H76 V74 H73 V77 H69 V78 H61 V77 H57 V74 H54 V70 H52 V61 H54 V57 H58 Z"/>
+<path fill="#22272a" d="M60 57 H70 V59 H73 V71 H70 V73 H60 V71 H57 V60 H60 Z"/>
+<path fill="#a6a39c" d="M61 60 H69 V61 H70 V69 H69 V70 H61 V69 H60 V61 H61 Z"/>
+</g>
+<g id="claret-fret-keys">
+<path fill="#4f2932" d="M19 20 H21 V19 H37 V21 H40 V32 H37 V35 H34 V38 H31 V40 H20 V38 H19 Z"/>
+<path fill="#857479" d="M22 22 H34 V23 H37 V28 H34 V31 H31 V34 H28 V37 H22 Z"/>
+<path fill="#4f2932" d="M25 25 H32 V28 H30 V30 H28 V33 H25 Z"/>
+<path fill="#4f2932" d="M33 34 H36 V36 H38 V39 H41 V41 H43 V44 H40 V42 H37 V39 H35 V37 H33 Z"/>
+<path fill="#4f2932" d="M43 19 H62 V41 H58 V39 H55 V42 H51 V39 H43 Z"/>
+<path fill="#556063" d="M45 21 H60 V37 H57 V33 H54 V29 H50 V37 H45 Z"/>
+<path fill="#4f2932" d="M50 25 H56 V27 H58 V32 H54 V30 H51 V34 H49 V28 H50 Z"/>
+<path fill="#4f2932" d="M50 36 H53 V41 H50 Z"/>
+<g transform="matrix(0 1 1 0 0 0)">
+<path fill="#4f2932" d="M43 19 H62 V41 H58 V39 H55 V42 H51 V39 H43 Z"/>
+<path fill="#556063" d="M45 21 H60 V37 H57 V33 H54 V29 H50 V37 H45 Z"/>
+<path fill="#4f2932" d="M50 25 H56 V27 H58 V32 H54 V30 H51 V34 H49 V28 H50 Z"/>
+<path fill="#4f2932" d="M50 36 H53 V41 H50 Z"/>
+</g>
+</g>
+<g id="claret-fret-knots">
+<path fill="#4f2932" d="M49 49 H58 V51 H60 V54 H56 V55 H54 V59 H50 V57 H48 V51 H49 Z"/>
+<path fill="#4f2932" d="M51 50 H56 V53 H53 V56 H50 V52 H51 Z"/>
+</g>
+<g id="claret-fret">
+<rect x="10.5" y="10.5" width="109" height="109" fill="#4f2932"/>
+<rect x="14" y="14" width="102" height="102" fill="#683b46"/>
+<use xlink:href="#claret-fret-keys"/>
+<use xlink:href="#claret-fret-keys" transform="rotate(90 65 65)"/>
+<use xlink:href="#claret-fret-keys" transform="rotate(180 65 65)"/>
+<use xlink:href="#claret-fret-keys" transform="rotate(270 65 65)"/>
+<path fill="#4f2932" d="M44 43 H86 V44 H87 V86 H86 V87 H44 V86 H43 V44 H44 Z"/>
+<path fill="#683b46" d="M47 46 H83 V47 H84 V83 H83 V84 H47 V83 H46 V47 H47 Z"/>
+<use xlink:href="#claret-fret-knots"/>
+<use xlink:href="#claret-fret-knots" transform="rotate(90 65 65)"/>
+<use xlink:href="#claret-fret-knots" transform="rotate(180 65 65)"/>
+<use xlink:href="#claret-fret-knots" transform="rotate(270 65 65)"/>
+<path fill="#4f2932" d="M58 53 H62 V51 H68 V53 H72 V56 H76 V61 H78 V69 H76 V74 H73 V77 H69 V78 H61 V77 H57 V74 H54 V70 H52 V61 H54 V57 H58 Z"/>
+<path fill="#4f2932" d="M60 57 H70 V59 H73 V71 H70 V73 H60 V71 H57 V60 H60 Z"/>
+<path fill="#a6a39c" d="M61 60 H69 V61 H70 V69 H69 V70 H61 V69 H60 V61 H61 Z"/>
+</g>
+</defs>
+<rect x="0" y="0" width="260" height="260" fill="#22272a"/>
+<use xlink:href="#claret-medallion" transform="translate(0 0)"/>
+<use xlink:href="#slate-medallion" transform="translate(130 0)"/>
+<use xlink:href="#slate-fret" transform="translate(0 130)"/>
+<use xlink:href="#claret-fret" transform="translate(130 130)"/>
+<use xlink:href="#four-beads" transform="translate(0 0)"/>
+<use xlink:href="#four-beads" transform="translate(0 0) rotate(90)"/>
+<use xlink:href="#four-beads" transform="translate(130 0)"/>
+<use xlink:href="#four-beads" transform="translate(0 130) rotate(90)"/>
+<use xlink:href="#four-beads" transform="translate(0 130)"/>
+<use xlink:href="#four-beads" transform="translate(130 0) rotate(90)"/>
+<use xlink:href="#four-beads" transform="translate(130 130)"/>
+<use xlink:href="#four-beads" transform="translate(130 130) rotate(90)"/>
+<use xlink:href="#four-beads" transform="translate(0 260)"/>
+<use xlink:href="#four-beads" transform="translate(260 0) rotate(90)"/>
+<use xlink:href="#four-beads" transform="translate(130 260)"/>
+<use xlink:href="#four-beads" transform="translate(260 130) rotate(90)"/>
+<use xlink:href="#crossing" transform="translate(0 0)"/>
+<use xlink:href="#crossing" transform="translate(0 130)"/>
+<use xlink:href="#crossing" transform="translate(0 260)"/>
+<use xlink:href="#crossing" transform="translate(130 0)"/>
+<use xlink:href="#crossing" transform="translate(130 130)"/>
+<use xlink:href="#crossing" transform="translate(130 260)"/>
+<use xlink:href="#crossing" transform="translate(260 0)"/>
+<use xlink:href="#crossing" transform="translate(260 130)"/>
+<use xlink:href="#crossing" transform="translate(260 260)"/>
+</svg>

@@ -1,0 +1,75 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="640" height="600" viewBox="0 0 640 600">
+  <title>The Hay Stook, East Kilbride — broken chevron carpet repeat</title>
+  <defs>
+    <g id="column-1">
+      <path fill="#6e5d58" d="M0 -28.8 L160 11.2 v40 L0 11.2 Z"/>
+      <path fill="#b29d7f" d="M0 11.2 L160 51.2 v40 L0 51.2 Z"/>
+      <path fill="#907e6f" d="M0 51.2 L160 91.2 v40 L0 91.2 Z"/>
+      <path fill="#6e5d58" d="M0 91.2 L160 131.2 v40 L0 131.2 Z"/>
+      <path fill="#907e6f" d="M0 171.2 L160 211.2 v40 L0 211.2 Z"/>
+      <path fill="#6e5d58" d="M0 211.2 L160 251.2 v40 L0 251.2 Z"/>
+      <path fill="#b29d7f" d="M0 251.2 L160 291.2 v40 L0 291.2 Z"/>
+      <path fill="#b29d7f" d="M0 331.2 L160 371.2 v40 L0 371.2 Z"/>
+      <path fill="#6e5d58" d="M0 371.2 L160 411.2 v40 L0 411.2 Z"/>
+      <path fill="#907e6f" d="M0 411.2 L160 451.2 v40 L0 451.2 Z"/>
+      <path fill="#b29d7f" d="M0 451.2 L160 491.2 v40 L0 491.2 Z"/>
+      <path fill="#907e6f" d="M0 531.2 L160 571.2 v40 L0 571.2 Z"/>
+    </g>
+    <g id="column-2">
+      <path fill="#6e5d58" d="M0 11.2 L160 -28.8 v40 L0 51.2 Z"/>
+      <path fill="#6e5d58" d="M0 91.2 L160 51.2 v40 L0 131.2 Z"/>
+      <path fill="#907e6f" d="M0 131.2 L160 91.2 v40 L0 171.2 Z"/>
+      <path fill="#b29d7f" d="M0 171.2 L160 131.2 v40 L0 211.2 Z"/>
+      <path fill="#6e5d58" d="M0 211.2 L160 171.2 v40 L0 251.2 Z"/>
+      <path fill="#907e6f" d="M0 291.2 L160 251.2 v40 L0 331.2 Z"/>
+      <path fill="#6e5d58" d="M0 331.2 L160 291.2 v40 L0 371.2 Z"/>
+      <path fill="#907e6f" d="M0 371.2 L160 331.2 v40 L0 411.2 Z"/>
+      <path fill="#b29d7f" d="M0 411.2 L160 371.2 v40 L0 451.2 Z"/>
+      <path fill="#6e5d58" d="M0 491.2 L160 451.2 v40 L0 531.2 Z"/>
+      <path fill="#907e6f" d="M0 531.2 L160 491.2 v40 L0 571.2 Z"/>
+      <path fill="#b29d7f" d="M0 571.2 L160 531.2 v40 L0 611.2 Z"/>
+    </g>
+    <g id="column-3">
+      <path fill="#b29d7f" d="M0 11.2 L160 51.2 v40 L0 51.2 Z"/>
+      <path fill="#907e6f" d="M0 51.2 L160 91.2 v40 L0 91.2 Z"/>
+      <path fill="#6e5d58" d="M0 91.2 L160 131.2 v40 L0 131.2 Z"/>
+      <path fill="#b29d7f" d="M0 171.2 L160 211.2 v40 L0 211.2 Z"/>
+      <path fill="#907e6f" d="M0 211.2 L160 251.2 v40 L0 251.2 Z"/>
+      <path fill="#6e5d58" d="M0 251.2 L160 291.2 v40 L0 291.2 Z"/>
+      <path fill="#b29d7f" d="M0 291.2 L160 331.2 v40 L0 331.2 Z"/>
+      <path fill="#6e5d58" d="M0 371.2 L160 411.2 v40 L0 411.2 Z"/>
+      <path fill="#907e6f" d="M0 411.2 L160 451.2 v40 L0 451.2 Z"/>
+      <path fill="#b29d7f" d="M0 451.2 L160 491.2 v40 L0 491.2 Z"/>
+      <path fill="#6e5d58" d="M0 531.2 L160 571.2 v40 L0 571.2 Z"/>
+    </g>
+    <g id="column-4">
+      <path fill="#6e5d58" d="M0 11.2 L160 -28.8 v40 L0 51.2 Z"/>
+      <path fill="#907e6f" d="M0 51.2 L160 11.2 v40 L0 91.2 Z"/>
+      <path fill="#b29d7f" d="M0 131.2 L160 91.2 v40 L0 171.2 Z"/>
+      <path fill="#907e6f" d="M0 171.2 L160 131.2 v40 L0 211.2 Z"/>
+      <path fill="#6e5d58" d="M0 211.2 L160 171.2 v40 L0 251.2 Z"/>
+      <path fill="#907e6f" d="M0 291.2 L160 251.2 v40 L0 331.2 Z"/>
+      <path fill="#6e5d58" d="M0 331.2 L160 291.2 v40 L0 371.2 Z"/>
+      <path fill="#907e6f" d="M0 371.2 L160 331.2 v40 L0 411.2 Z"/>
+      <path fill="#b29d7f" d="M0 411.2 L160 371.2 v40 L0 451.2 Z"/>
+      <path fill="#6e5d58" d="M0 451.2 L160 411.2 v40 L0 491.2 Z"/>
+      <path fill="#907e6f" d="M0 531.2 L160 491.2 v40 L0 571.2 Z"/>
+    </g>
+  </defs>
+  <rect width="640" height="600" fill="#68564c"/>
+  <use xlink:href="#column-1" x="-80" y="-600"/>
+  <use xlink:href="#column-1" x="-80" y="0"/>
+  <use xlink:href="#column-1" x="-80" y="600"/>
+  <use xlink:href="#column-2" x="80" y="-600"/>
+  <use xlink:href="#column-2" x="80" y="0"/>
+  <use xlink:href="#column-2" x="80" y="600"/>
+  <use xlink:href="#column-3" x="240" y="-600"/>
+  <use xlink:href="#column-3" x="240" y="0"/>
+  <use xlink:href="#column-3" x="240" y="600"/>
+  <use xlink:href="#column-4" x="400" y="-600"/>
+  <use xlink:href="#column-4" x="400" y="0"/>
+  <use xlink:href="#column-4" x="400" y="600"/>
+  <use xlink:href="#column-1" x="560" y="-600"/>
+  <use xlink:href="#column-1" x="560" y="0"/>
+  <use xlink:href="#column-1" x="560" y="600"/>
+</svg>

@@ -1,0 +1,331 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="594" height="612" viewBox="0 0 594 612">
+  <title>The Punch Bowl, York — Axminster medallion, sunburst and acanthus repeat</title>
+  <defs>
+    <g id="ring-quarter">
+      <path d="M0 -128 C22 -160 57 -163 84 -145 C132 -126 168 -78 166 -46 Q159 -18 137 0 L114 0 Q113 -10 119 -16 Q96 -19 100 -46 Q75 -46 77 -71 Q54 -64 48 -93 Q28 -86 21 -108 Q10 -101 0 -106 Z" fill="#c4b796" />
+      <path d="M0 -139 C9 -165 25 -180 45 -180 C75 -180 113 -158 138 -134 C163 -110 183 -66 182 -34 C175 -14 157 -4 141 0 L128 0 Q127 -11 134 -18 Q108 -21 112 -52 Q84 -52 86 -80 Q61 -72 54 -104 Q31 -97 23 -121 Q11 -113 0 -119 Z" fill="#292a27" />
+      <g transform="translate(22 -119) rotate(9)">
+        <path d="M-4 1 Q0 -2 0 -7 Q2 -2 5 0 L2 5 L0 2 L-3 5 Z" fill="#9b804e" />
+      </g>
+      <g transform="translate(54 -103) rotate(24)">
+        <path d="M-4 1 Q0 -2 0 -7 Q2 -2 5 0 L2 5 L0 2 L-3 5 Z" fill="#9b804e" />
+      </g>
+      <g transform="translate(85 -80) rotate(44)">
+        <path d="M-4 1 Q0 -2 0 -7 Q2 -2 5 0 L2 5 L0 2 L-3 5 Z" fill="#9b804e" />
+      </g>
+      <g transform="translate(111 -52) rotate(63)">
+        <path d="M-4 1 Q0 -2 0 -7 Q2 -2 5 0 L2 5 L0 2 L-3 5 Z" fill="#9b804e" />
+      </g>
+      <g transform="translate(133 -18) rotate(82)">
+        <path d="M-4 1 Q0 -2 0 -7 Q2 -2 5 0 L2 5 L0 2 L-3 5 Z" fill="#9b804e" />
+      </g>
+      <ellipse cx="10" cy="-109" rx="2.5" ry="1.8" fill="#8f393e" transform="rotate(3 10 -109)" />
+      <ellipse cx="35" cy="-98" rx="2.5" ry="1.8" fill="#8f393e" transform="rotate(18 35 -98)" />
+      <ellipse cx="64" cy="-83" rx="2.5" ry="1.8" fill="#8f393e" transform="rotate(34 64 -83)" />
+      <ellipse cx="88" cy="-56" rx="2.5" ry="1.8" fill="#8f393e" transform="rotate(52 88 -56)" />
+      <ellipse cx="111" cy="-29" rx="2.5" ry="1.8" fill="#8f393e" transform="rotate(67 111 -29)" />
+      <ellipse cx="122" cy="-6" rx="2.5" ry="1.8" fill="#8f393e" transform="rotate(85 122 -6)" />
+      <g transform="translate(-5 -200) scale(.33333333)">
+        <path d="M106 145 Q126 151 138 153 Q135 132 151 112 Q154 131 172 142 C190 115 231 125 235 149 C240 176 214 191 201 178 Q192 169 201 161 Q194 185 214 168 C230 151 208 136 190 145 C164 155 169 184 189 198 Q218 224 267 205 Q266 193 249 193 Q261 172 281 177 Q293 176 306 186 C342 170 386 187 396 227 Q406 256 386 293 Q405 274 411 255 Q420 274 408 298 C432 280 456 293 463 315 Q442 310 434 323 Q461 319 481 351 Q457 342 446 357 Q448 369 438 378 Q423 374 420 362 C419 348 410 343 401 348 C389 354 391 371 405 377 C378 376 369 349 385 330 Q367 337 351 365 Q339 344 360 314 C385 281 391 248 377 226 C361 203 333 205 318 224 Q307 239 314 251 Q327 254 336 244 Q337 263 320 270 Q306 275 295 265 L300 287 Q284 279 277 267 Q260 275 242 268 Q248 254 259 245 Q251 242 232 248 Q243 233 251 230 C213 252 173 237 153 217 L155 230 Q139 219 132 199 L124 204 Q124 188 131 175 Q115 164 106 145 Z" fill="#c4b796" />
+        <path d="M114 147 Q132 159 142 156 Q138 138 150 120 Q148 148 163 157 Q156 185 183 207 Q164 200 154 188 Q151 205 166 216 Q130 204 136 173 Q121 166 114 147 Z M260 258 Q279 249 283 229 Q294 206 321 198 Q304 214 305 232 Q305 248 316 254 L329 251 Q319 270 300 260 L296 272 Q283 259 276 255 L259 266 Z M411 309 Q429 299 449 309 Q431 315 427 327 Q451 324 468 345 Q442 336 436 357 Q427 347 420 345 Q418 328 398 331 Z" fill="#9b804e" />
+        <path d="M510 402 Q521 397 523 412 C527 436 502 452 473 456 C450 461 438 478 445 493 C450 503 464 503 472 494 Q479 485 473 472 C488 470 501 479 497 495 Q493 508 482 515 Q497 516 509 512 Q512 524 503 533 Q483 526 475 534 Q466 546 454 548 L455 535 Q444 542 434 542 Q436 530 430 522 C415 504 420 478 439 463 Q417 471 398 464 Q414 457 419 449 C386 438 368 421 366 389 Q381 417 405 428 C443 447 482 447 502 424 Q510 415 510 402 Z" fill="#c4b796" />
+        <path d="M444 497 Q456 515 473 504 Q487 498 488 486 Q497 506 479 516 Q484 525 495 527 L473 526 L457 540 L459 527 Q450 525 444 519 Z" fill="#9b804e" />
+      </g>
+      <use xlink:href="#pearl" transform="translate(49 -177) rotate(1)" />
+      <use xlink:href="#pearl" transform="translate(72 -172) rotate(10)" />
+      <use xlink:href="#pearl" transform="translate(94 -161) rotate(17)" />
+      <use xlink:href="#pearl" transform="translate(116 -149) rotate(27)" />
+      <use xlink:href="#pearl" transform="translate(135 -134) rotate(36)" />
+      <use xlink:href="#pearl" transform="translate(152 -118) rotate(47)" />
+      <use xlink:href="#pearl" transform="translate(165 -100) rotate(54)" />
+      <use xlink:href="#pearl" transform="translate(177 -80) rotate(64)" />
+      <use xlink:href="#pearl" transform="translate(183 -60) rotate(76)" />
+      <use xlink:href="#pearl" transform="translate(186 -42) rotate(84)" />
+    </g>
+    <g id="pearl">
+      <path d="M-6 1 Q-7 -4 -2 -6 Q1 -7 4 -5 Q6 -3 6 2 L4 6 Q1 4 -1 5 Q-5 5 -6 1 Z" fill="#9b804e" />
+      <path d="M-5 0 Q-5 -4 -1 -5 Q3 -6 5 -3 L5 1 L2 3 L-1 2 L-3 3 Z" fill="#c4b796" />
+    </g>
+    <g id="red-inset">
+      <path d="M0 -37 H0 Q16.34 -11.84 43 0 V0 Q12.90 11.10 0 37 H0 Q-14.19 11.84 -43 0 V0 Q-14.19 -11.84 0 -37 Z" fill="#9b804e" />
+      <path d="M0 -34 H0 Q15.20 -10.88 40 0 V0 Q12.00 10.20 0 34 H0 Q-13.20 10.88 -40 0 V0 Q-13.20 -10.88 0 -34 Z" fill="#8f393e" />
+      <path d="M0 -25 H0 Q10.64 -8.00 28 0 V0 Q8.40 7.50 0 25 H0 Q-9.24 8.00 -28 0 V0 Q-9.24 -8.00 0 -25 Z" fill="#9b804e" />
+      <path d="M0 -22 H0 Q9.12 -7.04 24 0 V0 Q7.20 6.60 0 22 H0 Q-7.92 7.04 -24 0 V0 Q-7.92 -7.04 0 -22 Z" fill="#c4b796" />
+      <ellipse cx="0" cy="0" rx="7.8" ry="6.2" fill="#9b804e" />
+      <ellipse cx="0" cy="0" rx="6.2" ry="4.9" fill="#8f393e" />
+      <ellipse cx="0" cy="0" rx="4.1" ry="3.1" fill="#c4b796" />
+    </g>
+    <g id="cream-inset">
+      <path d="M0 -38 H0 Q16.72 -12.16 44 0 V0 Q13.20 11.40 0 38 H0 Q-14.52 12.16 -44 0 V0 Q-14.52 -12.16 0 -38 Z" fill="#9b804e" />
+      <path d="M0 -35 H0 Q15.58 -11.20 41 0 V0 Q12.30 10.50 0 35 H0 Q-13.53 11.20 -41 0 V0 Q-13.53 -11.20 0 -35 Z" fill="#c4b796" />
+      <path d="M0 -29 H0 Q12.92 -9.28 34 0 V0 Q10.20 8.70 0 29 H0 Q-11.22 9.28 -34 0 V0 Q-11.22 -9.28 0 -29 Z" fill="#c4b796" stroke="#8f393e" stroke-width="2.6" stroke-dasharray="3.8 5.3" />
+      <path d="M0 -20 H0 Q9.12 -6.40 24 0 V0 Q7.20 6.00 0 20 H0 Q-7.92 6.40 -24 0 V0 Q-7.92 -6.40 0 -20 Z" fill="#9b804e" />
+      <path d="M0 -14 H0 Q6.84 -4.48 18 0 V0 Q5.40 4.20 0 14 H0 Q-5.94 4.48 -18 0 V0 Q-5.94 -4.48 0 -14 Z" fill="#c4b796" />
+      <path d="M0 -6 H0 Q3.42 -1.92 9 0 V0 Q2.70 1.80 0 6 H0 Q-2.97 1.92 -9 0 V0 Q-2.97 -1.92 0 -6 Z" fill="#9b804e" />
+      <path d="M0 -3 H0 Q1.52 -0.96 4 0 V0 Q1.20 0.90 0 3 H0 Q-1.32 0.96 -4 0 V0 Q-1.32 -0.96 0 -3 Z" fill="#8f393e" />
+    </g>
+    <g id="crown-tip">
+      <path d="M-6 -27 Q-2 -37 -4 -54 Q-7 -64 -15 -61 Q-21 -57 -19 -50 Q-31 -54 -24 -64 Q-20 -72 -9 -68 Q-16 -82 -26 -75 Q-25 -88 -14 -88 Q-5 -87 -2 -77 Q-8 -90 -4 -99 L0 -106 Q8 -97 7 -90 Q7 -83 3 -78 Q14 -92 23 -86 L29 -78 Q15 -82 9 -69 Q20 -75 26 -65 Q30 -57 24 -52 Q21 -65 13 -62 Q6 -59 5 -49 L5 -35 L11 -29 Z" fill="#c4b796" />
+      <path d="M-4 -99 L0 -105 Q8 -96 6 -88 L0 -77 L2 -90 Z M-22 -83 Q-11 -90 -4 -77 L-8 -73 Q-12 -82 -22 -83 Z M7 -73 Q14 -85 24 -82 Q16 -80 11 -71 Z" fill="#9b804e" />
+    </g>
+    <g id="seed-spike">
+      <path d="M-5 -26 Q-2 -44 -3 -58 Q-14 -54 -17 -62 Q-21 -70 -16 -76 Q-14 -66 -5 -65 Q-14 -79 -12 -87 Q-7 -87 -1 -76 Q-4 -93 1 -100 Q8 -93 5 -81 Q11 -89 17 -87 Q16 -76 8 -68 Q19 -76 23 -72 Q21 -62 7 -59 Q3 -48 5 -31 Z" fill="#9b804e" />
+      <path d="M-2 -28 Q1 -48 0 -58 Q-16 -62 -16 -71 Q-9 -64 0 -64 L-3 -77 Q-10 -79 -12 -87 Q-5 -83 1 -75 L1 -96 Q6 -91 4 -77 Q10 -83 15 -83 Q12 -75 5 -70 L4 -64 Q13 -68 19 -72 Q16 -64 5 -59 L4 -29 Z" fill="#c4b796" />
+    </g>
+    <g id="small-lily">
+      <path d="M-3 -34 Q-1 -45 -4 -51 Q-13 -57 -14 -48 Q-22 -53 -17 -61 Q-13 -65 -6 -61 Q-13 -71 -8 -78 Q-3 -84 2 -83 Q-2 -75 2 -68 Q10 -79 18 -76 Q23 -74 23 -68 Q15 -70 13 -66 Q20 -65 20 -59 Q13 -63 8 -58 Q3 -52 3 -37 Z" fill="#c4b796" />
+      <path d="M-10 -76 Q-7 -83 1 -84 Q-4 -77 1 -70 L-2 -66 Z M10 -72 Q17 -79 22 -71 Q15 -73 11 -67 Z" fill="#9b804e" />
+    </g>
+    <g id="medallion">
+      <use xlink:href="#ring-quarter" transform="scale(1 1)" />
+      <use xlink:href="#ring-quarter" transform="scale(-1 1)" />
+      <use xlink:href="#ring-quarter" transform="scale(1 -1)" />
+      <use xlink:href="#ring-quarter" transform="scale(-1 -1)" />
+      <use xlink:href="#red-inset" transform="translate(0 -178)" />
+      <use xlink:href="#red-inset" transform="translate(0 178)" />
+      <use xlink:href="#cream-inset" transform="translate(-181 0)" />
+      <use xlink:href="#cream-inset" transform="translate(181 0)" />
+      <path d="M71 0 Q99 0 114 -1 L117 .55 Q99 1.6 71 0 Z" fill="#292a27" transform="rotate(10)" />
+      <path d="M71 0 Q99 0 114 -1 L117 .55 Q99 1.6 71 0 Z" fill="#292a27" transform="rotate(32)" />
+      <path d="M71 0 Q99 0 114 -1 L117 .55 Q99 1.6 71 0 Z" fill="#292a27" transform="rotate(50)" />
+      <path d="M71 0 Q99 0 114 -1 L117 .55 Q99 1.6 71 0 Z" fill="#292a27" transform="rotate(70)" />
+      <path d="M71 0 Q99 0 114 -1 L117 .55 Q99 1.6 71 0 Z" fill="#292a27" transform="rotate(110)" />
+      <path d="M71 0 Q99 0 114 -1 L117 .55 Q99 1.6 71 0 Z" fill="#292a27" transform="rotate(130)" />
+      <path d="M71 0 Q99 0 114 -1 L117 .55 Q99 1.6 71 0 Z" fill="#292a27" transform="rotate(150)" />
+      <path d="M71 0 Q99 0 114 -1 L117 .55 Q99 1.6 71 0 Z" fill="#292a27" transform="rotate(170)" />
+      <path d="M71 0 Q99 0 114 -1 L117 .55 Q99 1.6 71 0 Z" fill="#292a27" transform="rotate(190)" />
+      <path d="M71 0 Q99 0 114 -1 L117 .55 Q99 1.6 71 0 Z" fill="#292a27" transform="rotate(210)" />
+      <path d="M71 0 Q99 0 114 -1 L117 .55 Q99 1.6 71 0 Z" fill="#292a27" transform="rotate(230)" />
+      <path d="M71 0 Q99 0 114 -1 L117 .55 Q99 1.6 71 0 Z" fill="#292a27" transform="rotate(250)" />
+      <path d="M71 0 Q99 0 114 -1 L117 .55 Q99 1.6 71 0 Z" fill="#292a27" transform="rotate(290)" />
+      <path d="M71 0 Q99 0 114 -1 L117 .55 Q99 1.6 71 0 Z" fill="#292a27" transform="rotate(310)" />
+      <path d="M71 0 Q99 0 114 -1 L117 .55 Q99 1.6 71 0 Z" fill="#292a27" transform="rotate(330)" />
+      <path d="M71 0 Q99 0 114 -1 L117 .55 Q99 1.6 71 0 Z" fill="#292a27" transform="rotate(350)" />
+      <use xlink:href="#crown-tip" transform="rotate(0)" />
+      <use xlink:href="#crown-tip" transform="rotate(180)" />
+      <use xlink:href="#seed-spike" transform="rotate(90)" />
+      <use xlink:href="#seed-spike" transform="rotate(270)" />
+      <use xlink:href="#small-lily" transform="rotate(45)" />
+      <use xlink:href="#small-lily" transform="rotate(135)" />
+      <use xlink:href="#small-lily" transform="rotate(225)" />
+      <use xlink:href="#small-lily" transform="rotate(315)" />
+      <path d="M-14 -31 Q-7 -33 -4 -40 L0 -46 L5 -41 Q6 -36 14 -31 L10 -28 Q0 -35 -10 -27 Z" fill="#c4b796" transform="rotate(0)" />
+      <path d="M-14 -31 Q-7 -33 -4 -40 L0 -46 L5 -41 Q6 -36 14 -31 L10 -28 Q0 -35 -10 -27 Z" fill="#c4b796" transform="rotate(45)" />
+      <path d="M-14 -31 Q-7 -33 -4 -40 L0 -46 L5 -41 Q6 -36 14 -31 L10 -28 Q0 -35 -10 -27 Z" fill="#c4b796" transform="rotate(90)" />
+      <path d="M-14 -31 Q-7 -33 -4 -40 L0 -46 L5 -41 Q6 -36 14 -31 L10 -28 Q0 -35 -10 -27 Z" fill="#c4b796" transform="rotate(135)" />
+      <path d="M-14 -31 Q-7 -33 -4 -40 L0 -46 L5 -41 Q6 -36 14 -31 L10 -28 Q0 -35 -10 -27 Z" fill="#c4b796" transform="rotate(180)" />
+      <path d="M-14 -31 Q-7 -33 -4 -40 L0 -46 L5 -41 Q6 -36 14 -31 L10 -28 Q0 -35 -10 -27 Z" fill="#c4b796" transform="rotate(225)" />
+      <path d="M-14 -31 Q-7 -33 -4 -40 L0 -46 L5 -41 Q6 -36 14 -31 L10 -28 Q0 -35 -10 -27 Z" fill="#c4b796" transform="rotate(270)" />
+      <path d="M-14 -31 Q-7 -33 -4 -40 L0 -46 L5 -41 Q6 -36 14 -31 L10 -28 Q0 -35 -10 -27 Z" fill="#c4b796" transform="rotate(315)" />
+      <circle cx="0" cy="0" r="34" fill="none" stroke="#c4b796" stroke-width="3.4" />
+      <path d="M-3 -5 Q-8 -10 -8 -15 Q-5 -15 -4 -13 Q-7 -22 0 -28 Q6 -25 5 -19 Q11 -22 10 -17 Q8 -9 3 -6 Z" fill="#c4b796" transform="rotate(0)" />
+      <path d="M-1 -8 Q-4 -15 0 -22 Q-1 -14 2 -10 Z" fill="#9b804e" transform="rotate(0)" />
+      <path d="M-3 -5 Q-8 -10 -8 -15 Q-5 -15 -4 -13 Q-7 -22 0 -28 Q6 -25 5 -19 Q11 -22 10 -17 Q8 -9 3 -6 Z" fill="#c4b796" transform="rotate(45)" />
+      <path d="M-1 -8 Q-4 -15 0 -22 Q-1 -14 2 -10 Z" fill="#9b804e" transform="rotate(45)" />
+      <path d="M-3 -5 Q-8 -10 -8 -15 Q-5 -15 -4 -13 Q-7 -22 0 -28 Q6 -25 5 -19 Q11 -22 10 -17 Q8 -9 3 -6 Z" fill="#c4b796" transform="rotate(90)" />
+      <path d="M-1 -8 Q-4 -15 0 -22 Q-1 -14 2 -10 Z" fill="#9b804e" transform="rotate(90)" />
+      <path d="M-3 -5 Q-8 -10 -8 -15 Q-5 -15 -4 -13 Q-7 -22 0 -28 Q6 -25 5 -19 Q11 -22 10 -17 Q8 -9 3 -6 Z" fill="#c4b796" transform="rotate(135)" />
+      <path d="M-1 -8 Q-4 -15 0 -22 Q-1 -14 2 -10 Z" fill="#9b804e" transform="rotate(135)" />
+      <path d="M-3 -5 Q-8 -10 -8 -15 Q-5 -15 -4 -13 Q-7 -22 0 -28 Q6 -25 5 -19 Q11 -22 10 -17 Q8 -9 3 -6 Z" fill="#c4b796" transform="rotate(180)" />
+      <path d="M-1 -8 Q-4 -15 0 -22 Q-1 -14 2 -10 Z" fill="#9b804e" transform="rotate(180)" />
+      <path d="M-3 -5 Q-8 -10 -8 -15 Q-5 -15 -4 -13 Q-7 -22 0 -28 Q6 -25 5 -19 Q11 -22 10 -17 Q8 -9 3 -6 Z" fill="#c4b796" transform="rotate(225)" />
+      <path d="M-1 -8 Q-4 -15 0 -22 Q-1 -14 2 -10 Z" fill="#9b804e" transform="rotate(225)" />
+      <path d="M-3 -5 Q-8 -10 -8 -15 Q-5 -15 -4 -13 Q-7 -22 0 -28 Q6 -25 5 -19 Q11 -22 10 -17 Q8 -9 3 -6 Z" fill="#c4b796" transform="rotate(270)" />
+      <path d="M-1 -8 Q-4 -15 0 -22 Q-1 -14 2 -10 Z" fill="#9b804e" transform="rotate(270)" />
+      <path d="M-3 -5 Q-8 -10 -8 -15 Q-5 -15 -4 -13 Q-7 -22 0 -28 Q6 -25 5 -19 Q11 -22 10 -17 Q8 -9 3 -6 Z" fill="#c4b796" transform="rotate(315)" />
+      <path d="M-1 -8 Q-4 -15 0 -22 Q-1 -14 2 -10 Z" fill="#9b804e" transform="rotate(315)" />
+      <ellipse cx="0" cy="0" rx="5.5" ry="4.5" fill="#8f393e" />
+      <ellipse cx="0" cy="0" rx="2.8" ry="2" fill="#c4b796" />
+    </g>
+    <g id="great-leaf">
+      <g transform="translate(55 145) scale(.33333333)">
+        <path d="M642 51 C607 84 580 110 546 128 C511 148 510 174 531 192 C557 216 552 248 535 266 C518 288 485 286 487 258 Q489 240 516 229 Q498 248 508 257 Q521 263 532 247 Q547 225 531 205 Q518 188 502 182 L489 185 Q493 172 482 163 C474 139 453 123 433 118 Q441 133 413 149 Q423 125 408 115 C388 96 358 95 334 103 C306 108 282 120 252 132 C222 142 192 150 165 164 C125 183 105 199 105 219 Q101 244 103 280 Q98 302 107 328 C123 385 166 421 230 430 Q266 447 288 463 L287 477 Q268 455 240 448 Q183 444 147 414 Q95 374 89 309 Q80 292 83 280 Q77 271 75 264 Q62 262 59 246 Q48 241 49 230 L44 210 Q55 211 59 201 Q66 217 67 204 Q68 177 90 167 Q94 158 107 161 Q101 179 97 192 Q136 164 166 151 Q176 145 187 134 L207 114 Q197 110 196 92 Q209 97 218 103 Q234 84 262 77 Q290 63 328 63 Q349 62 363 53 L356 46 L379 43 L384 51 Q397 50 390 57 Q416 60 439 75 Q469 95 501 79 Q495 100 465 106 Q499 115 534 93 Q539 106 524 121 Q551 118 580 111 L569 126 Q602 107 642 65 Z" fill="#9b804e" />
+        <path d="M642 51 C608 88 578 114 557 127 Q575 127 591 139 Q573 157 549 155 L554 161 Q533 161 517 148 Q529 167 516 175 Q505 160 500 151 Q490 129 474 123 Q455 115 435 111 Q436 131 413 143 Q423 122 408 111 C386 95 362 92 334 99 Q347 108 363 108 Q356 122 338 126 Q374 137 393 151 L382 157 Q402 163 404 179 Q392 177 382 164 Q384 182 397 193 Q410 209 414 224 L434 246 Q415 247 401 233 Q412 250 405 278 L393 275 Q388 292 383 308 Q375 326 354 345 Q338 359 342 375 Q322 370 315 360 L314 370 Q303 357 309 337 Q295 346 281 348 L280 336 Q267 344 257 342 Q256 334 260 329 Q237 340 207 345 Q216 335 221 325 Q197 325 176 311 Q163 300 139 298 Q148 280 169 281 L156 272 Q174 262 188 272 Q176 257 157 258 Q162 230 164 207 Q175 216 181 214 L197 188 L222 176 Q222 196 216 216 Q236 212 250 230 L244 241 Q230 232 222 241 Q228 249 220 257 Q215 247 207 250 Q190 264 196 280 Q202 293 214 299 Q210 283 225 266 Q221 286 232 297 L241 302 Q239 289 250 285 Q256 302 273 298 C314 295 349 265 359 232 C369 196 356 164 330 145 C309 130 277 122 252 130 Q240 135 241 149 L238 160 Q222 158 218 152 Q212 161 191 159 Q182 155 168 156 C128 176 109 191 103 208 Q112 200 122 198 L111 217 Q109 229 118 240 Q135 263 119 273 L117 283 Q110 278 100 283 C99 310 112 343 133 369 Q165 415 231 429 Q264 441 287 465 L285 473 Q261 449 240 445 C181 440 142 412 117 371 Q97 340 91 302 L87 281 Q74 273 72 264 Q60 256 60 244 Q52 243 52 230 L47 214 Q58 214 61 208 L66 216 Q74 180 91 174 L106 165 Q99 179 98 192 Q139 162 168 149 Q184 137 202 116 Q198 106 200 95 L218 105 Q242 84 262 81 Q296 66 334 65 Q359 62 368 52 L364 48 L381 46 L380 56 Q407 55 438 77 Q471 96 496 84 Q484 102 459 106 Q496 120 531 96 Q525 112 516 122 Q541 125 559 115 C589 106 619 76 642 54 Z" fill="#c4b796" />
+        <path d="M510 180 Q527 180 533 196 Q550 209 565 208 Q580 207 591 194 Q584 215 572 220 Q551 231 542 215 Q534 197 516 194 Z" fill="#c4b796" />
+        <path d="M248 129 C283 116 321 126 341 151 Q372 184 360 223 Q350 261 309 287 Q281 304 254 305 Q290 312 321 290 Q356 267 368 225 Q380 179 349 144 Q311 108 268 120 Z M385 115 Q402 120 415 139 Q424 138 426 127 Q423 113 405 110 Z" fill="#9b804e" />
+        <path d="M510 183 Q531 185 541 210 Q551 235 535 259 Q519 282 496 270 Q487 263 492 249 Q496 239 511 231 Q499 242 503 253 Q505 263 515 259 Q535 249 534 228 Q535 209 522 199 Z" fill="#c4b796" />
+      </g>
+    </g>
+    <g id="stem-bud">
+      <path d="M-15 -8 Q-8 -10 -5 -17 Q1 -11 7 -13 L9 -9 L15 -9 L12 -2 L17 0 L12 4 L15 8 L8 9 Q7 15 0 14 L-5 18 L-7 11 Q-10 9 -16 10 L-11 3 L-18 1 L-11 -1 Z" fill="#c4b796" />
+    </g>
+    <g id="rose-finial">
+      <path d="M0 -8 Q-8 -5 -13 -8 Q-12 -13 -16 -19 Q-7 -20 -2 -16 Q2 -24 9 -29 Q15 -32 25 -29 Q14 -23 15 -16 Q17 -10 12 -8 Q22 -9 21 -3 Q21 2 16 4 Q26 6 24 13 Q22 19 26 23 Q16 24 11 18 Q7 24 2 26 Q-1 22 1 17 Q-7 23 -16 20 Q-14 13 -10 10 Q-15 11 -19 6 L-11 2 L-18 -1 Q-15 -8 -5 -8 Z" fill="#c4b796" />
+      <path d="M-10 -10 Q-4 -13 4 -9 Q10 -5 11 -1 Q5 -5 1 -4 L-3 -3 Z M-8 7 Q1 1 9 4 Q15 9 9 14 Q10 8 4 9 Q-3 13 -8 7 Z" fill="#9b804e" />
+    </g>
+    <g id="dark-bud">
+      <path d="M-8 5 Q-6 1 -7 -3 Q-5 -6 -2 -7 L0 -5 L3 -9 Q6 -8 6 -3 Q9 -2 8 2 Q6 5 3 6 L1 8 L0 5 Q-4 9 -8 8 L-5 4 Z" fill="#9b804e" />
+      <path d="M-8 4 Q-5 1 -5 -3 Q-3 -6 0 -5 Q1 -3 2 -3 L4 -7 Q7 -6 5 -2 L8 0 L6 2 L4 3 Q3 6 1 6 L0 4 Q-4 8 -7 7 L-4 3 Z" fill="#292a27" />
+    </g>
+    <g id="light-bud">
+      <path d="M-8 6 Q-7 2 -8 -1 Q-8 -6 -3 -8 Q1 -9 5 -6 Q8 -4 8 0 Q4 -1 2 2 Q0 6 -4 7 L-8 9 Z" fill="#292a27" />
+      <path d="M-8 7 Q-5 4 -3 0 Q-2 -4 2 -5 Q8 -6 11 -3 Q8 -2 6 1 Q5 5 2 6 L0 5 L-3 7 Z" fill="#9b804e" />
+      <path d="M-2 4 Q0 1 0 -2 Q3 -5 7 -3 Q10 -3 10 -1 L6 1 Q5 4 2 4 L1 3 Z" fill="#c4b796" />
+    </g>
+    <g id="paired-scrolls">
+      <use xlink:href="#dark-bud" transform="translate(92.57 25.53) rotate(95.54)" />
+      <use xlink:href="#dark-bud" transform="translate(81.48 40.9) rotate(111.5)" />
+      <use xlink:href="#dark-bud" transform="translate(65.65 53.89) rotate(125.21)" />
+      <use xlink:href="#dark-bud" transform="translate(46.01 63.75) rotate(137.11)" />
+      <use xlink:href="#dark-bud" transform="translate(23.69 69.91) rotate(147.84)" />
+      <use xlink:href="#dark-bud" transform="translate(-0 72) rotate(-202)" />
+      <use xlink:href="#dark-bud" transform="translate(-23.69 69.91) rotate(-191.84)" />
+      <use xlink:href="#dark-bud" transform="translate(-46.01 63.75) rotate(-181.11)" />
+      <use xlink:href="#dark-bud" transform="translate(-65.65 53.89) rotate(-169.21)" />
+      <use xlink:href="#dark-bud" transform="translate(-81.48 40.9) rotate(-155.5)" />
+      <use xlink:href="#dark-bud" transform="translate(-92.57 25.53) rotate(-139.54)" />
+      <use xlink:href="#dark-bud" transform="translate(-92.57 -25.53) rotate(-84.46)" />
+      <use xlink:href="#dark-bud" transform="translate(-81.48 -40.9) rotate(-68.5)" />
+      <use xlink:href="#dark-bud" transform="translate(-65.65 -53.89) rotate(-54.79)" />
+      <use xlink:href="#dark-bud" transform="translate(-46.01 -63.75) rotate(-42.89)" />
+      <use xlink:href="#dark-bud" transform="translate(-23.69 -69.91) rotate(-32.16)" />
+      <use xlink:href="#dark-bud" transform="translate(-0 -72) rotate(-22)" />
+      <use xlink:href="#dark-bud" transform="translate(23.69 -69.91) rotate(-11.84)" />
+      <use xlink:href="#dark-bud" transform="translate(46.01 -63.75) rotate(-1.11)" />
+      <use xlink:href="#dark-bud" transform="translate(65.65 -53.89) rotate(10.79)" />
+      <use xlink:href="#dark-bud" transform="translate(81.48 -40.9) rotate(24.5)" />
+      <use xlink:href="#dark-bud" transform="translate(92.57 -25.53) rotate(40.46)" />
+      <g transform="translate(-123 -140) scale(.4)">
+        <path d="M305 280 Q292 295 305 306 Q314 314 322 299 Q331 285 318 278 L320 268 Q334 252 337 233 Q349 238 371 216 Q374 233 362 245 Q385 236 407 224 Q405 237 389 252 Q409 250 428 245 Q432 255 415 262 Q439 261 462 269 Q452 283 434 280 Q446 287 431 309 Q430 294 414 285 Q408 281 403 293 Q390 290 388 276 Q383 284 374 287 Q366 275 355 275 L339 271 Q350 287 340 305 C329 328 300 333 286 312 Q277 296 289 274 Q265 267 253 279 L242 294 L238 279 Q223 284 212 301 Q209 288 212 279 Q194 288 198 310 Q183 314 176 301 Q170 292 181 280 L164 286 Q165 271 180 263 Q194 261 194 248 L212 252 Q219 250 229 254 Q246 260 258 255 Q234 250 222 231 Q241 230 267 243 Q260 226 252 218 Q273 217 286 230 L303 222 Q302 241 311 255 Q317 264 327 260 L322 273 Z" fill="#c4b796" />
+        <path d="M174 291 Q178 274 193 273 Q201 266 205 257 Q212 265 224 263 Q206 274 198 293 L196 305 L183 308 Q175 300 180 291 Z M238 272 Q255 256 273 262 Q246 269 238 284 Z M367 267 Q390 260 404 268 Q425 267 447 275 Q425 278 431 299 Q420 284 407 282 L401 287 Q398 271 385 272 L383 280 Z" fill="#9b804e" />
+        <use xlink:href="#little-volute" transform="translate(311 376) scale(1.63 1.46)" />
+        <use xlink:href="#little-volute" transform="translate(311 376) scale(-1.63 1.46)" />
+      </g>
+    </g>
+    <g id="little-volute">
+      <path d="M0 17 Q-12 13 -19 9 Q-13 20 -9 29 C0 46 -10 61 -26 64 Q-43 67 -53 57 L-59 55 Q-54 48 -55 43 Q-54 34 -46 32 Q-42 29 -37 33 Q-45 40 -40 46 Q-34 52 -26 47 C-12 38 -20 20 -34 16 Q-46 12 -67 18 Q-57 23 -55 30 Q-69 35 -77 47 Q-73 34 -84 33 Q-92 32 -97 43 Q-105 38 -100 25 Q-95 10 -69 1 Q-51 -4 -47 -11 L-40 -19 Q-35 -17 -36 -9 Q-27 -10 -20 -16 Q-21 -8 -19 -6 Q-22 1 -13 6 Q-5 9 0 9 Z" fill="#c4b796" />
+    </g>
+    <g id="shield">
+      <path d="M-13 -61 H13 Q22.04 -19.52 58 -13 V13 Q17.40 18.30 13 61 H-13 Q-19.14 19.52 -58 13 V-13 Q-19.14 -19.52 -13 -61 Z" fill="#c4b796" />
+      <path d="M-11 -55.510000000000005 H11 Q20.06 -17.76 52.78 -11 V11 Q15.83 16.65 11 55.510000000000005 H-11 Q-17.42 17.76 -52.78 11 V-11 Q-17.42 -17.76 -11 -55.510000000000005 Z" fill="#9b804e" />
+      <path d="M-9 -50.629999999999995 H9 Q18.29 -16.20 48.14 -9 V9 Q14.44 15.19 9 50.629999999999995 H-9 Q-15.89 16.20 -48.14 9 V-9 Q-15.89 -16.20 -9 -50.629999999999995 Z" fill="#292a27" />
+      <path d="M-6 -45.445 H6 Q16.42 -14.54 43.21 -6 V6 Q12.96 13.63 6 45.445 H-6 Q-14.26 14.54 -43.21 6 V-6 Q-14.26 -14.54 -6 -45.445 Z" fill="#9b804e" />
+      <path d="M-4 -40.260000000000005 H4 Q14.55 -12.88 38.28 -4 V4 Q11.48 12.08 4 40.260000000000005 H-4 Q-12.63 12.88 -38.28 4 V-4 Q-12.63 -12.88 -4 -40.260000000000005 Z" fill="#292a27" />
+      <path d="M-2 -36.417 H2 Q13.16 -11.65 34.626 -2 V2 Q10.39 10.93 2 36.417 H-2 Q-11.43 11.65 -34.626 2 V-2 Q-11.43 -11.65 -2 -36.417 Z" fill="#c4b796" />
+      <path d="M-0.9 -33.550000000000004 H0.9 Q12.12 -10.74 31.900000000000002 -0.9 V0.9 Q9.57 10.07 0.9 33.550000000000004 H-0.9 Q-10.53 10.74 -31.900000000000002 0.9 V-0.9 Q-10.53 -10.74 -0.9 -33.550000000000004 Z" fill="#8f393e" />
+      <path d="M-6 -45 H6 Q16.34 -14.40 43 -6 V6 Q12.90 13.50 6 45 H-6 Q-14.19 14.40 -43 6 V-6 Q-14.19 -14.40 -6 -45 Z" fill="none" stroke="#292a27" stroke-width="3.1" stroke-dasharray="4 3.8" />
+      <g transform="rotate(0)">
+        <path d="M0 -5 Q-6 -10 -9 -11 L-7 -15 L-11 -18 Q-6 -20 -3 -18 L0 -26 Q4 -23 4 -18 Q9 -21 12 -16 L8 -14 L10 -11 Q4 -10 0 -5 Z" fill="#9b804e" />
+        <path d="M0 -9 Q-4 -10 -6 -13 L-4 -14 L-6 -16 Q-2 -16 0 -18 L2 -20 L3 -16 L7 -16 L4 -12 Z" fill="#c4b796" />
+      </g>
+      <g transform="rotate(90)">
+        <path d="M0 -5 Q-6 -10 -9 -11 L-7 -15 L-11 -18 Q-6 -20 -3 -18 L0 -26 Q4 -23 4 -18 Q9 -21 12 -16 L8 -14 L10 -11 Q4 -10 0 -5 Z" fill="#9b804e" />
+        <path d="M0 -9 Q-4 -10 -6 -13 L-4 -14 L-6 -16 Q-2 -16 0 -18 L2 -20 L3 -16 L7 -16 L4 -12 Z" fill="#c4b796" />
+      </g>
+      <g transform="rotate(180)">
+        <path d="M0 -5 Q-6 -10 -9 -11 L-7 -15 L-11 -18 Q-6 -20 -3 -18 L0 -26 Q4 -23 4 -18 Q9 -21 12 -16 L8 -14 L10 -11 Q4 -10 0 -5 Z" fill="#9b804e" />
+        <path d="M0 -9 Q-4 -10 -6 -13 L-4 -14 L-6 -16 Q-2 -16 0 -18 L2 -20 L3 -16 L7 -16 L4 -12 Z" fill="#c4b796" />
+      </g>
+      <g transform="rotate(270)">
+        <path d="M0 -5 Q-6 -10 -9 -11 L-7 -15 L-11 -18 Q-6 -20 -3 -18 L0 -26 Q4 -23 4 -18 Q9 -21 12 -16 L8 -14 L10 -11 Q4 -10 0 -5 Z" fill="#9b804e" />
+        <path d="M0 -9 Q-4 -10 -6 -13 L-4 -14 L-6 -16 Q-2 -16 0 -18 L2 -20 L3 -16 L7 -16 L4 -12 Z" fill="#c4b796" />
+      </g>
+      <path d="M0 -8 H0 Q3.04 -2.56 8 0 V0 Q2.40 2.40 0 8 H0 Q-2.64 2.56 -8 0 V0 Q-2.64 -2.56 0 -8 Z" fill="#9b804e" />
+      <path d="M0 -4.5 H0 Q1.71 -1.44 4.5 0 V0 Q1.35 1.35 0 4.5 H0 Q-1.49 1.44 -4.5 0 V0 Q-1.49 -1.44 0 -4.5 Z" fill="#8f393e" />
+    </g>
+    <g id="shield-sprig">
+      <path d="M-35 -17 C-45 -38 -62 -52 -81 -52 Q-96 -52 -105 -41 Q-118 -25 -109 -14 Q-107 -21 -101 -20 Q-96 -21 -95 -25 Q-89 -12 -97 -4 Q-93 0 -87 2 Q-96 5 -106 -1 L-109 3 Q-113 -5 -115 -12 Q-117 -22 -113 -30 Q-124 -20 -131 -20 Q-123 -26 -124 -32 Q-121 -44 -111 -47 Q-105 -52 -97 -56 L-109 -58 Q-104 -64 -95 -64 Q-83 -64 -79 -59 Q-84 -65 -83 -73 Q-74 -70 -68 -64 Q-62 -70 -55 -73 Q-58 -62 -63 -59 Q-52 -58 -48 -62 L-52 -52 Q-44 -46 -38 -44 L-40 -40 Q-45 -44 -50 -43 Q-42 -33 -33 -20 Z" fill="#c4b796" />
+    </g>
+    <g id="sun">
+      <use xlink:href="#light-bud" transform="scale(1 1) translate(75.59 16.98) rotate(-21.86)" />
+      <use xlink:href="#light-bud" transform="scale(1 1) translate(70.34 36.2) rotate(-12.24)" />
+      <use xlink:href="#light-bud" transform="scale(1 1) translate(60.68 54.79) rotate(-1.88)" />
+      <use xlink:href="#light-bud" transform="scale(1 1) translate(47.41 70.13) rotate(8.48)" />
+      <use xlink:href="#light-bud" transform="scale(1 1) translate(31.32 81.31) rotate(18.84)" />
+      <use xlink:href="#light-bud" transform="scale(1 1) translate(12.05 87.9) rotate(29.94)" />
+      <use xlink:href="#light-bud" transform="scale(-1 1) translate(75.59 16.98) rotate(-21.86)" />
+      <use xlink:href="#light-bud" transform="scale(-1 1) translate(70.34 36.2) rotate(-12.24)" />
+      <use xlink:href="#light-bud" transform="scale(-1 1) translate(60.68 54.79) rotate(-1.88)" />
+      <use xlink:href="#light-bud" transform="scale(-1 1) translate(47.41 70.13) rotate(8.48)" />
+      <use xlink:href="#light-bud" transform="scale(-1 1) translate(31.32 81.31) rotate(18.84)" />
+      <use xlink:href="#light-bud" transform="scale(-1 1) translate(12.05 87.9) rotate(29.94)" />
+      <use xlink:href="#light-bud" transform="scale(1 -1) translate(75.59 16.98) rotate(-21.86)" />
+      <use xlink:href="#light-bud" transform="scale(1 -1) translate(70.34 36.2) rotate(-12.24)" />
+      <use xlink:href="#light-bud" transform="scale(1 -1) translate(60.68 54.79) rotate(-1.88)" />
+      <use xlink:href="#light-bud" transform="scale(1 -1) translate(47.41 70.13) rotate(8.48)" />
+      <use xlink:href="#light-bud" transform="scale(1 -1) translate(31.32 81.31) rotate(18.84)" />
+      <use xlink:href="#light-bud" transform="scale(1 -1) translate(12.05 87.9) rotate(29.94)" />
+      <use xlink:href="#light-bud" transform="scale(-1 -1) translate(75.59 16.98) rotate(-21.86)" />
+      <use xlink:href="#light-bud" transform="scale(-1 -1) translate(70.34 36.2) rotate(-12.24)" />
+      <use xlink:href="#light-bud" transform="scale(-1 -1) translate(60.68 54.79) rotate(-1.88)" />
+      <use xlink:href="#light-bud" transform="scale(-1 -1) translate(47.41 70.13) rotate(8.48)" />
+      <use xlink:href="#light-bud" transform="scale(-1 -1) translate(31.32 81.31) rotate(18.84)" />
+      <use xlink:href="#light-bud" transform="scale(-1 -1) translate(12.05 87.9) rotate(29.94)" />
+      <ellipse cx="0" cy="0" rx="59.5" ry="70" fill="none" stroke="#9b804e" stroke-width="4" />
+      <ellipse cx="0" cy="0" rx="59.5" ry="70" fill="none" stroke="#292a27" stroke-width="2.3" />
+      <g transform="translate(-84 -101) scale(.33333333)">
+        <path d="M247 128 L253 136 Q259 120 269 121 L273 141 L280 130 L290 139 L287 153 L309 142 L309 163 L337 147 L334 167 L352 156 Q349 172 330 194 Q355 183 371 171 Q375 183 359 203 L349 220 L376 210 L365 232 L390 226 Q390 236 370 253 L393 251 L381 266 L398 264 L390 279 L405 274 L396 289 L406 295 L391 306 L403 312 L395 324 L375 332 L393 334 L382 347 L399 347 Q395 363 377 371 L387 376 L370 388 L347 379 L367 404 L353 405 L367 423 Q349 431 327 410 L337 439 L322 436 L332 452 Q315 460 294 435 L306 452 L293 454 L277 439 L289 468 L278 461 L282 477 L270 473 L261 489 L254 481 L246 490 L243 475 L230 483 L229 461 L216 473 L211 462 L204 468 L210 448 L196 458 L201 439 L179 461 L180 450 L172 454 Q175 433 193 417 L158 440 L161 430 L151 436 Q156 417 168 407 L145 408 L151 391 L134 396 L141 385 L125 389 L135 376 L121 376 Q127 363 151 351 L130 354 L141 345 L126 343 L138 335 L113 342 L118 330 L107 329 L116 321 L105 315 Q111 307 134 302 L126 297 L150 289 L128 286 L143 277 L129 273 L141 266 L126 263 L138 254 L128 250 L140 241 L137 232 L160 237 L148 224 L161 224 L149 213 L159 208 L155 194 Q176 196 194 213 L184 194 L196 195 L176 169 L184 163 L198 173 L195 157 Q214 158 225 181 L218 152 L232 160 L227 142 L240 149 L235 133 L244 140 Z" fill="#9b804e" />
+        <path d="M252 152 L260 144 L264 158 L271 148 L275 169 L292 147 L290 165 L310 151 L302 174 L326 156 L323 171 L336 162 Q333 177 318 202 Q340 182 361 178 Q350 197 329 222 L350 214 L344 227 L382 228 Q372 244 349 255 L376 248 L369 259 L390 254 Q383 267 362 276 L389 270 L383 281 L400 279 L389 292 L400 297 L378 304 L394 310 L385 320 L396 319 Q388 330 370 335 L384 336 L375 344 L395 347 Q387 363 367 364 L381 371 L369 378 L344 370 L360 387 L347 384 L362 401 L338 398 L358 417 Q346 424 320 402 L337 432 Q320 430 303 411 L318 436 L308 433 L319 448 Q301 450 281 425 L292 447 L283 441 L286 453 L272 439 L275 461 L267 452 L262 475 L254 465 L244 481 L243 459 L233 468 L237 438 Q223 458 214 458 L219 437 L209 449 L212 431 Q197 448 180 456 Q184 439 201 418 Q188 427 183 426 Q201 407 209 395 Q183 415 157 431 L164 415 L154 422 Q159 405 189 384 L159 396 L171 382 L151 389 Q160 374 184 358 L154 371 L163 358 L135 376 Q140 359 170 343 L151 347 L158 338 L124 341 L132 331 L116 334 L122 325 L113 323 L122 317 L111 315 L145 304 L133 302 L153 295 L138 292 L154 288 L135 284 L147 278 L139 274 L162 271 Q146 264 135 258 L148 255 L136 250 L159 250 L151 240 L170 241 L157 227 L173 228 L155 213 L167 215 L159 193 Q181 199 205 220 Q196 208 197 201 L208 205 Q191 186 180 170 Q188 166 206 179 L202 166 Q221 172 235 195 L230 178 L240 185 L230 151 Q245 155 252 173 Z" fill="#c4b796" />
+        <path d="M148 269 Q180 267 211 288 Q178 276 148 269 Z M162 233 Q201 247 221 273 Q196 253 162 233 Z M188 382 Q214 366 226 348 Q217 373 188 382 Z M307 231 Q326 207 346 199 Q325 219 307 244 Z M281 189 Q290 168 303 158 Q288 178 281 198 Z M285 397 Q305 415 325 426 Q300 417 285 397 Z" fill="#9b804e" />
+        <path d="M180 166 Q193 163 211 185 Q223 196 230 215 Q208 193 193 186 L200 199 Q187 189 180 166 Z M219 151 Q231 151 241 168 Q245 182 251 203 Q239 185 232 180 L233 192 Q224 175 219 151 Z M265 140 Q271 137 276 136 L274 157 Q277 150 282 148 Q279 163 268 182 Q272 160 267 166 Z M149 216 Q165 218 185 232 Q196 242 205 253 Q187 240 159 233 L164 229 Z M129 249 Q143 248 155 252 L176 260 Q156 256 142 261 Z M130 374 Q154 367 188 344 Q177 360 152 375 L159 375 L145 387 L130 389 L137 378 Z M162 414 Q186 402 216 374 Q202 396 181 411 L184 412 L156 433 Z M203 446 Q219 423 242 398 Q237 418 222 434 Q223 422 211 443 Z M229 477 Q246 447 253 418 Q256 441 250 462 L251 468 L244 480 Z M287 425 Q303 445 316 446 L308 433 Q322 445 329 448 L330 453 Q309 461 287 425 Z M359 223 L381 217 Q370 235 350 245 Q362 234 365 227 Z M350 202 Q340 204 320 223 Q335 198 353 185 L367 176 Q359 193 350 202 Z" fill="#9b804e" />
+      </g>
+      <path d="M0 -34 C5 -25 12 -13 11 1 Q11 19 1 34 Q-14 17 -10 -5 Q-10 -22 0 -34 Z" fill="#8f393e" />
+      <path d="M0 -30 Q5 -25 6 -15 L4 -10 Q12 4 3 15 L4 20 L0 29 Q-8 22 -7 11 C-11 0 -8 -12 -5 -16 L-5 -22 Z" fill="#9b804e" />
+      <path d="M0 -17 L3 -13 L3 -8 Q8 3 2 13 L0 18 Q-6 13 -5 6 Q-8 0 -3 -9 L-4 -13 Z" fill="#c4b796" />
+      <path d="M0 -11 Q4 -8 3 -3 Q5 3 0 10 Q-5 6 -2 1 Q-5 -4 0 -11 Z" fill="#8f393e" />
+    </g>
+    <g id="small-wreath">
+      <use xlink:href="#dark-bud" transform="translate(75.35 10.57) rotate(75.04)" />
+      <use xlink:href="#dark-bud" transform="translate(70.21 31) rotate(89.24)" />
+      <use xlink:href="#dark-bud" transform="translate(60.29 49.31) rotate(103.75)" />
+      <use xlink:href="#dark-bud" transform="translate(46.27 64.26) rotate(118.72)" />
+      <use xlink:href="#dark-bud" transform="translate(29.08 74.83) rotate(134.18)" />
+      <use xlink:href="#dark-bud" transform="translate(9.92 80.31) rotate(150.01)" />
+      <use xlink:href="#dark-bud" transform="translate(-9.92 80.31) rotate(-194.01)" />
+      <use xlink:href="#dark-bud" transform="translate(-29.08 74.83) rotate(-178.18)" />
+      <use xlink:href="#dark-bud" transform="translate(-46.27 64.26) rotate(-162.72)" />
+      <use xlink:href="#dark-bud" transform="translate(-60.29 49.31) rotate(-147.75)" />
+      <use xlink:href="#dark-bud" transform="translate(-70.21 31) rotate(-133.24)" />
+      <use xlink:href="#dark-bud" transform="translate(-75.35 10.57) rotate(-119.04)" />
+      <use xlink:href="#dark-bud" transform="translate(-75.35 -10.57) rotate(-104.96)" />
+      <use xlink:href="#dark-bud" transform="translate(-70.21 -31) rotate(-90.76)" />
+      <use xlink:href="#dark-bud" transform="translate(-60.29 -49.31) rotate(-76.25)" />
+      <use xlink:href="#dark-bud" transform="translate(-46.27 -64.26) rotate(-61.28)" />
+      <use xlink:href="#dark-bud" transform="translate(-29.08 -74.83) rotate(-45.82)" />
+      <use xlink:href="#dark-bud" transform="translate(-9.92 -80.31) rotate(-29.99)" />
+      <use xlink:href="#dark-bud" transform="translate(9.92 -80.31) rotate(-14.01)" />
+      <use xlink:href="#dark-bud" transform="translate(29.08 -74.83) rotate(1.82)" />
+      <use xlink:href="#dark-bud" transform="translate(46.27 -64.26) rotate(17.28)" />
+      <use xlink:href="#dark-bud" transform="translate(60.29 -49.31) rotate(32.25)" />
+      <use xlink:href="#dark-bud" transform="translate(70.21 -31) rotate(46.76)" />
+      <use xlink:href="#dark-bud" transform="translate(75.35 -10.57) rotate(60.96)" />
+      <use xlink:href="#wreath-half" />
+      <use xlink:href="#wreath-half" transform="scale(-1 1)" />
+      <path d="M-37 -9 Q-37 4 -30 14 Q-31 8 -28 4 Q-34 0 -37 -9 Z" fill="#9b804e" />
+    </g>
+    <g id="wreath-half">
+      <path d="M0 -36 Q-17 -37 -24 -22 Q-28 -15 -25 -8 Q-20 -16 -14 -13 Q-20 -6 -19 2 Q-20 11 -26 15 Q-22 21 -14 23 Q-18 15 -13 12 Q-10 22 -5 24 L1 25 L1 32 Q-9 31 -15 35 Q-19 39 -28 37 L-23 30 Q-33 32 -42 27 Q-37 23 -33 22 Q-44 12 -42 2 Q-43 -9 -51 -12 Q-42 -15 -36 -6 Q-39 -20 -39 -27 Q-35 -23 -32 -21 Q-23 -42 -1 -43 L3 -41 Z" fill="#c4b796" />
+    </g>
+    <g id="repeat">
+      <use xlink:href="#great-leaf" transform="scale(1 1)" />
+      <use xlink:href="#great-leaf" transform="scale(1 -1)" />
+      <use xlink:href="#rose-finial" transform="scale(1 1) translate(193 306) scale(.84)" />
+      <use xlink:href="#stem-bud" transform="scale(1 1) translate(152 306)" />
+      <use xlink:href="#great-leaf" transform="scale(-1 1)" />
+      <use xlink:href="#great-leaf" transform="scale(-1 -1)" />
+      <use xlink:href="#rose-finial" transform="scale(-1 1) translate(193 306) scale(.84)" />
+      <use xlink:href="#stem-bud" transform="scale(-1 1) translate(152 306)" />
+      <use xlink:href="#shield-sprig" transform="translate(297 141) scale(1 1)" />
+      <use xlink:href="#shield-sprig" transform="translate(297 141) scale(-1 1)" />
+      <use xlink:href="#shield" transform="translate(297 141)" />
+      <use xlink:href="#shield-sprig" transform="translate(297 -141) scale(1 -1)" />
+      <use xlink:href="#shield-sprig" transform="translate(297 -141) scale(-1 -1)" />
+      <use xlink:href="#shield" transform="translate(297 -141)" />
+      <use xlink:href="#paired-scrolls" transform="translate(297 0)" />
+      <use xlink:href="#sun" transform="translate(0 306)" />
+      <use xlink:href="#small-wreath" transform="translate(297 306)" />
+      <use xlink:href="#medallion" />
+    </g>
+  </defs>
+  <rect width="594" height="612" fill="#8f393e" />
+  <use xlink:href="#repeat" transform="translate(-297 -306)" />
+  <use xlink:href="#repeat" transform="translate(-297 306)" />
+  <use xlink:href="#repeat" transform="translate(-297 918)" />
+  <use xlink:href="#repeat" transform="translate(297 -306)" />
+  <use xlink:href="#repeat" transform="translate(297 306)" />
+  <use xlink:href="#repeat" transform="translate(297 918)" />
+  <use xlink:href="#repeat" transform="translate(891 -306)" />
+  <use xlink:href="#repeat" transform="translate(891 306)" />
+  <use xlink:href="#repeat" transform="translate(891 918)" />
+</svg>

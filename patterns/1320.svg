@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="512" height="512" viewBox="0 0 512 512">
+  <title>The Elizabeth of York, Moseley — claret tartan Axminster carpet repeat</title>
+  <defs>
+    <rect id="warp" x="0" y="-512" width="1" height="1536"/>
+    <rect id="weft" x="-512" y="0" width="1536" height="1"/>
+  </defs>
+  <rect width="512" height="512" fill="#A8444A"/>
+  <g fill="#773A42">
+    <use xlink:href="#warp" transform="translate(86 0) scale(44 1)"/>
+    <use xlink:href="#warp" transform="translate(289 0) scale(43 1)"/>
+    <use xlink:href="#warp" transform="translate(423 0) scale(83 1)"/>
+    <use xlink:href="#weft" transform="translate(0 87) scale(1 42)"/>
+    <use xlink:href="#weft" transform="translate(0 290) scale(1 43)"/>
+    <use xlink:href="#weft" transform="translate(0 421) scale(1 90)"/>
+  </g>
+  <g fill="#BAB9AB">
+    <use xlink:href="#warp" transform="translate(59.5 0) scale(9 1)"/>
+    <use xlink:href="#warp" transform="translate(105.5 0) scale(6 1)"/>
+    <use xlink:href="#warp" transform="translate(148.5 0) scale(9 1)"/>
+    <use xlink:href="#warp" transform="translate(261.5 0) scale(9 1)"/>
+    <use xlink:href="#warp" transform="translate(308 0) scale(6 1)"/>
+    <use xlink:href="#warp" transform="translate(349.5 0) scale(9.5 1)"/>
+    <use xlink:href="#warp" transform="translate(428.5 0) scale(6 1)"/>
+    <use xlink:href="#warp" transform="translate(496.5 0) scale(6 1)"/>
+    <use xlink:href="#weft" transform="translate(0 59.5) scale(1 9)"/>
+    <use xlink:href="#weft" transform="translate(0 105) scale(1 6)"/>
+    <use xlink:href="#weft" transform="translate(0 148) scale(1 9)"/>
+    <use xlink:href="#weft" transform="translate(0 261) scale(1 9.5)"/>
+    <use xlink:href="#weft" transform="translate(0 307.5) scale(1 6)"/>
+    <use xlink:href="#weft" transform="translate(0 350) scale(1 10)"/>
+    <use xlink:href="#weft" transform="translate(0 427) scale(1 7)"/>
+    <use xlink:href="#weft" transform="translate(0 499) scale(1 6.5)"/>
+  </g>
+</svg>

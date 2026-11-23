@@ -1,0 +1,296 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="768" height="768" viewBox="0 0 768 768">
+<title>The Dragon Inn, Birmingham — interlocking carpet medallions</title>
+<desc>Sand-coloured circular bands enclosing espresso, taupe and gold panels with alternating fine and broad woven stripes.</desc>
+<defs>
+<path id="diamond" d="M-87.625 0A134.859 134.859 0 0 0 0 -87.625A134.859 134.859 0 0 0 87.625 0A134.859 134.859 0 0 0 0 87.625A134.859 134.859 0 0 0 -87.625 0Z"/>
+<clipPath id="clip-diamond"><use xlink:href="#diamond"/></clipPath>
+<path id="rising-petal" d="M-50.45 50.45A109.517 109.517 0 0 1 50.45 -50.45A109.517 109.517 0 0 1 -50.45 50.45Z"/>
+<clipPath id="clip-rising-petal"><use xlink:href="#rising-petal"/></clipPath>
+<path id="falling-petal" d="M-50.45 -50.45A109.517 109.517 0 0 1 50.45 50.45A109.517 109.517 0 0 1 -50.45 -50.45Z"/>
+<clipPath id="clip-falling-petal"><use xlink:href="#falling-petal"/></clipPath>
+<g id="diamond-1-1">
+<use xlink:href="#diamond" fill="#5D4D40" stroke="#CDB39C" stroke-width="3.1" stroke-linejoin="round"/>
+<path clip-path="url(#clip-diamond)" d="M-89.09 -90v180 M-84.518 -90v180 M-79.947 -90v180 M-75.376 -90v180 M-70.804 -90v180 M-66.233 -90v180 M-61.661 -90v180 M-57.09 -90v180 M-52.518 -90v180 M-47.947 -90v180 M-43.376 -90v180 M-38.804 -90v180 M-34.233 -90v180 M-29.661 -90v180 M-25.09 -90v180 M-20.518 -90v180 M-15.947 -90v180 M-11.376 -90v180 M-6.804 -90v180 M-2.233 -90v180 M2.339 -90v180 M6.91 -90v180 M11.482 -90v180 M16.053 -90v180 M20.624 -90v180 M25.196 -90v180 M29.767 -90v180 M34.339 -90v180 M38.91 -90v180 M43.482 -90v180 M48.053 -90v180 M52.624 -90v180 M57.196 -90v180 M61.767 -90v180 M66.339 -90v180 M70.91 -90v180 M75.482 -90v180 M80.053 -90v180 M84.624 -90v180 M89.196 -90v180" fill="none" stroke="#AE9C90" stroke-width="1.874"/>
+</g>
+<g id="diamond-1-2">
+<use xlink:href="#diamond" fill="#5D4D40" stroke="#CDB39C" stroke-width="3.1" stroke-linejoin="round"/>
+<path clip-path="url(#clip-diamond)" d="M-90 -80.219h180 M-90 -57.362h180 M-90 -34.505h180 M-90 -11.648h180 M-90 11.209h180 M-90 34.066h180 M-90 56.923h180 M-90 79.781h180" fill="none" stroke="#AE9C90" stroke-width="3.086"/>
+</g>
+<g id="diamond-1-3">
+<use xlink:href="#diamond" fill="#CDB39C" stroke="#CDB39C" stroke-width="3.1" stroke-linejoin="round"/>
+<path clip-path="url(#clip-diamond)" d="M-90 -79.969h180 M-90 -57.112h180 M-90 -34.255h180 M-90 -11.398h180 M-90 11.46h180 M-90 34.317h180 M-90 57.174h180 M-90 80.031h180" fill="none" stroke="#5D4D40" stroke-width="2.469"/>
+</g>
+<g id="diamond-1-4">
+<use xlink:href="#diamond" fill="#5D4D40" stroke="#CDB39C" stroke-width="3.1" stroke-linejoin="round"/>
+<path clip-path="url(#clip-diamond)" d="M-90 -79.69h180 M-90 -56.833h180 M-90 -33.976h180 M-90 -11.119h180 M-90 11.739h180 M-90 34.596h180 M-90 57.453h180 M-90 80.31h180" fill="none" stroke="#AE9C90" stroke-width="3.086"/>
+</g>
+<g id="diamond-1-5">
+<use xlink:href="#diamond" fill="#836B58" stroke="#CDB39C" stroke-width="3.1" stroke-linejoin="round"/>
+<path clip-path="url(#clip-diamond)" d="M-90 -91.703h180 M-90 -87.132h180 M-90 -82.56h180 M-90 -77.989h180 M-90 -73.417h180 M-90 -68.846h180 M-90 -64.275h180 M-90 -59.703h180 M-90 -55.132h180 M-90 -50.56h180 M-90 -45.989h180 M-90 -41.417h180 M-90 -36.846h180 M-90 -32.275h180 M-90 -27.703h180 M-90 -23.132h180 M-90 -18.56h180 M-90 -13.989h180 M-90 -9.417h180 M-90 -4.846h180 M-90 -0.275h180 M-90 4.297h180 M-90 8.868h180 M-90 13.44h180 M-90 18.011h180 M-90 22.583h180 M-90 27.154h180 M-90 31.725h180 M-90 36.297h180 M-90 40.868h180 M-90 45.44h180 M-90 50.011h180 M-90 54.583h180 M-90 59.154h180 M-90 63.725h180 M-90 68.297h180 M-90 72.868h180 M-90 77.44h180 M-90 82.011h180 M-90 86.583h180 M-90 91.154h180" fill="none" stroke="#C1A78F" stroke-width="2.194"/>
+</g>
+<g id="diamond-1-6">
+<use xlink:href="#diamond" fill="#5D4D40" stroke="#CDB39C" stroke-width="3.1" stroke-linejoin="round"/>
+</g>
+<g id="diamond-2-1">
+<use xlink:href="#diamond" fill="#5D4D40" stroke="#CDB39C" stroke-width="3.1" stroke-linejoin="round"/>
+<path clip-path="url(#clip-diamond)" d="M-90 -88.729h180 M-90 -84.157h180 M-90 -79.586h180 M-90 -75.014h180 M-90 -70.443h180 M-90 -65.871h180 M-90 -61.3h180 M-90 -56.729h180 M-90 -52.157h180 M-90 -47.586h180 M-90 -43.014h180 M-90 -38.443h180 M-90 -33.871h180 M-90 -29.3h180 M-90 -24.729h180 M-90 -20.157h180 M-90 -15.586h180 M-90 -11.014h180 M-90 -6.443h180 M-90 -1.871h180 M-90 2.7h180 M-90 7.271h180 M-90 11.843h180 M-90 16.414h180 M-90 20.986h180 M-90 25.557h180 M-90 30.129h180 M-90 34.7h180 M-90 39.271h180 M-90 43.843h180 M-90 48.414h180 M-90 52.986h180 M-90 57.557h180 M-90 62.129h180 M-90 66.7h180 M-90 71.271h180 M-90 75.843h180 M-90 80.414h180 M-90 84.986h180 M-90 89.557h180" fill="none" stroke="#AE9C90" stroke-width="1.92"/>
+</g>
+<g id="diamond-2-2">
+<use xlink:href="#diamond" fill="#CDB39C" stroke="#CDB39C" stroke-width="3.1" stroke-linejoin="round"/>
+<path clip-path="url(#clip-diamond)" d="M-90 -79.687h180 M-90 -56.83h180 M-90 -33.973h180 M-90 -11.116h180 M-90 11.741h180 M-90 34.599h180 M-90 57.456h180 M-90 80.313h180" fill="none" stroke="#5D4D40" stroke-width="2.469"/>
+</g>
+<g id="diamond-2-3">
+<use xlink:href="#diamond" fill="#5D4D40" stroke="#CDB39C" stroke-width="3.1" stroke-linejoin="round"/>
+<path clip-path="url(#clip-diamond)" d="M-90 -80.361h180 M-90 -57.504h180 M-90 -34.647h180 M-90 -11.789h180 M-90 11.068h180 M-90 33.925h180 M-90 56.782h180 M-90 79.639h180" fill="none" stroke="#AE9C90" stroke-width="3.086"/>
+</g>
+<g id="diamond-2-4">
+<use xlink:href="#diamond" fill="#CDB39C" stroke="#CDB39C" stroke-width="3.1" stroke-linejoin="round"/>
+<path clip-path="url(#clip-diamond)" d="M-90 -79.817h180 M-90 -56.96h180 M-90 -34.103h180 M-90 -11.245h180 M-90 11.612h180 M-90 34.469h180 M-90 57.326h180 M-90 80.183h180" fill="none" stroke="#5D4D40" stroke-width="2.469"/>
+</g>
+<g id="diamond-2-5">
+<use xlink:href="#diamond" fill="#5D4D40" stroke="#CDB39C" stroke-width="3.1" stroke-linejoin="round"/>
+<path clip-path="url(#clip-diamond)" d="M-90 -80.11h180 M-90 -57.253h180 M-90 -34.395h180 M-90 -11.538h180 M-90 11.319h180 M-90 34.176h180 M-90 57.033h180 M-90 79.89h180" fill="none" stroke="#AE9C90" stroke-width="3.086"/>
+</g>
+<g id="diamond-2-6">
+<use xlink:href="#diamond" fill="#836B58" stroke="#CDB39C" stroke-width="3.1" stroke-linejoin="round"/>
+<path clip-path="url(#clip-diamond)" d="M-90 -91.706h180 M-90 -87.134h180 M-90 -82.563h180 M-90 -77.992h180 M-90 -73.42h180 M-90 -68.849h180 M-90 -64.277h180 M-90 -59.706h180 M-90 -55.134h180 M-90 -50.563h180 M-90 -45.992h180 M-90 -41.42h180 M-90 -36.849h180 M-90 -32.277h180 M-90 -27.706h180 M-90 -23.134h180 M-90 -18.563h180 M-90 -13.992h180 M-90 -9.42h180 M-90 -4.849h180 M-90 -0.277h180 M-90 4.294h180 M-90 8.866h180 M-90 13.437h180 M-90 18.008h180 M-90 22.58h180 M-90 27.151h180 M-90 31.723h180 M-90 36.294h180 M-90 40.866h180 M-90 45.437h180 M-90 50.008h180 M-90 54.58h180 M-90 59.151h180 M-90 63.723h180 M-90 68.294h180 M-90 72.866h180 M-90 77.437h180 M-90 82.008h180 M-90 86.58h180 M-90 91.151h180" fill="none" stroke="#C1A78F" stroke-width="2.194"/>
+</g>
+<g id="diamond-3-1">
+<use xlink:href="#diamond" fill="#CDB39C" stroke="#CDB39C" stroke-width="3.1" stroke-linejoin="round"/>
+<path clip-path="url(#clip-diamond)" d="M-86.887 -90v180 M-70.887 -90v180 M-54.887 -90v180 M-38.887 -90v180 M-22.887 -90v180 M-6.887 -90v180 M9.113 -90v180 M25.113 -90v180 M41.113 -90v180 M57.113 -90v180 M73.113 -90v180 M89.113 -90v180" fill="none" stroke="#5D4D40" stroke-width="2.128"/>
+</g>
+<g id="diamond-3-2">
+<use xlink:href="#diamond" fill="#AE9C90" stroke="#CDB39C" stroke-width="3.1" stroke-linejoin="round"/>
+<path clip-path="url(#clip-diamond)" d="M-90 -79.288h180 M-90 -56.43h180 M-90 -33.573h180 M-90 -10.716h180 M-90 12.141h180 M-90 34.998h180 M-90 57.855h180 M-90 80.712h180" fill="none" stroke="#BFA981" stroke-width="2.629"/>
+</g>
+<g id="diamond-3-3">
+<use xlink:href="#diamond" fill="#CDB39C" stroke="#CDB39C" stroke-width="3.1" stroke-linejoin="round"/>
+<path clip-path="url(#clip-diamond)" d="M-87.126 -90v180 M-71.126 -90v180 M-55.126 -90v180 M-39.126 -90v180 M-23.126 -90v180 M-7.126 -90v180 M8.874 -90v180 M24.874 -90v180 M40.874 -90v180 M56.874 -90v180 M72.874 -90v180 M88.874 -90v180" fill="none" stroke="#5D4D40" stroke-width="2.128"/>
+</g>
+<g id="diamond-3-4">
+<use xlink:href="#diamond" fill="#5D4D40" stroke="#CDB39C" stroke-width="3.1" stroke-linejoin="round"/>
+<path clip-path="url(#clip-diamond)" d="M-90 -80.401h180 M-90 -57.544h180 M-90 -34.687h180 M-90 -11.83h180 M-90 11.027h180 M-90 33.884h180 M-90 56.742h180 M-90 79.599h180" fill="none" stroke="#AE9C90" stroke-width="3.086"/>
+</g>
+<g id="diamond-3-5">
+<use xlink:href="#diamond" fill="#5D4D40" stroke="#CDB39C" stroke-width="3.1" stroke-linejoin="round"/>
+</g>
+<g id="diamond-3-6">
+<use xlink:href="#diamond" fill="#BFA981" stroke="#CDB39C" stroke-width="3.1" stroke-linejoin="round"/>
+<path clip-path="url(#clip-diamond)" d="M-89.659 -90v180 M-85.088 -90v180 M-80.517 -90v180 M-75.945 -90v180 M-71.374 -90v180 M-66.802 -90v180 M-62.231 -90v180 M-57.659 -90v180 M-53.088 -90v180 M-48.517 -90v180 M-43.945 -90v180 M-39.374 -90v180 M-34.802 -90v180 M-30.231 -90v180 M-25.659 -90v180 M-21.088 -90v180 M-16.517 -90v180 M-11.945 -90v180 M-7.374 -90v180 M-2.802 -90v180 M1.769 -90v180 M6.341 -90v180 M10.912 -90v180 M15.483 -90v180 M20.055 -90v180 M24.626 -90v180 M29.198 -90v180 M33.769 -90v180 M38.341 -90v180 M42.912 -90v180 M47.483 -90v180 M52.055 -90v180 M56.626 -90v180 M61.198 -90v180 M65.769 -90v180 M70.341 -90v180 M74.912 -90v180 M79.483 -90v180 M84.055 -90v180 M88.626 -90v180" fill="none" stroke="#CDB39C" stroke-width="1.097"/>
+</g>
+<g id="rising-petal-1-1">
+<use xlink:href="#rising-petal" fill="#5D4D40" stroke="#CDB39C" stroke-width="3.1" stroke-linejoin="round"/>
+<path clip-path="url(#clip-rising-petal)" d="M-55 -52.753h110 M-55 -29.896h110 M-55 -7.039h110 M-55 15.818h110 M-55 38.676h110 M-55 61.533h110" fill="none" stroke="#AE9C90" stroke-width="3.086"/>
+</g>
+<g id="rising-petal-1-2">
+<use xlink:href="#rising-petal" fill="#5D4D40" stroke="#CDB39C" stroke-width="3.1" stroke-linejoin="round"/>
+<path clip-path="url(#clip-rising-petal)" d="M-55 -62.353h110 M-55 -39.495h110 M-55 -16.638h110 M-55 6.219h110 M-55 29.076h110 M-55 51.933h110" fill="none" stroke="#AE9C90" stroke-width="3.086"/>
+</g>
+<g id="rising-petal-1-3">
+<use xlink:href="#rising-petal" fill="#AE9C90" stroke="#CDB39C" stroke-width="3.1" stroke-linejoin="round"/>
+<path clip-path="url(#clip-rising-petal)" d="M-55 -52.864h110 M-55 -30.007h110 M-55 -7.15h110 M-55 15.707h110 M-55 38.565h110 M-55 61.422h110" fill="none" stroke="#5D4D40" stroke-width="2.446"/>
+</g>
+<g id="rising-petal-1-4">
+<use xlink:href="#rising-petal" fill="#5D4D40" stroke="#CDB39C" stroke-width="3.1" stroke-linejoin="round"/>
+<path clip-path="url(#clip-rising-petal)" d="M-55 -61.118h110 M-55 -38.261h110 M-55 -15.404h110 M-55 7.453h110 M-55 30.31h110 M-55 53.168h110" fill="none" stroke="#AE9C90" stroke-width="3.086"/>
+</g>
+<g id="rising-petal-1-5">
+<use xlink:href="#rising-petal" fill="#5D4D40" stroke="#CDB39C" stroke-width="3.1" stroke-linejoin="round"/>
+<path clip-path="url(#clip-rising-petal)" d="M-56.908 -55v110 M-52.337 -55v110 M-47.766 -55v110 M-43.194 -55v110 M-38.623 -55v110 M-34.051 -55v110 M-29.48 -55v110 M-24.908 -55v110 M-20.337 -55v110 M-15.766 -55v110 M-11.194 -55v110 M-6.623 -55v110 M-2.051 -55v110 M2.52 -55v110 M7.092 -55v110 M11.663 -55v110 M16.234 -55v110 M20.806 -55v110 M25.377 -55v110 M29.949 -55v110 M34.52 -55v110 M39.092 -55v110 M43.663 -55v110 M48.234 -55v110 M52.806 -55v110" fill="none" stroke="#AE9C90" stroke-width="1.874"/>
+</g>
+<g id="rising-petal-1-6">
+<use xlink:href="#rising-petal" fill="#5D4D40" stroke="#CDB39C" stroke-width="3.1" stroke-linejoin="round"/>
+<path clip-path="url(#clip-rising-petal)" d="M-55 -61.41h110 M-55 -38.553h110 M-55 -15.696h110 M-55 7.161h110 M-55 30.019h110 M-55 52.876h110" fill="none" stroke="#AE9C90" stroke-width="3.086"/>
+</g>
+<g id="rising-petal-2-1">
+<use xlink:href="#rising-petal" fill="#5D4D40" stroke="#CDB39C" stroke-width="3.1" stroke-linejoin="round"/>
+</g>
+<g id="rising-petal-2-2">
+<use xlink:href="#rising-petal" fill="#5D4D40" stroke="#CDB39C" stroke-width="3.1" stroke-linejoin="round"/>
+<path clip-path="url(#clip-rising-petal)" d="M-55 -52.546h110 M-55 -29.689h110 M-55 -6.832h110 M-55 16.025h110 M-55 38.882h110 M-55 61.74h110" fill="none" stroke="#AE9C90" stroke-width="3.086"/>
+</g>
+<g id="rising-petal-2-3">
+<use xlink:href="#rising-petal" fill="#5D4D40" stroke="#CDB39C" stroke-width="3.1" stroke-linejoin="round"/>
+</g>
+<g id="rising-petal-2-4">
+<use xlink:href="#rising-petal" fill="#5D4D40" stroke="#CDB39C" stroke-width="3.1" stroke-linejoin="round"/>
+<path clip-path="url(#clip-rising-petal)" d="M-55 -52.348h110 M-55 -29.491h110 M-55 -6.634h110 M-55 16.223h110 M-55 39.08h110 M-55 61.937h110" fill="none" stroke="#AE9C90" stroke-width="3.086"/>
+</g>
+<g id="rising-petal-2-5">
+<use xlink:href="#rising-petal" fill="#5D4D40" stroke="#CDB39C" stroke-width="3.1" stroke-linejoin="round"/>
+<path clip-path="url(#clip-rising-petal)" d="M-55 -61.667h110 M-55 -38.81h110 M-55 -15.953h110 M-55 6.904h110 M-55 29.761h110 M-55 52.618h110" fill="none" stroke="#AE9C90" stroke-width="3.086"/>
+</g>
+<g id="rising-petal-2-6">
+<use xlink:href="#rising-petal" fill="#5D4D40" stroke="#CDB39C" stroke-width="3.1" stroke-linejoin="round"/>
+<path clip-path="url(#clip-rising-petal)" d="M-55 -52.211h110 M-55 -29.354h110 M-55 -6.497h110 M-55 16.36h110 M-55 39.217h110 M-55 62.075h110" fill="none" stroke="#AE9C90" stroke-width="3.086"/>
+</g>
+<g id="rising-petal-3-1">
+<use xlink:href="#rising-petal" fill="#5D4D40" stroke="#CDB39C" stroke-width="3.1" stroke-linejoin="round"/>
+</g>
+<g id="rising-petal-3-2">
+<use xlink:href="#rising-petal" fill="#5D4D40" stroke="#CDB39C" stroke-width="3.1" stroke-linejoin="round"/>
+<path clip-path="url(#clip-rising-petal)" d="M-56.936 -55v110 M-52.364 -55v110 M-47.793 -55v110 M-43.221 -55v110 M-38.65 -55v110 M-34.078 -55v110 M-29.507 -55v110 M-24.936 -55v110 M-20.364 -55v110 M-15.793 -55v110 M-11.221 -55v110 M-6.65 -55v110 M-2.078 -55v110 M2.493 -55v110 M7.064 -55v110 M11.636 -55v110 M16.207 -55v110 M20.779 -55v110 M25.35 -55v110 M29.922 -55v110 M34.493 -55v110 M39.064 -55v110 M43.636 -55v110 M48.207 -55v110 M52.779 -55v110" fill="none" stroke="#AE9C90" stroke-width="1.874"/>
+</g>
+<g id="rising-petal-3-3">
+<use xlink:href="#rising-petal" fill="#5D4D40" stroke="#CDB39C" stroke-width="3.1" stroke-linejoin="round"/>
+</g>
+<g id="rising-petal-3-4">
+<use xlink:href="#rising-petal" fill="#5D4D40" stroke="#CDB39C" stroke-width="3.1" stroke-linejoin="round"/>
+<path clip-path="url(#clip-rising-petal)" d="M-55 -62.286h110 M-55 -39.429h110 M-55 -16.572h110 M-55 6.285h110 M-55 29.143h110 M-55 52h110" fill="none" stroke="#AE9C90" stroke-width="3.086"/>
+</g>
+<g id="rising-petal-3-5">
+<use xlink:href="#rising-petal" fill="#5D4D40" stroke="#CDB39C" stroke-width="3.1" stroke-linejoin="round"/>
+<path clip-path="url(#clip-rising-petal)" d="M-55 -53.103h110 M-55 -30.246h110 M-55 -7.389h110 M-55 15.468h110 M-55 38.325h110 M-55 61.182h110" fill="none" stroke="#AE9C90" stroke-width="3.086"/>
+</g>
+<g id="rising-petal-3-6">
+<use xlink:href="#rising-petal" fill="#AE9C90" stroke="#CDB39C" stroke-width="3.1" stroke-linejoin="round"/>
+<path clip-path="url(#clip-rising-petal)" d="M-55 -61.165h110 M-55 -38.308h110 M-55 -15.451h110 M-55 7.406h110 M-55 30.263h110 M-55 53.12h110" fill="none" stroke="#5D4D40" stroke-width="2.446"/>
+</g>
+<g id="falling-petal-1-1">
+<use xlink:href="#falling-petal" fill="#5D4D40" stroke="#CDB39C" stroke-width="3.1" stroke-linejoin="round"/>
+<path clip-path="url(#clip-falling-petal)" d="M-55 -60.891h110 M-55 -38.034h110 M-55 -15.177h110 M-55 7.68h110 M-55 30.537h110 M-55 53.394h110" fill="none" stroke="#AE9C90" stroke-width="3.086"/>
+</g>
+<g id="falling-petal-1-2">
+<use xlink:href="#falling-petal" fill="#5D4D40" stroke="#CDB39C" stroke-width="3.1" stroke-linejoin="round"/>
+<path clip-path="url(#clip-falling-petal)" d="M-55 -52.453h110 M-55 -29.596h110 M-55 -6.739h110 M-55 16.118h110 M-55 38.975h110 M-55 61.832h110" fill="none" stroke="#AE9C90" stroke-width="3.086"/>
+</g>
+<g id="falling-petal-1-3">
+<use xlink:href="#falling-petal" fill="#5D4D40" stroke="#CDB39C" stroke-width="3.1" stroke-linejoin="round"/>
+<path clip-path="url(#clip-falling-petal)" d="M-55 -61.917h110 M-55 -39.059h110 M-55 -16.202h110 M-55 6.655h110 M-55 29.512h110 M-55 52.369h110" fill="none" stroke="#AE9C90" stroke-width="3.086"/>
+</g>
+<g id="falling-petal-1-4">
+<use xlink:href="#falling-petal" fill="#5D4D40" stroke="#CDB39C" stroke-width="3.1" stroke-linejoin="round"/>
+<path clip-path="url(#clip-falling-petal)" d="M-55 -52.287h110 M-55 -29.43h110 M-55 -6.573h110 M-55 16.284h110 M-55 39.141h110 M-55 61.998h110" fill="none" stroke="#AE9C90" stroke-width="3.086"/>
+</g>
+<g id="falling-petal-1-5">
+<use xlink:href="#falling-petal" fill="#5D4D40" stroke="#CDB39C" stroke-width="3.1" stroke-linejoin="round"/>
+<path clip-path="url(#clip-falling-petal)" d="M-55 -62.025h110 M-55 -39.168h110 M-55 -16.311h110 M-55 6.546h110 M-55 29.403h110 M-55 52.26h110" fill="none" stroke="#AE9C90" stroke-width="3.086"/>
+</g>
+<g id="falling-petal-1-6">
+<use xlink:href="#falling-petal" fill="#5D4D40" stroke="#CDB39C" stroke-width="3.1" stroke-linejoin="round"/>
+<path clip-path="url(#clip-falling-petal)" d="M-55 -51.772h110 M-55 -28.915h110 M-55 -6.058h110 M-55 16.799h110 M-55 39.656h110 M-55 62.513h110" fill="none" stroke="#AE9C90" stroke-width="3.086"/>
+</g>
+<g id="falling-petal-2-1">
+<use xlink:href="#falling-petal" fill="#5D4D40" stroke="#CDB39C" stroke-width="3.1" stroke-linejoin="round"/>
+</g>
+<g id="falling-petal-2-2">
+<use xlink:href="#falling-petal" fill="#5D4D40" stroke="#CDB39C" stroke-width="3.1" stroke-linejoin="round"/>
+</g>
+<g id="falling-petal-2-3">
+<use xlink:href="#falling-petal" fill="#5D4D40" stroke="#CDB39C" stroke-width="3.1" stroke-linejoin="round"/>
+</g>
+<g id="falling-petal-2-4">
+<use xlink:href="#falling-petal" fill="#5D4D40" stroke="#CDB39C" stroke-width="3.1" stroke-linejoin="round"/>
+</g>
+<g id="falling-petal-2-5">
+<use xlink:href="#falling-petal" fill="#5D4D40" stroke="#CDB39C" stroke-width="3.1" stroke-linejoin="round"/>
+<path clip-path="url(#clip-falling-petal)" d="M-55 -52.932h110 M-55 -30.075h110 M-55 -7.218h110 M-55 15.639h110 M-55 38.496h110 M-55 61.353h110" fill="none" stroke="#AE9C90" stroke-width="3.086"/>
+</g>
+<g id="falling-petal-2-6">
+<use xlink:href="#falling-petal" fill="#5D4D40" stroke="#CDB39C" stroke-width="3.1" stroke-linejoin="round"/>
+<path clip-path="url(#clip-falling-petal)" d="M-55 -61.272h110 M-55 -38.415h110 M-55 -15.558h110 M-55 7.299h110 M-55 30.156h110 M-55 53.014h110" fill="none" stroke="#AE9C90" stroke-width="3.086"/>
+</g>
+<g id="falling-petal-3-1">
+<use xlink:href="#falling-petal" fill="#AE9C90" stroke="#CDB39C" stroke-width="3.1" stroke-linejoin="round"/>
+<path clip-path="url(#clip-falling-petal)" d="M-55 -61.168h110 M-55 -38.311h110 M-55 -15.453h110 M-55 7.404h110 M-55 30.261h110 M-55 53.118h110" fill="none" stroke="#5D4D40" stroke-width="2.446"/>
+</g>
+<g id="falling-petal-3-2">
+<use xlink:href="#falling-petal" fill="#5D4D40" stroke="#CDB39C" stroke-width="3.1" stroke-linejoin="round"/>
+<path clip-path="url(#clip-falling-petal)" d="M-57.05 -55v110 M-52.478 -55v110 M-47.907 -55v110 M-43.335 -55v110 M-38.764 -55v110 M-34.193 -55v110 M-29.621 -55v110 M-25.05 -55v110 M-20.478 -55v110 M-15.907 -55v110 M-11.335 -55v110 M-6.764 -55v110 M-2.193 -55v110 M2.379 -55v110 M6.95 -55v110 M11.522 -55v110 M16.093 -55v110 M20.665 -55v110 M25.236 -55v110 M29.807 -55v110 M34.379 -55v110 M38.95 -55v110 M43.522 -55v110 M48.093 -55v110 M52.665 -55v110 M57.236 -55v110" fill="none" stroke="#AE9C90" stroke-width="1.874"/>
+</g>
+<g id="falling-petal-3-3">
+<use xlink:href="#falling-petal" fill="#5D4D40" stroke="#CDB39C" stroke-width="3.1" stroke-linejoin="round"/>
+<path clip-path="url(#clip-falling-petal)" d="M-56.85 -55v110 M-52.279 -55v110 M-47.707 -55v110 M-43.136 -55v110 M-38.565 -55v110 M-33.993 -55v110 M-29.422 -55v110 M-24.85 -55v110 M-20.279 -55v110 M-15.707 -55v110 M-11.136 -55v110 M-6.565 -55v110 M-1.993 -55v110 M2.578 -55v110 M7.15 -55v110 M11.721 -55v110 M16.293 -55v110 M20.864 -55v110 M25.435 -55v110 M30.007 -55v110 M34.578 -55v110 M39.15 -55v110 M43.721 -55v110 M48.293 -55v110 M52.864 -55v110" fill="none" stroke="#AE9C90" stroke-width="1.874"/>
+</g>
+<g id="falling-petal-3-4">
+<use xlink:href="#falling-petal" fill="#5D4D40" stroke="#CDB39C" stroke-width="3.1" stroke-linejoin="round"/>
+<path clip-path="url(#clip-falling-petal)" d="M-55 -52.935h110 M-55 -30.078h110 M-55 -7.221h110 M-55 15.636h110 M-55 38.493h110 M-55 61.35h110" fill="none" stroke="#AE9C90" stroke-width="3.086"/>
+</g>
+<g id="falling-petal-3-5">
+<use xlink:href="#falling-petal" fill="#5D4D40" stroke="#CDB39C" stroke-width="3.1" stroke-linejoin="round"/>
+<path clip-path="url(#clip-falling-petal)" d="M-55 -62.702h110 M-55 -39.845h110 M-55 -16.988h110 M-55 5.869h110 M-55 28.726h110 M-55 51.584h110" fill="none" stroke="#AE9C90" stroke-width="3.086"/>
+</g>
+<g id="falling-petal-3-6">
+<use xlink:href="#falling-petal" fill="#AE9C90" stroke="#CDB39C" stroke-width="3.1" stroke-linejoin="round"/>
+<path clip-path="url(#clip-falling-petal)" d="M-55 -53.264h110 M-55 -30.406h110 M-55 -7.549h110 M-55 15.308h110 M-55 38.165h110 M-55 61.022h110" fill="none" stroke="#5D4D40" stroke-width="2.446"/>
+</g>
+</defs>
+<rect width="768" height="768" fill="#C1A78F"/>
+<use xlink:href="#diamond-1-1" transform="translate(549.375 157.625)"/>
+<use xlink:href="#diamond-1-2" transform="translate(-90.625 29.625)"/>
+<use xlink:href="#diamond-1-2" transform="translate(-90.625 797.625)"/>
+<use xlink:href="#diamond-1-2" transform="translate(677.375 29.625)"/>
+<use xlink:href="#diamond-1-2" transform="translate(677.375 797.625)"/>
+<use xlink:href="#diamond-1-3" transform="translate(37.375 669.625)"/>
+<use xlink:href="#diamond-1-3" transform="translate(805.375 669.625)"/>
+<use xlink:href="#diamond-1-4" transform="translate(165.375 541.625)"/>
+<use xlink:href="#diamond-1-5" transform="translate(293.375 413.625)"/>
+<use xlink:href="#diamond-1-6" transform="translate(421.375 285.625)"/>
+<use xlink:href="#diamond-2-1" transform="translate(-90.625 285.625)"/>
+<use xlink:href="#diamond-2-1" transform="translate(677.375 285.625)"/>
+<use xlink:href="#diamond-2-2" transform="translate(37.375 157.625)"/>
+<use xlink:href="#diamond-2-2" transform="translate(805.375 157.625)"/>
+<use xlink:href="#diamond-2-3" transform="translate(165.375 29.625)"/>
+<use xlink:href="#diamond-2-3" transform="translate(165.375 797.625)"/>
+<use xlink:href="#diamond-2-4" transform="translate(293.375 669.625)"/>
+<use xlink:href="#diamond-2-5" transform="translate(421.375 541.625)"/>
+<use xlink:href="#diamond-2-6" transform="translate(549.375 413.625)"/>
+<use xlink:href="#diamond-3-1" transform="translate(37.375 413.625)"/>
+<use xlink:href="#diamond-3-1" transform="translate(805.375 413.625)"/>
+<use xlink:href="#diamond-3-2" transform="translate(165.375 285.625)"/>
+<use xlink:href="#diamond-3-3" transform="translate(293.375 157.625)"/>
+<use xlink:href="#diamond-3-4" transform="translate(421.375 29.625)"/>
+<use xlink:href="#diamond-3-4" transform="translate(421.375 797.625)"/>
+<use xlink:href="#diamond-3-5" transform="translate(549.375 669.625)"/>
+<use xlink:href="#diamond-3-6" transform="translate(-90.625 541.625)"/>
+<use xlink:href="#diamond-3-6" transform="translate(677.375 541.625)"/>
+<use xlink:href="#rising-petal-1-1" transform="translate(485.375 93.625)"/>
+<use xlink:href="#rising-petal-1-2" transform="translate(613.375 -34.375)"/>
+<use xlink:href="#rising-petal-1-2" transform="translate(613.375 733.625)"/>
+<use xlink:href="#rising-petal-1-3" transform="translate(-26.625 605.625)"/>
+<use xlink:href="#rising-petal-1-3" transform="translate(741.375 605.625)"/>
+<use xlink:href="#rising-petal-1-4" transform="translate(101.375 477.625)"/>
+<use xlink:href="#rising-petal-1-5" transform="translate(229.375 349.625)"/>
+<use xlink:href="#rising-petal-1-6" transform="translate(357.375 221.625)"/>
+<use xlink:href="#rising-petal-2-1" transform="translate(613.375 221.625)"/>
+<use xlink:href="#rising-petal-2-2" transform="translate(-26.625 93.625)"/>
+<use xlink:href="#rising-petal-2-2" transform="translate(741.375 93.625)"/>
+<use xlink:href="#rising-petal-2-3" transform="translate(101.375 -34.375)"/>
+<use xlink:href="#rising-petal-2-3" transform="translate(101.375 733.625)"/>
+<use xlink:href="#rising-petal-2-4" transform="translate(229.375 605.625)"/>
+<use xlink:href="#rising-petal-2-5" transform="translate(357.375 477.625)"/>
+<use xlink:href="#rising-petal-2-6" transform="translate(485.375 349.625)"/>
+<use xlink:href="#rising-petal-3-1" transform="translate(-26.625 349.625)"/>
+<use xlink:href="#rising-petal-3-1" transform="translate(741.375 349.625)"/>
+<use xlink:href="#rising-petal-3-2" transform="translate(101.375 221.625)"/>
+<use xlink:href="#rising-petal-3-3" transform="translate(229.375 93.625)"/>
+<use xlink:href="#rising-petal-3-4" transform="translate(357.375 -34.375)"/>
+<use xlink:href="#rising-petal-3-4" transform="translate(357.375 733.625)"/>
+<use xlink:href="#rising-petal-3-5" transform="translate(485.375 605.625)"/>
+<use xlink:href="#rising-petal-3-6" transform="translate(613.375 477.625)"/>
+<use xlink:href="#falling-petal-1-1" transform="translate(485.375 221.625)"/>
+<use xlink:href="#falling-petal-1-2" transform="translate(613.375 93.625)"/>
+<use xlink:href="#falling-petal-1-3" transform="translate(-26.625 -34.375)"/>
+<use xlink:href="#falling-petal-1-3" transform="translate(-26.625 733.625)"/>
+<use xlink:href="#falling-petal-1-3" transform="translate(741.375 -34.375)"/>
+<use xlink:href="#falling-petal-1-3" transform="translate(741.375 733.625)"/>
+<use xlink:href="#falling-petal-1-4" transform="translate(101.375 605.625)"/>
+<use xlink:href="#falling-petal-1-5" transform="translate(229.375 477.625)"/>
+<use xlink:href="#falling-petal-1-6" transform="translate(357.375 349.625)"/>
+<use xlink:href="#falling-petal-2-1" transform="translate(613.375 349.625)"/>
+<use xlink:href="#falling-petal-2-2" transform="translate(-26.625 221.625)"/>
+<use xlink:href="#falling-petal-2-2" transform="translate(741.375 221.625)"/>
+<use xlink:href="#falling-petal-2-3" transform="translate(101.375 93.625)"/>
+<use xlink:href="#falling-petal-2-4" transform="translate(229.375 -34.375)"/>
+<use xlink:href="#falling-petal-2-4" transform="translate(229.375 733.625)"/>
+<use xlink:href="#falling-petal-2-5" transform="translate(357.375 605.625)"/>
+<use xlink:href="#falling-petal-2-6" transform="translate(485.375 477.625)"/>
+<use xlink:href="#falling-petal-3-1" transform="translate(-26.625 477.625)"/>
+<use xlink:href="#falling-petal-3-1" transform="translate(741.375 477.625)"/>
+<use xlink:href="#falling-petal-3-2" transform="translate(101.375 349.625)"/>
+<use xlink:href="#falling-petal-3-3" transform="translate(229.375 221.625)"/>
+<use xlink:href="#falling-petal-3-4" transform="translate(357.375 93.625)"/>
+<use xlink:href="#falling-petal-3-5" transform="translate(485.375 -34.375)"/>
+<use xlink:href="#falling-petal-3-5" transform="translate(485.375 733.625)"/>
+<use xlink:href="#falling-petal-3-6" transform="translate(613.375 605.625)"/>
+</svg>

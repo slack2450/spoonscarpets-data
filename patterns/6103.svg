@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="512" height="512" viewBox="0 0 512 512">
+  <title>The Watch Maker, Prescot — interlocking stepped Axminster repeat</title>
+  <defs>
+<g id="comb">
+      <path d="M10 29.5H54V119H29V67.5H10Z" fill="#745649"/>
+      <path d="M11.1 30.5H53.2V117.8H30V66.2H11.1Z" fill="#926E55"/>
+      <rect x="11.2" y="31" width="5.4" height="34.7" fill="#AB8569"/>
+      <rect x="12.5" y="31" width="2.8" height="34.7" fill="#BD987B"/>
+      <rect x="17.2" y="31" width="2.9" height="34.7" fill="#745649"/>
+      <rect x="20.8" y="31" width="3.6" height="34.7" fill="#AB8569"/>
+      <rect x="21.7" y="31" width="1.6" height="34.7" fill="#BD987B"/>
+      <rect x="25.2" y="31" width="2.5" height="34.7" fill="#745649"/>
+      <rect x="28.3" y="31" width="2.1" height="34.7" fill="#AB8569"/>
+      <path d="M31 30.5H35.9V100H30V96.1H31Z" fill="#AB8569"/>
+      <path d="M32.2 30.5H34.4V98.8H30V97H32.2Z" fill="#BD987B"/>
+      <path d="M36.2 30.5H38.5V102.5H30V100.3H36.2Z" fill="#745649"/>
+      <path d="M38.8 30.5H43.2V108.9H30V104.8H38.8Z" fill="#AB8569"/>
+      <path d="M40.4 30.5H42.1V107.5H30V105.8H40.4Z" fill="#BD987B"/>
+      <path d="M43.5 30.5H46.1V111.3H30V109.1H43.5Z" fill="#745649"/>
+      <path d="M46.4 30.5H53V117.7H30V111.8H46.4Z" fill="#BD987B"/>
+      <path d="M48.2 30.5H51.7V116.2H30V113.2H48.2Z" fill="#D0AF94"/>
+    </g>
+<g id="plaque">
+      <rect x="-54" y="-22" width="108" height="44" fill="#584851"/>
+      <rect x="-53" y="-21.2" width="106" height="42.4" fill="#BD987B"/>
+      <rect x="-51.5" y="-19.6" width="103" height="39.2" fill="#D0AF94"/>
+      <rect x="-48.4" y="-16.5" width="96.8" height="33" fill="#AB8569"/>
+      <rect x="-46.7" y="-14.8" width="93.4" height="29.6" fill="#745649"/>
+      <rect x="-43.5" y="-12.0" width="87" height="24" fill="#926E55"/>
+      <rect x="-41.3" y="-10.4" width="82.6" height="20.8" fill="#AB8569"/>
+      <rect x="-38.3" y="-8.0" width="76.6" height="16" fill="#745649"/>
+      <rect x="-36.1" y="-5.3" width="72.2" height="10.6" fill="#BD987B"/>
+      <rect x="-34.5" y="-3.9" width="69" height="7.8" fill="#D0AF94"/>
+      <rect x="-32.1" y="-1.4" width="64.2" height="2.8" fill="#926E55"/>
+    </g>
+<g id="bay">
+      <use xlink:href="#comb" transform="scale(1 1)"/>
+      <use xlink:href="#comb" transform="scale(-1 1)"/>
+      <use xlink:href="#comb" transform="scale(1 -1)"/>
+      <use xlink:href="#comb" transform="scale(-1 -1)"/>
+      <use xlink:href="#plaque" transform="translate(0 0)"/>
+    </g>
+  </defs>
+<rect x="0" y="0" width="512" height="512" fill="#584851"/>
+  <g transform="scale(2) translate(36 42)">
+<rect x="-66.7" y="-128" width="5.4" height="512" fill="#BD987B"/>
+<rect x="-65.4" y="-128" width="2.8" height="512" fill="#D0AF94"/>
+<rect x="-2.7" y="-128" width="5.4" height="512" fill="#BD987B"/>
+<rect x="-1.4" y="-128" width="2.8" height="512" fill="#D0AF94"/>
+<rect x="61.3" y="-128" width="5.4" height="512" fill="#BD987B"/>
+<rect x="62.6" y="-128" width="2.8" height="512" fill="#D0AF94"/>
+<rect x="125.3" y="-128" width="5.4" height="512" fill="#BD987B"/>
+<rect x="126.6" y="-128" width="2.8" height="512" fill="#D0AF94"/>
+<rect x="189.3" y="-128" width="5.4" height="512" fill="#BD987B"/>
+<rect x="190.6" y="-128" width="2.8" height="512" fill="#D0AF94"/>
+<rect x="253.3" y="-128" width="5.4" height="512" fill="#BD987B"/>
+<rect x="254.6" y="-128" width="2.8" height="512" fill="#D0AF94"/>
+<rect x="-128" y="-130.4" width="512" height="4.8" fill="#BD987B"/>
+<rect x="-128" y="-129.25" width="512" height="2.5" fill="#D0AF94"/>
+<rect x="-128" y="-2.4" width="512" height="4.8" fill="#BD987B"/>
+<rect x="-128" y="-1.25" width="512" height="2.5" fill="#D0AF94"/>
+<rect x="-128" y="125.6" width="512" height="4.8" fill="#BD987B"/>
+<rect x="-128" y="126.75" width="512" height="2.5" fill="#D0AF94"/>
+<rect x="-128" y="253.6" width="512" height="4.8" fill="#BD987B"/>
+<rect x="-128" y="254.75" width="512" height="2.5" fill="#D0AF94"/>
+<use xlink:href="#bay" transform="translate(128 -128)"/>
+<use xlink:href="#bay" transform="translate(0 0)"/>
+<use xlink:href="#plaque" transform="translate(128 0) rotate(90)"/>
+<use xlink:href="#bay" transform="translate(256 0)"/>
+<use xlink:href="#plaque" transform="translate(0 128) rotate(90)"/>
+<use xlink:href="#bay" transform="translate(128 128)"/>
+<use xlink:href="#bay" transform="translate(0 256)"/>
+<use xlink:href="#plaque" transform="translate(128 256) rotate(90)"/>
+<use xlink:href="#bay" transform="translate(256 256)"/>
+  </g>
+</svg>

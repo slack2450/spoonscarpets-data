@@ -1,0 +1,145 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="384" height="384" viewBox="0 0 384 384" xmlns="http://www.w3.org/2000/svg">
+  <title>The Auld Brig, Irvine — heather and stone tartan with ochre overchecks</title>
+  <desc>Square Axminster repeat with broad stone bands, heather guards and fine ochre lines. Stepped diagonal fills describe the woven crossings.</desc>
+  <defs>
+    <path id="twill" d="M0 0h8v4H0z M4 4h8v4H4z M8 8h8v4H8z M0 12h4v4H0z M12 12h4v4h-4z" />
+    <pattern id="peat-heather" patternUnits="userSpaceOnUse" x="0" y="0" width="16" height="16">
+      <rect x="0" y="0" width="16" height="16" fill="#706965" />
+      <use xlink:href="#twill" fill="#80797D" />
+    </pattern>
+    <pattern id="peat-stone" patternUnits="userSpaceOnUse" x="0" y="0" width="16" height="16">
+      <rect x="0" y="0" width="16" height="16" fill="#897F7D" />
+      <use xlink:href="#twill" fill="#A39A95" />
+    </pattern>
+    <pattern id="peat-ochre" patternUnits="userSpaceOnUse" x="0" y="0" width="16" height="16">
+      <rect x="0" y="0" width="16" height="16" fill="#706965" />
+      <use xlink:href="#twill" fill="#B5A271" />
+    </pattern>
+    <pattern id="heather-peat" patternUnits="userSpaceOnUse" x="0" y="0" width="16" height="16">
+      <rect x="0" y="0" width="16" height="16" fill="#80797D" />
+      <use xlink:href="#twill" fill="#706965" />
+    </pattern>
+    <pattern id="heather-stone" patternUnits="userSpaceOnUse" x="0" y="0" width="16" height="16">
+      <rect x="0" y="0" width="16" height="16" fill="#897F7D" />
+      <use xlink:href="#twill" fill="#A39A95" />
+      <path d="M4 4h4v4H4z M12 12h4v4h-4z" fill="#B9AEA6" />
+    </pattern>
+    <pattern id="heather-ochre" patternUnits="userSpaceOnUse" x="0" y="0" width="16" height="16">
+      <rect x="0" y="0" width="16" height="16" fill="#80797D" />
+      <use xlink:href="#twill" fill="#B5A271" />
+    </pattern>
+    <pattern id="stone-peat" patternUnits="userSpaceOnUse" x="0" y="0" width="16" height="16">
+      <rect x="0" y="0" width="16" height="16" fill="#A39A95" />
+      <use xlink:href="#twill" fill="#897F7D" />
+    </pattern>
+    <pattern id="stone-heather" patternUnits="userSpaceOnUse" x="0" y="0" width="16" height="16">
+      <rect x="0" y="0" width="16" height="16" fill="#A39A95" />
+      <use xlink:href="#twill" fill="#897F7D" />
+      <path d="M0 4h4v4H0z M8 12h4v4H8z" fill="#B9AEA6" />
+    </pattern>
+    <pattern id="stone-ochre" patternUnits="userSpaceOnUse" x="0" y="0" width="16" height="16">
+      <rect x="0" y="0" width="16" height="16" fill="#B9AEA6" />
+      <use xlink:href="#twill" fill="#B5A271" />
+    </pattern>
+    <pattern id="ochre-peat" patternUnits="userSpaceOnUse" x="0" y="0" width="16" height="16">
+      <rect x="0" y="0" width="16" height="16" fill="#B5A271" />
+      <use xlink:href="#twill" fill="#706965" />
+    </pattern>
+    <pattern id="ochre-heather" patternUnits="userSpaceOnUse" x="0" y="0" width="16" height="16">
+      <rect x="0" y="0" width="16" height="16" fill="#B5A271" />
+      <use xlink:href="#twill" fill="#80797D" />
+    </pattern>
+    <pattern id="ochre-stone" patternUnits="userSpaceOnUse" x="0" y="0" width="16" height="16">
+      <rect x="0" y="0" width="16" height="16" fill="#B5A271" />
+      <use xlink:href="#twill" fill="#B9AEA6" />
+    </pattern>
+    <g id="row-heather">
+      <rect x="-28" y="0" width="56" height="384" fill="#80797D" />
+      <rect x="356" y="0" width="56" height="384" fill="#80797D" />
+      <rect x="28" y="0" width="64" height="384" fill="url(#stone-heather)" />
+      <rect x="92" y="0" width="12" height="384" fill="url(#ochre-heather)" />
+      <rect x="104" y="0" width="64" height="384" fill="url(#stone-heather)" />
+      <rect x="168" y="0" width="52" height="384" fill="#80797D" />
+      <rect x="220" y="0" width="64" height="384" fill="url(#peat-heather)" />
+      <rect x="284" y="0" width="12" height="384" fill="url(#ochre-heather)" />
+      <rect x="296" y="0" width="60" height="384" fill="url(#peat-heather)" />
+    </g>
+    <g id="row-stone">
+      <rect x="-28" y="0" width="56" height="384" fill="url(#heather-stone)" />
+      <rect x="356" y="0" width="56" height="384" fill="url(#heather-stone)" />
+      <rect x="28" y="0" width="64" height="384" fill="#B9AEA6" />
+      <rect x="92" y="0" width="12" height="384" fill="url(#ochre-stone)" />
+      <rect x="104" y="0" width="64" height="384" fill="#B9AEA6" />
+      <rect x="168" y="0" width="52" height="384" fill="url(#heather-stone)" />
+      <rect x="220" y="0" width="64" height="384" fill="url(#peat-stone)" />
+      <rect x="284" y="0" width="12" height="384" fill="url(#ochre-stone)" />
+      <rect x="296" y="0" width="60" height="384" fill="url(#peat-stone)" />
+    </g>
+    <g id="row-ochre">
+      <rect x="-28" y="0" width="56" height="384" fill="url(#heather-ochre)" />
+      <rect x="356" y="0" width="56" height="384" fill="url(#heather-ochre)" />
+      <rect x="28" y="0" width="64" height="384" fill="url(#stone-ochre)" />
+      <rect x="92" y="0" width="12" height="384" fill="#B5A271" />
+      <rect x="104" y="0" width="64" height="384" fill="url(#stone-ochre)" />
+      <rect x="168" y="0" width="52" height="384" fill="url(#heather-ochre)" />
+      <rect x="220" y="0" width="64" height="384" fill="url(#peat-ochre)" />
+      <rect x="284" y="0" width="12" height="384" fill="#B5A271" />
+      <rect x="296" y="0" width="60" height="384" fill="url(#peat-ochre)" />
+    </g>
+    <g id="row-peat">
+      <rect x="-28" y="0" width="56" height="384" fill="url(#heather-peat)" />
+      <rect x="356" y="0" width="56" height="384" fill="url(#heather-peat)" />
+      <rect x="28" y="0" width="64" height="384" fill="url(#stone-peat)" />
+      <rect x="92" y="0" width="12" height="384" fill="url(#ochre-peat)" />
+      <rect x="104" y="0" width="64" height="384" fill="url(#stone-peat)" />
+      <rect x="168" y="0" width="52" height="384" fill="url(#heather-peat)" />
+      <rect x="220" y="0" width="64" height="384" fill="#706965" />
+      <rect x="284" y="0" width="12" height="384" fill="url(#ochre-peat)" />
+      <rect x="296" y="0" width="60" height="384" fill="#706965" />
+    </g>
+    <g id="sett">
+      <use xlink:href="#row-heather" clip-path="url(#band-m7)" />
+      <use xlink:href="#row-heather" clip-path="url(#band-89)" />
+      <use xlink:href="#row-stone" clip-path="url(#band-7)" />
+      <use xlink:href="#row-ochre" clip-path="url(#band-23)" />
+      <use xlink:href="#row-stone" clip-path="url(#band-26)" />
+      <use xlink:href="#row-heather" clip-path="url(#band-42)" />
+      <use xlink:href="#row-peat" clip-path="url(#band-55)" />
+      <use xlink:href="#row-ochre" clip-path="url(#band-71)" />
+      <use xlink:href="#row-peat" clip-path="url(#band-74)" />
+    </g>
+    <clipPath id="band-m7">
+      <rect x="0" y="-28" width="384" height="56" fill="#706965" />
+    </clipPath>
+    <clipPath id="band-89">
+      <rect x="0" y="356" width="384" height="56" fill="#706965" />
+    </clipPath>
+    <clipPath id="band-7">
+      <rect x="0" y="28" width="384" height="64" fill="#706965" />
+    </clipPath>
+    <clipPath id="band-23">
+      <rect x="0" y="92" width="384" height="12" fill="#706965" />
+    </clipPath>
+    <clipPath id="band-26">
+      <rect x="0" y="104" width="384" height="64" fill="#706965" />
+    </clipPath>
+    <clipPath id="band-42">
+      <rect x="0" y="168" width="384" height="52" fill="#706965" />
+    </clipPath>
+    <clipPath id="band-55">
+      <rect x="0" y="220" width="384" height="64" fill="#706965" />
+    </clipPath>
+    <clipPath id="band-71">
+      <rect x="0" y="284" width="384" height="12" fill="#706965" />
+    </clipPath>
+    <clipPath id="band-74">
+      <rect x="0" y="296" width="384" height="60" fill="#706965" />
+    </clipPath>
+  </defs>
+  <rect x="0" y="0" width="384" height="384" fill="#80797D" />
+  <use xlink:href="#sett" transform="translate(-382 -382)" />
+  <use xlink:href="#sett" transform="translate(-382 2)" />
+  <use xlink:href="#sett" transform="translate(2 -382)" />
+  <use xlink:href="#sett" transform="translate(2 2)" />
+</svg>

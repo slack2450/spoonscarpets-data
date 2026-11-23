@@ -1,0 +1,374 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="432" height="432" viewBox="0 0 432 432">
+<title>The Star Inn, Honiton — charcoal and fawn tartan with an ochre overcheck</title>
+<defs>
+<path id="twill" d="M -3.65 .8 C -3.3 -.3 -2.65 -1.45 -1.95 -2.27 Q -1.6 -2.8 -.65 -2.73 L 2.1 -2.49 Q 3.3 -2.43 3.66 -1.1 L 4.18 .12 Q 3 .68 2.25 1.86 Q 1.7 2.88 .64 2.83 L -1.68 2.68 Q -2.8 2.55 -3.65 .8 Z"/>
+<g id="twill-pair"><use xlink:href="#twill" x="2.7" y="2.5"/><use xlink:href="#twill" x="8.7" y="7.9"/></g>
+<g id="twill-row">
+<use xlink:href="#twill-pair" x="-12"/>
+<use xlink:href="#twill-pair" x="0"/>
+<use xlink:href="#twill-pair" x="12"/>
+<use xlink:href="#twill-pair" x="24"/>
+<use xlink:href="#twill-pair" x="36"/>
+<use xlink:href="#twill-pair" x="48"/>
+<use xlink:href="#twill-pair" x="60"/>
+<use xlink:href="#twill-pair" x="72"/>
+<use xlink:href="#twill-pair" x="84"/>
+<use xlink:href="#twill-pair" x="96"/>
+<use xlink:href="#twill-pair" x="108"/>
+<use xlink:href="#twill-pair" x="120"/>
+<use xlink:href="#twill-pair" x="132"/>
+<use xlink:href="#twill-pair" x="144"/>
+<use xlink:href="#twill-pair" x="156"/>
+<use xlink:href="#twill-pair" x="168"/>
+<use xlink:href="#twill-pair" x="180"/>
+<use xlink:href="#twill-pair" x="192"/>
+<use xlink:href="#twill-pair" x="204"/>
+<use xlink:href="#twill-pair" x="216"/>
+<use xlink:href="#twill-pair" x="228"/>
+<use xlink:href="#twill-pair" x="240"/>
+<use xlink:href="#twill-pair" x="252"/>
+<use xlink:href="#twill-pair" x="264"/>
+<use xlink:href="#twill-pair" x="276"/>
+<use xlink:href="#twill-pair" x="288"/>
+<use xlink:href="#twill-pair" x="300"/>
+<use xlink:href="#twill-pair" x="312"/>
+<use xlink:href="#twill-pair" x="324"/>
+<use xlink:href="#twill-pair" x="336"/>
+<use xlink:href="#twill-pair" x="348"/>
+<use xlink:href="#twill-pair" x="360"/>
+<use xlink:href="#twill-pair" x="372"/>
+<use xlink:href="#twill-pair" x="384"/>
+<use xlink:href="#twill-pair" x="396"/>
+<use xlink:href="#twill-pair" x="408"/>
+<use xlink:href="#twill-pair" x="420"/>
+<use xlink:href="#twill-pair" x="432"/>
+</g><g id="twill-field">
+<use xlink:href="#twill-row" y="-10.8"/>
+<use xlink:href="#twill-row" y="0.0"/>
+<use xlink:href="#twill-row" y="10.8"/>
+<use xlink:href="#twill-row" y="21.6"/>
+<use xlink:href="#twill-row" y="32.4"/>
+<use xlink:href="#twill-row" y="43.2"/>
+<use xlink:href="#twill-row" y="54.0"/>
+<use xlink:href="#twill-row" y="64.8"/>
+<use xlink:href="#twill-row" y="75.6"/>
+<use xlink:href="#twill-row" y="86.4"/>
+<use xlink:href="#twill-row" y="97.2"/>
+<use xlink:href="#twill-row" y="108.0"/>
+<use xlink:href="#twill-row" y="118.8"/>
+<use xlink:href="#twill-row" y="129.6"/>
+<use xlink:href="#twill-row" y="140.4"/>
+<use xlink:href="#twill-row" y="151.2"/>
+<use xlink:href="#twill-row" y="162.0"/>
+<use xlink:href="#twill-row" y="172.8"/>
+<use xlink:href="#twill-row" y="183.6"/>
+<use xlink:href="#twill-row" y="194.4"/>
+<use xlink:href="#twill-row" y="205.2"/>
+<use xlink:href="#twill-row" y="216.0"/>
+<use xlink:href="#twill-row" y="226.8"/>
+<use xlink:href="#twill-row" y="237.6"/>
+<use xlink:href="#twill-row" y="248.4"/>
+<use xlink:href="#twill-row" y="259.2"/>
+<use xlink:href="#twill-row" y="270.0"/>
+<use xlink:href="#twill-row" y="280.8"/>
+<use xlink:href="#twill-row" y="291.6"/>
+<use xlink:href="#twill-row" y="302.4"/>
+<use xlink:href="#twill-row" y="313.2"/>
+<use xlink:href="#twill-row" y="324.0"/>
+<use xlink:href="#twill-row" y="334.8"/>
+<use xlink:href="#twill-row" y="345.6"/>
+<use xlink:href="#twill-row" y="356.4"/>
+<use xlink:href="#twill-row" y="367.2"/>
+<use xlink:href="#twill-row" y="378.0"/>
+<use xlink:href="#twill-row" y="388.8"/>
+<use xlink:href="#twill-row" y="399.6"/>
+<use xlink:href="#twill-row" y="410.4"/>
+<use xlink:href="#twill-row" y="421.2"/>
+<use xlink:href="#twill-row" y="432.0"/>
+</g>
+<path id="gold" d="M -4.25 .9 Q -3.62 -.77 -2.55 -2.24 Q -2.07 -3.08 -.84 -3.04 L 2.23 -2.85 Q 3.52 -2.77 4.16 -1.09 L 4.54 .35 Q 3.09 1.01 2.39 2.22 Q 1.92 3.14 .7 3.16 L -2.07 3.02 Q -3.35 2.8 -4.25 .9 Z"/>
+<g id="gold-pair"><use xlink:href="#gold" x="2.7" y="2.5"/><use xlink:href="#gold" x="8.7" y="7.9"/></g>
+<g id="gold-row">
+<use xlink:href="#gold-pair" x="-12"/>
+<use xlink:href="#gold-pair" x="0"/>
+<use xlink:href="#gold-pair" x="12"/>
+<use xlink:href="#gold-pair" x="24"/>
+<use xlink:href="#gold-pair" x="36"/>
+<use xlink:href="#gold-pair" x="48"/>
+<use xlink:href="#gold-pair" x="60"/>
+<use xlink:href="#gold-pair" x="72"/>
+<use xlink:href="#gold-pair" x="84"/>
+<use xlink:href="#gold-pair" x="96"/>
+<use xlink:href="#gold-pair" x="108"/>
+<use xlink:href="#gold-pair" x="120"/>
+<use xlink:href="#gold-pair" x="132"/>
+<use xlink:href="#gold-pair" x="144"/>
+<use xlink:href="#gold-pair" x="156"/>
+<use xlink:href="#gold-pair" x="168"/>
+<use xlink:href="#gold-pair" x="180"/>
+<use xlink:href="#gold-pair" x="192"/>
+<use xlink:href="#gold-pair" x="204"/>
+<use xlink:href="#gold-pair" x="216"/>
+<use xlink:href="#gold-pair" x="228"/>
+<use xlink:href="#gold-pair" x="240"/>
+<use xlink:href="#gold-pair" x="252"/>
+<use xlink:href="#gold-pair" x="264"/>
+<use xlink:href="#gold-pair" x="276"/>
+<use xlink:href="#gold-pair" x="288"/>
+<use xlink:href="#gold-pair" x="300"/>
+<use xlink:href="#gold-pair" x="312"/>
+<use xlink:href="#gold-pair" x="324"/>
+<use xlink:href="#gold-pair" x="336"/>
+<use xlink:href="#gold-pair" x="348"/>
+<use xlink:href="#gold-pair" x="360"/>
+<use xlink:href="#gold-pair" x="372"/>
+<use xlink:href="#gold-pair" x="384"/>
+<use xlink:href="#gold-pair" x="396"/>
+<use xlink:href="#gold-pair" x="408"/>
+<use xlink:href="#gold-pair" x="420"/>
+<use xlink:href="#gold-pair" x="432"/>
+</g><g id="gold-field">
+<use xlink:href="#gold-row" y="-10.8"/>
+<use xlink:href="#gold-row" y="0.0"/>
+<use xlink:href="#gold-row" y="10.8"/>
+<use xlink:href="#gold-row" y="21.6"/>
+<use xlink:href="#gold-row" y="32.4"/>
+<use xlink:href="#gold-row" y="43.2"/>
+<use xlink:href="#gold-row" y="54.0"/>
+<use xlink:href="#gold-row" y="64.8"/>
+<use xlink:href="#gold-row" y="75.6"/>
+<use xlink:href="#gold-row" y="86.4"/>
+<use xlink:href="#gold-row" y="97.2"/>
+<use xlink:href="#gold-row" y="108.0"/>
+<use xlink:href="#gold-row" y="118.8"/>
+<use xlink:href="#gold-row" y="129.6"/>
+<use xlink:href="#gold-row" y="140.4"/>
+<use xlink:href="#gold-row" y="151.2"/>
+<use xlink:href="#gold-row" y="162.0"/>
+<use xlink:href="#gold-row" y="172.8"/>
+<use xlink:href="#gold-row" y="183.6"/>
+<use xlink:href="#gold-row" y="194.4"/>
+<use xlink:href="#gold-row" y="205.2"/>
+<use xlink:href="#gold-row" y="216.0"/>
+<use xlink:href="#gold-row" y="226.8"/>
+<use xlink:href="#gold-row" y="237.6"/>
+<use xlink:href="#gold-row" y="248.4"/>
+<use xlink:href="#gold-row" y="259.2"/>
+<use xlink:href="#gold-row" y="270.0"/>
+<use xlink:href="#gold-row" y="280.8"/>
+<use xlink:href="#gold-row" y="291.6"/>
+<use xlink:href="#gold-row" y="302.4"/>
+<use xlink:href="#gold-row" y="313.2"/>
+<use xlink:href="#gold-row" y="324.0"/>
+<use xlink:href="#gold-row" y="334.8"/>
+<use xlink:href="#gold-row" y="345.6"/>
+<use xlink:href="#gold-row" y="356.4"/>
+<use xlink:href="#gold-row" y="367.2"/>
+<use xlink:href="#gold-row" y="378.0"/>
+<use xlink:href="#gold-row" y="388.8"/>
+<use xlink:href="#gold-row" y="399.6"/>
+<use xlink:href="#gold-row" y="410.4"/>
+<use xlink:href="#gold-row" y="421.2"/>
+<use xlink:href="#gold-row" y="432.0"/>
+</g>
+<clipPath id="area-BA1">
+<rect x="12" y="0" width="72" height="12"/>
+<rect x="204" y="0" width="24" height="12"/>
+<rect x="348" y="0" width="72" height="12"/>
+<rect x="12" y="420" width="72" height="12"/>
+<rect x="204" y="420" width="24" height="12"/>
+<rect x="348" y="420" width="72" height="12"/>
+</clipPath>
+<clipPath id="area-TA1">
+<rect x="84" y="0" width="48" height="12"/>
+<rect x="300" y="0" width="48" height="12"/>
+<rect x="84" y="420" width="48" height="12"/>
+<rect x="300" y="420" width="48" height="12"/>
+</clipPath>
+<clipPath id="area-GA1">
+<rect x="132" y="0" width="24" height="12"/>
+<rect x="156" y="0" width="48" height="12"/>
+<rect x="228" y="0" width="48" height="12"/>
+<rect x="276" y="0" width="24" height="12"/>
+<rect x="132" y="420" width="24" height="12"/>
+<rect x="156" y="420" width="48" height="12"/>
+<rect x="228" y="420" width="48" height="12"/>
+<rect x="276" y="420" width="24" height="12"/>
+</clipPath>
+<clipPath id="area-BA0">
+<rect x="0" y="12" width="12" height="72"/>
+<rect x="420" y="12" width="12" height="72"/>
+<rect x="0" y="204" width="12" height="24"/>
+<rect x="420" y="204" width="12" height="24"/>
+<rect x="0" y="348" width="12" height="72"/>
+<rect x="420" y="348" width="12" height="72"/>
+</clipPath>
+<clipPath id="area-BT0">
+<rect x="84" y="12" width="48" height="72"/>
+<rect x="300" y="12" width="48" height="72"/>
+<rect x="84" y="132" width="48" height="24"/>
+<rect x="300" y="132" width="48" height="24"/>
+<rect x="84" y="204" width="48" height="24"/>
+<rect x="300" y="204" width="48" height="24"/>
+<rect x="84" y="276" width="48" height="24"/>
+<rect x="300" y="276" width="48" height="24"/>
+<rect x="84" y="348" width="48" height="72"/>
+<rect x="300" y="348" width="48" height="72"/>
+</clipPath>
+<clipPath id="area-BG0">
+<rect x="132" y="12" width="24" height="72"/>
+<rect x="156" y="12" width="48" height="72"/>
+<rect x="228" y="12" width="48" height="72"/>
+<rect x="276" y="12" width="24" height="72"/>
+<rect x="132" y="132" width="24" height="24"/>
+<rect x="156" y="132" width="48" height="24"/>
+<rect x="228" y="132" width="48" height="24"/>
+<rect x="276" y="132" width="24" height="24"/>
+<rect x="132" y="204" width="24" height="24"/>
+<rect x="156" y="204" width="48" height="24"/>
+<rect x="228" y="204" width="48" height="24"/>
+<rect x="276" y="204" width="24" height="24"/>
+<rect x="132" y="276" width="24" height="24"/>
+<rect x="156" y="276" width="48" height="24"/>
+<rect x="228" y="276" width="48" height="24"/>
+<rect x="276" y="276" width="24" height="24"/>
+<rect x="132" y="348" width="24" height="72"/>
+<rect x="156" y="348" width="48" height="72"/>
+<rect x="228" y="348" width="48" height="72"/>
+<rect x="276" y="348" width="24" height="72"/>
+</clipPath>
+<clipPath id="area-TA0">
+<rect x="0" y="84" width="12" height="48"/>
+<rect x="420" y="84" width="12" height="48"/>
+<rect x="0" y="300" width="12" height="48"/>
+<rect x="420" y="300" width="12" height="48"/>
+</clipPath>
+<clipPath id="area-BT1">
+<rect x="12" y="84" width="72" height="48"/>
+<rect x="132" y="84" width="24" height="48"/>
+<rect x="204" y="84" width="24" height="48"/>
+<rect x="276" y="84" width="24" height="48"/>
+<rect x="348" y="84" width="72" height="48"/>
+<rect x="12" y="300" width="72" height="48"/>
+<rect x="132" y="300" width="24" height="48"/>
+<rect x="204" y="300" width="24" height="48"/>
+<rect x="276" y="300" width="24" height="48"/>
+<rect x="348" y="300" width="72" height="48"/>
+</clipPath>
+<clipPath id="area-GT1">
+<rect x="156" y="84" width="48" height="48"/>
+<rect x="228" y="84" width="48" height="48"/>
+<rect x="156" y="300" width="48" height="48"/>
+<rect x="228" y="300" width="48" height="48"/>
+</clipPath>
+<clipPath id="area-GA0">
+<rect x="0" y="132" width="12" height="24"/>
+<rect x="420" y="132" width="12" height="24"/>
+<rect x="0" y="156" width="12" height="48"/>
+<rect x="420" y="156" width="12" height="48"/>
+<rect x="0" y="228" width="12" height="48"/>
+<rect x="420" y="228" width="12" height="48"/>
+<rect x="0" y="276" width="12" height="24"/>
+<rect x="420" y="276" width="12" height="24"/>
+</clipPath>
+<clipPath id="area-BG1">
+<rect x="12" y="132" width="72" height="24"/>
+<rect x="204" y="132" width="24" height="24"/>
+<rect x="348" y="132" width="72" height="24"/>
+<rect x="12" y="156" width="72" height="48"/>
+<rect x="132" y="156" width="24" height="48"/>
+<rect x="204" y="156" width="24" height="48"/>
+<rect x="276" y="156" width="24" height="48"/>
+<rect x="348" y="156" width="72" height="48"/>
+<rect x="12" y="228" width="72" height="48"/>
+<rect x="132" y="228" width="24" height="48"/>
+<rect x="204" y="228" width="24" height="48"/>
+<rect x="276" y="228" width="24" height="48"/>
+<rect x="348" y="228" width="72" height="48"/>
+<rect x="12" y="276" width="72" height="24"/>
+<rect x="204" y="276" width="24" height="24"/>
+<rect x="348" y="276" width="72" height="24"/>
+</clipPath>
+<clipPath id="area-GT0">
+<rect x="84" y="156" width="48" height="48"/>
+<rect x="300" y="156" width="48" height="48"/>
+<rect x="84" y="228" width="48" height="48"/>
+<rect x="300" y="228" width="48" height="48"/>
+</clipPath>
+</defs>
+<rect width="432" height="432" fill="#100f10"/>
+<g fill="#b27e4f">
+<rect x="0" y="0" width="12" height="12"/>
+<rect x="420" y="0" width="12" height="12"/>
+<rect x="0" y="420" width="12" height="12"/>
+<rect x="420" y="420" width="12" height="12"/>
+</g>
+<g fill="#927557">
+<rect x="84" y="0" width="48" height="12"/>
+<rect x="300" y="0" width="48" height="12"/>
+<rect x="84" y="420" width="48" height="12"/>
+<rect x="300" y="420" width="48" height="12"/>
+</g>
+<g fill="#4f4d48">
+<rect x="132" y="0" width="24" height="12"/>
+<rect x="156" y="0" width="48" height="12"/>
+<rect x="228" y="0" width="48" height="12"/>
+<rect x="276" y="0" width="24" height="12"/>
+<rect x="132" y="420" width="24" height="12"/>
+<rect x="156" y="420" width="48" height="12"/>
+<rect x="228" y="420" width="48" height="12"/>
+<rect x="276" y="420" width="24" height="12"/>
+</g>
+<g fill="#927557">
+<rect x="0" y="84" width="12" height="48"/>
+<rect x="420" y="84" width="12" height="48"/>
+<rect x="0" y="300" width="12" height="48"/>
+<rect x="420" y="300" width="12" height="48"/>
+</g>
+<g fill="#927557">
+<rect x="84" y="84" width="48" height="48"/>
+<rect x="300" y="84" width="48" height="48"/>
+<rect x="84" y="300" width="48" height="48"/>
+<rect x="300" y="300" width="48" height="48"/>
+</g>
+<g fill="#4f4d48">
+<rect x="156" y="84" width="48" height="48"/>
+<rect x="228" y="84" width="48" height="48"/>
+<rect x="156" y="300" width="48" height="48"/>
+<rect x="228" y="300" width="48" height="48"/>
+</g>
+<g fill="#4f4d48">
+<rect x="0" y="132" width="12" height="24"/>
+<rect x="420" y="132" width="12" height="24"/>
+<rect x="0" y="156" width="12" height="48"/>
+<rect x="420" y="156" width="12" height="48"/>
+<rect x="0" y="228" width="12" height="48"/>
+<rect x="420" y="228" width="12" height="48"/>
+<rect x="0" y="276" width="12" height="24"/>
+<rect x="420" y="276" width="12" height="24"/>
+</g>
+<g fill="#4f4d48">
+<rect x="84" y="156" width="48" height="48"/>
+<rect x="300" y="156" width="48" height="48"/>
+<rect x="84" y="228" width="48" height="48"/>
+<rect x="300" y="228" width="48" height="48"/>
+</g>
+<g fill="#4f4d48">
+<rect x="156" y="156" width="48" height="48"/>
+<rect x="228" y="156" width="48" height="48"/>
+<rect x="156" y="228" width="48" height="48"/>
+<rect x="228" y="228" width="48" height="48"/>
+</g>
+<g clip-path="url(#area-BA1)" fill="#b27e4f"><use xlink:href="#gold-field" transform="translate(432 0) scale(-1 1)"/></g>
+<g clip-path="url(#area-TA1)" fill="#b27e4f"><use xlink:href="#gold-field" transform="translate(432 0) scale(-1 1)"/></g>
+<g clip-path="url(#area-GA1)" fill="#b27e4f"><use xlink:href="#gold-field" transform="translate(432 0) scale(-1 1)"/></g>
+<g clip-path="url(#area-BA0)" fill="#b27e4f"><use xlink:href="#gold-field"/></g>
+<g clip-path="url(#area-BT0)" fill="#927557"><use xlink:href="#twill-field"/></g>
+<g clip-path="url(#area-BG0)" fill="#4f4d48"><use xlink:href="#twill-field"/></g>
+<g clip-path="url(#area-TA0)" fill="#b27e4f"><use xlink:href="#gold-field"/></g>
+<g clip-path="url(#area-BT1)" fill="#927557"><use xlink:href="#twill-field" transform="translate(432 0) scale(-1 1)"/></g>
+<g clip-path="url(#area-GT1)" fill="#927557"><use xlink:href="#twill-field" transform="translate(432 0) scale(-1 1)"/></g>
+<g clip-path="url(#area-GA0)" fill="#b27e4f"><use xlink:href="#gold-field"/></g>
+<g clip-path="url(#area-BG1)" fill="#4f4d48"><use xlink:href="#twill-field" transform="translate(432 0) scale(-1 1)"/></g>
+<g clip-path="url(#area-GT0)" fill="#927557"><use xlink:href="#twill-field"/></g>
+</svg>

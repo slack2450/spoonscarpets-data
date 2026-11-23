@@ -1,0 +1,86 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="420" height="752" viewBox="0 0 420 752">
+<title>The Coliseum, Abergavenny — looping filmstrips</title>
+<defs><path id="field" fill="#79766a" d="
+ M-32 162 C-3 167 37 153 51 124 C68 93 59 68 38 52
+ C80 59 82 93 112 115 C123 125 149 125 170 104
+ C188 128 176 161 151 178 C123 196 94 207 66 195
+ C31 180 -7 190 -32 191 C-20 183 -14 174 -32 162 Z
+ M183 239 C195 210 200 172 241 151 C258 142 271 138 286 123
+ C285 167 288 196 286 230 C256 254 216 254 183 239 Z
+ M290 270 C337 235 355 190 357 145 Q376 147 399 146
+ C392 188 386 210 367 236 C345 267 367 281 389 294
+ C345 289 307 293 290 270 Z
+ M18 193 C48 191 82 200 103 220 C121 237 126 259 147 276
+ C177 296 203 302 242 311 C281 316 315 324 346 348
+ C308 336 276 342 235 350 C174 357 123 323 91 285
+ C78 260 53 230 18 219 Q5 209 -11 204 Q4 204 18 205 Z
+ M-39 315 C-12 323 20 346 57 363 C89 378 137 385 158 401
+ C177 417 193 427 204 443 C165 424 116 413 75 406
+ C21 395 -21 363 -39 315 Z"/><path id="spokes" fill="#3c3939" d="
+ M-39 163 C-8 170 31 157 49 141 C66 124 63 103 47 74
+ C70 87 83 101 85 115 C88 139 71 162 52 174
+ C33 187 14 188 -26 188 Q-12 177 -39 163 Z
+ M60 145 C84 139 112 150 139 144 C160 140 172 127 176 102
+ C185 130 179 152 167 170 C156 185 153 199 148 211
+ C134 195 116 186 98 179 C88 173 75 166 60 163 Z
+ M147 212 C162 199 168 173 178 161 C188 145 197 138 214 131
+ C188 153 184 177 179 193 C177 203 180 211 182 218 Z
+ M189 241 C201 219 201 198 216 180 C234 157 258 156 278 127
+ C279 145 274 159 265 170 C251 171 242 175 233 185
+ C224 192 217 206 217 216 C223 206 235 199 250 196
+ C238 205 230 216 226 227 Q239 233 258 236
+ C245 245 218 249 189 241 Z
+ M288 276 C328 251 348 220 360 186 C367 166 371 154 369 141
+ L390 144 C389 169 381 192 368 214 C361 225 355 236 350 243
+ C363 242 374 238 385 228 C380 242 370 250 352 252
+ C347 253 343 255 340 261 C356 264 373 261 388 252
+ C381 264 367 272 349 272 C344 272 338 271 333 269
+ Q326 272 322 279 C344 293 365 292 384 283
+ C369 301 344 304 315 289 Z
+ M-38 159 C5 166 45 181 74 203 C99 223 117 247 140 268
+ C95 249 80 227 48 213 C16 199 -5 200 -31 189
+ C-5 191 15 193 39 200 C12 183 -15 172 -38 159 Z
+ M61 245 C106 264 118 296 141 318 C116 310 103 295 89 280 Z
+ M197 299 C234 310 285 308 323 332 Q336 343 354 351
+ C319 339 292 338 259 332 C234 327 213 315 197 299 Z
+ M-37 302 C-12 337 36 370 91 386 C46 380 -9 361 -37 330 Z"/><path id="accents" fill="#ae9b83" d="
+ M122 151 Q150 150 164 141 Q150 157 122 155 Z
+ M231 189 Q246 172 265 165 Q258 173 252 179 Q241 182 231 189 Z
+ M372 177 Q377 163 377 151 L380 152 Q379 164 372 177 Z
+ M31 190 Q60 193 82 211 Q58 199 31 195 Z"/><g id="lining" fill="none" stroke="#c9a157" stroke-width="2.65"><path d="M119 319 Q191 265 221 211 Q247 163 266 74 M209 218 Q201 126 165 81 M209 218 Q254 161 321 140 M210 220 Q264 205 312 223 M203 224 Q161 195 109 182 M55 199 Q81 149 59 109 M55 196 Q92 140 132 107 M61 183 Q109 151 160 146 M76 172 Q126 174 164 205 M344 239 Q377 244 415 266 M344 252 Q369 260 399 289"/></g><path id="sweep" d="M55 247
+ C37 244 23 260 25 281 C28 311 54 331 89 349
+ C118 365 149 375 179 391 C218 411 248 435 255 467
+ C262 497 246 523 216 537 C194 547 173 548 153 541
+ C134 535 119 522 115 508 C111 498 112 490 119 482
+ C130 498 149 508 169 508 C193 508 211 499 216 482
+ C222 461 206 442 181 426 C151 406 111 394 75 379
+ C31 361 -4 344 -19 312 C-30 287 -27 259 -8 238
+ C9 219 38 211 52 225 C58 231 60 239 55 247 Z"/><path id="scroll" d="M89 178
+ C105 176 126 193 150 207 C179 223 211 235 240 234
+ C261 234 275 229 279 212 C283 194 274 170 270 147
+ C264 118 265 92 280 72 C292 56 310 48 327 50
+ C345 51 359 59 370 69 C379 78 389 84 399 86
+ C401 94 397 102 390 104 C380 106 367 97 354 92
+ C338 85 327 88 317 101 C305 116 309 137 314 158
+ C322 187 330 210 324 232 C319 255 300 265 273 267
+ C225 269 183 255 148 236 C124 223 105 207 90 205
+ C86 197 85 186 89 178 Z"/><path id="lower" d="M101 211
+ C115 209 135 227 157 239 C191 257 218 264 250 272
+ C292 283 326 298 350 316 C379 337 394 352 397 370
+ C400 390 387 409 367 416 C347 424 328 419 317 407
+ C305 396 303 386 307 379 C317 393 333 398 346 394
+ C360 390 365 381 360 369 C354 354 332 340 306 328
+ C276 314 244 307 209 298 C169 288 136 271 114 252
+ C101 241 92 222 101 211 Z"/><path id="turn" d="M62 258
+ C78 257 87 276 96 295 C108 318 133 331 161 340
+ C198 352 230 346 265 346 C303 346 337 352 360 365
+ C374 373 383 386 380 399 C377 412 363 419 351 421
+ C338 423 329 428 329 439 C328 452 345 462 352 476
+ C359 492 352 507 336 514 C320 523 293 522 277 516
+ L276 486 C291 488 310 491 319 482
+ C327 473 311 461 306 448 C297 429 301 413 313 401
+ C321 392 338 390 344 384 C329 378 303 374 274 375
+ C229 376 192 382 157 370 C123 359 97 346 80 328
+ C65 311 70 282 61 269 C58 264 58 260 62 258 Z"/><g id="lower-ink" fill="#dfd8c7"><use xlink:href="#lower" stroke="#9c3542" stroke-width="10.5" stroke-linejoin="round"/><use xlink:href="#lower" fill="none" stroke="#79766a" stroke-width="3.4" stroke-dasharray="4 7.5" stroke-linejoin="round"/></g><g id="turn-ink" fill="#dfd8c7"><use xlink:href="#turn" stroke="#9c3542" stroke-width="10.5" stroke-linejoin="round"/><use xlink:href="#turn" fill="none" stroke="#79766a" stroke-width="3.4" stroke-dasharray="4 7.5" stroke-linejoin="round"/></g><g id="sweep-ink" fill="#dfd8c7"><use xlink:href="#sweep" stroke="#9c3542" stroke-width="10.5" stroke-linejoin="round"/><use xlink:href="#sweep" fill="none" stroke="#79766a" stroke-width="3.4" stroke-dasharray="4 7.5" stroke-linejoin="round"/></g><g id="scroll-ink" fill="#dfd8c7"><use xlink:href="#scroll" stroke="#9c3542" stroke-width="10.5" stroke-linejoin="round"/><use xlink:href="#scroll" fill="none" stroke="#79766a" stroke-width="3.4" stroke-dasharray="4 7.5" stroke-linejoin="round"/></g></defs>
+<rect width="420" height="752" fill="#ae9b83"/>
+<use xlink:href="#field" transform="translate(-630 -376)"/><use xlink:href="#field" transform="translate(-210 -376)"/><use xlink:href="#field" transform="translate(210 -376)"/><use xlink:href="#field" transform="translate(630 -376)"/><use xlink:href="#field" transform="translate(-420 0)"/><use xlink:href="#field" transform="translate(0 0)"/><use xlink:href="#field" transform="translate(420 0)"/><use xlink:href="#field" transform="translate(840 0)"/><use xlink:href="#field" transform="translate(-630 376)"/><use xlink:href="#field" transform="translate(-210 376)"/><use xlink:href="#field" transform="translate(210 376)"/><use xlink:href="#field" transform="translate(630 376)"/><use xlink:href="#field" transform="translate(-420 752)"/><use xlink:href="#field" transform="translate(0 752)"/><use xlink:href="#field" transform="translate(420 752)"/><use xlink:href="#field" transform="translate(840 752)"/><use xlink:href="#lining" transform="translate(-630 -376)"/><use xlink:href="#lining" transform="translate(-210 -376)"/><use xlink:href="#lining" transform="translate(210 -376)"/><use xlink:href="#lining" transform="translate(630 -376)"/><use xlink:href="#lining" transform="translate(-420 0)"/><use xlink:href="#lining" transform="translate(0 0)"/><use xlink:href="#lining" transform="translate(420 0)"/><use xlink:href="#lining" transform="translate(840 0)"/><use xlink:href="#lining" transform="translate(-630 376)"/><use xlink:href="#lining" transform="translate(-210 376)"/><use xlink:href="#lining" transform="translate(210 376)"/><use xlink:href="#lining" transform="translate(630 376)"/><use xlink:href="#lining" transform="translate(-420 752)"/><use xlink:href="#lining" transform="translate(0 752)"/><use xlink:href="#lining" transform="translate(420 752)"/><use xlink:href="#lining" transform="translate(840 752)"/><use xlink:href="#spokes" transform="translate(-630 -376)"/><use xlink:href="#spokes" transform="translate(-210 -376)"/><use xlink:href="#spokes" transform="translate(210 -376)"/><use xlink:href="#spokes" transform="translate(630 -376)"/><use xlink:href="#spokes" transform="translate(-420 0)"/><use xlink:href="#spokes" transform="translate(0 0)"/><use xlink:href="#spokes" transform="translate(420 0)"/><use xlink:href="#spokes" transform="translate(840 0)"/><use xlink:href="#spokes" transform="translate(-630 376)"/><use xlink:href="#spokes" transform="translate(-210 376)"/><use xlink:href="#spokes" transform="translate(210 376)"/><use xlink:href="#spokes" transform="translate(630 376)"/><use xlink:href="#spokes" transform="translate(-420 752)"/><use xlink:href="#spokes" transform="translate(0 752)"/><use xlink:href="#spokes" transform="translate(420 752)"/><use xlink:href="#spokes" transform="translate(840 752)"/><use xlink:href="#accents" transform="translate(-630 -376)"/><use xlink:href="#accents" transform="translate(-210 -376)"/><use xlink:href="#accents" transform="translate(210 -376)"/><use xlink:href="#accents" transform="translate(630 -376)"/><use xlink:href="#accents" transform="translate(-420 0)"/><use xlink:href="#accents" transform="translate(0 0)"/><use xlink:href="#accents" transform="translate(420 0)"/><use xlink:href="#accents" transform="translate(840 0)"/><use xlink:href="#accents" transform="translate(-630 376)"/><use xlink:href="#accents" transform="translate(-210 376)"/><use xlink:href="#accents" transform="translate(210 376)"/><use xlink:href="#accents" transform="translate(630 376)"/><use xlink:href="#accents" transform="translate(-420 752)"/><use xlink:href="#accents" transform="translate(0 752)"/><use xlink:href="#accents" transform="translate(420 752)"/><use xlink:href="#accents" transform="translate(840 752)"/><use xlink:href="#lower-ink" transform="translate(-630 -376)"/><use xlink:href="#lower-ink" transform="translate(-210 -376)"/><use xlink:href="#lower-ink" transform="translate(210 -376)"/><use xlink:href="#lower-ink" transform="translate(630 -376)"/><use xlink:href="#lower-ink" transform="translate(-420 0)"/><use xlink:href="#lower-ink" transform="translate(0 0)"/><use xlink:href="#lower-ink" transform="translate(420 0)"/><use xlink:href="#lower-ink" transform="translate(840 0)"/><use xlink:href="#lower-ink" transform="translate(-630 376)"/><use xlink:href="#lower-ink" transform="translate(-210 376)"/><use xlink:href="#lower-ink" transform="translate(210 376)"/><use xlink:href="#lower-ink" transform="translate(630 376)"/><use xlink:href="#lower-ink" transform="translate(-420 752)"/><use xlink:href="#lower-ink" transform="translate(0 752)"/><use xlink:href="#lower-ink" transform="translate(420 752)"/><use xlink:href="#lower-ink" transform="translate(840 752)"/><use xlink:href="#turn-ink" transform="translate(-630 -376)"/><use xlink:href="#turn-ink" transform="translate(-210 -376)"/><use xlink:href="#turn-ink" transform="translate(210 -376)"/><use xlink:href="#turn-ink" transform="translate(630 -376)"/><use xlink:href="#turn-ink" transform="translate(-420 0)"/><use xlink:href="#turn-ink" transform="translate(0 0)"/><use xlink:href="#turn-ink" transform="translate(420 0)"/><use xlink:href="#turn-ink" transform="translate(840 0)"/><use xlink:href="#turn-ink" transform="translate(-630 376)"/><use xlink:href="#turn-ink" transform="translate(-210 376)"/><use xlink:href="#turn-ink" transform="translate(210 376)"/><use xlink:href="#turn-ink" transform="translate(630 376)"/><use xlink:href="#turn-ink" transform="translate(-420 752)"/><use xlink:href="#turn-ink" transform="translate(0 752)"/><use xlink:href="#turn-ink" transform="translate(420 752)"/><use xlink:href="#turn-ink" transform="translate(840 752)"/><use xlink:href="#sweep-ink" transform="translate(-630 -376)"/><use xlink:href="#sweep-ink" transform="translate(-210 -376)"/><use xlink:href="#sweep-ink" transform="translate(210 -376)"/><use xlink:href="#sweep-ink" transform="translate(630 -376)"/><use xlink:href="#sweep-ink" transform="translate(-420 0)"/><use xlink:href="#sweep-ink" transform="translate(0 0)"/><use xlink:href="#sweep-ink" transform="translate(420 0)"/><use xlink:href="#sweep-ink" transform="translate(840 0)"/><use xlink:href="#sweep-ink" transform="translate(-630 376)"/><use xlink:href="#sweep-ink" transform="translate(-210 376)"/><use xlink:href="#sweep-ink" transform="translate(210 376)"/><use xlink:href="#sweep-ink" transform="translate(630 376)"/><use xlink:href="#sweep-ink" transform="translate(-420 752)"/><use xlink:href="#sweep-ink" transform="translate(0 752)"/><use xlink:href="#sweep-ink" transform="translate(420 752)"/><use xlink:href="#sweep-ink" transform="translate(840 752)"/><use xlink:href="#scroll-ink" transform="translate(-630 -376)"/><use xlink:href="#scroll-ink" transform="translate(-210 -376)"/><use xlink:href="#scroll-ink" transform="translate(210 -376)"/><use xlink:href="#scroll-ink" transform="translate(630 -376)"/><use xlink:href="#scroll-ink" transform="translate(-420 0)"/><use xlink:href="#scroll-ink" transform="translate(0 0)"/><use xlink:href="#scroll-ink" transform="translate(420 0)"/><use xlink:href="#scroll-ink" transform="translate(840 0)"/><use xlink:href="#scroll-ink" transform="translate(-630 376)"/><use xlink:href="#scroll-ink" transform="translate(-210 376)"/><use xlink:href="#scroll-ink" transform="translate(210 376)"/><use xlink:href="#scroll-ink" transform="translate(630 376)"/><use xlink:href="#scroll-ink" transform="translate(-420 752)"/><use xlink:href="#scroll-ink" transform="translate(0 752)"/><use xlink:href="#scroll-ink" transform="translate(420 752)"/><use xlink:href="#scroll-ink" transform="translate(840 752)"/></svg>

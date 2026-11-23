@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="320" height="320" viewBox="0 0 320 320">
+  <title>The Man in the Moon, Newport — basketweave carpet repeat</title>
+  <desc>Alternating cream bands edged in teal enclose four-loop square ornaments on an ochre ground.</desc>
+  <defs>
+    <g id="corner-loop" fill="#47747C" fill-rule="evenodd">
+      <path d="M-54.7-55.5 H-17 Q-15.4-55.5-15.4-54 V-15 H-54.6 Q-56-15-56-16.6 V-54 Q-56-55.5-54.7-55.5 Z
+               M-44.5-44.8 Q-46-44.8-46-43.2 V-26.7 Q-46-25-44.5-25 H-27.1 Q-25.7-25-25.7-26.8 V-43.4 Q-25.7-44.8-27-44.8 Z"/>
+    </g>
+    <g id="ornament">
+      <use xlink:href="#corner-loop"/>
+      <use xlink:href="#corner-loop" transform="rotate(90)"/>
+      <use xlink:href="#corner-loop" transform="rotate(180)"/>
+      <use xlink:href="#corner-loop" transform="rotate(270)"/>
+      <g fill="#47747C">
+        <rect x="-5.3" y="-55.8" width="10.6" height="111.6" rx="1.1"/>
+        <rect x="-55.8" y="-5.3" width="111.6" height="10.6" rx="1.1"/>
+        <rect x="-25.8" y="-25.8" width="51.6" height="51.6" rx="1.4"/>
+      </g>
+      <rect x="-13" y="-13" width="26" height="26" rx="2.5" fill="#DAB992"/>
+      <rect x="-5.7" y="-5.7" width="11.4" height="11.4" rx="1.2" fill="#D3C6C1"/>
+    </g>
+    <g id="ribbon">
+      <rect x="-156.2" y="-35.6" width="312.4" height="20.9" rx="1.5" fill="#47747C"/>
+      <rect x="-156.2" y="14.7" width="312.4" height="20.9" rx="1.5" fill="#47747C"/>
+      <rect x="-156.9" y="-12.6" width="313.8" height="25.2" rx="1.6" fill="#D3C6C1"/>
+    </g>
+    <g id="repeat" transform="matrix(.8 .8 -.8 .8 160 160)">
+      <use xlink:href="#ribbon" transform="translate(100 -100)"/>
+      <use xlink:href="#ribbon" transform="translate(100 100) rotate(90)"/>
+      <use xlink:href="#ornament"/>
+      <use xlink:href="#ornament" x="200"/>
+    </g>
+  </defs>
+  <rect width="320" height="320" fill="#DAB992"/>
+  <use xlink:href="#repeat" x="-320" y="-320"/>
+  <use xlink:href="#repeat" x="0" y="-320"/>
+  <use xlink:href="#repeat" x="320" y="-320"/>
+  <use xlink:href="#repeat" x="-320" y="0"/>
+  <use xlink:href="#repeat" x="0" y="0"/>
+  <use xlink:href="#repeat" x="320" y="0"/>
+  <use xlink:href="#repeat" x="-320" y="320"/>
+  <use xlink:href="#repeat" x="0" y="320"/>
+  <use xlink:href="#repeat" x="320" y="320"/>
+</svg>

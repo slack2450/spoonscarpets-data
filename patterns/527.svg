@@ -1,0 +1,110 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="512" height="512" viewBox="0 0 512 512">
+<title>The Hope Tap, Reading — gilt laurel lattice and split four-petal florets</title>
+<defs>
+<g id="leaf1" fill="#C59F6D">
+<path d="M 0,1 C 6,9 8,27 21,42 Q 27,50 35,51 L 33,61 Q 42,70 51,68 L 53,79 Q 68,84 77,85 Q 86,86 99,100 Q 102,84 94,64 Q 91,56 89,47 Q 81,38 76,37 L 77,30 Q 67,19 55,17 L 56,13 Q 44,7 33,9 L 27,5 Q 17,7 0,1 Z"/>
+</g>
+<g id="leaf2" fill="#C59F6D">
+<path d="M 0,1 Q 8,16 9,28 Q 13,46 29,54 L 26,60 Q 38,70 48,68 L 50,78 Q 61,85 69,83 Q 83,96 101,99 Q 102,89 94,79 Q 98,61 86,45 Q 79,33 69,28 L 67,23 Q 54,15 48,18 L 45,11 Q 28,9 21,11 Q 10,8 0,1 Z"/>
+</g>
+<g id="leaf3" fill="#C59F6D">
+<path d="M 0,1 Q 7,12 10,27 Q 16,41 25,44 L 22,48 Q 29,59 40,61 Q 44,73 57,74 L 60,81 Q 77,84 86,91 L 99,100 Q 99,88 95,80 Q 99,66 91,54 L 86,48 Q 88,42 81,34 Q 72,24 63,25 L 61,18 Q 50,14 40,14 L 35,9 Q 18,8 0,1 Z"/>
+</g>
+<g id="leaf4" fill="#C59F6D">
+<path d="M 0,0 Q 11,14 12,30 Q 17,42 27,50 Q 24,54 30,60 Q 39,63 46,62 L 48,70 Q 55,77 63,75 Q 73,87 87,85 L 99,99 Q 105,82 98,70 L 99,64 Q 94,46 81,40 L 82,35 Q 76,24 62,23 L 58,16 Q 47,12 37,15 L 32,8 Q 16,10 0,0 Z"/>
+</g>
+<g id="leaf5" fill="#C59F6D">
+<path d="M 0,0 Q 9,16 11,29 Q 17,44 28,53 L 29,59 Q 40,66 49,64 Q 53,76 62,77 L 68,76 Q 81,90 88,90 L 99,100 Q 104,90 98,78 L 100,71 Q 96,52 85,46 Q 84,35 70,29 L 66,29 Q 59,19 53,18 L 41,18 L 39,13 Q 28,7 18,9 Q 11,5 0,0 Z"/>
+</g>
+<g id="leaf6" fill="#C59F6D">
+<path d="M 0,0 Q 11,9 13,25 Q 13,46 23,59 L 29,58 Q 30,72 41,78 L 47,76 Q 54,89 67,89 Q 76,96 84,92 L 95,100 Q 104,95 100,84 Q 104,68 95,52 L 96,45 Q 90,31 75,29 L 73,22 Q 61,14 54,18 L 49,10 Q 29,10 22,12 Q 13,8 0,0 Z"/>
+</g>
+<g id="leaf7" fill="#C59F6D">
+<path d="M 0,0 Q 10,15 11,31 Q 13,49 26,58 L 25,64 Q 30,74 40,74 L 43,82 Q 56,92 66,87 L 69,93 Q 78,95 85,92 Q 94,102 100,97 Q 105,85 97,71 Q 102,56 88,44 L 89,39 Q 82,29 70,28 L 68,21 Q 58,16 48,18 Q 43,8 32,10 L 23,11 Q 16,6 0,0 Z"/>
+</g>
+<g id="leaf8" fill="#C59F6D">
+<path d="M 0,0 Q 11,17 12,29 Q 14,44 25,51 Q 24,62 34,70 L 42,68 Q 46,82 58,86 L 65,83 Q 75,94 84,92 Q 94,100 101,97 Q 103,80 99,69 Q 100,55 90,44 L 85,43 Q 82,28 69,27 L 64,21 Q 54,18 47,19 L 43,12 Q 34,8 23,11 Q 12,8 0,0 Z"/>
+</g>
+<g id="cross-sprig">
+<path fill="#C59F6D" d="M 28,4 Q 31,-3 39,-6 L 48,-9 Q 46,-2 39,2 L 34,8 Z M 122,-3 Q 131,-3 139,4 L 144,11 Q 135,8 131,6 Z M 246,5 Q 252,-2 258,-2 L 272,5 Q 266,8 261,6 L 256,3 Z M 394,0 Q 402,-5 411,-7 L 416,-9 Q 413,-3 406,1 L 399,4 Z"/>
+<use xlink:href="#leaf4" transform="matrix(0.8316 0.0472 -0.0616 -0.6372 -39 1)"/>
+<use xlink:href="#leaf3" transform="matrix(0.9288 0.0560 -0.0688 -0.7560 30 0)"/>
+<use xlink:href="#leaf1" transform="matrix(0.7668 0.0520 -0.0568 -0.7020 99 4)"/>
+<use xlink:href="#leaf4" transform="matrix(1.0692 0.0440 -0.0792 -0.5940 159 -2)"/>
+<use xlink:href="#leaf2" transform="matrix(1.1232 0.0536 -0.0832 -0.7236 239 2)"/>
+<use xlink:href="#leaf5" transform="matrix(1.0152 0.0480 -0.0752 -0.6480 327 0)"/>
+<use xlink:href="#leaf1" transform="matrix(0.8532 0.0544 -0.0632 -0.7344 398 -4)"/>
+<use xlink:href="#leaf3" transform="matrix(0.7236 0.0432 -0.0536 -0.5832 441 2)"/>
+<use xlink:href="#leaf8" transform="matrix(0.7128 -0.0456 -0.0528 0.6156 -13 1)"/>
+<use xlink:href="#leaf6" transform="matrix(0.8856 -0.0520 -0.0656 0.7020 68 2)"/>
+<use xlink:href="#leaf7" transform="matrix(0.7776 -0.0520 -0.0576 0.7020 131 -2)"/>
+<use xlink:href="#leaf8" transform="matrix(0.7992 -0.0464 -0.0592 0.6264 194 -2)"/>
+<use xlink:href="#leaf7" transform="matrix(1.0584 -0.0520 -0.0784 0.7020 255 -1)"/>
+<use xlink:href="#leaf6" transform="matrix(0.7992 -0.0504 -0.0592 0.6804 338 -4)"/>
+<use xlink:href="#leaf8" transform="matrix(0.8208 -0.0520 -0.0608 0.7020 399 0)"/>
+<use xlink:href="#leaf7" transform="matrix(0.6804 -0.0416 -0.0504 0.5616 466 -5)"/>
+</g>
+<g id="upright-sprig">
+<use xlink:href="#leaf3" transform="matrix(0.0416 1.0800 -0.5616 -0.0800 9 69)"/>
+<use xlink:href="#leaf4" transform="matrix(0.0488 1.0368 -0.6588 -0.0768 12 150)"/>
+<use xlink:href="#leaf1" transform="matrix(0.0496 1.1340 -0.6696 -0.0840 11 215)"/>
+<use xlink:href="#leaf4" transform="matrix(0.0488 1.2096 -0.6588 -0.0896 5 284)"/>
+<use xlink:href="#leaf2" transform="matrix(0.0440 0.8640 -0.5940 -0.0640 8 351)"/>
+<use xlink:href="#leaf5" transform="matrix(0.0384 0.6588 -0.5184 -0.0488 7 401)"/>
+<use xlink:href="#leaf6" transform="matrix(-0.0568 0.8208 0.7668 -0.0608 11 72)"/>
+<use xlink:href="#leaf8" transform="matrix(-0.0560 0.8208 0.7560 -0.0608 9 141)"/>
+<use xlink:href="#leaf7" transform="matrix(-0.0496 0.8748 0.6696 -0.0648 12 208)"/>
+<use xlink:href="#leaf6" transform="matrix(-0.0544 0.9180 0.7344 -0.0680 11 272)"/>
+<use xlink:href="#leaf8" transform="matrix(-0.0472 0.7020 0.6372 -0.0520 9 348)"/>
+<use xlink:href="#leaf7" transform="matrix(-0.0464 0.6156 0.6264 -0.0456 7 405)"/>
+</g>
+<path id="north-outline" d="M 258,218 Q 251,207 248,197 Q 240,188 242,179 Q 233,174 234,160 L 236,152 Q 231,139 236,128 L 235,119 Q 239,106 236,98 Q 236,85 243,75 Q 246,69 252,65 Q 259,74 260,86 Q 264,96 261,107 Q 262,117 268,122 Q 275,117 276,107 Q 273,98 279,90 L 280,79 Q 283,68 290,64 Q 300,69 299,80 Q 305,89 301,101 Q 305,111 300,122 Q 303,138 297,148 Q 300,160 294,170 L 294,181 Q 291,192 284,198 Q 278,213 266,222 Z"/>
+<clipPath id="north-inside"><use xlink:href="#north-outline"/></clipPath>
+<g id="north">
+<use xlink:href="#north-outline" fill="#727B8A"/>
+<g clip-path="url(#north-inside)"><path fill="#C59F6D" d="M 222,60 L 306,56 309,94 Q 299,94 299,103 L 293,101 Q 294,115 287,124 L 284,119 Q 287,137 280,146 Q 277,150 275,146 Q 276,162 269,171 L 268,162 Q 260,175 266,186 Q 271,192 262,200 L 254,204 232,198 Z"/></g>
+</g>
+<path id="south-outline" d="M 274,284 Q 282,291 283,302 Q 290,311 289,325 Q 295,336 293,348 L 297,356 Q 295,370 302,381 Q 306,390 303,402 Q 308,415 303,425 Q 301,434 293,441 Q 284,437 283,429 Q 276,421 279,411 Q 278,399 270,397 Q 263,400 264,410 Q 263,420 257,425 L 254,432 Q 248,435 241,431 Q 233,433 235,425 L 239,417 Q 234,404 235,391 Q 229,380 233,369 Q 232,354 240,343 Q 240,332 247,323 Q 246,314 256,309 Q 259,295 268,288 Z"/>
+<clipPath id="south-inside"><use xlink:href="#south-outline"/></clipPath>
+<g id="south">
+<use xlink:href="#south-outline" fill="#727B8A"/>
+<g clip-path="url(#south-inside)"><path fill="#C59F6D" d="M 223,346 Q 241,355 244,345 L 247,336 Q 254,340 250,352 L 254,359 Q 257,351 257,346 Q 264,353 261,366 L 265,373 Q 272,368 269,359 Q 267,347 275,339 Q 275,349 281,353 L 280,364 Q 288,361 288,370 Q 285,380 293,388 Q 298,399 306,396 L 316,455 219,455 Z"/></g>
+</g>
+<path id="west-outline" d="M 239,244 Q 236,254 224,260 Q 218,268 204,269 L 197,274 Q 185,277 174,273 Q 167,280 154,279 Q 146,288 136,283 Q 126,289 113,283 L 105,285 Q 94,282 89,276 Q 84,270 88,264 Q 96,259 105,262 Q 117,264 125,257 Q 129,253 125,248 Q 119,242 110,244 Q 102,244 97,240 L 88,238 Q 83,233 84,226 Q 92,218 106,219 Q 120,219 129,215 Q 139,208 150,213 L 157,211 Q 167,214 170,222 Q 184,219 193,229 Q 208,226 218,232 Q 232,231 239,240 Z"/>
+<clipPath id="west-inside"><use xlink:href="#west-outline"/></clipPath>
+<g id="west">
+<use xlink:href="#west-outline" fill="#727B8A"/>
+<g clip-path="url(#west-inside)"><path fill="#C59F6D" d="M 76,202 L 168,203 Q 166,217 174,220 L 170,226 Q 187,225 194,236 Q 205,235 211,243 Q 207,251 198,252 L 201,256 Q 192,262 181,256 Q 184,265 176,264 L 169,261 Q 170,273 157,277 L 163,289 77,298 Z"/></g>
+</g>
+<path id="east-outline" d="M 299,260 Q 305,245 320,239 Q 326,232 339,234 Q 348,224 362,225 Q 376,218 388,223 Q 401,218 414,224 Q 426,220 439,225 Q 450,226 456,236 Q 455,244 445,246 Q 436,248 425,242 Q 417,240 408,246 Q 402,250 403,255 Q 407,261 418,261 Q 429,254 441,262 Q 449,264 451,272 Q 445,282 429,282 Q 418,288 405,283 Q 394,289 381,286 L 367,293 Q 361,292 362,281 Q 352,282 345,275 Q 333,285 326,278 L 325,271 Q 316,273 309,278 Q 302,275 299,266 Z"/>
+<clipPath id="east-inside"><use xlink:href="#east-outline"/></clipPath>
+<g id="east">
+<use xlink:href="#east-outline" fill="#727B8A"/>
+<g clip-path="url(#east-inside)"><path fill="#C59F6D" d="M 289,223 L 388,208 Q 393,224 385,230 L 379,238 Q 389,237 399,232 L 411,235 Q 406,243 394,246 L 386,246 Q 378,253 368,249 L 361,253 Q 368,259 357,267 L 353,278 Q 347,289 332,287 L 296,286 Z"/></g>
+</g>
+<path id="seed-outline" d="M 241,253 Q 245,243 250,239 Q 253,231 262,232 Q 267,223 273,225 Q 278,224 281,231 Q 292,230 295,240 Q 300,247 293,257 Q 290,265 280,270 Q 277,278 266,279 L 257,284 Q 249,282 248,273 Q 241,270 244,261 Z"/>
+<clipPath id="seed-inside"><use xlink:href="#seed-outline"/></clipPath>
+<g id="seed">
+<use xlink:href="#seed-outline" fill="#727B8A"/>
+<g clip-path="url(#seed-inside)"><path fill="#C59F6D" d="M 233,228 L 256,218 270,224 Q 263,234 267,242 L 261,244 Q 261,251 267,251 Q 277,247 282,253 Q 278,262 271,263 Q 274,270 264,275 L 260,285 240,283 Z"/></g>
+</g>
+<g id="repeat">
+<use xlink:href="#upright-sprig"/>
+<use xlink:href="#cross-sprig"/>
+<use xlink:href="#north"/>
+<use xlink:href="#east"/>
+<use xlink:href="#south"/>
+<use xlink:href="#west"/>
+<use xlink:href="#seed"/>
+</g></defs>
+<rect width="512" height="512" fill="#484D66"/>
+<use xlink:href="#repeat" transform="translate(-623 -617)"/>
+<use xlink:href="#repeat" transform="translate(-623 -105)"/>
+<use xlink:href="#repeat" transform="translate(-623 407)"/>
+<use xlink:href="#repeat" transform="translate(-111 -617)"/>
+<use xlink:href="#repeat" transform="translate(-111 -105)"/>
+<use xlink:href="#repeat" transform="translate(-111 407)"/>
+<use xlink:href="#repeat" transform="translate(401 -617)"/>
+<use xlink:href="#repeat" transform="translate(401 -105)"/>
+<use xlink:href="#repeat" transform="translate(401 407)"/>
+</svg>

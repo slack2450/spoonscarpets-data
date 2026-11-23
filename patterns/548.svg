@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="128" height="244" viewBox="0 0 128 244">
+  <title>The Rohan Kanhai, Ashington — claret forks in a staggered rose lozenge lattice</title>
+  <defs>
+    <g id="lozenge">
+      <path fill="#794C58" d="M65 49
+        C69 49 74 54 82 62 L102 84
+        C112 95 117 102 117 115
+        C118 128 115 140 110 148
+        C103 158 94 165 85 175 L70 189
+        Q62 197 55 190 L36 171
+        C26 161 19 155 15 147
+        C10 138 10 129 10 119
+        C10 108 12 99 20 90 L43 65
+        C52 56 59 50 65 49 Z"/>
+      <path fill="#733748" d="M25 94
+        Q31 90 39 93
+        C48 96 51 103 58 108
+        Q64 114 70 110
+        C78 105 82 98 90 96
+        Q97 94 102 97
+        Q104 105 100 114
+        C97 122 91 129 85 135
+        C79 142 77 147 77 157 L76 171
+        Q76 177 72 182 L65 189
+        Q62 192 59 188 L54 182
+        Q52 178 53 170 L53 151
+        C53 142 49 136 42 131
+        L32 124 C24 117 21 107 23 99 Q23 95 25 94 Z"/>
+    </g>
+  </defs>
+  <rect width="128" height="244" fill="#2A202B"/>
+  <use xlink:href="#lozenge"/>
+  <use xlink:href="#lozenge" x="-64" y="-122"/>
+  <use xlink:href="#lozenge" x="64" y="-122"/>
+  <use xlink:href="#lozenge" x="-64" y="122"/>
+  <use xlink:href="#lozenge" x="64" y="122"/>
+</svg>

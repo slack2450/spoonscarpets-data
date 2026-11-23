@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="456" height="456" viewBox="0 0 456 456">
+  <title>The Bear, Melksham — rosewood stripes and cream pinstripes</title>
+  <defs>
+    <path id="yarn-d" fill="#5b3a2e" d="M148 -2H157V458H148Z M251 -2H265V458H251Z M400 -2H414V458H400Z" />
+    <path id="yarn-b" fill="#634432" d="M52 -2H61V458H52Z M74 -2H89V458H74Z M99 -2H105V458H99Z M143 -2H148V458H143Z M171 -2H185V458H171Z M305 -2H318V458H305Z M331 -2H336V458H331Z M441 -2H448V458H441Z" />
+    <path id="yarn-t" fill="#8b6758" d="M61 -2H74V458H61Z M89 -2H99V458H89Z M131 -2H143V458H131Z M157 -2H171V458H157Z M198 -2H207V458H198Z M233 -2H246V458H233Z M281 -2H305V458H281Z M318 -2H331V458H318Z M377 -2H389V458H377Z M427 -2H441V458H427Z" />
+    <path id="yarn-p" fill="#b69482" d="M32 -2H46V458H32Z M105 -2H115V458H105Z M185 -2H198V458H185Z M336 -2H346V458H336Z" />
+    <path id="yarn-c" fill="#e1bdaa" d="M448 -2H462V458H448Z" />
+  </defs>
+  <rect width="456" height="456" fill="#764c3e" />
+  <use xlink:href="#yarn-d" />
+  <use xlink:href="#yarn-b" />
+  <use xlink:href="#yarn-t" />
+  <use xlink:href="#yarn-p" />
+  <use xlink:href="#yarn-c" />
+  <use xlink:href="#yarn-c" transform="translate(-456 0)" />
+</svg>

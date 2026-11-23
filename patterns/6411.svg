@@ -1,0 +1,1919 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="468" height="752" viewBox="0 0 468 752">
+<title>The Great Glen, Fort William — broken-stripe Axminster repeat</title>
+<defs>
+<path id="claret-1" fill="#764951" d="M0 -7h1v1h1v-1h1v19h-1v-9h-1v7h-1z"/>
+<path id="claret-2" fill="#764951" d="M6 -7h1v1h1v1h3v12h-1v-5h-1v3h-1v-2h-1v-1h-1z"/>
+<path id="claret-3" fill="#764951" d="M14 -4h1v-1h1v1h1v6h-1v1h-1v-1h-1z"/>
+<path id="claret-4" fill="#764951" d="M22 -5h2v1h1v-1h1v1h9v-1h1v9h-1v-1h-1v7h-1v-8h-1v7h-1v-6h-1v-1h-1v11h-1v-2h-1v-8h-1v3h-1v-4h-1v7h-1v-7h-1z"/>
+<path id="claret-5" fill="#764951" d="M37 -4h2v-2h1v9h-1v8h-1v2h-1z"/>
+<path id="claret-6" fill="#764951" d="M42 -6h2v8h-1v1h-1z"/>
+<path id="claret-7" fill="#764951" d="M48 -8h1v1h1v10h-1v-2h-1z"/>
+<path id="claret-8" fill="#764951" d="M53 -11h1v3h1v16h-1v2h-1z"/>
+<path id="claret-9" fill="#764951" d="M56 -4h1v6h-1z"/>
+<path id="claret-10" fill="#764951" d="M59 -2h1v-6h1v-1h3v7h1v8h-1v1h-1v1h-1v3h-2v-2h-1z"/>
+<path id="claret-11" fill="#764951" d="M70 -9h1v1h2v-1h1v1h1v-9h1v19h-1v10h-1v-8h-1v1h-1v-1h-1v-1h-1z"/>
+<path id="claret-12" fill="#764951" d="M77 -21h1v31h-1z"/>
+<path id="claret-13" fill="#764951" d="M79 -9h1v-10h1v-6h1v6h1v-6h1v16h-1v9h-1v2h-1v2h-1v-3h-1z"/>
+<path id="claret-14" fill="#764951" d="M84 -9h1v-2h1v2h2v14h-1v-2h-1v-2h-1v1h-1z"/>
+<path id="claret-15" fill="#764951" d="M89 -9h2v10h1v-8h1v9h1v3h-1v3h-1v-2h-1v-2h-1v-1h-1z"/>
+<path id="claret-16" fill="#764951" d="M97 -16h1v18h1v-10h1v19h-1v-3h-1v-2h-1z"/>
+<path id="claret-17" fill="#764951" d="M101 8h1v-14h1v20h-1v-4h-1z"/>
+<path id="claret-18" fill="#764951" d="M100 -92h1v32h1v-32h1v32h1v-33h1v32h1v-17h1v-1h1v19h1v12h-1v22h1v38h-1v-4h-1v-16h-1v1h-1v-2h-1v3h-1v-42h-1v17h-1v-18h-1zM105 -49v29h1v-29z"/>
+<path id="claret-19" fill="#764951" d="M114 -9h1v-3h1v3h1v13h-1v23h-1v-20h-1z"/>
+<path id="claret-20" fill="#764951" d="M118 -28h1v19h1v-18h1v29h-1v1h-1v1h-1z"/>
+<path id="claret-21" fill="#764951" d="M122 -10h1v1h1v-5h1v5h1v-11h-1v-9h1v-20h-1v-11h1v-1h1v1h2v11h-1v-2h-1v42h2v1h1v-8h1v7h1v12h-1v2h-1v-1h-1v2h-1v-1h-1v57h-1v-35h-1v-11h-1v-11h-1v-2h-1z"/>
+<path id="claret-22" fill="#764951" d="M133 -10h1v1h1v-2h1v16h-1v2h-1v-2h-1z"/>
+<path id="claret-23" fill="#764951" d="M137 -9h1v-2h1v2h1v10h-1v2h-1v-2h-1z"/>
+<path id="claret-24" fill="#764951" d="M143 -10h1v3h2v34h-2v28h-1z"/>
+<path id="claret-25" fill="#764951" d="M147 -7h2v-2h1v2h1v9h1v20h-1v-4h-1v-15h-1v2h-1v-2h-1z"/>
+<path id="claret-26" fill="#764951" d="M153 4h1v-2h1v12h-2z"/>
+<path id="claret-27" fill="#764951" d="M46 3h1v20h-1z"/>
+<path id="claret-28" fill="#764951" d="M57 28h1v-1h1v-1h1v-1h1v2h1v1h1v1h1v23h-1v-1h-1v1h-2v1h-1v-1h-1v-1h-1z"/>
+<path id="claret-29" fill="#764951" d="M35 28h1v1h1v-2h1v-1h1v1h2v1h1v-1h1v64h-3v-28h-1v1h-2v-1h-2z"/>
+<path id="claret-30" fill="#764951" d="M68 28h1v-1h1v-1h1v1h1v1h1v2h1v21h-1v3h-1v-2h-1v3h-3z"/>
+<path id="claret-31" fill="#764951" d="M79 27h1v1h1v-2h2v1h1v1h1v1h1v30h-1v-4h-1v12h-1v-2h-1v-11h-1v8h-1v-7h-1z"/>
+<path id="claret-32" fill="#764951" d="M128 26h1v3h1v33h-1v-7h-1z"/>
+<path id="claret-33" fill="#764951" d="M100 29h1v-2h1v24h-1v-2h-1z"/>
+<path id="claret-34" fill="#764951" d="M114 27h1v28h-1z"/>
+<path id="claret-35" fill="#764951" d="M90 29h1v-1h1v23h-1v-1h-1z"/>
+<path id="claret-36" fill="#764951" d="M115 55h1v-27h1v27h1v9h-1v-1h-1v1h-1z"/>
+<path id="claret-37" fill="#764951" d="M28 29h1v2h1v23h-1v1h-1z"/>
+<path id="claret-38" fill="#764951" d="M49 29h1v24h-1z"/>
+<path id="claret-39" fill="#764951" d="M103 29h1v22h-1z"/>
+<path id="claret-40" fill="#764951" d="M13 34h1v-3h1v-1h1v5h1v21h-1v35h-1v-35h-1v35h-1z"/>
+<path id="claret-41" fill="#764951" d="M52 30h1v22h-1z"/>
+<path id="claret-42" fill="#764951" d="M93 30h1v21h-1z"/>
+<path id="claret-43" fill="#764951" d="M32 31h1v1h1v19h-1v2h-1z"/>
+<path id="claret-44" fill="#764951" d="M123 31h1v32h-1z"/>
+<path id="claret-45" fill="#764951" d="M88 32h1v16h-1z"/>
+<path id="claret-46" fill="#764951" d="M120 32h1v23h-1z"/>
+<path id="claret-47" fill="#764951" d="M136 32h1v2h1v22h-1v-1h-1z"/>
+<path id="claret-48" fill="#764951" d="M0 33h1v3h1v19h-1v2h-1z"/>
+<path id="claret-49" fill="#764951" d="M139 33h1v12h1v-12h1v22h-1v-6h-1v7h-1z"/>
+<path id="claret-50" fill="#764951" d="M23 36h1v-2h1v1h1v6h1v15h-1v21h-1v-36h-1v36h-1z"/>
+<path id="claret-51" fill="#764951" d="M147 37h1v12h1v-14h1v28h-1v-7h-1v6h-1z"/>
+<path id="claret-52" fill="#764951" d="M151 35h1v20h-1z"/>
+<path id="claret-53" fill="#764951" d="M6 37h1v18h-1z"/>
+<path id="claret-54" fill="#764951" d="M66 38h1v17h-1z"/>
+<path id="claret-55" fill="#764951" d="M8 40h1v46h-1z"/>
+<path id="claret-56" fill="#764951" d="M3 42h1v12h-1z"/>
+<path id="claret-57" fill="#764951" d="M119 55h1v8h-1z"/>
+<path id="claret-58" fill="#764951" d="M76 66h1v36h-1z"/>
+<path id="claret-59" fill="#764951" d="M78 66h1v9h-1z"/>
+<path id="claret-60" fill="#764951" d="M74 68h1v36h-1z"/>
+<path id="claret-61" fill="#764951" d="M99 74h1v21h-1z"/>
+<path id="claret-62" fill="#764951" d="M101 76h1v-1h1v19h-1v2h-1z"/>
+<path id="claret-63" fill="#764951" d="M37 76h1v15h-1z"/>
+<path id="claret-64" fill="#764951" d="M84 76h1v20h-1z"/>
+<path id="claret-65" fill="#764951" d="M86 76h1v19h-1z"/>
+<path id="claret-66" fill="#764951" d="M96 76h1v17h-1z"/>
+<path id="claret-67" fill="#764951" d="M35 79h1v12h-1z"/>
+<path id="claret-68" fill="#764951" d="M29 81h1v10h-1z"/>
+<path id="claret-69" fill="#764951" d="M20 92h1v15h-1z"/>
+<path id="claret-70" fill="#764951" d="M11 105h1v18h-1z"/>
+<path id="claret-71" fill="#764951" d="M13 105h1v19h1v27h-1v-1h-1z"/>
+<path id="claret-72" fill="#764951" d="M16 106h1v29h-1z"/>
+<path id="claret-73" fill="#764951" d="M93 112h1v21h-1z"/>
+<path id="claret-74" fill="#764951" d="M95 126h1v-13h1v12h1v-2h1v4h1v6h-5z"/>
+<path id="claret-75" fill="#764951" d="M70 123h1v-3h1v3h1v10h-1v-1h-1v1h-1z"/>
+<path id="claret-76" fill="#764951" d="M89 122h1v-2h1v2h1v11h-3z"/>
+<path id="claret-77" fill="#764951" d="M79 123h1v1h1v-3h1v12h-3z"/>
+<path id="claret-78" fill="#764951" d="M83 121h1v3h1v9h-2z"/>
+<path id="claret-79" fill="#764951" d="M56 124h3v-2h1v2h1v9h-1v-6h-1v6h-3z"/>
+<path id="claret-80" fill="#764951" d="M86 124h1v-2h1v11h-2z"/>
+<path id="claret-81" fill="#764951" d="M101 128h1v-1h1v-2h1v-2h1v3h1v-1h1v8h-6z"/>
+<path id="claret-82" fill="#764951" d="M112 126h1v-3h1v3h1v7h-3z"/>
+<path id="claret-83" fill="#764951" d="M118 125h1v-2h1v3h1v-3h1v10h-4z"/>
+<path id="claret-84" fill="#764951" d="M140 126h1v-1h1v1h1v-3h1v11h-1v1h-2v1h-1z"/>
+<path id="claret-85" fill="#764951" d="M147 126h1v-3h1v12h-1v1h-1z"/>
+<path id="claret-86" fill="#764951" d="M33 126h1v-2h1v40h-1v-9h-1z"/>
+<path id="claret-87" fill="#764951" d="M126 126h1v-2h1v2h1v7h-3z"/>
+<path id="claret-88" fill="#764951" d="M41 125h1v10h-1z"/>
+<path id="claret-89" fill="#764951" d="M150 125h1v11h-1z"/>
+<path id="claret-90" fill="#764951" d="M108 126h1v7h-1z"/>
+<path id="claret-91" fill="#764951" d="M116 126h1v7h-1z"/>
+<path id="claret-92" fill="#764951" d="M135 126h1v10h-1z"/>
+<path id="claret-93" fill="#764951" d="M138 126h1v9h-1z"/>
+<path id="claret-94" fill="#764951" d="M71 135h1v17h-1z"/>
+<path id="claret-95" fill="#764951" d="M11 136h1v13h-1z"/>
+<path id="claret-96" fill="#764951" d="M119 137h1v-1h2v6h-1v-1h-1v1h-1z"/>
+<path id="claret-97" fill="#764951" d="M126 136h3v1h-1v8h-1v-8h-1z"/>
+<path id="claret-98" fill="#764951" d="M104 137h1v8h-1z"/>
+<path id="claret-99" fill="#764951" d="M90 138h1v8h-1z"/>
+<path id="claret-100" fill="#764951" d="M93 138h1v7h-1z"/>
+<path id="claret-101" fill="#764951" d="M96 138h1v7h-1z"/>
+<path id="claret-102" fill="#764951" d="M98 138h1v8h-1z"/>
+<path id="claret-103" fill="#764951" d="M104 162h1v13h-1z"/>
+<path id="blue-1" fill="#6d858c" d="M1 -47h1v10h1v-9h1v61h1v-22h1v22h1v-12h1v12h3v-24h1v42h-1v-6h-2v13h-1v-13h-2v6h-1v-5h-1v11h-1v-49h-1v-19h-1z"/>
+<path id="blue-2" fill="#6d858c" d="M13 -35h1v38h-1z"/>
+<path id="blue-3" fill="#6d858c" d="M58 -9h1v10h-1z"/>
+<path id="blue-4" fill="#6d858c" d="M108 -48h1v-12h1v32h1v19h-1v36h-1v3h-1v-15h1v-45h-1z"/>
+<path id="blue-5" fill="#6d858c" d="M49 3h1v-1h1v24h-1v1h-1z"/>
+<path id="blue-6" fill="#6d858c" d="M81 2h1v24h-1z"/>
+<path id="blue-7" fill="#6d858c" d="M83 3h1v-1h1v5h1v-4h1v12h1v-8h1v8h1v-7h1v19h-1v2h-1v-3h-1v1h-1v3h-1v-3h-1v-1h-1v1h-1z"/>
+<path id="blue-8" fill="#6d858c" d="M129 4h1v11h1v-12h1v-1h1v13h1v-4h1v22h-1v-6h-1v1h-1v2h-1v-3h-2z"/>
+<path id="blue-9" fill="#6d858c" d="M29 15h5v-12h1v11h1v-1h1v3h1v11h-1v-1h-1v2h-1v2h-1v-3h-2v28h-1v-28h-1v-1h-1z"/>
+<path id="blue-10" fill="#6d858c" d="M68 3h1v5h1v19h-1v1h-1z"/>
+<path id="blue-11" fill="#6d858c" d="M39 15h1v-11h1v11h1v-9h1v21h-1v1h-1v-1h-2z"/>
+<path id="blue-12" fill="#6d858c" d="M136 4h2v30h-1v-8h-1z"/>
+<path id="blue-13" fill="#6d858c" d="M139 4h2v11h1v-6h1v22h-1v-4h-1v4h-1v-5h-1z"/>
+<path id="blue-14" fill="#6d858c" d="M16 15h1v-9h1v8h1v2h1v11h-1v14h-1v-14h-1v8h-1z"/>
+<path id="blue-15" fill="#6d858c" d="M52 13h1v3h1v-1h1v-2h1v2h1v-9h1v22h-1v3h-1v-4h-1v38h-1v-37h-1v-1h-1z"/>
+<path id="blue-16" fill="#6d858c" d="M92 8h1v7h1v-8h1v8h1v-6h1v21h-1v-2h-1v2h-1v-3h-2z"/>
+<path id="blue-17" fill="#6d858c" d="M117 10h1v6h1v-8h1v8h1v-9h1v22h-1v-2h-1v1h-1v2h-1v-3h-1z"/>
+<path id="blue-18" fill="#6d858c" d="M21 8h1v9h1v9h-1v65h-1z"/>
+<path id="blue-19" fill="#6d858c" d="M61 15h1v-7h1v7h1v-5h1v4h1v1h1v12h-2v2h-1v-2h-1v1h-1v-1h-1z"/>
+<path id="blue-20" fill="#6d858c" d="M71 14h1v1h1v-5h1v6h1v36h-1v-25h-1v1h-1v-1h-1z"/>
+<path id="blue-21" fill="#6d858c" d="M123 11h1v5h1v11h-2z"/>
+<path id="blue-22" fill="#6d858c" d="M76 12h1v3h2v-1h1v13h-1v5h-1v-5h-1v21h-1z"/>
+<path id="blue-23" fill="#6d858c" d="M13 13h1v2h1v11h-1v8h-1z"/>
+<path id="blue-24" fill="#6d858c" d="M103 16h1v-3h1v3h1v-3h1v18h-1v-4h-1v3h-1v-4h-1z"/>
+<path id="blue-25" fill="#6d858c" d="M98 14h1v3h1v13h-1v-3h-1z"/>
+<path id="blue-26" fill="#6d858c" d="M113 17h1v-3h1v13h-1v-1h-1z"/>
+<path id="blue-27" fill="#6d858c" d="M-2 17h1v-2h3v21h-1v-9h-2v39h-1z"/>
+<path id="blue-28" fill="#6d858c" d="M26 15h2v11h-1v4h-1z"/>
+<path id="blue-29" fill="#6d858c" d="M59 15h1v11h-1z"/>
+<path id="blue-30" fill="#6d858c" d="M24 16h1v11h-1z"/>
+<path id="blue-31" fill="#6d858c" d="M146 17h1v-1h1v11h1v-5h1v13h-1v-6h-1v5h-2z"/>
+<path id="blue-32" fill="#6d858c" d="M101 17h1v10h-1z"/>
+<path id="blue-33" fill="#6d858c" d="M111 18h1v9h-1z"/>
+<path id="blue-34" fill="#6d858c" d="M43 28h1v35h-1z"/>
+<path id="blue-35" fill="#6d858c" d="M46 28h1v37h-1z"/>
+<path id="blue-36" fill="#6d858c" d="M151 29h1v6h-1z"/>
+<path id="blue-37" fill="#6d858c" d="M19 41h1v49h-1z"/>
+<path id="blue-38" fill="#6d858c" d="M10 42h1v48h-1z"/>
+<path id="blue-39" fill="#6d858c" d="M56 46h1v19h-1z"/>
+<path id="blue-40" fill="#6d858c" d="M86 49h1v3h1v-1h1v-2h1v20h-1v-11h-1v11h-1v4h-1z"/>
+<path id="blue-41" fill="#6d858c" d="M95 51h1v24h-1z"/>
+<path id="blue-42" fill="#6d858c" d="M97 51h1v14h-1z"/>
+<path id="blue-43" fill="#6d858c" d="M99 51h1v1h1v-1h1v14h1v10h-1v-2h-1v-8h-1v9h-1z"/>
+<path id="blue-44" fill="#6d858c" d="M107 65h1v-14h1v24h-1v34h-1z"/>
+<path id="blue-45" fill="#6d858c" d="M110 51h1v24h-1z"/>
+<path id="blue-46" fill="#6d858c" d="M58 52h1v13h-1z"/>
+<path id="blue-47" fill="#6d858c" d="M60 52h1v27h-1z"/>
+<path id="blue-48" fill="#6d858c" d="M67 52h1v13h-1z"/>
+<path id="blue-49" fill="#6d858c" d="M71 52h1v14h1v3h-1v10h-1z"/>
+<path id="blue-50" fill="#6d858c" d="M92 52h1v12h1v11h-1v4h-1z"/>
+<path id="blue-51" fill="#6d858c" d="M104 52h1v42h1v16h-1v8h-1z"/>
+<path id="blue-52" fill="#6d858c" d="M64 54h1v11h-1z"/>
+<path id="blue-53" fill="#6d858c" d="M81 54h1v20h1v35h-1v5h-1v-15h1v-24h-1z"/>
+<path id="blue-54" fill="#6d858c" d="M1 55h1v33h-1z"/>
+<path id="blue-55" fill="#6d858c" d="M62 55h1v24h-1z"/>
+<path id="blue-56" fill="#6d858c" d="M129 65h2v-10h1v20h-1v19h-1v-18h-1z"/>
+<path id="blue-57" fill="#6d858c" d="M133 55h1v15h-1z"/>
+<path id="blue-58" fill="#6d858c" d="M141 55h1v15h-1z"/>
+<path id="blue-59" fill="#6d858c" d="M142 93h1v-38h1v62h-1v-8h-1z"/>
+<path id="blue-60" fill="#6d858c" d="M3 56h1v11h-1z"/>
+<path id="blue-61" fill="#6d858c" d="M34 56h1v21h-1z"/>
+<path id="blue-62" fill="#6d858c" d="M49 56h1v9h-1z"/>
+<path id="blue-63" fill="#6d858c" d="M139 56h1v53h-1z"/>
+<path id="blue-64" fill="#6d858c" d="M30 57h1v20h-1z"/>
+<path id="blue-65" fill="#6d858c" d="M32 57h1v67h-1z"/>
+<path id="blue-66" fill="#6d858c" d="M52 57h1v8h-1z"/>
+<path id="blue-67" fill="#6d858c" d="M28 58h1v19h-1z"/>
+<path id="blue-68" fill="#6d858c" d="M123 66h1v-8h1v12h1v-4h1v9h1v20h-1v-19h-1v18h-1v-19h-1v1h-1z"/>
+<path id="blue-69" fill="#6d858c" d="M136 59h1v5h1v20h-1v-17h-1z"/>
+<path id="blue-70" fill="#6d858c" d="M119 66h1v28h1v-33h1v59h-1v-10h-1v9h-1z"/>
+<path id="blue-71" fill="#6d858c" d="M149 63h1v46h-1z"/>
+<path id="blue-72" fill="#6d858c" d="M147 64h1v29h-1z"/>
+<path id="blue-73" fill="#6d858c" d="M115 66h1v43h-1z"/>
+<path id="blue-74" fill="#6d858c" d="M117 66h1v43h-1z"/>
+<path id="blue-75" fill="#6d858c" d="M94 76h1v19h1v14h-2z"/>
+<path id="blue-76" fill="#6d858c" d="M6 82h1v37h2v34h1v22h-1v-10h-1v-36h-1v6h-1z"/>
+<path id="blue-77" fill="#6d858c" d="M92 92h1v16h-1z"/>
+<path id="blue-78" fill="#6d858c" d="M27 93h1v30h-1z"/>
+<path id="blue-79" fill="#6d858c" d="M87 94h1v15h-1z"/>
+<path id="blue-80" fill="#6d858c" d="M89 94h1v3h1v23h-1v-11h-1z"/>
+<path id="blue-81" fill="#6d858c" d="M113 95h1v18h-1z"/>
+<path id="blue-82" fill="#6d858c" d="M123 95h1v21h-1z"/>
+<path id="blue-83" fill="#6d858c" d="M126 148h3v4h1v-5h1v-13h-1v-25h2v-14h1v31h-1v1h-1v4h1v16h1v9h-1v6h-1v-5h-1v17h-1v-18h-1v-1h-1v18h-1z"/>
+<path id="blue-84" fill="#6d858c" d="M97 96h2v23h-1v-10h-1z"/>
+<path id="blue-85" fill="#6d858c" d="M152 97h1v1h1v26h1v-26h1v65h-1v-27h-1v28h-1v-55h-1z"/>
+<path id="blue-86" fill="#6d858c" d="M35 99h1v24h-1z"/>
+<path id="blue-87" fill="#6d858c" d="M52 100h1v-1h1v8h1v15h-1v-14h-1v16h1v9h-1v2h1v28h-1v-8h-1z"/>
+<path id="blue-88" fill="#6d858c" d="M60 99h1v8h-1z"/>
+<path id="blue-89" fill="#6d858c" d="M61 136h1v-37h1v56h1v19h-1v2h-1v-21h-1z"/>
+<path id="blue-90" fill="#6d858c" d="M110 99h1v17h-1z"/>
+<path id="blue-91" fill="#6d858c" d="M127 99h1v17h-1z"/>
+<path id="blue-92" fill="#6d858c" d="M38 100h1v8h-1z"/>
+<path id="blue-93" fill="#6d858c" d="M56 100h1v24h-1z"/>
+<path id="blue-94" fill="#6d858c" d="M125 100h1v10h-1z"/>
+<path id="blue-95" fill="#6d858c" d="M45 106h1v2h1v56h-1v-41h-1z"/>
+<path id="blue-96" fill="#6d858c" d="M19 107h1v58h-1z"/>
+<path id="blue-97" fill="#6d858c" d="M77 107h1v18h-1z"/>
+<path id="blue-98" fill="#6d858c" d="M43 108h1v15h-1z"/>
+<path id="blue-99" fill="#6d858c" d="M66 135h1v-27h1v28h1v19h-1v18h-1v-18h-1z"/>
+<path id="blue-100" fill="#6d858c" d="M21 109h1v47h1v18h-1v-2h-1z"/>
+<path id="blue-101" fill="#6d858c" d="M75 109h1v75h-1z"/>
+<path id="blue-102" fill="#6d858c" d="M99 147h1v-37h1v37h2v9h-1v1h-1v16h-1v-18h-1z"/>
+<path id="blue-103" fill="#6d858c" d="M142 148h1v-10h1v9h1v-37h1v38h1v8h-1v19h-1v-27h-1v27h-1v-20h-1z"/>
+<path id="blue-104" fill="#6d858c" d="M85 111h1v9h-1z"/>
+<path id="blue-105" fill="#6d858c" d="M43 136h1v-12h1v48h-1v-18h-1z"/>
+<path id="blue-106" fill="#6d858c" d="M133 126h1v15h-1z"/>
+<path id="blue-107" fill="#6d858c" d="M77 133h1v46h-1z"/>
+<path id="blue-108" fill="#6d858c" d="M122 147h1v-12h1v12h1v9h-1v15h-1v-15h-1z"/>
+<path id="blue-109" fill="#6d858c" d="M55 136h2v1h1v6h-1v12h2v17h-1v-7h-2v3h-1v-13h1v-12h-1z"/>
+<path id="blue-110" fill="#6d858c" d="M83 147h2v-9h1v12h1v-3h1v1h1v-1h1v8h-1v18h-1v-18h-1v-1h-1v19h-1v-18h-1v9h-1z"/>
+<path id="blue-111" fill="#6d858c" d="M116 147h2v-1h1v-4h1v5h1v9h-1v19h-1v4h-1v-21h-1v17h-1z"/>
+<path id="blue-112" fill="#6d858c" d="M37 155h1v-11h1v21h-1v-1h-1z"/>
+<path id="blue-113" fill="#6d858c" d="M6 147h1v20h-1z"/>
+<path id="blue-114" fill="#6d858c" d="M93 148h2v-1h1v1h2v7h-1v20h-1v-20h-2v20h-1z"/>
+<path id="blue-115" fill="#6d858c" d="M104 148h1v-1h6v1h2v7h-1v20h-2v-18h-1v17h-1v-17h-1v17h-1v-18h-1v-2h-1z"/>
+<path id="blue-116" fill="#6d858c" d="M134 147h4v1h1v8h-1v19h-1v-19h-1v19h-1v-19h-1z"/>
+<path id="blue-117" fill="#6d858c" d="M114 148h1v32h-1z"/>
+<path id="blue-118" fill="#6d858c" d="M12 151h1v2h1v1h1v20h-1v-8h-1v9h-1z"/>
+<path id="blue-119" fill="#6d858c" d="M60 155h1v9h-1z"/>
+<path id="blue-120" fill="#6d858c" d="M73 155h1v24h-1z"/>
+<path id="blue-121" fill="#6d858c" d="M17 156h1v18h-1z"/>
+<path id="blue-122" fill="#6d858c" d="M50 156h1v9h-1z"/>
+<path id="blue-123" fill="#6d858c" d="M148 156h1v19h-1z"/>
+<path id="blue-124" fill="#6d858c" d="M151 156h1v19h-1z"/>
+<path id="blue-125" fill="#6d858c" d="M140 157h1v7h1v11h-2z"/>
+<path id="blue-126" fill="#6d858c" d="M70 158h1v12h-1z"/>
+<path id="heather-1" fill="#675f68" d="M4 -7h1v22h-1z"/>
+<path id="heather-2" fill="#675f68" d="M12 -5h1v8h1v10h-1v14h-1z"/>
+<path id="heather-3" fill="#675f68" d="M17 -7h1v2h1v19h-1v-14h-1z"/>
+<path id="heather-4" fill="#675f68" d="M20 -5h1v4h1v4h-1v38h-1z"/>
+<path id="heather-5" fill="#675f68" d="M41 -6h1v9h1v-1h1v-9h1v-6h1v36h1v5h-1v-1h-1v-21h-1v22h-1v-22h-1v9h-1z"/>
+<path id="heather-6" fill="#675f68" d="M51 -10h1v37h-1z"/>
+<path id="heather-7" fill="#675f68" d="M63 7h1v-1h1v-15h1v9h1v-9h1v9h1v-8h1v11h1v1h1v1h1v-1h1v6h-1v5h-1v-1h-1v12h-1v-18h-1v-5h-1v27h-1v8h-1v17h-1v-28h2v-12h-1v-1h-1v-4h-1v5h-1z"/>
+<path id="heather-8" fill="#675f68" d="M82 0h1v26h-1z"/>
+<path id="heather-9" fill="#675f68" d="M95 -10h1v25h-1z"/>
+<path id="heather-10" fill="#675f68" d="M97 -19h1v-58h1v65h1v2h1v-21h1v21h1v4h-1v-2h-1v37h-1v-12h-1v-6h1v-19h-2v-8h-1z"/>
+<path id="heather-11" fill="#675f68" d="M102 14h1v-4h1v-3h-1v-13h1v12h1v-13h1v23h-1v-3h-1v3h-1v10h1v3h-1v-2h-1z"/>
+<path id="heather-12" fill="#675f68" d="M110 -9h1v38h-1z"/>
+<path id="heather-13" fill="#675f68" d="M112 -20h1v24h1v3h1v7h-1v3h-1v10h-1z"/>
+<path id="heather-14" fill="#675f68" d="M141 -10h1v12h1v7h-1v6h-1z"/>
+<path id="heather-15" fill="#675f68" d="M152 -7h1v10h-1z"/>
+<path id="heather-16" fill="#675f68" d="M154 -7h1v9h-1z"/>
+<path id="heather-17" fill="#675f68" d="M48 1h1v26h-1z"/>
+<path id="heather-18" fill="#675f68" d="M58 1h1v26h-1z"/>
+<path id="heather-19" fill="#675f68" d="M77 10h1v-9h2v3h1v24h-1v-14h-1v1h-2z"/>
+<path id="heather-20" fill="#675f68" d="M85 1h1v6h-1z"/>
+<path id="heather-21" fill="#675f68" d="M87 5h1v-4h1v2h1v12h-1v-8h-1v8h-1z"/>
+<path id="heather-22" fill="#675f68" d="M137 1h1v2h1v-2h1v3h-1v22h1v7h-1v-6h-1v-23h-1z"/>
+<path id="heather-23" fill="#675f68" d="M56 2h1v13h-1z"/>
+<path id="heather-24" fill="#675f68" d="M74 12h1v-10h1v63h-1v3h-1v-16h1v-36h-1z"/>
+<path id="heather-25" fill="#675f68" d="M118 4h1v-1h1v-1h1v14h-1v-8h-1v8h-1z"/>
+<path id="heather-26" fill="#675f68" d="M14 26h1v-23h1v27h-1v1h-1z"/>
+<path id="heather-27" fill="#675f68" d="M122 3h1v24h1v4h-1v-3h-1z"/>
+<path id="heather-28" fill="#675f68" d="M146 3h1v14h-1z"/>
+<path id="heather-29" fill="#675f68" d="M35 4h1v10h-1z"/>
+<path id="heather-30" fill="#675f68" d="M116 4h1v24h-1z"/>
+<path id="heather-31" fill="#675f68" d="M8 5h1v10h-1z"/>
+<path id="heather-32" fill="#675f68" d="M93 5h1v10h-1z"/>
+<path id="heather-33" fill="#675f68" d="M130 5h1v10h-1z"/>
+<path id="heather-34" fill="#675f68" d="M133 5h1v2h1v-2h1v21h1v6h-1v-5h-1v-16h-1v4h-1z"/>
+<path id="heather-35" fill="#675f68" d="M148 5h1v22h-1z"/>
+<path id="heather-36" fill="#675f68" d="M25 6h1v29h-1z"/>
+<path id="heather-37" fill="#675f68" d="M90 27h1v-21h1v22h-1v1h-1z"/>
+<path id="heather-38" fill="#675f68" d="M97 6h1v22h-1z"/>
+<path id="heather-39" fill="#675f68" d="M128 6h1v20h-1z"/>
+<path id="heather-40" fill="#675f68" d="M10 7h1v8h-1z"/>
+<path id="heather-41" fill="#675f68" d="M53 10h1v-2h1v7h-1v1h-1z"/>
+<path id="heather-42" fill="#675f68" d="M107 8h1v4h1v3h-1v13h-1z"/>
+<path id="heather-43" fill="#675f68" d="M23 9h1v27h-1z"/>
+<path id="heather-44" fill="#675f68" d="M31 9h1v6h-1z"/>
+<path id="heather-45" fill="#675f68" d="M0 10h1v5h-1z"/>
+<path id="heather-46" fill="#675f68" d="M33 10h1v5h-1z"/>
+<path id="heather-47" fill="#675f68" d="M27 11h1v2h1v13h1v5h-1v-2h-1v-14h-1z"/>
+<path id="heather-48" fill="#675f68" d="M37 13h1v-2h1v15h-1v-10h-1z"/>
+<path id="heather-49" fill="#675f68" d="M60 11h2v4h-1v10h-1z"/>
+<path id="heather-50" fill="#675f68" d="M2 12h1v15h-1z"/>
+<path id="heather-51" fill="#675f68" d="M150 18h1v4h1v-6h1v-2h2v3h-1v10h-1v-1h-1v3h-1v-2h-1z"/>
+<path id="heather-52" fill="#675f68" d="M36 26h1v3h-1z"/>
+<path id="heather-53" fill="#675f68" d="M84 26h1v1h1v2h-1v-1h-1z"/>
+<path id="heather-54" fill="#675f68" d="M87 27h1v-1h1v6h-1v16h1v3h-1v1h-1z"/>
+<path id="heather-55" fill="#675f68" d="M0 27h1v6h-1z"/>
+<path id="heather-56" fill="#675f68" d="M6 27h1v10h-1z"/>
+<path id="heather-57" fill="#675f68" d="M10 27h1v15h-1z"/>
+<path id="heather-58" fill="#675f68" d="M32 27h2v5h-1v-1h-1z"/>
+<path id="heather-59" fill="#675f68" d="M49 27h1v2h-1z"/>
+<path id="heather-60" fill="#675f68" d="M52 27h1v3h-1z"/>
+<path id="heather-61" fill="#675f68" d="M55 27h1v28h-1z"/>
+<path id="heather-62" fill="#675f68" d="M63 27h1v2h-1z"/>
+<path id="heather-63" fill="#675f68" d="M73 27h1v3h-1z"/>
+<path id="heather-64" fill="#675f68" d="M77 27h1v37h-1z"/>
+<path id="heather-65" fill="#675f68" d="M93 27h1v3h-1z"/>
+<path id="heather-66" fill="#675f68" d="M120 27h1v5h-1z"/>
+<path id="heather-67" fill="#675f68" d="M129 27h1v2h-1z"/>
+<path id="heather-68" fill="#675f68" d="M141 27h1v6h-1z"/>
+<path id="heather-69" fill="#675f68" d="M147 34h1v3h-1z"/>
+<path id="heather-70" fill="#675f68" d="M3 39h1v3h-1z"/>
+<path id="heather-71" fill="#675f68" d="M100 49h1v3h-1z"/>
+<path id="heather-72" fill="#675f68" d="M32 53h1v-2h1v5h-1v1h-1z"/>
+<path id="heather-73" fill="#675f68" d="M57 51h1v4h-1z"/>
+<path id="heather-74" fill="#675f68" d="M61 52h1v-1h1v1h1v3h-3z"/>
+<path id="heather-75" fill="#675f68" d="M52 52h1v5h-1z"/>
+<path id="heather-76" fill="#675f68" d="M49 53h1v3h-1z"/>
+<path id="heather-77" fill="#675f68" d="M59 53h1v3h-1z"/>
+<path id="heather-78" fill="#675f68" d="M3 54h1v2h-1z"/>
+<path id="heather-79" fill="#675f68" d="M28 55h1v-1h1v27h-1v-23h-1z"/>
+<path id="heather-80" fill="#675f68" d="M72 54h1v12h-1z"/>
+<path id="heather-81" fill="#675f68" d="M121 56h1v-1h1v8h1v3h-1v-1h-1v-4h-1z"/>
+<path id="heather-82" fill="#675f68" d="M136 55h1v1h1v8h-1v-5h-1z"/>
+<path id="heather-83" fill="#675f68" d="M0 57h1v6h-1z"/>
+<path id="heather-84" fill="#675f68" d="M85 59h1v6h-1z"/>
+<path id="heather-85" fill="#675f68" d="M80 62h1v3h-1z"/>
+<path id="heather-86" fill="#675f68" d="M126 62h1v4h-1z"/>
+<path id="heather-87" fill="#675f68" d="M129 62h1v3h-1z"/>
+<path id="heather-88" fill="#675f68" d="M147 62h1v2h-1z"/>
+<path id="heather-89" fill="#675f68" d="M35 63h2v1h1v12h-1v1h-1v2h-1z"/>
+<path id="heather-90" fill="#675f68" d="M39 63h1v3h-1z"/>
+<path id="heather-91" fill="#675f68" d="M115 64h1v-1h1v1h1v2h-1v-1h-1v1h-1z"/>
+<path id="heather-92" fill="#675f68" d="M119 63h1v3h-1z"/>
+<path id="heather-93" fill="#675f68" d="M82 65h1v2h1v8h-1v-1h-1z"/>
+<path id="heather-94" fill="#675f68" d="M97 65h1v11h-1z"/>
+<path id="heather-95" fill="#675f68" d="M100 65h1v8h1v3h-1v-1h-1z"/>
+<path id="heather-96" fill="#675f68" d="M86 73h1v-4h1v6h-1v1h-1z"/>
+<path id="heather-97" fill="#675f68" d="M91 75h1v4h1v-4h1v14h-1v3h-1v-3h-1z"/>
+<path id="heather-98" fill="#675f68" d="M137 84h1v9h-1z"/>
+<path id="heather-99" fill="#675f68" d="M8 86h1v6h-1z"/>
+<path id="heather-100" fill="#675f68" d="M96 93h1v20h-1z"/>
+<path id="heather-101" fill="#675f68" d="M99 95h1v1h2v-2h1v1h1v14h-3v1h-1v-1h-1z"/>
+<path id="heather-102" fill="#675f68" d="M84 96h2v-1h1v14h-1v2h-1v-2h-1z"/>
+<path id="heather-103" fill="#675f68" d="M93 95h1v17h-1z"/>
+<path id="heather-104" fill="#675f68" d="M110 96h1v3h-1z"/>
+<path id="heather-105" fill="#675f68" d="M44 99h1v1h1v6h-1v18h-1z"/>
+<path id="heather-106" fill="#675f68" d="M91 99h1v10h-1z"/>
+<path id="heather-107" fill="#675f68" d="M48 100h1v9h1v15h-1v-1h-1z"/>
+<path id="heather-108" fill="#675f68" d="M71 101h1v19h-1z"/>
+<path id="heather-109" fill="#675f68" d="M76 102h1v7h-1z"/>
+<path id="heather-110" fill="#675f68" d="M74 104h1v5h-1z"/>
+<path id="heather-111" fill="#675f68" d="M64 107h1v26h-1z"/>
+<path id="heather-112" fill="#675f68" d="M69 107h1v16h-1z"/>
+<path id="heather-113" fill="#675f68" d="M113 113h1v10h-1z"/>
+<path id="heather-114" fill="#675f68" d="M81 114h1v7h-1z"/>
+<path id="heather-115" fill="#675f68" d="M110 116h1v20h-1z"/>
+<path id="heather-116" fill="#675f68" d="M123 116h1v9h1v8h-1v2h-1z"/>
+<path id="heather-117" fill="#675f68" d="M127 116h1v8h-1z"/>
+<path id="heather-118" fill="#675f68" d="M143 117h1v6h-1z"/>
+<path id="heather-119" fill="#675f68" d="M104 118h1v5h-1z"/>
+<path id="heather-120" fill="#675f68" d="M98 119h1v4h-1z"/>
+<path id="heather-121" fill="#675f68" d="M119 119h1v4h-1z"/>
+<path id="heather-122" fill="#675f68" d="M59 120h1v2h-1z"/>
+<path id="heather-123" fill="#675f68" d="M85 120h1v4h-1z"/>
+<path id="heather-124" fill="#675f68" d="M121 120h1v3h-1z"/>
+<path id="heather-125" fill="#675f68" d="M54 122h1v13h-1z"/>
+<path id="heather-126" fill="#675f68" d="M0 129h1v-5h1v12h-1v-1h-1z"/>
+<path id="heather-127" fill="#675f68" d="M4 124h1v11h-1z"/>
+<path id="heather-128" fill="#675f68" d="M33 124h1v2h-1z"/>
+<path id="heather-129" fill="#675f68" d="M37 124h1v31h-1z"/>
+<path id="heather-130" fill="#675f68" d="M39 124h1v11h-1z"/>
+<path id="heather-131" fill="#675f68" d="M42 124h1v33h-1z"/>
+<path id="heather-132" fill="#675f68" d="M68 124h1v9h-1z"/>
+<path id="heather-133" fill="#675f68" d="M74 125h1v8h-1z"/>
+<path id="heather-134" fill="#675f68" d="M76 125h2v8h-2z"/>
+<path id="heather-135" fill="#675f68" d="M152 125h1v11h-1z"/>
+<path id="heather-136" fill="#675f68" d="M57 133h1v4h-1z"/>
+<path id="heather-137" fill="#675f68" d="M85 133h1v5h-1z"/>
+<path id="heather-138" fill="#675f68" d="M143 134h1v4h-1z"/>
+<path id="heather-139" fill="#675f68" d="M18 135h1v20h-1z"/>
+<path id="heather-140" fill="#675f68" d="M1 147h1v-11h1v12h-1v5h1v1h1v5h-1v6h-2z"/>
+<path id="heather-141" fill="#675f68" d="M111 138h1v10h-1z"/>
+<path id="heather-142" fill="#675f68" d="M113 138h1v37h-1z"/>
+<path id="heather-143" fill="#675f68" d="M121 142h1v33h-1z"/>
+<path id="heather-144" fill="#675f68" d="M58 143h1v12h-1z"/>
+<path id="heather-145" fill="#675f68" d="M93 145h1v3h-1z"/>
+<path id="heather-146" fill="#675f68" d="M96 145h1v3h-1z"/>
+<path id="heather-147" fill="#675f68" d="M104 145h1v3h-1z"/>
+<path id="heather-148" fill="#675f68" d="M127 145h1v3h-1z"/>
+<path id="heather-149" fill="#675f68" d="M90 146h1v29h-1z"/>
+<path id="heather-150" fill="#675f68" d="M98 146h1v29h-1z"/>
+<path id="heather-151" fill="#675f68" d="M140 147h1v10h-1z"/>
+<path id="heather-152" fill="#675f68" d="M144 148h1v8h-1z"/>
+<path id="heather-153" fill="#675f68" d="M11 149h1v4h-1z"/>
+<path id="heather-154" fill="#675f68" d="M13 150h1v1h1v3h-1v-1h-1z"/>
+<path id="heather-155" fill="#675f68" d="M71 152h1v23h-1z"/>
+<path id="heather-156" fill="#675f68" d="M5 153h1v6h-1z"/>
+<path id="heather-157" fill="#675f68" d="M30 154h1v4h-1z"/>
+<path id="heather-158" fill="#675f68" d="M104 154h1v8h-1z"/>
+<path id="heather-159" fill="#675f68" d="M52 155h1v13h-1z"/>
+<path id="heather-160" fill="#675f68" d="M65 155h1v19h-1z"/>
+<path id="heather-161" fill="#675f68" d="M126 173h1v-18h1v22h-1v-1h-1z"/>
+<path id="heather-162" fill="#675f68" d="M131 162h1v11h-1z"/>
+<path id="heather-163" fill="#675f68" d="M37 164h1v8h-1z"/>
+<path id="heather-164" fill="#675f68" d="M46 164h1v6h-1z"/>
+<path id="heather-165" fill="#675f68" d="M60 164h1v9h-1z"/>
+<path id="heather-166" fill="#675f68" d="M83 164h1v13h-1z"/>
+<path id="heather-167" fill="#675f68" d="M139 164h1v11h-1z"/>
+<path id="heather-168" fill="#675f68" d="M153 164h1v3h-1z"/>
+<path id="heather-169" fill="#675f68" d="M7 165h1v8h-1z"/>
+<path id="heather-170" fill="#675f68" d="M50 165h1v10h-1z"/>
+<path id="heather-171" fill="#675f68" d="M54 165h1v10h-1z"/>
+<path id="heather-172" fill="#675f68" d="M57 165h1v8h-1z"/>
+<path id="heather-173" fill="#675f68" d="M14 174h1v3h-1z"/>
+<path id="straw-1" fill="#c5c1aa" d="M19 -3h1v17h-1z"/>
+<path id="straw-2" fill="#c5c1aa" d="M117 -3h1v5h-1z"/>
+<path id="straw-3" fill="#c5c1aa" d="M1 3h1v12h-1z"/>
+<path id="straw-4" fill="#c5c1aa" d="M30 3h1v12h-1z"/>
+<path id="straw-5" fill="#c5c1aa" d="M149 3h1v12h-1z"/>
+<path id="straw-6" fill="#c5c1aa" d="M9 4h1v6h-1z"/>
+<path id="straw-7" fill="#c5c1aa" d="M24 4h1v10h-1z"/>
+<path id="straw-8" fill="#c5c1aa" d="M152 4h1v11h-1z"/>
+<path id="straw-9" fill="#c5c1aa" d="M155 5h1v10h-1z"/>
+<path id="straw-10" fill="#c5c1aa" d="M115 29h1v13h-1z"/>
+<path id="straw-11" fill="#c5c1aa" d="M97 31h1v20h-1z"/>
+<path id="straw-12" fill="#c5c1aa" d="M102 32h1v9h-1z"/>
+<path id="straw-13" fill="#c5c1aa" d="M112 32h1v18h-1z"/>
+<path id="straw-14" fill="#c5c1aa" d="M138 39h1v10h-1z"/>
+<path id="straw-15" fill="#c5c1aa" d="M76 52h1v12h-1z"/>
+<path id="straw-16" fill="#c5c1aa" d="M78 52h1v13h-1z"/>
+<path id="straw-17" fill="#c5c1aa" d="M114 55h1v3h-1z"/>
+<path id="straw-18" fill="#c5c1aa" d="M14 64h1v10h-1z"/>
+<path id="straw-19" fill="#c5c1aa" d="M48 72h1v5h-1z"/>
+<path id="straw-20" fill="#c5c1aa" d="M60 79h1v20h-1z"/>
+<path id="straw-21" fill="#c5c1aa" d="M62 79h1v20h-1z"/>
+<path id="straw-22" fill="#c5c1aa" d="M67 80h1v19h-1z"/>
+<path id="straw-23" fill="#c5c1aa" d="M69 80h1v19h-1z"/>
+<path id="straw-24" fill="#c5c1aa" d="M71 80h1v3h1v9h-1v6h-1z"/>
+<path id="straw-25" fill="#c5c1aa" d="M77 89h4v-9h1v19h-1v-6h-1v14h-1v-15h-1v15h-1z"/>
+<path id="straw-26" fill="#c5c1aa" d="M83 88h1v6h-1z"/>
+<path id="straw-27" fill="#c5c1aa" d="M95 88h1v5h-1z"/>
+<path id="straw-28" fill="#c5c1aa" d="M97 88h1v1h1v4h-2z"/>
+<path id="straw-29" fill="#c5c1aa" d="M103 88h1v6h-1z"/>
+<path id="straw-30" fill="#c5c1aa" d="M140 88h1v1h2v4h-3z"/>
+<path id="straw-31" fill="#c5c1aa" d="M75 89h1v17h-1z"/>
+<path id="straw-32" fill="#c5c1aa" d="M85 89h1v4h-1z"/>
+<path id="straw-33" fill="#c5c1aa" d="M87 89h5v4h-5z"/>
+<path id="straw-34" fill="#c5c1aa" d="M93 89h1v4h-1z"/>
+<path id="straw-35" fill="#c5c1aa" d="M100 89h1v5h-1z"/>
+<path id="straw-36" fill="#c5c1aa" d="M105 89h1v5h-1z"/>
+<path id="straw-37" fill="#c5c1aa" d="M108 89h7v4h-7z"/>
+<path id="straw-38" fill="#c5c1aa" d="M122 89h3v4h-3z"/>
+<path id="straw-39" fill="#c5c1aa" d="M128 89h2v4h-1v8h-1z"/>
+<path id="straw-40" fill="#c5c1aa" d="M131 89h6v4h-1v16h-1v-16h-1v4h-1v-4h-1v1h-1z"/>
+<path id="straw-41" fill="#c5c1aa" d="M138 89h1v4h-1z"/>
+<path id="straw-42" fill="#c5c1aa" d="M144 89h3v4h-3z"/>
+<path id="straw-43" fill="#c5c1aa" d="M148 89h1v4h-1z"/>
+<path id="straw-44" fill="#c5c1aa" d="M150 90h1v-1h2v3h-1v1h-2z"/>
+<path id="straw-45" fill="#c5c1aa" d="M155 89h1v2h-1z"/>
+<path id="straw-46" fill="#c5c1aa" d="M130 96h1v6h-1z"/>
+<path id="straw-47" fill="#c5c1aa" d="M12 110h1v14h-1z"/>
+<path id="straw-48" fill="#c5c1aa" d="M14 123h1v1h-1z"/>
+<path id="straw-49" fill="#c5c1aa" d="M38 125h1v10h-1z"/>
+<path id="straw-50" fill="#c5c1aa" d="M40 125h1v10h-1z"/>
+<path id="straw-51" fill="#c5c1aa" d="M86 133h2v-1h1v1h3v-6h1v6h1v-1h1v1h4v1h1v4h-1v-1h-3v2h-1v-2h-2v1h-1v9h-1v-10h-1v7h-1v-6h-3z"/>
+<path id="straw-52" fill="#c5c1aa" d="M35 131h1v5h-1z"/>
+<path id="straw-53" fill="#c5c1aa" d="M59 132h1v3h-1z"/>
+<path id="straw-54" fill="#c5c1aa" d="M69 132h1v1h1v3h-1v-1h-1z"/>
+<path id="straw-55" fill="#c5c1aa" d="M72 133h1v-1h1v1h1v4h-2v1h-1z"/>
+<path id="straw-56" fill="#c5c1aa" d="M78 132h1v1h2v1h1v-1h2v1h1v3h-6v1h-1z"/>
+<path id="straw-57" fill="#c5c1aa" d="M101 134h2v-1h1v1h1v-1h2v-1h1v1h2v4h-3v1h-2v-1h-1v1h-1v9h-1v-10h-1z"/>
+<path id="straw-58" fill="#c5c1aa" d="M111 133h1v1h1v-1h1v1h1v-1h1v1h1v-2h1v2h2v3h-1v1h-1v-1h-1v1h-2v9h-1v-9h-1v10h-1v-11h-1z"/>
+<path id="straw-59" fill="#c5c1aa" d="M122 133h1v14h-1z"/>
+<path id="straw-60" fill="#c5c1aa" d="M136 135h1v9h-1z"/>
+<path id="straw-61" fill="#c5c1aa" d="M3 136h1v12h-1z"/>
+<path id="straw-62" fill="#c5c1aa" d="M138 136h1v7h-1z"/>
+<path id="straw-63" fill="#c5c1aa" d="M148 136h1v11h-1z"/>
+<path id="straw-64" fill="#c5c1aa" d="M110 138h1v6h-1z"/>
+<path id="straw-65" fill="#c5c1aa" d="M27 143h1v10h-1z"/>
+<path id="straw-66" fill="#c5c1aa" d="M47 165h1v10h-1z"/>
+<path id="straw-67" fill="#c5c1aa" d="M36 171h1v4h-1z"/>
+<path id="straw-68" fill="#c5c1aa" d="M49 174h1v1h-1z"/>
+<path id="straw-69" fill="#c5c1aa" d="M82 174h1v3h-1z"/>
+<path id="straw-70" fill="#c5c1aa" d="M84 174h1v3h-1z"/>
+<path id="straw-71" fill="#c5c1aa" d="M92 174h1v1h1v-1h1v5h-3z"/>
+<path id="straw-72" fill="#c5c1aa" d="M100 176h1v-1h1v-1h2v1h2v1h1v-1h1v1h1v-1h3v1h1v-1h1v4h-11v1h-1v-1h-2z"/>
+<path id="straw-73" fill="#c5c1aa" d="M152 174h1v2h-1z"/>
+<path id="straw-74" fill="#c5c1aa" d="M86 175h3v4h-2v-1h-1z"/>
+<path id="straw-75" fill="#c5c1aa" d="M90 175h1v4h-1z"/>
+<path id="straw-76" fill="#c5c1aa" d="M115 175h2v4h-1v1h-1z"/>
+<path id="straw-77" fill="#c5c1aa" d="M13 178h1v6h-1z"/>
+<path id="straw-78" fill="#c5c1aa" d="M16 181h1v3h-1z"/>
+<path id="straw-79" fill="#c5c1aa" d="M20 181h1v3h-1z"/>
+<path id="silver-1" fill="#b1bbbe" d="M147 3h1v12h-1z"/>
+<path id="silver-2" fill="#b1bbbe" d="M6 4h1v11h-1z"/>
+<path id="silver-3" fill="#b1bbbe" d="M14 4h1v11h-1z"/>
+<path id="silver-4" fill="#b1bbbe" d="M22 4h1v10h-1z"/>
+<path id="silver-5" fill="#b1bbbe" d="M29 4h1v11h-1z"/>
+<path id="silver-6" fill="#b1bbbe" d="M32 4h1v11h-1z"/>
+<path id="silver-7" fill="#b1bbbe" d="M39 4h1v11h-1z"/>
+<path id="silver-8" fill="#b1bbbe" d="M16 5h1v10h-1z"/>
+<path id="silver-9" fill="#b1bbbe" d="M9 10h1v5h-1z"/>
+<path id="silver-10" fill="#b1bbbe" d="M133 27h1v7h-1z"/>
+<path id="silver-11" fill="#b1bbbe" d="M112 28h1v4h-1z"/>
+<path id="silver-12" fill="#b1bbbe" d="M98 31h1v20h-1z"/>
+<path id="silver-13" fill="#b1bbbe" d="M106 31h1v20h-1z"/>
+<path id="silver-14" fill="#b1bbbe" d="M95 32h1v19h-1z"/>
+<path id="silver-15" fill="#b1bbbe" d="M108 32h1v19h-1z"/>
+<path id="silver-16" fill="#b1bbbe" d="M111 32h1v18h-1z"/>
+<path id="silver-17" fill="#b1bbbe" d="M102 50h1v15h-1z"/>
+<path id="silver-18" fill="#b1bbbe" d="M111 65h1v-15h1v15h1v-7h1v12h-1v-1h-1v1h-2z"/>
+<path id="silver-19" fill="#b1bbbe" d="M94 51h1v19h-1z"/>
+<path id="silver-20" fill="#b1bbbe" d="M96 51h1v19h-1z"/>
+<path id="silver-21" fill="#b1bbbe" d="M105 51h1v14h1v4h-1v1h-1z"/>
+<path id="silver-22" fill="#b1bbbe" d="M107 51h1v14h-1z"/>
+<path id="silver-23" fill="#b1bbbe" d="M109 51h1v19h-1z"/>
+<path id="silver-24" fill="#b1bbbe" d="M73 52h1v17h-1z"/>
+<path id="silver-25" fill="#b1bbbe" d="M90 52h1v13h1v5h-1v-1h-1z"/>
+<path id="silver-26" fill="#b1bbbe" d="M44 65h7v-1h1v4h-1v-1h-1v10h-1v-5h-1v-5h-1v10h-1v-10h-1v10h-1z"/>
+<path id="silver-27" fill="#b1bbbe" d="M53 65h2v-1h1v1h4v4h-1v1h-1v-1h-1v1h-1v-1h-1v1h-1v-2h-1z"/>
+<path id="silver-28" fill="#b1bbbe" d="M61 64h1v6h-1z"/>
+<path id="silver-29" fill="#b1bbbe" d="M63 65h2v-1h1v1h2v1h1v-1h2v5h-2v-1h-1v1h-1v-1h-2v1h-2z"/>
+<path id="silver-30" fill="#b1bbbe" d="M88 64h1v6h-1z"/>
+<path id="silver-31" fill="#b1bbbe" d="M0 65h1v3h-1z"/>
+<path id="silver-32" fill="#b1bbbe" d="M2 65h1v2h-1z"/>
+<path id="silver-33" fill="#b1bbbe" d="M4 65h2v3h-2z"/>
+<path id="silver-34" fill="#b1bbbe" d="M7 65h1v3h-1z"/>
+<path id="silver-35" fill="#b1bbbe" d="M9 65h1v3h-1z"/>
+<path id="silver-36" fill="#b1bbbe" d="M11 65h2v3h-2z"/>
+<path id="silver-37" fill="#b1bbbe" d="M79 65h2v5h-2z"/>
+<path id="silver-38" fill="#b1bbbe" d="M84 65h1v1h1v4h-1v-1h-1z"/>
+<path id="silver-39" fill="#b1bbbe" d="M98 65h1v5h-1z"/>
+<path id="silver-40" fill="#b1bbbe" d="M103 65h1v5h-1z"/>
+<path id="silver-41" fill="#b1bbbe" d="M116 65h1v5h-1z"/>
+<path id="silver-42" fill="#b1bbbe" d="M118 65h1v10h-1z"/>
+<path id="silver-43" fill="#b1bbbe" d="M120 65h1v10h-1z"/>
+<path id="silver-44" fill="#b1bbbe" d="M122 65h1v5h-1z"/>
+<path id="silver-45" fill="#b1bbbe" d="M125 65h1v5h-1z"/>
+<path id="silver-46" fill="#b1bbbe" d="M127 65h2v4h-1v1h-1z"/>
+<path id="silver-47" fill="#b1bbbe" d="M132 65h1v5h-1z"/>
+<path id="silver-48" fill="#b1bbbe" d="M134 65h2v2h1v2h-1v1h-1v-1h-1z"/>
+<path id="silver-49" fill="#b1bbbe" d="M138 65h1v5h-1z"/>
+<path id="silver-50" fill="#b1bbbe" d="M140 65h1v5h-1z"/>
+<path id="silver-51" fill="#b1bbbe" d="M142 65h1v5h-1z"/>
+<path id="silver-52" fill="#b1bbbe" d="M144 65h3v5h-2v-1h-1z"/>
+<path id="silver-53" fill="#b1bbbe" d="M148 65h1v5h-1z"/>
+<path id="silver-54" fill="#b1bbbe" d="M150 65h4v2h-1v1h-1v2h-2z"/>
+<path id="silver-55" fill="#b1bbbe" d="M75 66h1v4h-1z"/>
+<path id="silver-56" fill="#b1bbbe" d="M77 66h1v3h-1z"/>
+<path id="silver-57" fill="#b1bbbe" d="M72 69h1v14h-1z"/>
+<path id="silver-58" fill="#b1bbbe" d="M20 77h1v13h-1z"/>
+<path id="silver-59" fill="#b1bbbe" d="M16 78h1v13h-1z"/>
+<path id="silver-60" fill="#b1bbbe" d="M18 78h1v12h-1z"/>
+<path id="silver-61" fill="#b1bbbe" d="M22 78h1v12h-1z"/>
+<path id="silver-62" fill="#b1bbbe" d="M24 78h1v12h-1z"/>
+<path id="silver-63" fill="#b1bbbe" d="M106 89h1v4h-1z"/>
+<path id="silver-64" fill="#b1bbbe" d="M118 89h1v4h-1z"/>
+<path id="silver-65" fill="#b1bbbe" d="M126 89h1v3h-1z"/>
+<path id="silver-66" fill="#b1bbbe" d="M127 96h1v3h-1z"/>
+<path id="silver-67" fill="#b1bbbe" d="M133 97h1v11h-1z"/>
+<path id="silver-68" fill="#b1bbbe" d="M128 101h1v8h-1z"/>
+<path id="silver-69" fill="#b1bbbe" d="M130 102h1v7h-1z"/>
+<path id="silver-70" fill="#b1bbbe" d="M36 119h1v1h1v-10h1v10h1v-10h1v10h1v-1h1v4h-2v2h-1v-1h-1v1h-1v-2h-1v1h-1z"/>
+<path id="silver-71" fill="#b1bbbe" d="M50 119h1v-1h1v7h-1v-2h-1z"/>
+<path id="silver-72" fill="#b1bbbe" d="M53 118h1v6h-1z"/>
+<path id="silver-73" fill="#b1bbbe" d="M14 121h1v-2h1v5h-1v-1h-1z"/>
+<path id="silver-74" fill="#b1bbbe" d="M17 119h1v1h1v4h-2z"/>
+<path id="silver-75" fill="#b1bbbe" d="M23 119h1v4h-1z"/>
+<path id="silver-76" fill="#b1bbbe" d="M25 119h1v4h-1z"/>
+<path id="silver-77" fill="#b1bbbe" d="M30 120h1v-1h1v5h-1v-1h-1z"/>
+<path id="silver-78" fill="#b1bbbe" d="M33 119h2v4h-2z"/>
+<path id="silver-79" fill="#b1bbbe" d="M47 119h1v4h-1z"/>
+<path id="silver-80" fill="#b1bbbe" d="M55 119h1v4h-1z"/>
+<path id="silver-81" fill="#b1bbbe" d="M57 119h2v4h-2z"/>
+<path id="silver-82" fill="#b1bbbe" d="M0 121h1v3h-1z"/>
+<path id="silver-83" fill="#b1bbbe" d="M3 121h1v3h-1z"/>
+<path id="silver-84" fill="#b1bbbe" d="M5 121h1v2h-1z"/>
+<path id="silver-85" fill="#b1bbbe" d="M9 121h2v14h-1v-11h-1z"/>
+<path id="silver-86" fill="#b1bbbe" d="M61 121h1v2h-1z"/>
+<path id="silver-87" fill="#b1bbbe" d="M66 121h1v2h-1z"/>
+<path id="silver-88" fill="#b1bbbe" d="M45 123h1v12h-1z"/>
+<path id="silver-89" fill="#b1bbbe" d="M32 124h1v11h-1z"/>
+<path id="silver-90" fill="#b1bbbe" d="M35 124h1v7h-1z"/>
+<path id="silver-91" fill="#b1bbbe" d="M144 135h1v12h-1z"/>
+<path id="silver-92" fill="#b1bbbe" d="M146 135h1v12h-1z"/>
+<path id="silver-93" fill="#b1bbbe" d="M151 135h1v13h-1z"/>
+<path id="silver-94" fill="#b1bbbe" d="M0 136h1v12h-1z"/>
+<path id="silver-95" fill="#b1bbbe" d="M5 136h1v11h-1z"/>
+<path id="silver-96" fill="#b1bbbe" d="M142 136h1v11h-1z"/>
+<path id="silver-97" fill="#b1bbbe" d="M154 136h1v11h-1z"/>
+<path id="silver-98" fill="#b1bbbe" d="M99 138h1v9h-1z"/>
+<path id="silver-99" fill="#b1bbbe" d="M124 139h1v8h-1z"/>
+<path id="silver-100" fill="#b1bbbe" d="M133 142h1v6h-1z"/>
+<path id="silver-101" fill="#b1bbbe" d="M138 143h1v4h-1z"/>
+<path id="silver-102" fill="#b1bbbe" d="M89 144h1v3h-1z"/>
+<path id="silver-103" fill="#b1bbbe" d="M110 144h1v3h-1z"/>
+<path id="silver-104" fill="#b1bbbe" d="M136 144h1v3h-1z"/>
+<path id="silver-105" fill="#b1bbbe" d="M49 154h1v3h-1z"/>
+<path id="silver-106" fill="#b1bbbe" d="M54 154h1v4h-1z"/>
+<path id="silver-107" fill="#b1bbbe" d="M59 154h1v4h-1z"/>
+<path id="silver-108" fill="#b1bbbe" d="M64 154h1v4h-1z"/>
+<path id="silver-109" fill="#b1bbbe" d="M68 155h1v-1h1v3h-1v1h-1z"/>
+<path id="silver-110" fill="#b1bbbe" d="M78 154h1v1h1v4h-1v1h-1z"/>
+<path id="silver-111" fill="#b1bbbe" d="M82 154h1v6h-1z"/>
+<path id="silver-112" fill="#b1bbbe" d="M86 154h1v1h1v4h-1v1h-1z"/>
+<path id="silver-113" fill="#b1bbbe" d="M51 155h1v3h-1z"/>
+<path id="silver-114" fill="#b1bbbe" d="M61 155h1v3h-1z"/>
+<path id="silver-115" fill="#b1bbbe" d="M66 155h1v2h-1z"/>
+<path id="silver-116" fill="#b1bbbe" d="M72 155h1v4h-1z"/>
+<path id="silver-117" fill="#b1bbbe" d="M74 155h1v5h-1z"/>
+<path id="silver-118" fill="#b1bbbe" d="M76 155h1v5h-1z"/>
+<path id="silver-119" fill="#b1bbbe" d="M84 155h1v5h-1z"/>
+<path id="silver-120" fill="#b1bbbe" d="M89 155h1v5h-1z"/>
+<path id="silver-121" fill="#b1bbbe" d="M92 155h1v5h-1z"/>
+<path id="silver-122" fill="#b1bbbe" d="M94 155h2v4h-1v1h-1z"/>
+<path id="silver-123" fill="#b1bbbe" d="M97 155h1v5h-1z"/>
+<path id="silver-124" fill="#b1bbbe" d="M99 155h1v5h-1z"/>
+<path id="silver-125" fill="#b1bbbe" d="M101 157h1v-1h1v3h-1v1h-1z"/>
+<path id="silver-126" fill="#b1bbbe" d="M39 164h1v10h-1z"/>
+<path id="silver-127" fill="#b1bbbe" d="M43 164h1v11h-1z"/>
+<path id="silver-128" fill="#b1bbbe" d="M51 164h1v10h-1z"/>
+<path id="silver-129" fill="#b1bbbe" d="M150 164h1v11h-1z"/>
+<path id="silver-130" fill="#b1bbbe" d="M152 164h1v10h-1z"/>
+<path id="silver-131" fill="#b1bbbe" d="M36 165h1v6h-1z"/>
+<path id="silver-132" fill="#b1bbbe" d="M49 165h1v9h-1z"/>
+<path id="silver-133" fill="#b1bbbe" d="M64 174h1v3h-1z"/>
+<path id="silver-134" fill="#b1bbbe" d="M96 175h1v4h-1z"/>
+<path id="silver-135" fill="#b1bbbe" d="M142 175h1v6h-1z"/>
+</defs>
+<rect width="468" height="752" fill="#9a8f8e"/>
+<g transform="scale(3 2.043478260870) translate(0.5 0.5)">
+<use xlink:href="#claret-1"/>
+<use xlink:href="#claret-1" transform="translate(78 184)"/>
+<use xlink:href="#claret-1" transform="translate(0 368)"/>
+<use xlink:href="#claret-2"/>
+<use xlink:href="#claret-2" transform="translate(78 184)"/>
+<use xlink:href="#claret-2" transform="translate(0 368)"/>
+<use xlink:href="#claret-3"/>
+<use xlink:href="#claret-3" transform="translate(78 184)"/>
+<use xlink:href="#claret-3" transform="translate(0 368)"/>
+<use xlink:href="#claret-4"/>
+<use xlink:href="#claret-4" transform="translate(78 184)"/>
+<use xlink:href="#claret-4" transform="translate(0 368)"/>
+<use xlink:href="#claret-5"/>
+<use xlink:href="#claret-5" transform="translate(78 184)"/>
+<use xlink:href="#claret-5" transform="translate(0 368)"/>
+<use xlink:href="#claret-6"/>
+<use xlink:href="#claret-6" transform="translate(78 184)"/>
+<use xlink:href="#claret-6" transform="translate(0 368)"/>
+<use xlink:href="#claret-7"/>
+<use xlink:href="#claret-7" transform="translate(78 184)"/>
+<use xlink:href="#claret-7" transform="translate(0 368)"/>
+<use xlink:href="#claret-8"/>
+<use xlink:href="#claret-8" transform="translate(78 184)"/>
+<use xlink:href="#claret-8" transform="translate(0 368)"/>
+<use xlink:href="#claret-9"/>
+<use xlink:href="#claret-9" transform="translate(78 184)"/>
+<use xlink:href="#claret-9" transform="translate(0 368)"/>
+<use xlink:href="#claret-10"/>
+<use xlink:href="#claret-10" transform="translate(78 184)"/>
+<use xlink:href="#claret-10" transform="translate(0 368)"/>
+<use xlink:href="#claret-11"/>
+<use xlink:href="#claret-11" transform="translate(78 184)"/>
+<use xlink:href="#claret-11" transform="translate(0 368)"/>
+<use xlink:href="#claret-12"/>
+<use xlink:href="#claret-12" transform="translate(-78 184)"/>
+<use xlink:href="#claret-12" transform="translate(78 184)"/>
+<use xlink:href="#claret-12" transform="translate(0 368)"/>
+<use xlink:href="#claret-13"/>
+<use xlink:href="#claret-13" transform="translate(-78 184)"/>
+<use xlink:href="#claret-13" transform="translate(0 368)"/>
+<use xlink:href="#claret-14"/>
+<use xlink:href="#claret-14" transform="translate(-78 184)"/>
+<use xlink:href="#claret-14" transform="translate(0 368)"/>
+<use xlink:href="#claret-15"/>
+<use xlink:href="#claret-15" transform="translate(-78 184)"/>
+<use xlink:href="#claret-15" transform="translate(0 368)"/>
+<use xlink:href="#claret-16"/>
+<use xlink:href="#claret-16" transform="translate(-78 184)"/>
+<use xlink:href="#claret-16" transform="translate(0 368)"/>
+<use xlink:href="#claret-17"/>
+<use xlink:href="#claret-17" transform="translate(-78 184)"/>
+<use xlink:href="#claret-17" transform="translate(0 368)"/>
+<use xlink:href="#claret-18"/>
+<use xlink:href="#claret-18" transform="translate(-78 184)"/>
+<use xlink:href="#claret-18" transform="translate(0 368)"/>
+<use xlink:href="#claret-19"/>
+<use xlink:href="#claret-19" transform="translate(-78 184)"/>
+<use xlink:href="#claret-19" transform="translate(0 368)"/>
+<use xlink:href="#claret-20"/>
+<use xlink:href="#claret-20" transform="translate(-78 184)"/>
+<use xlink:href="#claret-20" transform="translate(0 368)"/>
+<use xlink:href="#claret-21"/>
+<use xlink:href="#claret-21" transform="translate(-78 184)"/>
+<use xlink:href="#claret-21" transform="translate(0 368)"/>
+<use xlink:href="#claret-22"/>
+<use xlink:href="#claret-22" transform="translate(-78 184)"/>
+<use xlink:href="#claret-22" transform="translate(0 368)"/>
+<use xlink:href="#claret-23"/>
+<use xlink:href="#claret-23" transform="translate(-78 184)"/>
+<use xlink:href="#claret-23" transform="translate(0 368)"/>
+<use xlink:href="#claret-24"/>
+<use xlink:href="#claret-24" transform="translate(-78 184)"/>
+<use xlink:href="#claret-24" transform="translate(0 368)"/>
+<use xlink:href="#claret-25"/>
+<use xlink:href="#claret-25" transform="translate(-78 184)"/>
+<use xlink:href="#claret-25" transform="translate(0 368)"/>
+<use xlink:href="#claret-26"/>
+<use xlink:href="#claret-26" transform="translate(-78 184)"/>
+<use xlink:href="#claret-27"/>
+<use xlink:href="#claret-27" transform="translate(78 184)"/>
+<use xlink:href="#claret-28"/>
+<use xlink:href="#claret-28" transform="translate(78 184)"/>
+<use xlink:href="#claret-29"/>
+<use xlink:href="#claret-29" transform="translate(78 184)"/>
+<use xlink:href="#claret-30"/>
+<use xlink:href="#claret-30" transform="translate(78 184)"/>
+<use xlink:href="#claret-31"/>
+<use xlink:href="#claret-31" transform="translate(-78 184)"/>
+<use xlink:href="#claret-32"/>
+<use xlink:href="#claret-32" transform="translate(-78 184)"/>
+<use xlink:href="#claret-33"/>
+<use xlink:href="#claret-33" transform="translate(-78 184)"/>
+<use xlink:href="#claret-34"/>
+<use xlink:href="#claret-34" transform="translate(-78 184)"/>
+<use xlink:href="#claret-35"/>
+<use xlink:href="#claret-35" transform="translate(-78 184)"/>
+<use xlink:href="#claret-36"/>
+<use xlink:href="#claret-36" transform="translate(-78 184)"/>
+<use xlink:href="#claret-37"/>
+<use xlink:href="#claret-37" transform="translate(78 184)"/>
+<use xlink:href="#claret-38"/>
+<use xlink:href="#claret-38" transform="translate(78 184)"/>
+<use xlink:href="#claret-39"/>
+<use xlink:href="#claret-39" transform="translate(-78 184)"/>
+<use xlink:href="#claret-40"/>
+<use xlink:href="#claret-40" transform="translate(78 184)"/>
+<use xlink:href="#claret-41"/>
+<use xlink:href="#claret-41" transform="translate(78 184)"/>
+<use xlink:href="#claret-42"/>
+<use xlink:href="#claret-42" transform="translate(-78 184)"/>
+<use xlink:href="#claret-43"/>
+<use xlink:href="#claret-43" transform="translate(78 184)"/>
+<use xlink:href="#claret-44"/>
+<use xlink:href="#claret-44" transform="translate(-78 184)"/>
+<use xlink:href="#claret-45"/>
+<use xlink:href="#claret-45" transform="translate(-78 184)"/>
+<use xlink:href="#claret-46"/>
+<use xlink:href="#claret-46" transform="translate(-78 184)"/>
+<use xlink:href="#claret-47"/>
+<use xlink:href="#claret-47" transform="translate(-78 184)"/>
+<use xlink:href="#claret-48"/>
+<use xlink:href="#claret-48" transform="translate(78 184)"/>
+<use xlink:href="#claret-49"/>
+<use xlink:href="#claret-49" transform="translate(-78 184)"/>
+<use xlink:href="#claret-50"/>
+<use xlink:href="#claret-50" transform="translate(78 184)"/>
+<use xlink:href="#claret-51"/>
+<use xlink:href="#claret-51" transform="translate(-78 184)"/>
+<use xlink:href="#claret-52"/>
+<use xlink:href="#claret-52" transform="translate(-78 184)"/>
+<use xlink:href="#claret-53"/>
+<use xlink:href="#claret-53" transform="translate(78 184)"/>
+<use xlink:href="#claret-54"/>
+<use xlink:href="#claret-54" transform="translate(78 184)"/>
+<use xlink:href="#claret-55"/>
+<use xlink:href="#claret-55" transform="translate(78 184)"/>
+<use xlink:href="#claret-56"/>
+<use xlink:href="#claret-56" transform="translate(78 184)"/>
+<use xlink:href="#claret-57"/>
+<use xlink:href="#claret-57" transform="translate(-78 184)"/>
+<use xlink:href="#claret-58"/>
+<use xlink:href="#claret-58" transform="translate(78 184)"/>
+<use xlink:href="#claret-59"/>
+<use xlink:href="#claret-59" transform="translate(-78 184)"/>
+<use xlink:href="#claret-60"/>
+<use xlink:href="#claret-60" transform="translate(78 184)"/>
+<use xlink:href="#claret-61"/>
+<use xlink:href="#claret-61" transform="translate(-78 184)"/>
+<use xlink:href="#claret-62"/>
+<use xlink:href="#claret-62" transform="translate(-78 184)"/>
+<use xlink:href="#claret-63"/>
+<use xlink:href="#claret-63" transform="translate(78 184)"/>
+<use xlink:href="#claret-64"/>
+<use xlink:href="#claret-64" transform="translate(-78 184)"/>
+<use xlink:href="#claret-65"/>
+<use xlink:href="#claret-65" transform="translate(-78 184)"/>
+<use xlink:href="#claret-66"/>
+<use xlink:href="#claret-66" transform="translate(-78 184)"/>
+<use xlink:href="#claret-67"/>
+<use xlink:href="#claret-67" transform="translate(78 184)"/>
+<use xlink:href="#claret-68"/>
+<use xlink:href="#claret-68" transform="translate(78 184)"/>
+<use xlink:href="#claret-69"/>
+<use xlink:href="#claret-69" transform="translate(78 184)"/>
+<use xlink:href="#claret-70"/>
+<use xlink:href="#claret-70" transform="translate(78 184)"/>
+<use xlink:href="#claret-71"/>
+<use xlink:href="#claret-71" transform="translate(78 184)"/>
+<use xlink:href="#claret-72"/>
+<use xlink:href="#claret-72" transform="translate(78 184)"/>
+<use xlink:href="#claret-73"/>
+<use xlink:href="#claret-73" transform="translate(-78 184)"/>
+<use xlink:href="#claret-74"/>
+<use xlink:href="#claret-74" transform="translate(-78 184)"/>
+<use xlink:href="#claret-75"/>
+<use xlink:href="#claret-75" transform="translate(78 184)"/>
+<use xlink:href="#claret-76"/>
+<use xlink:href="#claret-76" transform="translate(-78 184)"/>
+<use xlink:href="#claret-77"/>
+<use xlink:href="#claret-77" transform="translate(-78 184)"/>
+<use xlink:href="#claret-78"/>
+<use xlink:href="#claret-78" transform="translate(-78 184)"/>
+<use xlink:href="#claret-79"/>
+<use xlink:href="#claret-79" transform="translate(78 184)"/>
+<use xlink:href="#claret-80"/>
+<use xlink:href="#claret-80" transform="translate(-78 184)"/>
+<use xlink:href="#claret-81"/>
+<use xlink:href="#claret-81" transform="translate(-78 184)"/>
+<use xlink:href="#claret-82"/>
+<use xlink:href="#claret-82" transform="translate(-78 184)"/>
+<use xlink:href="#claret-83"/>
+<use xlink:href="#claret-83" transform="translate(-78 184)"/>
+<use xlink:href="#claret-84"/>
+<use xlink:href="#claret-84" transform="translate(-78 184)"/>
+<use xlink:href="#claret-85"/>
+<use xlink:href="#claret-85" transform="translate(-78 184)"/>
+<use xlink:href="#claret-86"/>
+<use xlink:href="#claret-86" transform="translate(78 184)"/>
+<use xlink:href="#claret-87"/>
+<use xlink:href="#claret-87" transform="translate(-78 184)"/>
+<use xlink:href="#claret-88"/>
+<use xlink:href="#claret-88" transform="translate(78 184)"/>
+<use xlink:href="#claret-89"/>
+<use xlink:href="#claret-89" transform="translate(-78 184)"/>
+<use xlink:href="#claret-90"/>
+<use xlink:href="#claret-90" transform="translate(-78 184)"/>
+<use xlink:href="#claret-91"/>
+<use xlink:href="#claret-91" transform="translate(-78 184)"/>
+<use xlink:href="#claret-92"/>
+<use xlink:href="#claret-92" transform="translate(-78 184)"/>
+<use xlink:href="#claret-93"/>
+<use xlink:href="#claret-93" transform="translate(-78 184)"/>
+<use xlink:href="#claret-94"/>
+<use xlink:href="#claret-94" transform="translate(78 184)"/>
+<use xlink:href="#claret-95"/>
+<use xlink:href="#claret-95" transform="translate(78 184)"/>
+<use xlink:href="#claret-96"/>
+<use xlink:href="#claret-96" transform="translate(-78 184)"/>
+<use xlink:href="#claret-97"/>
+<use xlink:href="#claret-97" transform="translate(-78 184)"/>
+<use xlink:href="#claret-98"/>
+<use xlink:href="#claret-98" transform="translate(-78 184)"/>
+<use xlink:href="#claret-99"/>
+<use xlink:href="#claret-99" transform="translate(-78 184)"/>
+<use xlink:href="#claret-100"/>
+<use xlink:href="#claret-100" transform="translate(-78 184)"/>
+<use xlink:href="#claret-101"/>
+<use xlink:href="#claret-101" transform="translate(-78 184)"/>
+<use xlink:href="#claret-102"/>
+<use xlink:href="#claret-102" transform="translate(-78 184)"/>
+<use xlink:href="#claret-103"/>
+<use xlink:href="#claret-103" transform="translate(-78 184)"/>
+<use xlink:href="#blue-1"/>
+<use xlink:href="#blue-1" transform="translate(78 184)"/>
+<use xlink:href="#blue-1" transform="translate(0 368)"/>
+<use xlink:href="#blue-2"/>
+<use xlink:href="#blue-2" transform="translate(78 184)"/>
+<use xlink:href="#blue-2" transform="translate(0 368)"/>
+<use xlink:href="#blue-3"/>
+<use xlink:href="#blue-3" transform="translate(78 184)"/>
+<use xlink:href="#blue-3" transform="translate(0 368)"/>
+<use xlink:href="#blue-4"/>
+<use xlink:href="#blue-4" transform="translate(-78 184)"/>
+<use xlink:href="#blue-4" transform="translate(0 368)"/>
+<use xlink:href="#blue-5"/>
+<use xlink:href="#blue-5" transform="translate(78 184)"/>
+<use xlink:href="#blue-6"/>
+<use xlink:href="#blue-6" transform="translate(-78 184)"/>
+<use xlink:href="#blue-7"/>
+<use xlink:href="#blue-7" transform="translate(-78 184)"/>
+<use xlink:href="#blue-8"/>
+<use xlink:href="#blue-8" transform="translate(-78 184)"/>
+<use xlink:href="#blue-9"/>
+<use xlink:href="#blue-9" transform="translate(78 184)"/>
+<use xlink:href="#blue-10"/>
+<use xlink:href="#blue-10" transform="translate(78 184)"/>
+<use xlink:href="#blue-11"/>
+<use xlink:href="#blue-11" transform="translate(78 184)"/>
+<use xlink:href="#blue-12"/>
+<use xlink:href="#blue-12" transform="translate(-78 184)"/>
+<use xlink:href="#blue-13"/>
+<use xlink:href="#blue-13" transform="translate(-78 184)"/>
+<use xlink:href="#blue-14"/>
+<use xlink:href="#blue-14" transform="translate(78 184)"/>
+<use xlink:href="#blue-15"/>
+<use xlink:href="#blue-15" transform="translate(78 184)"/>
+<use xlink:href="#blue-16"/>
+<use xlink:href="#blue-16" transform="translate(-78 184)"/>
+<use xlink:href="#blue-17"/>
+<use xlink:href="#blue-17" transform="translate(-78 184)"/>
+<use xlink:href="#blue-18"/>
+<use xlink:href="#blue-18" transform="translate(78 184)"/>
+<use xlink:href="#blue-19"/>
+<use xlink:href="#blue-19" transform="translate(78 184)"/>
+<use xlink:href="#blue-20"/>
+<use xlink:href="#blue-20" transform="translate(78 184)"/>
+<use xlink:href="#blue-21"/>
+<use xlink:href="#blue-21" transform="translate(-78 184)"/>
+<use xlink:href="#blue-22"/>
+<use xlink:href="#blue-22" transform="translate(-78 184)"/>
+<use xlink:href="#blue-22" transform="translate(78 184)"/>
+<use xlink:href="#blue-23"/>
+<use xlink:href="#blue-23" transform="translate(78 184)"/>
+<use xlink:href="#blue-24"/>
+<use xlink:href="#blue-24" transform="translate(-78 184)"/>
+<use xlink:href="#blue-25"/>
+<use xlink:href="#blue-25" transform="translate(-78 184)"/>
+<use xlink:href="#blue-26"/>
+<use xlink:href="#blue-26" transform="translate(-78 184)"/>
+<use xlink:href="#blue-27"/>
+<use xlink:href="#blue-27" transform="translate(156 0)"/>
+<use xlink:href="#blue-27" transform="translate(78 184)"/>
+<use xlink:href="#blue-28"/>
+<use xlink:href="#blue-28" transform="translate(78 184)"/>
+<use xlink:href="#blue-29"/>
+<use xlink:href="#blue-29" transform="translate(78 184)"/>
+<use xlink:href="#blue-30"/>
+<use xlink:href="#blue-30" transform="translate(78 184)"/>
+<use xlink:href="#blue-31"/>
+<use xlink:href="#blue-31" transform="translate(-78 184)"/>
+<use xlink:href="#blue-32"/>
+<use xlink:href="#blue-32" transform="translate(-78 184)"/>
+<use xlink:href="#blue-33"/>
+<use xlink:href="#blue-33" transform="translate(-78 184)"/>
+<use xlink:href="#blue-34"/>
+<use xlink:href="#blue-34" transform="translate(78 184)"/>
+<use xlink:href="#blue-35"/>
+<use xlink:href="#blue-35" transform="translate(78 184)"/>
+<use xlink:href="#blue-36"/>
+<use xlink:href="#blue-36" transform="translate(-78 184)"/>
+<use xlink:href="#blue-37"/>
+<use xlink:href="#blue-37" transform="translate(78 184)"/>
+<use xlink:href="#blue-38"/>
+<use xlink:href="#blue-38" transform="translate(78 184)"/>
+<use xlink:href="#blue-39"/>
+<use xlink:href="#blue-39" transform="translate(78 184)"/>
+<use xlink:href="#blue-40"/>
+<use xlink:href="#blue-40" transform="translate(-78 184)"/>
+<use xlink:href="#blue-41"/>
+<use xlink:href="#blue-41" transform="translate(-78 184)"/>
+<use xlink:href="#blue-42"/>
+<use xlink:href="#blue-42" transform="translate(-78 184)"/>
+<use xlink:href="#blue-43"/>
+<use xlink:href="#blue-43" transform="translate(-78 184)"/>
+<use xlink:href="#blue-44"/>
+<use xlink:href="#blue-44" transform="translate(-78 184)"/>
+<use xlink:href="#blue-45"/>
+<use xlink:href="#blue-45" transform="translate(-78 184)"/>
+<use xlink:href="#blue-46"/>
+<use xlink:href="#blue-46" transform="translate(78 184)"/>
+<use xlink:href="#blue-47"/>
+<use xlink:href="#blue-47" transform="translate(78 184)"/>
+<use xlink:href="#blue-48"/>
+<use xlink:href="#blue-48" transform="translate(78 184)"/>
+<use xlink:href="#blue-49"/>
+<use xlink:href="#blue-49" transform="translate(78 184)"/>
+<use xlink:href="#blue-50"/>
+<use xlink:href="#blue-50" transform="translate(-78 184)"/>
+<use xlink:href="#blue-51"/>
+<use xlink:href="#blue-51" transform="translate(-78 184)"/>
+<use xlink:href="#blue-52"/>
+<use xlink:href="#blue-52" transform="translate(78 184)"/>
+<use xlink:href="#blue-53"/>
+<use xlink:href="#blue-53" transform="translate(-78 184)"/>
+<use xlink:href="#blue-54"/>
+<use xlink:href="#blue-54" transform="translate(78 184)"/>
+<use xlink:href="#blue-55"/>
+<use xlink:href="#blue-55" transform="translate(78 184)"/>
+<use xlink:href="#blue-56"/>
+<use xlink:href="#blue-56" transform="translate(-78 184)"/>
+<use xlink:href="#blue-57"/>
+<use xlink:href="#blue-57" transform="translate(-78 184)"/>
+<use xlink:href="#blue-58"/>
+<use xlink:href="#blue-58" transform="translate(-78 184)"/>
+<use xlink:href="#blue-59"/>
+<use xlink:href="#blue-59" transform="translate(-78 184)"/>
+<use xlink:href="#blue-60"/>
+<use xlink:href="#blue-60" transform="translate(78 184)"/>
+<use xlink:href="#blue-61"/>
+<use xlink:href="#blue-61" transform="translate(78 184)"/>
+<use xlink:href="#blue-62"/>
+<use xlink:href="#blue-62" transform="translate(78 184)"/>
+<use xlink:href="#blue-63"/>
+<use xlink:href="#blue-63" transform="translate(-78 184)"/>
+<use xlink:href="#blue-64"/>
+<use xlink:href="#blue-64" transform="translate(78 184)"/>
+<use xlink:href="#blue-65"/>
+<use xlink:href="#blue-65" transform="translate(78 184)"/>
+<use xlink:href="#blue-66"/>
+<use xlink:href="#blue-66" transform="translate(78 184)"/>
+<use xlink:href="#blue-67"/>
+<use xlink:href="#blue-67" transform="translate(78 184)"/>
+<use xlink:href="#blue-68"/>
+<use xlink:href="#blue-68" transform="translate(-78 184)"/>
+<use xlink:href="#blue-69"/>
+<use xlink:href="#blue-69" transform="translate(-78 184)"/>
+<use xlink:href="#blue-70"/>
+<use xlink:href="#blue-70" transform="translate(-78 184)"/>
+<use xlink:href="#blue-71"/>
+<use xlink:href="#blue-71" transform="translate(-78 184)"/>
+<use xlink:href="#blue-72"/>
+<use xlink:href="#blue-72" transform="translate(-78 184)"/>
+<use xlink:href="#blue-73"/>
+<use xlink:href="#blue-73" transform="translate(-78 184)"/>
+<use xlink:href="#blue-74"/>
+<use xlink:href="#blue-74" transform="translate(-78 184)"/>
+<use xlink:href="#blue-75"/>
+<use xlink:href="#blue-75" transform="translate(-78 184)"/>
+<use xlink:href="#blue-76"/>
+<use xlink:href="#blue-76" transform="translate(78 184)"/>
+<use xlink:href="#blue-77"/>
+<use xlink:href="#blue-77" transform="translate(-78 184)"/>
+<use xlink:href="#blue-78"/>
+<use xlink:href="#blue-78" transform="translate(78 184)"/>
+<use xlink:href="#blue-79"/>
+<use xlink:href="#blue-79" transform="translate(-78 184)"/>
+<use xlink:href="#blue-80"/>
+<use xlink:href="#blue-80" transform="translate(-78 184)"/>
+<use xlink:href="#blue-81"/>
+<use xlink:href="#blue-81" transform="translate(-78 184)"/>
+<use xlink:href="#blue-82"/>
+<use xlink:href="#blue-82" transform="translate(-78 184)"/>
+<use xlink:href="#blue-83"/>
+<use xlink:href="#blue-83" transform="translate(-78 184)"/>
+<use xlink:href="#blue-84"/>
+<use xlink:href="#blue-84" transform="translate(-78 184)"/>
+<use xlink:href="#blue-85" transform="translate(-156 0)"/>
+<use xlink:href="#blue-85"/>
+<use xlink:href="#blue-85" transform="translate(-78 184)"/>
+<use xlink:href="#blue-86"/>
+<use xlink:href="#blue-86" transform="translate(78 184)"/>
+<use xlink:href="#blue-87"/>
+<use xlink:href="#blue-87" transform="translate(78 184)"/>
+<use xlink:href="#blue-88"/>
+<use xlink:href="#blue-88" transform="translate(78 184)"/>
+<use xlink:href="#blue-89"/>
+<use xlink:href="#blue-89" transform="translate(78 184)"/>
+<use xlink:href="#blue-90"/>
+<use xlink:href="#blue-90" transform="translate(-78 184)"/>
+<use xlink:href="#blue-91"/>
+<use xlink:href="#blue-91" transform="translate(-78 184)"/>
+<use xlink:href="#blue-92"/>
+<use xlink:href="#blue-92" transform="translate(78 184)"/>
+<use xlink:href="#blue-93"/>
+<use xlink:href="#blue-93" transform="translate(78 184)"/>
+<use xlink:href="#blue-94"/>
+<use xlink:href="#blue-94" transform="translate(-78 184)"/>
+<use xlink:href="#blue-95"/>
+<use xlink:href="#blue-95" transform="translate(78 184)"/>
+<use xlink:href="#blue-96"/>
+<use xlink:href="#blue-96" transform="translate(78 184)"/>
+<use xlink:href="#blue-97"/>
+<use xlink:href="#blue-97" transform="translate(-78 184)"/>
+<use xlink:href="#blue-97" transform="translate(78 184)"/>
+<use xlink:href="#blue-98"/>
+<use xlink:href="#blue-98" transform="translate(78 184)"/>
+<use xlink:href="#blue-99"/>
+<use xlink:href="#blue-99" transform="translate(78 184)"/>
+<use xlink:href="#blue-100"/>
+<use xlink:href="#blue-100" transform="translate(78 184)"/>
+<use xlink:href="#blue-101" transform="translate(78 -184)"/>
+<use xlink:href="#blue-101"/>
+<use xlink:href="#blue-101" transform="translate(78 184)"/>
+<use xlink:href="#blue-102"/>
+<use xlink:href="#blue-102" transform="translate(-78 184)"/>
+<use xlink:href="#blue-103"/>
+<use xlink:href="#blue-103" transform="translate(-78 184)"/>
+<use xlink:href="#blue-104"/>
+<use xlink:href="#blue-104" transform="translate(-78 184)"/>
+<use xlink:href="#blue-105"/>
+<use xlink:href="#blue-105" transform="translate(78 184)"/>
+<use xlink:href="#blue-106"/>
+<use xlink:href="#blue-106" transform="translate(-78 184)"/>
+<use xlink:href="#blue-107"/>
+<use xlink:href="#blue-107" transform="translate(-78 184)"/>
+<use xlink:href="#blue-107" transform="translate(78 184)"/>
+<use xlink:href="#blue-108"/>
+<use xlink:href="#blue-108" transform="translate(-78 184)"/>
+<use xlink:href="#blue-109"/>
+<use xlink:href="#blue-109" transform="translate(78 184)"/>
+<use xlink:href="#blue-110"/>
+<use xlink:href="#blue-110" transform="translate(-78 184)"/>
+<use xlink:href="#blue-111"/>
+<use xlink:href="#blue-111" transform="translate(-78 184)"/>
+<use xlink:href="#blue-112"/>
+<use xlink:href="#blue-112" transform="translate(78 184)"/>
+<use xlink:href="#blue-113"/>
+<use xlink:href="#blue-113" transform="translate(78 184)"/>
+<use xlink:href="#blue-114"/>
+<use xlink:href="#blue-114" transform="translate(-78 184)"/>
+<use xlink:href="#blue-115"/>
+<use xlink:href="#blue-115" transform="translate(-78 184)"/>
+<use xlink:href="#blue-116"/>
+<use xlink:href="#blue-116" transform="translate(-78 184)"/>
+<use xlink:href="#blue-117"/>
+<use xlink:href="#blue-117" transform="translate(-78 184)"/>
+<use xlink:href="#blue-118"/>
+<use xlink:href="#blue-118" transform="translate(78 184)"/>
+<use xlink:href="#blue-119"/>
+<use xlink:href="#blue-119" transform="translate(78 184)"/>
+<use xlink:href="#blue-120"/>
+<use xlink:href="#blue-120" transform="translate(78 184)"/>
+<use xlink:href="#blue-121"/>
+<use xlink:href="#blue-121" transform="translate(78 184)"/>
+<use xlink:href="#blue-122"/>
+<use xlink:href="#blue-122" transform="translate(78 184)"/>
+<use xlink:href="#blue-123"/>
+<use xlink:href="#blue-123" transform="translate(-78 184)"/>
+<use xlink:href="#blue-124"/>
+<use xlink:href="#blue-124" transform="translate(-78 184)"/>
+<use xlink:href="#blue-125"/>
+<use xlink:href="#blue-125" transform="translate(-78 184)"/>
+<use xlink:href="#blue-126"/>
+<use xlink:href="#blue-126" transform="translate(78 184)"/>
+<use xlink:href="#heather-1"/>
+<use xlink:href="#heather-1" transform="translate(78 184)"/>
+<use xlink:href="#heather-1" transform="translate(0 368)"/>
+<use xlink:href="#heather-2"/>
+<use xlink:href="#heather-2" transform="translate(78 184)"/>
+<use xlink:href="#heather-2" transform="translate(0 368)"/>
+<use xlink:href="#heather-3"/>
+<use xlink:href="#heather-3" transform="translate(78 184)"/>
+<use xlink:href="#heather-3" transform="translate(0 368)"/>
+<use xlink:href="#heather-4"/>
+<use xlink:href="#heather-4" transform="translate(78 184)"/>
+<use xlink:href="#heather-4" transform="translate(0 368)"/>
+<use xlink:href="#heather-5"/>
+<use xlink:href="#heather-5" transform="translate(78 184)"/>
+<use xlink:href="#heather-5" transform="translate(0 368)"/>
+<use xlink:href="#heather-6"/>
+<use xlink:href="#heather-6" transform="translate(78 184)"/>
+<use xlink:href="#heather-6" transform="translate(0 368)"/>
+<use xlink:href="#heather-7"/>
+<use xlink:href="#heather-7" transform="translate(78 184)"/>
+<use xlink:href="#heather-7" transform="translate(0 368)"/>
+<use xlink:href="#heather-8"/>
+<use xlink:href="#heather-8" transform="translate(-78 184)"/>
+<use xlink:href="#heather-9"/>
+<use xlink:href="#heather-9" transform="translate(-78 184)"/>
+<use xlink:href="#heather-9" transform="translate(0 368)"/>
+<use xlink:href="#heather-10"/>
+<use xlink:href="#heather-10" transform="translate(-78 184)"/>
+<use xlink:href="#heather-10" transform="translate(0 368)"/>
+<use xlink:href="#heather-11"/>
+<use xlink:href="#heather-11" transform="translate(-78 184)"/>
+<use xlink:href="#heather-11" transform="translate(0 368)"/>
+<use xlink:href="#heather-12"/>
+<use xlink:href="#heather-12" transform="translate(-78 184)"/>
+<use xlink:href="#heather-12" transform="translate(0 368)"/>
+<use xlink:href="#heather-13"/>
+<use xlink:href="#heather-13" transform="translate(-78 184)"/>
+<use xlink:href="#heather-13" transform="translate(0 368)"/>
+<use xlink:href="#heather-14"/>
+<use xlink:href="#heather-14" transform="translate(-78 184)"/>
+<use xlink:href="#heather-14" transform="translate(0 368)"/>
+<use xlink:href="#heather-15"/>
+<use xlink:href="#heather-15" transform="translate(-78 184)"/>
+<use xlink:href="#heather-15" transform="translate(0 368)"/>
+<use xlink:href="#heather-16"/>
+<use xlink:href="#heather-16" transform="translate(-78 184)"/>
+<use xlink:href="#heather-16" transform="translate(0 368)"/>
+<use xlink:href="#heather-17"/>
+<use xlink:href="#heather-17" transform="translate(78 184)"/>
+<use xlink:href="#heather-18"/>
+<use xlink:href="#heather-18" transform="translate(78 184)"/>
+<use xlink:href="#heather-19"/>
+<use xlink:href="#heather-19" transform="translate(-78 184)"/>
+<use xlink:href="#heather-19" transform="translate(78 184)"/>
+<use xlink:href="#heather-20"/>
+<use xlink:href="#heather-20" transform="translate(-78 184)"/>
+<use xlink:href="#heather-21"/>
+<use xlink:href="#heather-21" transform="translate(-78 184)"/>
+<use xlink:href="#heather-22"/>
+<use xlink:href="#heather-22" transform="translate(-78 184)"/>
+<use xlink:href="#heather-23"/>
+<use xlink:href="#heather-23" transform="translate(78 184)"/>
+<use xlink:href="#heather-24"/>
+<use xlink:href="#heather-24" transform="translate(78 184)"/>
+<use xlink:href="#heather-25"/>
+<use xlink:href="#heather-25" transform="translate(-78 184)"/>
+<use xlink:href="#heather-26"/>
+<use xlink:href="#heather-26" transform="translate(78 184)"/>
+<use xlink:href="#heather-27"/>
+<use xlink:href="#heather-27" transform="translate(-78 184)"/>
+<use xlink:href="#heather-28"/>
+<use xlink:href="#heather-28" transform="translate(-78 184)"/>
+<use xlink:href="#heather-29"/>
+<use xlink:href="#heather-29" transform="translate(78 184)"/>
+<use xlink:href="#heather-30"/>
+<use xlink:href="#heather-30" transform="translate(-78 184)"/>
+<use xlink:href="#heather-31"/>
+<use xlink:href="#heather-31" transform="translate(78 184)"/>
+<use xlink:href="#heather-32"/>
+<use xlink:href="#heather-32" transform="translate(-78 184)"/>
+<use xlink:href="#heather-33"/>
+<use xlink:href="#heather-33" transform="translate(-78 184)"/>
+<use xlink:href="#heather-34"/>
+<use xlink:href="#heather-34" transform="translate(-78 184)"/>
+<use xlink:href="#heather-35"/>
+<use xlink:href="#heather-35" transform="translate(-78 184)"/>
+<use xlink:href="#heather-36"/>
+<use xlink:href="#heather-36" transform="translate(78 184)"/>
+<use xlink:href="#heather-37"/>
+<use xlink:href="#heather-37" transform="translate(-78 184)"/>
+<use xlink:href="#heather-38"/>
+<use xlink:href="#heather-38" transform="translate(-78 184)"/>
+<use xlink:href="#heather-39"/>
+<use xlink:href="#heather-39" transform="translate(-78 184)"/>
+<use xlink:href="#heather-40"/>
+<use xlink:href="#heather-40" transform="translate(78 184)"/>
+<use xlink:href="#heather-41"/>
+<use xlink:href="#heather-41" transform="translate(78 184)"/>
+<use xlink:href="#heather-42"/>
+<use xlink:href="#heather-42" transform="translate(-78 184)"/>
+<use xlink:href="#heather-43"/>
+<use xlink:href="#heather-43" transform="translate(78 184)"/>
+<use xlink:href="#heather-44"/>
+<use xlink:href="#heather-44" transform="translate(78 184)"/>
+<use xlink:href="#heather-45"/>
+<use xlink:href="#heather-45" transform="translate(78 184)"/>
+<use xlink:href="#heather-46"/>
+<use xlink:href="#heather-46" transform="translate(78 184)"/>
+<use xlink:href="#heather-47"/>
+<use xlink:href="#heather-47" transform="translate(78 184)"/>
+<use xlink:href="#heather-48"/>
+<use xlink:href="#heather-48" transform="translate(78 184)"/>
+<use xlink:href="#heather-49"/>
+<use xlink:href="#heather-49" transform="translate(78 184)"/>
+<use xlink:href="#heather-50"/>
+<use xlink:href="#heather-50" transform="translate(78 184)"/>
+<use xlink:href="#heather-51"/>
+<use xlink:href="#heather-51" transform="translate(-78 184)"/>
+<use xlink:href="#heather-52"/>
+<use xlink:href="#heather-52" transform="translate(78 184)"/>
+<use xlink:href="#heather-53"/>
+<use xlink:href="#heather-53" transform="translate(-78 184)"/>
+<use xlink:href="#heather-54"/>
+<use xlink:href="#heather-54" transform="translate(-78 184)"/>
+<use xlink:href="#heather-55"/>
+<use xlink:href="#heather-55" transform="translate(78 184)"/>
+<use xlink:href="#heather-56"/>
+<use xlink:href="#heather-56" transform="translate(78 184)"/>
+<use xlink:href="#heather-57"/>
+<use xlink:href="#heather-57" transform="translate(78 184)"/>
+<use xlink:href="#heather-58"/>
+<use xlink:href="#heather-58" transform="translate(78 184)"/>
+<use xlink:href="#heather-59"/>
+<use xlink:href="#heather-59" transform="translate(78 184)"/>
+<use xlink:href="#heather-60"/>
+<use xlink:href="#heather-60" transform="translate(78 184)"/>
+<use xlink:href="#heather-61"/>
+<use xlink:href="#heather-61" transform="translate(78 184)"/>
+<use xlink:href="#heather-62"/>
+<use xlink:href="#heather-62" transform="translate(78 184)"/>
+<use xlink:href="#heather-63"/>
+<use xlink:href="#heather-63" transform="translate(78 184)"/>
+<use xlink:href="#heather-64"/>
+<use xlink:href="#heather-64" transform="translate(-78 184)"/>
+<use xlink:href="#heather-64" transform="translate(78 184)"/>
+<use xlink:href="#heather-65"/>
+<use xlink:href="#heather-65" transform="translate(-78 184)"/>
+<use xlink:href="#heather-66"/>
+<use xlink:href="#heather-66" transform="translate(-78 184)"/>
+<use xlink:href="#heather-67"/>
+<use xlink:href="#heather-67" transform="translate(-78 184)"/>
+<use xlink:href="#heather-68"/>
+<use xlink:href="#heather-68" transform="translate(-78 184)"/>
+<use xlink:href="#heather-69"/>
+<use xlink:href="#heather-69" transform="translate(-78 184)"/>
+<use xlink:href="#heather-70"/>
+<use xlink:href="#heather-70" transform="translate(78 184)"/>
+<use xlink:href="#heather-71"/>
+<use xlink:href="#heather-71" transform="translate(-78 184)"/>
+<use xlink:href="#heather-72"/>
+<use xlink:href="#heather-72" transform="translate(78 184)"/>
+<use xlink:href="#heather-73"/>
+<use xlink:href="#heather-73" transform="translate(78 184)"/>
+<use xlink:href="#heather-74"/>
+<use xlink:href="#heather-74" transform="translate(78 184)"/>
+<use xlink:href="#heather-75"/>
+<use xlink:href="#heather-75" transform="translate(78 184)"/>
+<use xlink:href="#heather-76"/>
+<use xlink:href="#heather-76" transform="translate(78 184)"/>
+<use xlink:href="#heather-77"/>
+<use xlink:href="#heather-77" transform="translate(78 184)"/>
+<use xlink:href="#heather-78"/>
+<use xlink:href="#heather-78" transform="translate(78 184)"/>
+<use xlink:href="#heather-79"/>
+<use xlink:href="#heather-79" transform="translate(78 184)"/>
+<use xlink:href="#heather-80"/>
+<use xlink:href="#heather-80" transform="translate(78 184)"/>
+<use xlink:href="#heather-81"/>
+<use xlink:href="#heather-81" transform="translate(-78 184)"/>
+<use xlink:href="#heather-82"/>
+<use xlink:href="#heather-82" transform="translate(-78 184)"/>
+<use xlink:href="#heather-83"/>
+<use xlink:href="#heather-83" transform="translate(78 184)"/>
+<use xlink:href="#heather-84"/>
+<use xlink:href="#heather-84" transform="translate(-78 184)"/>
+<use xlink:href="#heather-85"/>
+<use xlink:href="#heather-85" transform="translate(-78 184)"/>
+<use xlink:href="#heather-86"/>
+<use xlink:href="#heather-86" transform="translate(-78 184)"/>
+<use xlink:href="#heather-87"/>
+<use xlink:href="#heather-87" transform="translate(-78 184)"/>
+<use xlink:href="#heather-88"/>
+<use xlink:href="#heather-88" transform="translate(-78 184)"/>
+<use xlink:href="#heather-89"/>
+<use xlink:href="#heather-89" transform="translate(78 184)"/>
+<use xlink:href="#heather-90"/>
+<use xlink:href="#heather-90" transform="translate(78 184)"/>
+<use xlink:href="#heather-91"/>
+<use xlink:href="#heather-91" transform="translate(-78 184)"/>
+<use xlink:href="#heather-92"/>
+<use xlink:href="#heather-92" transform="translate(-78 184)"/>
+<use xlink:href="#heather-93"/>
+<use xlink:href="#heather-93" transform="translate(-78 184)"/>
+<use xlink:href="#heather-94"/>
+<use xlink:href="#heather-94" transform="translate(-78 184)"/>
+<use xlink:href="#heather-95"/>
+<use xlink:href="#heather-95" transform="translate(-78 184)"/>
+<use xlink:href="#heather-96"/>
+<use xlink:href="#heather-96" transform="translate(-78 184)"/>
+<use xlink:href="#heather-97"/>
+<use xlink:href="#heather-97" transform="translate(-78 184)"/>
+<use xlink:href="#heather-98"/>
+<use xlink:href="#heather-98" transform="translate(-78 184)"/>
+<use xlink:href="#heather-99"/>
+<use xlink:href="#heather-99" transform="translate(78 184)"/>
+<use xlink:href="#heather-100"/>
+<use xlink:href="#heather-100" transform="translate(-78 184)"/>
+<use xlink:href="#heather-101"/>
+<use xlink:href="#heather-101" transform="translate(-78 184)"/>
+<use xlink:href="#heather-102"/>
+<use xlink:href="#heather-102" transform="translate(-78 184)"/>
+<use xlink:href="#heather-103"/>
+<use xlink:href="#heather-103" transform="translate(-78 184)"/>
+<use xlink:href="#heather-104"/>
+<use xlink:href="#heather-104" transform="translate(-78 184)"/>
+<use xlink:href="#heather-105"/>
+<use xlink:href="#heather-105" transform="translate(78 184)"/>
+<use xlink:href="#heather-106"/>
+<use xlink:href="#heather-106" transform="translate(-78 184)"/>
+<use xlink:href="#heather-107"/>
+<use xlink:href="#heather-107" transform="translate(78 184)"/>
+<use xlink:href="#heather-108"/>
+<use xlink:href="#heather-108" transform="translate(78 184)"/>
+<use xlink:href="#heather-109"/>
+<use xlink:href="#heather-109" transform="translate(78 184)"/>
+<use xlink:href="#heather-110"/>
+<use xlink:href="#heather-110" transform="translate(78 184)"/>
+<use xlink:href="#heather-111"/>
+<use xlink:href="#heather-111" transform="translate(78 184)"/>
+<use xlink:href="#heather-112"/>
+<use xlink:href="#heather-112" transform="translate(78 184)"/>
+<use xlink:href="#heather-113"/>
+<use xlink:href="#heather-113" transform="translate(-78 184)"/>
+<use xlink:href="#heather-114"/>
+<use xlink:href="#heather-114" transform="translate(-78 184)"/>
+<use xlink:href="#heather-115"/>
+<use xlink:href="#heather-115" transform="translate(-78 184)"/>
+<use xlink:href="#heather-116"/>
+<use xlink:href="#heather-116" transform="translate(-78 184)"/>
+<use xlink:href="#heather-117"/>
+<use xlink:href="#heather-117" transform="translate(-78 184)"/>
+<use xlink:href="#heather-118"/>
+<use xlink:href="#heather-118" transform="translate(-78 184)"/>
+<use xlink:href="#heather-119"/>
+<use xlink:href="#heather-119" transform="translate(-78 184)"/>
+<use xlink:href="#heather-120"/>
+<use xlink:href="#heather-120" transform="translate(-78 184)"/>
+<use xlink:href="#heather-121"/>
+<use xlink:href="#heather-121" transform="translate(-78 184)"/>
+<use xlink:href="#heather-122"/>
+<use xlink:href="#heather-122" transform="translate(78 184)"/>
+<use xlink:href="#heather-123"/>
+<use xlink:href="#heather-123" transform="translate(-78 184)"/>
+<use xlink:href="#heather-124"/>
+<use xlink:href="#heather-124" transform="translate(-78 184)"/>
+<use xlink:href="#heather-125"/>
+<use xlink:href="#heather-125" transform="translate(78 184)"/>
+<use xlink:href="#heather-126"/>
+<use xlink:href="#heather-126" transform="translate(78 184)"/>
+<use xlink:href="#heather-127"/>
+<use xlink:href="#heather-127" transform="translate(78 184)"/>
+<use xlink:href="#heather-128"/>
+<use xlink:href="#heather-128" transform="translate(78 184)"/>
+<use xlink:href="#heather-129"/>
+<use xlink:href="#heather-129" transform="translate(78 184)"/>
+<use xlink:href="#heather-130"/>
+<use xlink:href="#heather-130" transform="translate(78 184)"/>
+<use xlink:href="#heather-131"/>
+<use xlink:href="#heather-131" transform="translate(78 184)"/>
+<use xlink:href="#heather-132"/>
+<use xlink:href="#heather-132" transform="translate(78 184)"/>
+<use xlink:href="#heather-133"/>
+<use xlink:href="#heather-133" transform="translate(78 184)"/>
+<use xlink:href="#heather-134"/>
+<use xlink:href="#heather-134" transform="translate(-78 184)"/>
+<use xlink:href="#heather-134" transform="translate(78 184)"/>
+<use xlink:href="#heather-135"/>
+<use xlink:href="#heather-135" transform="translate(-78 184)"/>
+<use xlink:href="#heather-136"/>
+<use xlink:href="#heather-136" transform="translate(78 184)"/>
+<use xlink:href="#heather-137"/>
+<use xlink:href="#heather-137" transform="translate(-78 184)"/>
+<use xlink:href="#heather-138"/>
+<use xlink:href="#heather-138" transform="translate(-78 184)"/>
+<use xlink:href="#heather-139"/>
+<use xlink:href="#heather-139" transform="translate(78 184)"/>
+<use xlink:href="#heather-140"/>
+<use xlink:href="#heather-140" transform="translate(78 184)"/>
+<use xlink:href="#heather-141"/>
+<use xlink:href="#heather-141" transform="translate(-78 184)"/>
+<use xlink:href="#heather-142"/>
+<use xlink:href="#heather-142" transform="translate(-78 184)"/>
+<use xlink:href="#heather-143"/>
+<use xlink:href="#heather-143" transform="translate(-78 184)"/>
+<use xlink:href="#heather-144"/>
+<use xlink:href="#heather-144" transform="translate(78 184)"/>
+<use xlink:href="#heather-145"/>
+<use xlink:href="#heather-145" transform="translate(-78 184)"/>
+<use xlink:href="#heather-146"/>
+<use xlink:href="#heather-146" transform="translate(-78 184)"/>
+<use xlink:href="#heather-147"/>
+<use xlink:href="#heather-147" transform="translate(-78 184)"/>
+<use xlink:href="#heather-148"/>
+<use xlink:href="#heather-148" transform="translate(-78 184)"/>
+<use xlink:href="#heather-149"/>
+<use xlink:href="#heather-149" transform="translate(-78 184)"/>
+<use xlink:href="#heather-150"/>
+<use xlink:href="#heather-150" transform="translate(-78 184)"/>
+<use xlink:href="#heather-151"/>
+<use xlink:href="#heather-151" transform="translate(-78 184)"/>
+<use xlink:href="#heather-152"/>
+<use xlink:href="#heather-152" transform="translate(-78 184)"/>
+<use xlink:href="#heather-153"/>
+<use xlink:href="#heather-153" transform="translate(78 184)"/>
+<use xlink:href="#heather-154"/>
+<use xlink:href="#heather-154" transform="translate(78 184)"/>
+<use xlink:href="#heather-155"/>
+<use xlink:href="#heather-155" transform="translate(78 184)"/>
+<use xlink:href="#heather-156"/>
+<use xlink:href="#heather-156" transform="translate(78 184)"/>
+<use xlink:href="#heather-157"/>
+<use xlink:href="#heather-157" transform="translate(78 184)"/>
+<use xlink:href="#heather-158"/>
+<use xlink:href="#heather-158" transform="translate(-78 184)"/>
+<use xlink:href="#heather-159"/>
+<use xlink:href="#heather-159" transform="translate(78 184)"/>
+<use xlink:href="#heather-160"/>
+<use xlink:href="#heather-160" transform="translate(78 184)"/>
+<use xlink:href="#heather-161"/>
+<use xlink:href="#heather-161" transform="translate(-78 184)"/>
+<use xlink:href="#heather-162"/>
+<use xlink:href="#heather-162" transform="translate(-78 184)"/>
+<use xlink:href="#heather-163"/>
+<use xlink:href="#heather-163" transform="translate(78 184)"/>
+<use xlink:href="#heather-164"/>
+<use xlink:href="#heather-164" transform="translate(78 184)"/>
+<use xlink:href="#heather-165"/>
+<use xlink:href="#heather-165" transform="translate(78 184)"/>
+<use xlink:href="#heather-166"/>
+<use xlink:href="#heather-166" transform="translate(-78 184)"/>
+<use xlink:href="#heather-167"/>
+<use xlink:href="#heather-167" transform="translate(-78 184)"/>
+<use xlink:href="#heather-168"/>
+<use xlink:href="#heather-168" transform="translate(-78 184)"/>
+<use xlink:href="#heather-169"/>
+<use xlink:href="#heather-169" transform="translate(78 184)"/>
+<use xlink:href="#heather-170"/>
+<use xlink:href="#heather-170" transform="translate(78 184)"/>
+<use xlink:href="#heather-171"/>
+<use xlink:href="#heather-171" transform="translate(78 184)"/>
+<use xlink:href="#heather-172"/>
+<use xlink:href="#heather-172" transform="translate(78 184)"/>
+<use xlink:href="#heather-173"/>
+<use xlink:href="#heather-173" transform="translate(78 184)"/>
+<use xlink:href="#straw-1"/>
+<use xlink:href="#straw-1" transform="translate(78 184)"/>
+<use xlink:href="#straw-1" transform="translate(0 368)"/>
+<use xlink:href="#straw-2"/>
+<use xlink:href="#straw-2" transform="translate(-78 184)"/>
+<use xlink:href="#straw-2" transform="translate(0 368)"/>
+<use xlink:href="#straw-3"/>
+<use xlink:href="#straw-3" transform="translate(78 184)"/>
+<use xlink:href="#straw-4"/>
+<use xlink:href="#straw-4" transform="translate(78 184)"/>
+<use xlink:href="#straw-5"/>
+<use xlink:href="#straw-5" transform="translate(-78 184)"/>
+<use xlink:href="#straw-6"/>
+<use xlink:href="#straw-6" transform="translate(78 184)"/>
+<use xlink:href="#straw-7"/>
+<use xlink:href="#straw-7" transform="translate(78 184)"/>
+<use xlink:href="#straw-8"/>
+<use xlink:href="#straw-8" transform="translate(-78 184)"/>
+<use xlink:href="#straw-9" transform="translate(-156 0)"/>
+<use xlink:href="#straw-9"/>
+<use xlink:href="#straw-9" transform="translate(-78 184)"/>
+<use xlink:href="#straw-10"/>
+<use xlink:href="#straw-10" transform="translate(-78 184)"/>
+<use xlink:href="#straw-11"/>
+<use xlink:href="#straw-11" transform="translate(-78 184)"/>
+<use xlink:href="#straw-12"/>
+<use xlink:href="#straw-12" transform="translate(-78 184)"/>
+<use xlink:href="#straw-13"/>
+<use xlink:href="#straw-13" transform="translate(-78 184)"/>
+<use xlink:href="#straw-14"/>
+<use xlink:href="#straw-14" transform="translate(-78 184)"/>
+<use xlink:href="#straw-15"/>
+<use xlink:href="#straw-15" transform="translate(78 184)"/>
+<use xlink:href="#straw-16"/>
+<use xlink:href="#straw-16" transform="translate(-78 184)"/>
+<use xlink:href="#straw-17"/>
+<use xlink:href="#straw-17" transform="translate(-78 184)"/>
+<use xlink:href="#straw-18"/>
+<use xlink:href="#straw-18" transform="translate(78 184)"/>
+<use xlink:href="#straw-19"/>
+<use xlink:href="#straw-19" transform="translate(78 184)"/>
+<use xlink:href="#straw-20"/>
+<use xlink:href="#straw-20" transform="translate(78 184)"/>
+<use xlink:href="#straw-21"/>
+<use xlink:href="#straw-21" transform="translate(78 184)"/>
+<use xlink:href="#straw-22"/>
+<use xlink:href="#straw-22" transform="translate(78 184)"/>
+<use xlink:href="#straw-23"/>
+<use xlink:href="#straw-23" transform="translate(78 184)"/>
+<use xlink:href="#straw-24"/>
+<use xlink:href="#straw-24" transform="translate(78 184)"/>
+<use xlink:href="#straw-25"/>
+<use xlink:href="#straw-25" transform="translate(-78 184)"/>
+<use xlink:href="#straw-25" transform="translate(78 184)"/>
+<use xlink:href="#straw-26"/>
+<use xlink:href="#straw-26" transform="translate(-78 184)"/>
+<use xlink:href="#straw-27"/>
+<use xlink:href="#straw-27" transform="translate(-78 184)"/>
+<use xlink:href="#straw-28"/>
+<use xlink:href="#straw-28" transform="translate(-78 184)"/>
+<use xlink:href="#straw-29"/>
+<use xlink:href="#straw-29" transform="translate(-78 184)"/>
+<use xlink:href="#straw-30"/>
+<use xlink:href="#straw-30" transform="translate(-78 184)"/>
+<use xlink:href="#straw-31"/>
+<use xlink:href="#straw-31" transform="translate(78 184)"/>
+<use xlink:href="#straw-32"/>
+<use xlink:href="#straw-32" transform="translate(-78 184)"/>
+<use xlink:href="#straw-33"/>
+<use xlink:href="#straw-33" transform="translate(-78 184)"/>
+<use xlink:href="#straw-34"/>
+<use xlink:href="#straw-34" transform="translate(-78 184)"/>
+<use xlink:href="#straw-35"/>
+<use xlink:href="#straw-35" transform="translate(-78 184)"/>
+<use xlink:href="#straw-36"/>
+<use xlink:href="#straw-36" transform="translate(-78 184)"/>
+<use xlink:href="#straw-37"/>
+<use xlink:href="#straw-37" transform="translate(-78 184)"/>
+<use xlink:href="#straw-38"/>
+<use xlink:href="#straw-38" transform="translate(-78 184)"/>
+<use xlink:href="#straw-39"/>
+<use xlink:href="#straw-39" transform="translate(-78 184)"/>
+<use xlink:href="#straw-40"/>
+<use xlink:href="#straw-40" transform="translate(-78 184)"/>
+<use xlink:href="#straw-41"/>
+<use xlink:href="#straw-41" transform="translate(-78 184)"/>
+<use xlink:href="#straw-42"/>
+<use xlink:href="#straw-42" transform="translate(-78 184)"/>
+<use xlink:href="#straw-43"/>
+<use xlink:href="#straw-43" transform="translate(-78 184)"/>
+<use xlink:href="#straw-44"/>
+<use xlink:href="#straw-44" transform="translate(-78 184)"/>
+<use xlink:href="#straw-45" transform="translate(-156 0)"/>
+<use xlink:href="#straw-45"/>
+<use xlink:href="#straw-45" transform="translate(-78 184)"/>
+<use xlink:href="#straw-46"/>
+<use xlink:href="#straw-46" transform="translate(-78 184)"/>
+<use xlink:href="#straw-47"/>
+<use xlink:href="#straw-47" transform="translate(78 184)"/>
+<use xlink:href="#straw-48"/>
+<use xlink:href="#straw-48" transform="translate(78 184)"/>
+<use xlink:href="#straw-49"/>
+<use xlink:href="#straw-49" transform="translate(78 184)"/>
+<use xlink:href="#straw-50"/>
+<use xlink:href="#straw-50" transform="translate(78 184)"/>
+<use xlink:href="#straw-51"/>
+<use xlink:href="#straw-51" transform="translate(-78 184)"/>
+<use xlink:href="#straw-52"/>
+<use xlink:href="#straw-52" transform="translate(78 184)"/>
+<use xlink:href="#straw-53"/>
+<use xlink:href="#straw-53" transform="translate(78 184)"/>
+<use xlink:href="#straw-54"/>
+<use xlink:href="#straw-54" transform="translate(78 184)"/>
+<use xlink:href="#straw-55"/>
+<use xlink:href="#straw-55" transform="translate(78 184)"/>
+<use xlink:href="#straw-56"/>
+<use xlink:href="#straw-56" transform="translate(-78 184)"/>
+<use xlink:href="#straw-57"/>
+<use xlink:href="#straw-57" transform="translate(-78 184)"/>
+<use xlink:href="#straw-58"/>
+<use xlink:href="#straw-58" transform="translate(-78 184)"/>
+<use xlink:href="#straw-59"/>
+<use xlink:href="#straw-59" transform="translate(-78 184)"/>
+<use xlink:href="#straw-60"/>
+<use xlink:href="#straw-60" transform="translate(-78 184)"/>
+<use xlink:href="#straw-61"/>
+<use xlink:href="#straw-61" transform="translate(78 184)"/>
+<use xlink:href="#straw-62"/>
+<use xlink:href="#straw-62" transform="translate(-78 184)"/>
+<use xlink:href="#straw-63"/>
+<use xlink:href="#straw-63" transform="translate(-78 184)"/>
+<use xlink:href="#straw-64"/>
+<use xlink:href="#straw-64" transform="translate(-78 184)"/>
+<use xlink:href="#straw-65"/>
+<use xlink:href="#straw-65" transform="translate(78 184)"/>
+<use xlink:href="#straw-66"/>
+<use xlink:href="#straw-66" transform="translate(78 184)"/>
+<use xlink:href="#straw-67"/>
+<use xlink:href="#straw-67" transform="translate(78 184)"/>
+<use xlink:href="#straw-68"/>
+<use xlink:href="#straw-68" transform="translate(78 184)"/>
+<use xlink:href="#straw-69"/>
+<use xlink:href="#straw-69" transform="translate(-78 184)"/>
+<use xlink:href="#straw-70"/>
+<use xlink:href="#straw-70" transform="translate(-78 184)"/>
+<use xlink:href="#straw-71"/>
+<use xlink:href="#straw-71" transform="translate(-78 184)"/>
+<use xlink:href="#straw-72"/>
+<use xlink:href="#straw-72" transform="translate(-78 184)"/>
+<use xlink:href="#straw-73"/>
+<use xlink:href="#straw-73" transform="translate(-78 184)"/>
+<use xlink:href="#straw-74"/>
+<use xlink:href="#straw-74" transform="translate(-78 184)"/>
+<use xlink:href="#straw-75"/>
+<use xlink:href="#straw-75" transform="translate(-78 184)"/>
+<use xlink:href="#straw-76"/>
+<use xlink:href="#straw-76" transform="translate(-78 184)"/>
+<use xlink:href="#straw-77" transform="translate(78 -184)"/>
+<use xlink:href="#straw-77"/>
+<use xlink:href="#straw-77" transform="translate(78 184)"/>
+<use xlink:href="#straw-78" transform="translate(78 -184)"/>
+<use xlink:href="#straw-78"/>
+<use xlink:href="#straw-78" transform="translate(78 184)"/>
+<use xlink:href="#straw-79" transform="translate(78 -184)"/>
+<use xlink:href="#straw-79"/>
+<use xlink:href="#straw-79" transform="translate(78 184)"/>
+<use xlink:href="#silver-1"/>
+<use xlink:href="#silver-1" transform="translate(-78 184)"/>
+<use xlink:href="#silver-2"/>
+<use xlink:href="#silver-2" transform="translate(78 184)"/>
+<use xlink:href="#silver-3"/>
+<use xlink:href="#silver-3" transform="translate(78 184)"/>
+<use xlink:href="#silver-4"/>
+<use xlink:href="#silver-4" transform="translate(78 184)"/>
+<use xlink:href="#silver-5"/>
+<use xlink:href="#silver-5" transform="translate(78 184)"/>
+<use xlink:href="#silver-6"/>
+<use xlink:href="#silver-6" transform="translate(78 184)"/>
+<use xlink:href="#silver-7"/>
+<use xlink:href="#silver-7" transform="translate(78 184)"/>
+<use xlink:href="#silver-8"/>
+<use xlink:href="#silver-8" transform="translate(78 184)"/>
+<use xlink:href="#silver-9"/>
+<use xlink:href="#silver-9" transform="translate(78 184)"/>
+<use xlink:href="#silver-10"/>
+<use xlink:href="#silver-10" transform="translate(-78 184)"/>
+<use xlink:href="#silver-11"/>
+<use xlink:href="#silver-11" transform="translate(-78 184)"/>
+<use xlink:href="#silver-12"/>
+<use xlink:href="#silver-12" transform="translate(-78 184)"/>
+<use xlink:href="#silver-13"/>
+<use xlink:href="#silver-13" transform="translate(-78 184)"/>
+<use xlink:href="#silver-14"/>
+<use xlink:href="#silver-14" transform="translate(-78 184)"/>
+<use xlink:href="#silver-15"/>
+<use xlink:href="#silver-15" transform="translate(-78 184)"/>
+<use xlink:href="#silver-16"/>
+<use xlink:href="#silver-16" transform="translate(-78 184)"/>
+<use xlink:href="#silver-17"/>
+<use xlink:href="#silver-17" transform="translate(-78 184)"/>
+<use xlink:href="#silver-18"/>
+<use xlink:href="#silver-18" transform="translate(-78 184)"/>
+<use xlink:href="#silver-19"/>
+<use xlink:href="#silver-19" transform="translate(-78 184)"/>
+<use xlink:href="#silver-20"/>
+<use xlink:href="#silver-20" transform="translate(-78 184)"/>
+<use xlink:href="#silver-21"/>
+<use xlink:href="#silver-21" transform="translate(-78 184)"/>
+<use xlink:href="#silver-22"/>
+<use xlink:href="#silver-22" transform="translate(-78 184)"/>
+<use xlink:href="#silver-23"/>
+<use xlink:href="#silver-23" transform="translate(-78 184)"/>
+<use xlink:href="#silver-24"/>
+<use xlink:href="#silver-24" transform="translate(78 184)"/>
+<use xlink:href="#silver-25"/>
+<use xlink:href="#silver-25" transform="translate(-78 184)"/>
+<use xlink:href="#silver-26"/>
+<use xlink:href="#silver-26" transform="translate(78 184)"/>
+<use xlink:href="#silver-27"/>
+<use xlink:href="#silver-27" transform="translate(78 184)"/>
+<use xlink:href="#silver-28"/>
+<use xlink:href="#silver-28" transform="translate(78 184)"/>
+<use xlink:href="#silver-29"/>
+<use xlink:href="#silver-29" transform="translate(78 184)"/>
+<use xlink:href="#silver-30"/>
+<use xlink:href="#silver-30" transform="translate(-78 184)"/>
+<use xlink:href="#silver-31"/>
+<use xlink:href="#silver-31" transform="translate(78 184)"/>
+<use xlink:href="#silver-32"/>
+<use xlink:href="#silver-32" transform="translate(78 184)"/>
+<use xlink:href="#silver-33"/>
+<use xlink:href="#silver-33" transform="translate(78 184)"/>
+<use xlink:href="#silver-34"/>
+<use xlink:href="#silver-34" transform="translate(78 184)"/>
+<use xlink:href="#silver-35"/>
+<use xlink:href="#silver-35" transform="translate(78 184)"/>
+<use xlink:href="#silver-36"/>
+<use xlink:href="#silver-36" transform="translate(78 184)"/>
+<use xlink:href="#silver-37"/>
+<use xlink:href="#silver-37" transform="translate(-78 184)"/>
+<use xlink:href="#silver-38"/>
+<use xlink:href="#silver-38" transform="translate(-78 184)"/>
+<use xlink:href="#silver-39"/>
+<use xlink:href="#silver-39" transform="translate(-78 184)"/>
+<use xlink:href="#silver-40"/>
+<use xlink:href="#silver-40" transform="translate(-78 184)"/>
+<use xlink:href="#silver-41"/>
+<use xlink:href="#silver-41" transform="translate(-78 184)"/>
+<use xlink:href="#silver-42"/>
+<use xlink:href="#silver-42" transform="translate(-78 184)"/>
+<use xlink:href="#silver-43"/>
+<use xlink:href="#silver-43" transform="translate(-78 184)"/>
+<use xlink:href="#silver-44"/>
+<use xlink:href="#silver-44" transform="translate(-78 184)"/>
+<use xlink:href="#silver-45"/>
+<use xlink:href="#silver-45" transform="translate(-78 184)"/>
+<use xlink:href="#silver-46"/>
+<use xlink:href="#silver-46" transform="translate(-78 184)"/>
+<use xlink:href="#silver-47"/>
+<use xlink:href="#silver-47" transform="translate(-78 184)"/>
+<use xlink:href="#silver-48"/>
+<use xlink:href="#silver-48" transform="translate(-78 184)"/>
+<use xlink:href="#silver-49"/>
+<use xlink:href="#silver-49" transform="translate(-78 184)"/>
+<use xlink:href="#silver-50"/>
+<use xlink:href="#silver-50" transform="translate(-78 184)"/>
+<use xlink:href="#silver-51"/>
+<use xlink:href="#silver-51" transform="translate(-78 184)"/>
+<use xlink:href="#silver-52"/>
+<use xlink:href="#silver-52" transform="translate(-78 184)"/>
+<use xlink:href="#silver-53"/>
+<use xlink:href="#silver-53" transform="translate(-78 184)"/>
+<use xlink:href="#silver-54"/>
+<use xlink:href="#silver-54" transform="translate(-78 184)"/>
+<use xlink:href="#silver-55"/>
+<use xlink:href="#silver-55" transform="translate(78 184)"/>
+<use xlink:href="#silver-56"/>
+<use xlink:href="#silver-56" transform="translate(-78 184)"/>
+<use xlink:href="#silver-56" transform="translate(78 184)"/>
+<use xlink:href="#silver-57"/>
+<use xlink:href="#silver-57" transform="translate(78 184)"/>
+<use xlink:href="#silver-58"/>
+<use xlink:href="#silver-58" transform="translate(78 184)"/>
+<use xlink:href="#silver-59"/>
+<use xlink:href="#silver-59" transform="translate(78 184)"/>
+<use xlink:href="#silver-60"/>
+<use xlink:href="#silver-60" transform="translate(78 184)"/>
+<use xlink:href="#silver-61"/>
+<use xlink:href="#silver-61" transform="translate(78 184)"/>
+<use xlink:href="#silver-62"/>
+<use xlink:href="#silver-62" transform="translate(78 184)"/>
+<use xlink:href="#silver-63"/>
+<use xlink:href="#silver-63" transform="translate(-78 184)"/>
+<use xlink:href="#silver-64"/>
+<use xlink:href="#silver-64" transform="translate(-78 184)"/>
+<use xlink:href="#silver-65"/>
+<use xlink:href="#silver-65" transform="translate(-78 184)"/>
+<use xlink:href="#silver-66"/>
+<use xlink:href="#silver-66" transform="translate(-78 184)"/>
+<use xlink:href="#silver-67"/>
+<use xlink:href="#silver-67" transform="translate(-78 184)"/>
+<use xlink:href="#silver-68"/>
+<use xlink:href="#silver-68" transform="translate(-78 184)"/>
+<use xlink:href="#silver-69"/>
+<use xlink:href="#silver-69" transform="translate(-78 184)"/>
+<use xlink:href="#silver-70"/>
+<use xlink:href="#silver-70" transform="translate(78 184)"/>
+<use xlink:href="#silver-71"/>
+<use xlink:href="#silver-71" transform="translate(78 184)"/>
+<use xlink:href="#silver-72"/>
+<use xlink:href="#silver-72" transform="translate(78 184)"/>
+<use xlink:href="#silver-73"/>
+<use xlink:href="#silver-73" transform="translate(78 184)"/>
+<use xlink:href="#silver-74"/>
+<use xlink:href="#silver-74" transform="translate(78 184)"/>
+<use xlink:href="#silver-75"/>
+<use xlink:href="#silver-75" transform="translate(78 184)"/>
+<use xlink:href="#silver-76"/>
+<use xlink:href="#silver-76" transform="translate(78 184)"/>
+<use xlink:href="#silver-77"/>
+<use xlink:href="#silver-77" transform="translate(78 184)"/>
+<use xlink:href="#silver-78"/>
+<use xlink:href="#silver-78" transform="translate(78 184)"/>
+<use xlink:href="#silver-79"/>
+<use xlink:href="#silver-79" transform="translate(78 184)"/>
+<use xlink:href="#silver-80"/>
+<use xlink:href="#silver-80" transform="translate(78 184)"/>
+<use xlink:href="#silver-81"/>
+<use xlink:href="#silver-81" transform="translate(78 184)"/>
+<use xlink:href="#silver-82"/>
+<use xlink:href="#silver-82" transform="translate(78 184)"/>
+<use xlink:href="#silver-83"/>
+<use xlink:href="#silver-83" transform="translate(78 184)"/>
+<use xlink:href="#silver-84"/>
+<use xlink:href="#silver-84" transform="translate(78 184)"/>
+<use xlink:href="#silver-85"/>
+<use xlink:href="#silver-85" transform="translate(78 184)"/>
+<use xlink:href="#silver-86"/>
+<use xlink:href="#silver-86" transform="translate(78 184)"/>
+<use xlink:href="#silver-87"/>
+<use xlink:href="#silver-87" transform="translate(78 184)"/>
+<use xlink:href="#silver-88"/>
+<use xlink:href="#silver-88" transform="translate(78 184)"/>
+<use xlink:href="#silver-89"/>
+<use xlink:href="#silver-89" transform="translate(78 184)"/>
+<use xlink:href="#silver-90"/>
+<use xlink:href="#silver-90" transform="translate(78 184)"/>
+<use xlink:href="#silver-91"/>
+<use xlink:href="#silver-91" transform="translate(-78 184)"/>
+<use xlink:href="#silver-92"/>
+<use xlink:href="#silver-92" transform="translate(-78 184)"/>
+<use xlink:href="#silver-93"/>
+<use xlink:href="#silver-93" transform="translate(-78 184)"/>
+<use xlink:href="#silver-94"/>
+<use xlink:href="#silver-94" transform="translate(78 184)"/>
+<use xlink:href="#silver-95"/>
+<use xlink:href="#silver-95" transform="translate(78 184)"/>
+<use xlink:href="#silver-96"/>
+<use xlink:href="#silver-96" transform="translate(-78 184)"/>
+<use xlink:href="#silver-97"/>
+<use xlink:href="#silver-97" transform="translate(-78 184)"/>
+<use xlink:href="#silver-98"/>
+<use xlink:href="#silver-98" transform="translate(-78 184)"/>
+<use xlink:href="#silver-99"/>
+<use xlink:href="#silver-99" transform="translate(-78 184)"/>
+<use xlink:href="#silver-100"/>
+<use xlink:href="#silver-100" transform="translate(-78 184)"/>
+<use xlink:href="#silver-101"/>
+<use xlink:href="#silver-101" transform="translate(-78 184)"/>
+<use xlink:href="#silver-102"/>
+<use xlink:href="#silver-102" transform="translate(-78 184)"/>
+<use xlink:href="#silver-103"/>
+<use xlink:href="#silver-103" transform="translate(-78 184)"/>
+<use xlink:href="#silver-104"/>
+<use xlink:href="#silver-104" transform="translate(-78 184)"/>
+<use xlink:href="#silver-105"/>
+<use xlink:href="#silver-105" transform="translate(78 184)"/>
+<use xlink:href="#silver-106"/>
+<use xlink:href="#silver-106" transform="translate(78 184)"/>
+<use xlink:href="#silver-107"/>
+<use xlink:href="#silver-107" transform="translate(78 184)"/>
+<use xlink:href="#silver-108"/>
+<use xlink:href="#silver-108" transform="translate(78 184)"/>
+<use xlink:href="#silver-109"/>
+<use xlink:href="#silver-109" transform="translate(78 184)"/>
+<use xlink:href="#silver-110"/>
+<use xlink:href="#silver-110" transform="translate(-78 184)"/>
+<use xlink:href="#silver-111"/>
+<use xlink:href="#silver-111" transform="translate(-78 184)"/>
+<use xlink:href="#silver-112"/>
+<use xlink:href="#silver-112" transform="translate(-78 184)"/>
+<use xlink:href="#silver-113"/>
+<use xlink:href="#silver-113" transform="translate(78 184)"/>
+<use xlink:href="#silver-114"/>
+<use xlink:href="#silver-114" transform="translate(78 184)"/>
+<use xlink:href="#silver-115"/>
+<use xlink:href="#silver-115" transform="translate(78 184)"/>
+<use xlink:href="#silver-116"/>
+<use xlink:href="#silver-116" transform="translate(78 184)"/>
+<use xlink:href="#silver-117"/>
+<use xlink:href="#silver-117" transform="translate(78 184)"/>
+<use xlink:href="#silver-118"/>
+<use xlink:href="#silver-118" transform="translate(78 184)"/>
+<use xlink:href="#silver-119"/>
+<use xlink:href="#silver-119" transform="translate(-78 184)"/>
+<use xlink:href="#silver-120"/>
+<use xlink:href="#silver-120" transform="translate(-78 184)"/>
+<use xlink:href="#silver-121"/>
+<use xlink:href="#silver-121" transform="translate(-78 184)"/>
+<use xlink:href="#silver-122"/>
+<use xlink:href="#silver-122" transform="translate(-78 184)"/>
+<use xlink:href="#silver-123"/>
+<use xlink:href="#silver-123" transform="translate(-78 184)"/>
+<use xlink:href="#silver-124"/>
+<use xlink:href="#silver-124" transform="translate(-78 184)"/>
+<use xlink:href="#silver-125"/>
+<use xlink:href="#silver-125" transform="translate(-78 184)"/>
+<use xlink:href="#silver-126"/>
+<use xlink:href="#silver-126" transform="translate(78 184)"/>
+<use xlink:href="#silver-127"/>
+<use xlink:href="#silver-127" transform="translate(78 184)"/>
+<use xlink:href="#silver-128"/>
+<use xlink:href="#silver-128" transform="translate(78 184)"/>
+<use xlink:href="#silver-129"/>
+<use xlink:href="#silver-129" transform="translate(-78 184)"/>
+<use xlink:href="#silver-130"/>
+<use xlink:href="#silver-130" transform="translate(-78 184)"/>
+<use xlink:href="#silver-131"/>
+<use xlink:href="#silver-131" transform="translate(78 184)"/>
+<use xlink:href="#silver-132"/>
+<use xlink:href="#silver-132" transform="translate(78 184)"/>
+<use xlink:href="#silver-133"/>
+<use xlink:href="#silver-133" transform="translate(78 184)"/>
+<use xlink:href="#silver-134"/>
+<use xlink:href="#silver-134" transform="translate(-78 184)"/>
+<use xlink:href="#silver-135"/>
+<use xlink:href="#silver-135" transform="translate(-78 184)"/>
+</g>
+</svg>

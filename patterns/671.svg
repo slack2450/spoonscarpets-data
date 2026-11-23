@@ -1,0 +1,287 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="512" height="512" viewBox="0 0 512 512">
+<title>The Plaza, Rugeley — dining-room Axminster carpet repeat</title><defs>
+<g id="acanthus">
+<path d="M -29,-68 C -31,-77 -19,-85 -17,-92 Q -21,-88 -18,-92 L -20,-94 Q -19,-100 -11,-104 L -14,-106 Q -8,-112 -2,-113 C 8,-118 23,-134 36,-138 Q 41,-139 43,-136 Q 42,-132 37,-134 Q 30,-132 26,-123 C 21,-113 20,-100 24,-91 Q 24,-87 27,-86 L 26,-89 Q 29,-83 33,-83 L 32,-86 Q 37,-80 41,-81 Q 44,-81 46,-80 C 51,-84 52,-91 48,-94 C 45,-96 41,-94 42,-90 C 36,-92 36,-100 42,-104 C 49,-109 59,-103 61,-95 C 63,-88 58,-79 52,-75 L 58,-76 Q 56,-70 50,-68 L 53,-66 Q 45,-60 34,-62 Q 20,-64 15,-75 L 15,-71 Q 7,-80 8,-93 Q 8,-105 17,-119 C 8,-113 3,-103 2,-93 L 1,-81 Q 1,-76 4,-77 Q 9,-79 6,-84 Q 13,-84 13,-77 Q 13,-70 5,-68 Q -4,-66 -7,-75 Q -9,-80 -6,-87 Q -12,-83 -13,-76 L -16,-79 L -22,-71 L -22,-76 Q -27,-74 -31,-77 L -28,-80 L -33,-80 Q -34,-84 -28,-87 Q -25,-86 -25,-82 Z" fill="#ab845d"/>
+<path d="M -29,-68 Q -20,-72 -16,-82 Q -15,-75 -10,-78 L -14,-70 L -18,-71 L -23,-65 Z" fill="#c9a781"/>
+<path d="M 18,-119 Q 5,-95 17,-78 Q 18,-83 19,-84 Q 21,-76 27,-73 L 26,-77 Q 35,-68 46,-71 Q 44,-65 37,-64 Q 20,-64 14,-76 Q 6,-93 18,-119 Z" fill="#c9a781"/>
+<path d="M 41,-98 Q 47,-106 54,-99 Q 48,-101 46,-98 Q 44,-96 45,-93 Q 40,-92 41,-98 Z" fill="#c9a781"/>
+<path d="M -1,-79 Q 0,-70 7,-73 Q 13,-77 8,-82 Q 15,-81 11,-73 Q 8,-67 1,-69 Q -5,-72 -4,-79 Z" fill="#c9a781"/>
+<path d="M -27,-74 Q -22,-83 -17,-85 L -20,-79 Z M -23,-84 Q -20,-92 -14,-96 Q -14,-89 -20,-85 Z M -15,-94 Q -13,-103 -7,-107 L -8,-102 Z" fill="#c9a781"/>
+<path d="M 18,-100 Q 19,-89 25,-85 M 21,-104 Q 20,-96 24,-90" fill="none" stroke="#ab845d" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M -23,-77 Q -13,-96 5,-111 M 22,-82 Q 27,-73 35,-74" fill="none" stroke="#432f2c" stroke-width="1.6" stroke-linejoin="round" stroke-linecap="round"/>
+</g>
+<g id="turnback">
+<path d="M 5,122 Q 7,119 11,119 Q 17,120 16,124 Q 15,127 13,126 Q 14,122 11,123 Q 7,125 10,129 Q 17,136 25,128 Q 30,122 27,115 Q 24,108 18,111 Q 16,113 19,115 Q 14,117 12,113 Q 10,107 17,104 Q 23,101 29,107 Q 35,113 37,125 C 39,138 47,143 57,140 Q 66,138 68,127 Q 69,123 65,120 Q 62,119 61,123 Q 59,126 55,126 Q 53,123 54,119 Q 52,122 48,121 Q 49,115 55,111 Q 60,107 67,110 Q 75,112 76,119 Q 80,123 77,133 Q 75,143 67,147 Q 59,152 53,150 Q 47,151 40,148 Q 30,145 26,134 Q 18,139 10,135 Q 4,133 3,128 Q 2,125 5,122 Z" fill="#ab845d"/>
+<path d="M 14,111 Q 20,105 25,113 Q 20,109 18,114 Z M 27,130 Q 31,124 30,119 Q 36,131 39,136 Q 43,144 54,145 L 51,147 Q 40,147 34,140 Z M 51,119 Q 56,110 64,111 Q 72,113 72,118 Q 66,115 62,119 Q 58,120 56,124 L 57,118 Z" fill="#c9a781"/>
+<path d="M 68,138 Q 74,132 73,124 M 43,142 Q 48,147 57,146" fill="none" stroke="#432f2c" stroke-width="1.5" stroke-linejoin="round" stroke-linecap="round"/>
+</g>
+<g id="bud">
+<path d="M 0,2 C -2,-4 -8,-4 -9,-10 Q -12,-17 -6,-21 L -7,-23 Q -4,-27 3,-26 L 8,-29 Q 10,-24 10,-21 Q 14,-17 11,-11 Q 10,-7 6,-5 L 6,-9 Q 2,-7 2,0 Z" fill="#ab845d"/>
+<path d="M -6,-12 Q -9,-17 -4,-21 L -4,-23 L 3,-24 Q 6,-23 5,-20 Q -1,-21 -3,-16 Q -4,-13 -2,-9 Z" fill="#c9a781"/>
+<path d="M 1,-3 Q -2,-13 4,-17 M 4,-13 L 7,-17" fill="none" stroke="#432f2c" stroke-width="1.8" stroke-linejoin="round" stroke-linecap="round"/>
+</g>
+<g id="trefoil">
+<path d="M -5,-5 Q 4,-4 6,-18 M -9,9 Q -4,-3 7,-3 Q 16,-2 21,7" fill="none" stroke="#ab845d" stroke-width="2.8" stroke-linejoin="round" stroke-linecap="round"/>
+<use xlink:href="#bud" transform="translate(2 -2) rotate(22) scale(.78 .83)"/>
+<use xlink:href="#bud" transform="translate(2 1) rotate(-103) scale(.83 .85)"/>
+<use xlink:href="#bud" transform="translate(6 2) rotate(129) scale(.86 .89)"/>
+</g>
+<g id="small-crook">
+<path d="M -2,0 Q -1,-6 4,-6 Q 8,-6 7,-1 Q 5,2 3,0 Q 4,-2 2,-2 Q 0,0 2,2 Q 7,6 11,1 Q 13,-3 10,-12 Q 8,-21 14,-28 Q 21,-35 31,-32 Q 36,-32 39,-25 Q 42,-18 37,-14 Q 33,-10 27,-12 Q 24,-13 24,-18 Q 27,-16 29,-18 Q 28,-20 30,-21 Q 33,-22 34,-20 Q 36,-25 30,-26 Q 25,-27 22,-22 Q 18,-18 19,-13 L 22,-16 Q 24,-8 20,-3 L 23,-4 Q 20,4 13,6 Q 6,10 0,6 Q -4,4 -2,0 Z" fill="#ab845d"/>
+<path d="M 13,-23 Q 18,-34 28,-31 Q 21,-30 18,-22 Q 15,-16 17,-10 Q 15,-11 14,-13 Q 13,-9 14,-5 Q 10,-13 13,-23 Z M 26,-15 Q 30,-14 33,-18 Q 37,-16 34,-13 Q 30,-10 26,-15 Z" fill="#c9a781"/>
+</g>
+<g id="husk">
+<path d="M -1,-16 Q -7,-17 -8,-24 Q -2,-24 1,-18 Z M 5,-17 Q 2,-22 6,-26 Q 11,-21 8,-17 Z" fill="#ab845d"/>
+</g>
+<g id="almond">
+<g transform="rotate(-48)">
+<g transform="rotate(0)">
+<use xlink:href="#husk" transform="translate(-27 6) rotate(-44) scale(.63 1.13)"/>
+<use xlink:href="#husk" transform="translate(-20 3) rotate(-24) scale(.63 1.13)"/>
+<use xlink:href="#husk" transform="translate(-12 0) rotate(-14) scale(.63 1.13)"/>
+<use xlink:href="#husk" transform="translate(-3 -0.5) rotate(-8) scale(.63 1.13)"/>
+<use xlink:href="#husk" transform="translate(6 0) rotate(9) scale(.63 1.13)"/>
+<use xlink:href="#husk" transform="translate(15 1) rotate(16) scale(.63 1.13)"/>
+<use xlink:href="#husk" transform="translate(23 4) rotate(26) scale(.63 1.13)"/>
+<use xlink:href="#husk" transform="translate(29 7) rotate(41) scale(.63 1.13)"/>
+<path d="M -21,-23 l 1,-3 2,-1 1,3 -2,2 Z M -8,-28 q 0,-4 3,-6 l 1,4 z M 14,-25 l 3,-3 1,2 -2,3 Z M 36,-9 l 3,-4 2,1 -1,3 Z" fill="#c9a781"/>
+<path d="M 33,-3 Q 37,-9 42,-6 Q 40,-1 35,1 Z M 31,-8 Q 30,-14 34,-17 Q 38,-12 34,-7 Z" fill="#ab845d"/>
+</g>
+<g transform="rotate(180)">
+<use xlink:href="#husk" transform="translate(-27 6) rotate(-44) scale(.63 1.13)"/>
+<use xlink:href="#husk" transform="translate(-20 3) rotate(-24) scale(.63 1.13)"/>
+<use xlink:href="#husk" transform="translate(-12 0) rotate(-14) scale(.63 1.13)"/>
+<use xlink:href="#husk" transform="translate(-3 -0.5) rotate(-8) scale(.63 1.13)"/>
+<use xlink:href="#husk" transform="translate(6 0) rotate(9) scale(.63 1.13)"/>
+<use xlink:href="#husk" transform="translate(15 1) rotate(16) scale(.63 1.13)"/>
+<use xlink:href="#husk" transform="translate(23 4) rotate(26) scale(.63 1.13)"/>
+<use xlink:href="#husk" transform="translate(29 7) rotate(41) scale(.63 1.13)"/>
+<path d="M -21,-23 l 1,-3 2,-1 1,3 -2,2 Z M -8,-28 q 0,-4 3,-6 l 1,4 z M 14,-25 l 3,-3 1,2 -2,3 Z M 36,-9 l 3,-4 2,1 -1,3 Z" fill="#c9a781"/>
+<path d="M 33,-3 Q 37,-9 42,-6 Q 40,-1 35,1 Z M 31,-8 Q 30,-14 34,-17 Q 38,-12 34,-7 Z" fill="#ab845d"/>
+</g>
+<ellipse cx="0" cy="0" rx="34" ry="19" fill="#432f2c"/>
+<ellipse cx="0" cy="0" rx="31.5" ry="16.7" fill="#c9a781"/>
+<ellipse cx="0" cy="0" rx="28.8" ry="14.2" fill="#ab845d"/>
+<use xlink:href="#seed" transform="translate(21.80 0.00) rotate(0)"/>
+<use xlink:href="#seed" transform="translate(20.21 3.56) rotate(22)"/>
+<use xlink:href="#seed" transform="translate(15.68 6.60) rotate(44)"/>
+<use xlink:href="#seed" transform="translate(8.87 8.68) rotate(66)"/>
+<use xlink:href="#seed" transform="translate(0.76 9.49) rotate(88)"/>
+<use xlink:href="#seed" transform="translate(-7.46 8.93) rotate(110)"/>
+<use xlink:href="#seed" transform="translate(-14.59 7.06) rotate(132)"/>
+<use xlink:href="#seed" transform="translate(-19.59 4.16) rotate(154)"/>
+<use xlink:href="#seed" transform="translate(-21.75 0.66) rotate(176)"/>
+<use xlink:href="#seed" transform="translate(-20.73 -2.94) rotate(198)"/>
+<use xlink:href="#seed" transform="translate(-16.70 -6.11) rotate(220)"/>
+<use xlink:href="#seed" transform="translate(-10.23 -8.39) rotate(242)"/>
+<use xlink:href="#seed" transform="translate(-2.28 -9.45) rotate(264)"/>
+<use xlink:href="#seed" transform="translate(6.01 -9.13) rotate(286)"/>
+<use xlink:href="#seed" transform="translate(13.42 -7.49) rotate(308)"/>
+<use xlink:href="#seed" transform="translate(18.88 -4.75) rotate(330)"/>
+<use xlink:href="#seed" transform="translate(21.59 -1.32) rotate(352)"/>
+<path d="M -13,3 Q -6,1 -2,-4 Q 1,-8 6,-7 Q 11,-6 9,-2 Q 7,0 5,-2 Q 7,-5 4,-4 Q 1,-4 -1,1 Q -7,6 -13,3 Z" fill="#432f2c"/>
+<path d="M -17,4 Q -17,-2 -12,-4 Q -8,-5 -8,-2 Q -11,-1 -12,2 Q -12,5 -17,4 Z M 3,5 Q 5,2 9,0 Q 17,-3 18,-7 Q 20,-3 16,1 Q 11,4 5,6 Z" fill="#c9a781"/>
+<path d="M -8,1 Q -3,-1 0,-5 M 6,4 Q 12,4 14,0" fill="none" stroke="#c9a781" stroke-width="1.8" stroke-linejoin="round" stroke-linecap="round"/>
+</g>
+</g>
+<g id="seed">
+<path d="M -6,0 Q -3,-1.2 -2,-2.9 L 1,-3 L 1.6,-1 L 4,-1.4 Q 5,1 2,2.3 L 0,2.4 Q -1,.5 -6,0 Z" fill="#432f2c"/>
+<path d="M -5,-.5 Q -1,-1 1,-3 L 2,-1.2 L -1,.4 Z" fill="#c9a781"/>
+</g>
+<g id="ground-sprig">
+<path d="M -3,0 Q 1,-2 3,-6 Q 6,-5 5,-2 Q 4,1 1,1 Z M 3,4 Q 6,0 10,1 Q 12,4 9,5 Q 6,7 3,4 Z M 0,-5 Q -3,-6 -3,-10 Q 1,-11 2,-8 Z" fill="#ab845d"/>
+<path d="M -4,4 L -2,1 L 0,3 L -1,6 Z" fill="#c9a781"/>
+</g>
+<g id="wheel-sector">
+<path d="M 0,-42.5 Q 4,-37.5 10.2,-37.6 Q 15,-38 20.9,-37 M 0,-43 L 0,-13" fill="none" stroke="#c9a781" stroke-width="2.05" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M 3,-46 Q 7,-42 12,-42 Q 17,-43 19,-42" fill="none" stroke="#ab845d" stroke-width="2.5" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M 2,-53 Q 4.5,-52.8 6.5,-52.1 M 10,-51.8 L 13,-51" fill="none" stroke="#c9a781" stroke-width="1.9" stroke-linejoin="round" stroke-linecap="round"/>
+</g>
+<g id="floret-petal">
+<path d="M -.8,-3 C -2.4,-6 -6.5,-6.7 -5.6,-10 Q -4.7,-12 -2.1,-10.6 L -.7,-14 L 1.6,-11.2 Q 5.3,-12 5.4,-9.3 Q 5.3,-7.3 3,-6.9 Q .7,-7.4 -.8,-3 Z" fill="#ab845d"/>
+</g>
+<g id="wheel">
+<circle cx="0" cy="0" r="56.5" fill="#432f2c"/>
+<circle cx="0" cy="0" r="54.5" fill="#ab845d"/>
+<circle cx="0" cy="0" r="50.6" fill="#432f2c"/>
+<circle cx="0" cy="0" r="48.4" fill="#ab845d"/>
+<circle cx="0" cy="0" r="45.2" fill="#462532"/>
+<use xlink:href="#wheel-sector" transform="rotate(0)"/>
+<use xlink:href="#wheel-sector" transform="rotate(30)"/>
+<use xlink:href="#wheel-sector" transform="rotate(60)"/>
+<use xlink:href="#wheel-sector" transform="rotate(90)"/>
+<use xlink:href="#wheel-sector" transform="rotate(120)"/>
+<use xlink:href="#wheel-sector" transform="rotate(150)"/>
+<use xlink:href="#wheel-sector" transform="rotate(180)"/>
+<use xlink:href="#wheel-sector" transform="rotate(210)"/>
+<use xlink:href="#wheel-sector" transform="rotate(240)"/>
+<use xlink:href="#wheel-sector" transform="rotate(270)"/>
+<use xlink:href="#wheel-sector" transform="rotate(300)"/>
+<use xlink:href="#wheel-sector" transform="rotate(330)"/>
+<circle cx="0" cy="0" r="17" fill="#ab845d"/>
+<circle cx="0" cy="0" r="13.5" fill="#c9a781"/>
+<use xlink:href="#floret-petal" transform="rotate(0)"/>
+<use xlink:href="#floret-petal" transform="rotate(60)"/>
+<use xlink:href="#floret-petal" transform="rotate(120)"/>
+<use xlink:href="#floret-petal" transform="rotate(180)"/>
+<use xlink:href="#floret-petal" transform="rotate(240)"/>
+<use xlink:href="#floret-petal" transform="rotate(300)"/>
+<circle cx="0" cy="0" r="5" fill="#ab845d"/>
+<circle cx="0" cy="0" r="2.4" fill="#432f2c"/>
+</g>
+<g id="cartouche-side">
+<path d="M -65,-78 Q -54,-95 -30,-103 Q 0,-114 30,-103 Q 52,-96 66,-78 Q 59,-66 51,-61 Q 44,-58 37,-65 Q 32,-72 26,-69 Q 18,-64 10,-68 Q 3,-74 -4,-70 Q -14,-62 -23,-67 Q -31,-71 -38,-64 Q -47,-57 -55,-63 Q -63,-68 -65,-78 Z" fill="#792e48" stroke="#432f2c" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M -58,-79 Q -49,-64 -41,-73 Q -37,-78 -40,-81 Q -43,-84 -46,-81 Q -44,-87 -38,-85 Q -32,-82 -34,-76 Q -36,-70 -32,-71 Q -25,-70 -22,-80 Q -19,-92 -9,-94 Q -3,-95 2,-90 Q 6,-87 4,-81 Q 1,-84 -1,-83 Q -5,-88 -9,-86 Q -14,-84 -15,-79 Q -17,-70 -24,-67 Q -29,-65 -35,-67 Q -40,-66 -46,-62 Q -52,-61 -57,-65 Q -63,-70 -58,-79 Z" fill="#ab845d"/>
+<path d="M -18,-79 Q -14,-91 -6,-91 Q 1,-91 1,-86 Q -6,-91 -11,-86 Q -14,-83 -15,-77 Q -19,-69 -26,-68 Q -21,-71 -18,-79 Z M -53,-69 Q -47,-65 -43,-70 Q -44,-65 -50,-64 Z" fill="#c9a781"/>
+<path d="M -9,-74 Q -4,-79 1,-76 Q 9,-71 16,-75 Q 24,-78 22,-84 Q 21,-87 17,-86 Q 12,-85 13,-80 Q 7,-82 10,-90 Q 13,-97 22,-95 Q 32,-93 32,-84 Q 29,-75 34,-74 Q 39,-73 41,-78 Q 45,-86 49,-83 Q 54,-80 50,-77 Q 48,-74 46,-78 Q 45,-74 44,-69 Q 42,-62 35,-63 Q 29,-63 26,-70 Q 24,-73 21,-71 Q 12,-66 6,-67 Q 0,-67 -3,-71 Z" fill="#ab845d"/>
+<path d="M 9,-84 Q 10,-95 19,-95 Q 25,-96 28,-89 Q 21,-94 17,-91 Q 13,-88 14,-84 Z M 31,-70 Q 37,-66 41,-72 Q 39,-64 34,-66 Z" fill="#c9a781"/>
+<g transform="rotate(-28.4)">
+<path d="M -3.2,-108 L 2,-109 L 4.5,-105 L 1.8,-101.5 L -3.7,-102.2 L -5,-105 Z" fill="#ab845d"/>
+<path d="M -2.7,-107.6 L 1,-108.1 L 2.5,-105.8 L -1.4,-104 Z" fill="#c9a781"/>
+</g>
+<g transform="rotate(-21.299999999999997)">
+<path d="M -3.2,-108 L 2,-109 L 4.5,-105 L 1.8,-101.5 L -3.7,-102.2 L -5,-105 Z" fill="#ab845d"/>
+<path d="M -2.7,-107.6 L 1,-108.1 L 2.5,-105.8 L -1.4,-104 Z" fill="#c9a781"/>
+</g>
+<g transform="rotate(-14.2)">
+<path d="M -3.2,-108 L 2,-109 L 4.5,-105 L 1.8,-101.5 L -3.7,-102.2 L -5,-105 Z" fill="#ab845d"/>
+<path d="M -2.7,-107.6 L 1,-108.1 L 2.5,-105.8 L -1.4,-104 Z" fill="#c9a781"/>
+</g>
+<g transform="rotate(-7.1)">
+<path d="M -3.2,-108 L 2,-109 L 4.5,-105 L 1.8,-101.5 L -3.7,-102.2 L -5,-105 Z" fill="#ab845d"/>
+<path d="M -2.7,-107.6 L 1,-108.1 L 2.5,-105.8 L -1.4,-104 Z" fill="#c9a781"/>
+</g>
+<g transform="rotate(0.0)">
+<path d="M -3.2,-108 L 2,-109 L 4.5,-105 L 1.8,-101.5 L -3.7,-102.2 L -5,-105 Z" fill="#ab845d"/>
+<path d="M -2.7,-107.6 L 1,-108.1 L 2.5,-105.8 L -1.4,-104 Z" fill="#c9a781"/>
+</g>
+<g transform="rotate(7.1)">
+<path d="M -3.2,-108 L 2,-109 L 4.5,-105 L 1.8,-101.5 L -3.7,-102.2 L -5,-105 Z" fill="#ab845d"/>
+<path d="M -2.7,-107.6 L 1,-108.1 L 2.5,-105.8 L -1.4,-104 Z" fill="#c9a781"/>
+</g>
+<g transform="rotate(14.2)">
+<path d="M -3.2,-108 L 2,-109 L 4.5,-105 L 1.8,-101.5 L -3.7,-102.2 L -5,-105 Z" fill="#ab845d"/>
+<path d="M -2.7,-107.6 L 1,-108.1 L 2.5,-105.8 L -1.4,-104 Z" fill="#c9a781"/>
+</g>
+<g transform="rotate(21.299999999999997)">
+<path d="M -3.2,-108 L 2,-109 L 4.5,-105 L 1.8,-101.5 L -3.7,-102.2 L -5,-105 Z" fill="#ab845d"/>
+<path d="M -2.7,-107.6 L 1,-108.1 L 2.5,-105.8 L -1.4,-104 Z" fill="#c9a781"/>
+</g>
+<g transform="rotate(28.4)">
+<path d="M -3.2,-108 L 2,-109 L 4.5,-105 L 1.8,-101.5 L -3.7,-102.2 L -5,-105 Z" fill="#ab845d"/>
+<path d="M -2.7,-107.6 L 1,-108.1 L 2.5,-105.8 L -1.4,-104 Z" fill="#c9a781"/>
+</g>
+</g>
+<g id="simple-square">
+<path d="M -14,-14 Q -1,-10 14,-14 Q 10,-2 14,14 Q 0,10 -14,14 Q -10,0 -14,-14 Z" fill="#c9a781" stroke="#432f2c" stroke-width="1.8" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M -6.8,-6.3 Q 0,-5 6.5,-6.3 L 6,6 L -6.3,6.5 Z" fill="#432f2c"/>
+<circle cx="0" cy="0" r="2.4" fill="#ab845d"/>
+</g>
+<g id="floral-square">
+<path d="M -12,-12 L 12,-12 L 12,12 L -12,12 Z" fill="#ab845d" stroke="#432f2c" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M -8,-8 q 3,-1.7 5.5,0 l -.6,3.6 l -2.7,1.6 l -2.7,-1.6 z" fill="#432f2c"/>
+<path d="M -8,2 q 3,-1.7 5.5,0 l -.6,3.6 l -2.7,1.6 l -2.7,-1.6 z" fill="#432f2c"/>
+<path d="M 2,-8 q 3,-1.7 5.5,0 l -.6,3.6 l -2.7,1.6 l -2.7,-1.6 z" fill="#432f2c"/>
+<path d="M 2,2 q 3,-1.7 5.5,0 l -.6,3.6 l -2.7,1.6 l -2.7,-1.6 z" fill="#432f2c"/>
+<circle cx="0" cy="0" r="2.5" fill="#c9a781"/>
+</g>
+<g id="sprig">
+<path d="M -1,0 Q 1,-6 -3,-10 Q -7,-12 -10,-9 Q -11,-16 -6,-16 Q -2,-16 0,-12 Q 0,-19 -5,-21 Q -9,-24 -7,-27 Q -6,-29 -3,-27 Q -4,-25 -1,-24 Q 2,-25 1,-29 L 3,-32 Q 8,-29 6,-24 Q 4,-21 2,-20 Q 7,-21 10,-17 Q 13,-14 10,-11 Q 7,-10 6,-13 Q 8,-16 5,-16 Q 1,-16 2,-9 Q 4,-5 6,-4 L 4,-1 Z" fill="#ab845d"/>
+<path d="M 0,-14 Q 0,-21 4,-25 Q 6,-28 4,-30 Q 9,-28 6,-24 Q 3,-20 2,-15 Z M -8,-14 Q -4,-17 -1,-12 Q -4,-14 -7,-11 Z" fill="#c9a781"/>
+</g>
+<g id="lily">
+<path d="M -2,0 Q -2,-7 -7,-10 Q -12,-12 -11,-17 Q -10,-20 -7,-18 Q -7,-16 -4,-16 Q -3,-18 -6,-21 Q -3,-22 -1,-19 Q -1,-25 2,-29 Q 7,-25 5,-20 Q 10,-23 12,-20 Q 13,-17 9,-16 Q 7,-14 9,-12 Q 12,-11 14,-14 Q 15,-9 11,-8 Q 7,-6 3,-11 Q 1,-6 3,-2 Z" fill="#ab845d"/>
+<path d="M -1,-9 Q -1,-17 2,-22 Q 1,-17 2,-12 L 1,-7 Z M 7,-16 Q 8,-21 11,-20 L 10,-18 Z" fill="#c9a781"/>
+</g>
+<g id="medallion">
+<circle cx="0" cy="0" r="98" fill="#432f2c"/>
+<use xlink:href="#cartouche-side" transform="rotate(0)"/>
+<use xlink:href="#cartouche-side" transform="rotate(90)"/>
+<use xlink:href="#cartouche-side" transform="rotate(180)"/>
+<use xlink:href="#cartouche-side" transform="rotate(270)"/>
+<use xlink:href="#floral-square" transform="translate(71.42 71.42)"/>
+<use xlink:href="#simple-square" transform="translate(-71.42 71.42)"/>
+<use xlink:href="#floral-square" transform="translate(-71.42 -71.42)"/>
+<use xlink:href="#simple-square" transform="translate(71.42 -71.42)"/>
+<path d="M 72.000,0.000 Q 63.896,11.929 66.519,27.553 Q 54.467,35.473 50.912,50.912 Q 36.746,53.616 27.553,66.519 Q 13.431,63.597 0.000,72.000 Q -11.929,63.896 -27.553,66.519 Q -35.473,54.467 -50.912,50.912 Q -53.616,36.746 -66.519,27.553 Q -63.597,13.431 -72.000,0.000 Q -63.896,-11.929 -66.519,-27.553 Q -54.467,-35.473 -50.912,-50.912 Q -36.746,-53.616 -27.553,-66.519 Q -13.431,-63.597 -0.000,-72.000 Q 11.929,-63.896 27.553,-66.519 Q 35.473,-54.467 50.912,-50.912 Q 53.616,-36.746 66.519,-27.553 Q 63.597,-13.431 72.000,-0.000 Z" fill="#c9a781"/>
+<path d="M 65.700,0.000 Q 58.195,10.865 60.699,25.142 Q 49.607,32.308 46.457,46.457 Q 33.467,48.832 25.142,60.699 Q 12.233,57.922 0.000,65.700 Q -10.865,58.195 -25.142,60.699 Q -32.308,49.607 -46.457,46.457 Q -48.832,33.467 -60.699,25.142 Q -57.922,12.233 -65.700,0.000 Q -58.195,-10.865 -60.699,-25.142 Q -49.607,-32.308 -46.457,-46.457 Q -33.467,-48.832 -25.142,-60.699 Q -12.233,-57.922 -0.000,-65.700 Q 10.865,-58.195 25.142,-60.699 Q 32.308,-49.607 46.457,-46.457 Q 48.832,-33.467 60.699,-25.142 Q 57.922,-12.233 65.700,-0.000 Z" fill="#792e48"/>
+<use xlink:href="#lily" transform="rotate(0) translate(0 -24) scale(.84 .88)"/>
+<use xlink:href="#sprig" transform="rotate(45) translate(0 -24) scale(.84 .88)"/>
+<use xlink:href="#lily" transform="rotate(90) translate(0 -24) scale(.84 .88)"/>
+<use xlink:href="#sprig" transform="rotate(135) translate(0 -24) scale(.84 .88)"/>
+<use xlink:href="#lily" transform="rotate(180) translate(0 -24) scale(.84 .88)"/>
+<use xlink:href="#sprig" transform="rotate(225) translate(0 -24) scale(.84 .88)"/>
+<use xlink:href="#lily" transform="rotate(270) translate(0 -24) scale(.84 .88)"/>
+<use xlink:href="#sprig" transform="rotate(315) translate(0 -24) scale(.84 .88)"/>
+<circle cx="0" cy="0" r="19.3" fill="#c9a781"/>
+<circle cx="0" cy="0" r="17.0" fill="#432f2c"/>
+<use xlink:href="#floret-petal" transform="rotate(0)"/>
+<use xlink:href="#floret-petal" transform="rotate(51.4286)"/>
+<use xlink:href="#floret-petal" transform="rotate(102.857)"/>
+<use xlink:href="#floret-petal" transform="rotate(154.286)"/>
+<use xlink:href="#floret-petal" transform="rotate(205.714)"/>
+<use xlink:href="#floret-petal" transform="rotate(257.143)"/>
+<use xlink:href="#floret-petal" transform="rotate(308.571)"/>
+<circle cx="0" cy="0" r="4.5" fill="#ab845d"/>
+</g>
+<g id="wheel-spray">
+<g transform="rotate(0)">
+<use xlink:href="#acanthus"/>
+</g>
+<g transform="rotate(180)">
+<use xlink:href="#acanthus"/>
+</g>
+<g transform="matrix(0 1 1 0 0 0)">
+<use xlink:href="#acanthus"/>
+</g>
+<g transform="matrix(0 -1 -1 0 0 0)">
+<use xlink:href="#acanthus"/>
+</g>
+<g transform="rotate(0)">
+<use xlink:href="#turnback"/>
+<use xlink:href="#turnback" transform="matrix(0 1 1 0 0 0)"/>
+<use xlink:href="#trefoil" transform="translate(78 79)"/>
+<use xlink:href="#ground-sprig" transform="translate(58 58) rotate(16) scale(.8)"/>
+<use xlink:href="#ground-sprig" transform="translate(64 62) rotate(9) scale(.8)"/>
+<use xlink:href="#ground-sprig" transform="translate(73 109) rotate(75) scale(.8)"/>
+<use xlink:href="#ground-sprig" transform="translate(114 -93) rotate(-30) scale(.8)"/>
+<use xlink:href="#ground-sprig" transform="translate(96 -103) rotate(24) scale(.8)"/>
+<use xlink:href="#small-crook" transform="translate(47 -140) rotate(104) scale(.73 .80)"/>
+<use xlink:href="#small-crook" transform="matrix(0 -1 -1 0 0 0) translate(47 -140) rotate(104) scale(.73 .80)"/>
+</g>
+<g transform="rotate(180)">
+<use xlink:href="#turnback"/>
+<use xlink:href="#turnback" transform="matrix(0 1 1 0 0 0)"/>
+<use xlink:href="#trefoil" transform="translate(78 79)"/>
+<use xlink:href="#ground-sprig" transform="translate(58 58) rotate(16) scale(.8)"/>
+<use xlink:href="#ground-sprig" transform="translate(64 62) rotate(9) scale(.8)"/>
+<use xlink:href="#ground-sprig" transform="translate(73 109) rotate(75) scale(.8)"/>
+<use xlink:href="#ground-sprig" transform="translate(114 -93) rotate(-30) scale(.8)"/>
+<use xlink:href="#ground-sprig" transform="translate(96 -103) rotate(24) scale(.8)"/>
+<use xlink:href="#small-crook" transform="translate(47 -140) rotate(104) scale(.73 .80)"/>
+<use xlink:href="#small-crook" transform="matrix(0 -1 -1 0 0 0) translate(47 -140) rotate(104) scale(.73 .80)"/>
+</g>
+<use xlink:href="#wheel"/>
+</g>
+</defs>
+<rect width="512" height="512" fill="#4a4749"/>
+<use xlink:href="#almond" transform="translate(0 0)"/>
+<use xlink:href="#almond" transform="translate(0 512)"/>
+<use xlink:href="#almond" transform="translate(512 0)"/>
+<use xlink:href="#almond" transform="translate(512 512)"/>
+<use xlink:href="#almond" transform="translate(256 0)"/>
+<use xlink:href="#almond" transform="translate(256 512)"/>
+<use xlink:href="#almond" transform="translate(0 256)"/>
+<use xlink:href="#almond" transform="translate(512 256)"/>
+<use xlink:href="#almond" transform="translate(256 256)"/>
+<use xlink:href="#wheel-spray" transform="translate(-128 128)"/>
+<use xlink:href="#wheel-spray" transform="translate(-128 640)"/>
+<use xlink:href="#wheel-spray" transform="translate(384 128)"/>
+<use xlink:href="#wheel-spray" transform="translate(384 640)"/>
+<use xlink:href="#wheel-spray" transform="translate(128 -128)"/>
+<use xlink:href="#wheel-spray" transform="translate(128 384)"/>
+<use xlink:href="#wheel-spray" transform="translate(640 -128)"/>
+<use xlink:href="#wheel-spray" transform="translate(640 384)"/>
+<use xlink:href="#medallion" transform="translate(128 128)"/>
+<use xlink:href="#medallion" transform="translate(384 384)"/>
+</svg>

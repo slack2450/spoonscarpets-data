@@ -1,0 +1,292 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="384" height="384" viewBox="0 0 384 384">
+  <title>The Conister Arms, Douglas — herringbone wood floor</title>
+  <desc>Warm brown parquet in front of the bar, with interlocking rectangular boards and fine lengthwise grain.</desc>
+  <defs>
+    <g id="board0">
+      <rect x=".012" y=".012" width="3.976" height=".976" fill="#594232"/>
+      <path fill="#533D2E" d="M0.790 0.100q0.740 -.058 1.721 .015q-0.947 -.003 -1.721 -.015z"/>
+      <path fill="#5F4837" d="M1.544 0.341q0.532 -.058 1.237 .015q-0.680 -.003 -1.237 -.015z"/>
+      <path fill="#533D2E" d="M1.306 0.539q0.596 -.058 1.386 .015q-0.762 -.003 -1.386 -.015z"/>
+      <path fill="#5F4837" d="M0.537 0.706q0.955 -.058 2.222 .015q-1.222 -.003 -2.222 -.015z"/>
+    </g>
+    <g id="board1">
+      <rect x=".012" y=".012" width="3.976" height=".976" fill="#5F4837"/>
+      <path fill="#594232" d="M1.530 0.166q0.830 -.058 1.930 .015q-1.062 -.003 -1.930 -.015z"/>
+      <path fill="#654C39" d="M0.395 0.333q0.995 -.058 2.313 .015q-1.272 -.003 -2.313 -.015z"/>
+      <path fill="#594232" d="M1.245 0.509q1.046 -.058 2.433 .015q-1.338 -.003 -2.433 -.015z"/>
+      <path fill="#654C39" d="M1.382 0.707q0.965 -.058 2.243 .015q-1.234 -.003 -2.243 -.015z"/>
+    </g>
+    <g id="board2">
+      <rect x=".012" y=".012" width="3.976" height=".976" fill="#654C39"/>
+      <path fill="#5F4837" d="M0.840 0.197q0.966 -.058 2.246 .015q-1.235 -.003 -2.246 -.015z"/>
+      <path fill="#6B513D" d="M1.263 0.320q0.829 -.058 1.929 .015q-1.061 -.003 -1.929 -.015z"/>
+      <path fill="#5F4837" d="M1.262 0.569q1.066 -.058 2.479 .015q-1.363 -.003 -2.479 -.015z"/>
+      <path fill="#6B513D" d="M0.414 0.755q0.766 -.058 1.781 .015q-0.979 -.003 -1.781 -.015z"/>
+    </g>
+    <g id="board3">
+      <rect x=".012" y=".012" width="3.976" height=".976" fill="#533D2E"/>
+      <path fill="#493628" d="M0.309 0.118q1.108 -.058 2.576 .015q-1.417 -.003 -2.576 -.015z"/>
+      <path fill="#594232" d="M1.195 0.371q0.953 -.058 2.216 .015q-1.219 -.003 -2.216 -.015z"/>
+      <path fill="#493628" d="M0.123 0.520q1.156 -.058 2.689 .015q-1.479 -.003 -2.689 -.015z"/>
+      <path fill="#594232" d="M0.126 0.731q0.809 -.058 1.881 .015q-1.035 -.003 -1.881 -.015z"/>
+    </g>
+    <g id="board4">
+      <rect x=".012" y=".012" width="3.976" height=".976" fill="#594232"/>
+      <path fill="#533D2E" d="M0.955 0.094q1.141 -.058 2.654 .015q-1.460 -.003 -2.654 -.015z"/>
+      <path fill="#5F4837" d="M0.982 0.398q0.537 -.058 1.249 .015q-0.687 -.003 -1.249 -.015z"/>
+      <path fill="#533D2E" d="M0.412 0.534q0.502 -.058 1.168 .015q-0.643 -.003 -1.168 -.015z"/>
+      <path fill="#5F4837" d="M0.531 0.780q0.509 -.058 1.183 .015q-0.651 -.003 -1.183 -.015z"/>
+    </g>
+    <g id="board5">
+      <rect x=".012" y=".012" width="3.976" height=".976" fill="#5F4837"/>
+      <path fill="#594232" d="M0.610 0.165q0.867 -.058 2.017 .015q-1.109 -.003 -2.017 -.015z"/>
+      <path fill="#654C39" d="M0.581 0.351q0.901 -.058 2.096 .015q-1.153 -.003 -2.096 -.015z"/>
+      <path fill="#594232" d="M1.545 0.582q0.624 -.058 1.451 .015q-0.798 -.003 -1.451 -.015z"/>
+      <path fill="#654C39" d="M0.272 0.760q0.771 -.058 1.792 .015q-0.986 -.003 -1.792 -.015z"/>
+    </g>
+    <g id="board6">
+      <rect x=".012" y=".012" width="3.976" height=".976" fill="#654C39"/>
+      <path fill="#5F4837" d="M1.426 0.109q0.834 -.058 1.939 .015q-1.067 -.003 -1.939 -.015z"/>
+      <path fill="#6B513D" d="M0.810 0.385q1.173 -.058 2.727 .015q-1.500 -.003 -2.727 -.015z"/>
+      <path fill="#5F4837" d="M1.309 0.549q0.760 -.058 1.768 .015q-0.973 -.003 -1.768 -.015z"/>
+      <path fill="#6B513D" d="M0.564 0.742q0.643 -.058 1.496 .015q-0.823 -.003 -1.496 -.015z"/>
+    </g>
+    <g id="board7">
+      <rect x=".012" y=".012" width="3.976" height=".976" fill="#594232"/>
+      <path fill="#533D2E" d="M0.275 0.134q0.911 -.058 2.120 .015q-1.166 -.003 -2.120 -.015z"/>
+      <path fill="#5F4837" d="M1.378 0.302q0.951 -.058 2.211 .015q-1.216 -.003 -2.211 -.015z"/>
+      <path fill="#533D2E" d="M0.341 0.530q0.774 -.058 1.799 .015q-0.990 -.003 -1.799 -.015z"/>
+      <path fill="#5F4837" d="M0.421 0.803q0.828 -.058 1.927 .015q-1.060 -.003 -1.927 -.015z"/>
+    </g>
+    <g id="board8">
+      <rect x=".012" y=".012" width="3.976" height=".976" fill="#6B513D"/>
+      <path fill="#654C39" d="M1.074 0.116q1.027 -.058 2.387 .015q-1.313 -.003 -2.387 -.015z"/>
+      <path fill="#6B513D" d="M0.388 0.398q1.077 -.058 2.506 .015q-1.378 -.003 -2.506 -.015z"/>
+      <path fill="#654C39" d="M1.464 0.548q0.980 -.058 2.279 .015q-1.253 -.003 -2.279 -.015z"/>
+      <path fill="#6B513D" d="M0.414 0.751q0.756 -.058 1.758 .015q-0.967 -.003 -1.758 -.015z"/>
+    </g>
+    <g id="board9">
+      <rect x=".012" y=".012" width="3.976" height=".976" fill="#5F4837"/>
+      <path fill="#594232" d="M1.248 0.154q0.911 -.058 2.118 .015q-1.165 -.003 -2.118 -.015z"/>
+      <path fill="#654C39" d="M0.606 0.334q1.063 -.058 2.472 .015q-1.359 -.003 -2.472 -.015z"/>
+      <path fill="#594232" d="M0.426 0.532q0.948 -.058 2.204 .015q-1.212 -.003 -2.204 -.015z"/>
+      <path fill="#654C39" d="M0.731 0.707q0.932 -.058 2.167 .015q-1.192 -.003 -2.167 -.015z"/>
+    </g>
+    <g id="board10">
+      <rect x=".012" y=".012" width="3.976" height=".976" fill="#594232"/>
+      <path fill="#533D2E" d="M1.250 0.157q0.626 -.058 1.456 .015q-0.801 -.003 -1.456 -.015z"/>
+      <path fill="#5F4837" d="M0.911 0.383q0.941 -.058 2.189 .015q-1.204 -.003 -2.189 -.015z"/>
+      <path fill="#533D2E" d="M0.889 0.529q0.647 -.058 1.505 .015q-0.828 -.003 -1.505 -.015z"/>
+      <path fill="#5F4837" d="M0.217 0.794q0.928 -.058 2.157 .015q-1.186 -.003 -2.157 -.015z"/>
+    </g>
+    <g id="board11">
+      <rect x=".012" y=".012" width="3.976" height=".976" fill="#5F4837"/>
+      <path fill="#594232" d="M0.746 0.125q0.475 -.058 1.106 .015q-0.608 -.003 -1.106 -.015z"/>
+      <path fill="#654C39" d="M0.508 0.343q0.883 -.058 2.054 .015q-1.130 -.003 -2.054 -.015z"/>
+      <path fill="#594232" d="M1.406 0.494q0.866 -.058 2.014 .015q-1.108 -.003 -2.014 -.015z"/>
+      <path fill="#654C39" d="M0.432 0.709q0.692 -.058 1.609 .015q-0.885 -.003 -1.609 -.015z"/>
+    </g>
+    <g id="board12">
+      <rect x=".012" y=".012" width="3.976" height=".976" fill="#533D2E"/>
+      <path fill="#493628" d="M0.198 0.141q0.697 -.058 1.620 .015q-0.891 -.003 -1.620 -.015z"/>
+      <path fill="#594232" d="M1.211 0.388q0.657 -.058 1.528 .015q-0.840 -.003 -1.528 -.015z"/>
+      <path fill="#493628" d="M1.378 0.517q0.566 -.058 1.317 .015q-0.724 -.003 -1.317 -.015z"/>
+      <path fill="#594232" d="M0.952 0.774q0.990 -.058 2.302 .015q-1.266 -.003 -2.302 -.015z"/>
+    </g>
+    <g id="board13">
+      <rect x=".012" y=".012" width="3.976" height=".976" fill="#654C39"/>
+      <path fill="#5F4837" d="M0.665 0.153q0.713 -.058 1.658 .015q-0.912 -.003 -1.658 -.015z"/>
+      <path fill="#6B513D" d="M0.575 0.313q1.159 -.058 2.696 .015q-1.483 -.003 -2.696 -.015z"/>
+      <path fill="#5F4837" d="M0.785 0.496q0.527 -.058 1.225 .015q-0.674 -.003 -1.225 -.015z"/>
+      <path fill="#6B513D" d="M0.296 0.784q0.906 -.058 2.108 .015q-1.159 -.003 -2.108 -.015z"/>
+    </g>
+    <g id="board14">
+      <rect x=".012" y=".012" width="3.976" height=".976" fill="#594232"/>
+      <path fill="#533D2E" d="M1.171 0.140q0.534 -.058 1.241 .015q-0.682 -.003 -1.241 -.015z"/>
+      <path fill="#5F4837" d="M1.090 0.293q0.962 -.058 2.237 .015q-1.230 -.003 -2.237 -.015z"/>
+      <path fill="#533D2E" d="M0.605 0.504q1.187 -.058 2.761 .015q-1.519 -.003 -2.761 -.015z"/>
+      <path fill="#5F4837" d="M0.188 0.699q0.632 -.058 1.470 .015q-0.809 -.003 -1.470 -.015z"/>
+    </g>
+    <g id="board15">
+      <rect x=".012" y=".012" width="3.976" height=".976" fill="#5F4837"/>
+      <path fill="#594232" d="M0.199 0.172q0.846 -.058 1.967 .015q-1.082 -.003 -1.967 -.015z"/>
+      <path fill="#654C39" d="M1.001 0.290q0.646 -.058 1.502 .015q-0.826 -.003 -1.502 -.015z"/>
+      <path fill="#594232" d="M1.376 0.498q0.744 -.058 1.729 .015q-0.951 -.003 -1.729 -.015z"/>
+      <path fill="#654C39" d="M1.135 0.752q0.746 -.058 1.734 .015q-0.954 -.003 -1.734 -.015z"/>
+    </g>
+  </defs>
+  <rect width="384" height="384" fill="#493628"/>
+  <g transform="translate(7 5) matrix(12 12 -12 12 0 0)">
+    <use xlink:href="#board12" transform="translate(-2 -1) rotate(90)"/>
+    <use xlink:href="#board7" transform="translate(-1 -2) rotate(90)"/>
+    <use xlink:href="#board4" transform="translate(0 -3) rotate(90)"/>
+    <use xlink:href="#board4" transform="translate(1 -4) rotate(90)"/>
+    <use xlink:href="#board11" transform="translate(2 -5) rotate(90)"/>
+    <use xlink:href="#board14" transform="translate(3 -6) rotate(90)"/>
+    <use xlink:href="#board5" transform="translate(4 -7) rotate(90)"/>
+    <use xlink:href="#board8" transform="translate(5 -8) rotate(90)"/>
+    <use xlink:href="#board9" transform="translate(6 -9) rotate(90)"/>
+    <use xlink:href="#board1" transform="translate(7 -10) rotate(90)"/>
+    <use xlink:href="#board11" transform="translate(8 -11) rotate(90)"/>
+    <use xlink:href="#board1" transform="translate(9 -12) rotate(90)"/>
+    <use xlink:href="#board5" transform="translate(10 -13) rotate(90)"/>
+    <use xlink:href="#board7" transform="translate(11 -14) rotate(90)"/>
+    <use xlink:href="#board11" transform="translate(12 -15) rotate(90)"/>
+    <use xlink:href="#board2" transform="translate(13 -16) rotate(90)"/>
+    <use xlink:href="#board12" transform="translate(14 -17) rotate(90)"/>
+    <use xlink:href="#board7" transform="translate(15 -18) rotate(90)"/>
+    <use xlink:href="#board4" transform="translate(16 -19) rotate(90)"/>
+    <use xlink:href="#board2" transform="translate(2 3) rotate(90)"/>
+    <use xlink:href="#board9" transform="translate(-2 2)"/>
+    <use xlink:href="#board3" transform="translate(3 2) rotate(90)"/>
+    <use xlink:href="#board15" transform="translate(-1 1)"/>
+    <use xlink:href="#board4" transform="translate(4 1) rotate(90)"/>
+    <use xlink:href="#board0" transform="translate(0 0)"/>
+    <use xlink:href="#board15" transform="translate(5 0) rotate(90)"/>
+    <use xlink:href="#board0" transform="translate(1 -1)"/>
+    <use xlink:href="#board2" transform="translate(6 -1) rotate(90)"/>
+    <use xlink:href="#board13" transform="translate(2 -2)"/>
+    <use xlink:href="#board4" transform="translate(7 -2) rotate(90)"/>
+    <use xlink:href="#board15" transform="translate(3 -3)"/>
+    <use xlink:href="#board5" transform="translate(8 -3) rotate(90)"/>
+    <use xlink:href="#board0" transform="translate(4 -4)"/>
+    <use xlink:href="#board7" transform="translate(9 -4) rotate(90)"/>
+    <use xlink:href="#board5" transform="translate(5 -5)"/>
+    <use xlink:href="#board3" transform="translate(10 -5) rotate(90)"/>
+    <use xlink:href="#board0" transform="translate(6 -6)"/>
+    <use xlink:href="#board13" transform="translate(11 -6) rotate(90)"/>
+    <use xlink:href="#board10" transform="translate(7 -7)"/>
+    <use xlink:href="#board13" transform="translate(12 -7) rotate(90)"/>
+    <use xlink:href="#board2" transform="translate(8 -8)"/>
+    <use xlink:href="#board0" transform="translate(13 -8) rotate(90)"/>
+    <use xlink:href="#board1" transform="translate(9 -9)"/>
+    <use xlink:href="#board13" transform="translate(14 -9) rotate(90)"/>
+    <use xlink:href="#board1" transform="translate(10 -10)"/>
+    <use xlink:href="#board11" transform="translate(15 -10) rotate(90)"/>
+    <use xlink:href="#board7" transform="translate(11 -11)"/>
+    <use xlink:href="#board9" transform="translate(16 -11) rotate(90)"/>
+    <use xlink:href="#board14" transform="translate(12 -12)"/>
+    <use xlink:href="#board11" transform="translate(17 -12) rotate(90)"/>
+    <use xlink:href="#board2" transform="translate(13 -13)"/>
+    <use xlink:href="#board2" transform="translate(18 -13) rotate(90)"/>
+    <use xlink:href="#board9" transform="translate(14 -14)"/>
+    <use xlink:href="#board3" transform="translate(19 -14) rotate(90)"/>
+    <use xlink:href="#board15" transform="translate(15 -15)"/>
+    <use xlink:href="#board4" transform="translate(20 -15) rotate(90)"/>
+    <use xlink:href="#board0" transform="translate(16 -16)"/>
+    <use xlink:href="#board8" transform="translate(6 7) rotate(90)"/>
+    <use xlink:href="#board1" transform="translate(2 6)"/>
+    <use xlink:href="#board14" transform="translate(7 6) rotate(90)"/>
+    <use xlink:href="#board3" transform="translate(3 5)"/>
+    <use xlink:href="#board5" transform="translate(8 5) rotate(90)"/>
+    <use xlink:href="#board15" transform="translate(4 4)"/>
+    <use xlink:href="#board9" transform="translate(9 4) rotate(90)"/>
+    <use xlink:href="#board6" transform="translate(5 3)"/>
+    <use xlink:href="#board10" transform="translate(10 3) rotate(90)"/>
+    <use xlink:href="#board14" transform="translate(6 2)"/>
+    <use xlink:href="#board0" transform="translate(11 2) rotate(90)"/>
+    <use xlink:href="#board3" transform="translate(7 1)"/>
+    <use xlink:href="#board10" transform="translate(12 1) rotate(90)"/>
+    <use xlink:href="#board0" transform="translate(8 0)"/>
+    <use xlink:href="#board3" transform="translate(13 0) rotate(90)"/>
+    <use xlink:href="#board8" transform="translate(9 -1)"/>
+    <use xlink:href="#board2" transform="translate(14 -1) rotate(90)"/>
+    <use xlink:href="#board5" transform="translate(10 -2)"/>
+    <use xlink:href="#board0" transform="translate(15 -2) rotate(90)"/>
+    <use xlink:href="#board3" transform="translate(11 -3)"/>
+    <use xlink:href="#board8" transform="translate(16 -3) rotate(90)"/>
+    <use xlink:href="#board13" transform="translate(12 -4)"/>
+    <use xlink:href="#board10" transform="translate(17 -4) rotate(90)"/>
+    <use xlink:href="#board7" transform="translate(13 -5)"/>
+    <use xlink:href="#board10" transform="translate(18 -5) rotate(90)"/>
+    <use xlink:href="#board4" transform="translate(14 -6)"/>
+    <use xlink:href="#board15" transform="translate(19 -6) rotate(90)"/>
+    <use xlink:href="#board11" transform="translate(15 -7)"/>
+    <use xlink:href="#board4" transform="translate(20 -7) rotate(90)"/>
+    <use xlink:href="#board13" transform="translate(16 -8)"/>
+    <use xlink:href="#board15" transform="translate(21 -8) rotate(90)"/>
+    <use xlink:href="#board7" transform="translate(17 -9)"/>
+    <use xlink:href="#board8" transform="translate(22 -9) rotate(90)"/>
+    <use xlink:href="#board1" transform="translate(18 -10)"/>
+    <use xlink:href="#board14" transform="translate(23 -10) rotate(90)"/>
+    <use xlink:href="#board3" transform="translate(19 -11)"/>
+    <use xlink:href="#board5" transform="translate(24 -11) rotate(90)"/>
+    <use xlink:href="#board15" transform="translate(20 -12)"/>
+    <use xlink:href="#board3" transform="translate(10 11) rotate(90)"/>
+    <use xlink:href="#board12" transform="translate(6 10)"/>
+    <use xlink:href="#board9" transform="translate(11 10) rotate(90)"/>
+    <use xlink:href="#board2" transform="translate(7 9)"/>
+    <use xlink:href="#board13" transform="translate(12 9) rotate(90)"/>
+    <use xlink:href="#board15" transform="translate(8 8)"/>
+    <use xlink:href="#board15" transform="translate(13 8) rotate(90)"/>
+    <use xlink:href="#board0" transform="translate(9 7)"/>
+    <use xlink:href="#board8" transform="translate(14 7) rotate(90)"/>
+    <use xlink:href="#board6" transform="translate(10 6)"/>
+    <use xlink:href="#board2" transform="translate(15 6) rotate(90)"/>
+    <use xlink:href="#board15" transform="translate(11 5)"/>
+    <use xlink:href="#board15" transform="translate(16 5) rotate(90)"/>
+    <use xlink:href="#board1" transform="translate(12 4)"/>
+    <use xlink:href="#board8" transform="translate(17 4) rotate(90)"/>
+    <use xlink:href="#board11" transform="translate(13 3)"/>
+    <use xlink:href="#board1" transform="translate(18 3) rotate(90)"/>
+    <use xlink:href="#board14" transform="translate(14 2)"/>
+    <use xlink:href="#board10" transform="translate(19 2) rotate(90)"/>
+    <use xlink:href="#board4" transform="translate(15 1)"/>
+    <use xlink:href="#board0" transform="translate(20 1) rotate(90)"/>
+    <use xlink:href="#board15" transform="translate(16 0)"/>
+    <use xlink:href="#board7" transform="translate(21 0) rotate(90)"/>
+    <use xlink:href="#board9" transform="translate(17 -1)"/>
+    <use xlink:href="#board12" transform="translate(22 -1) rotate(90)"/>
+    <use xlink:href="#board4" transform="translate(18 -2)"/>
+    <use xlink:href="#board8" transform="translate(23 -2) rotate(90)"/>
+    <use xlink:href="#board10" transform="translate(19 -3)"/>
+    <use xlink:href="#board2" transform="translate(24 -3) rotate(90)"/>
+    <use xlink:href="#board0" transform="translate(20 -4)"/>
+    <use xlink:href="#board7" transform="translate(25 -4) rotate(90)"/>
+    <use xlink:href="#board14" transform="translate(21 -5)"/>
+    <use xlink:href="#board3" transform="translate(26 -5) rotate(90)"/>
+    <use xlink:href="#board12" transform="translate(22 -6)"/>
+    <use xlink:href="#board9" transform="translate(27 -6) rotate(90)"/>
+    <use xlink:href="#board2" transform="translate(23 -7)"/>
+    <use xlink:href="#board13" transform="translate(28 -7) rotate(90)"/>
+    <use xlink:href="#board15" transform="translate(24 -8)"/>
+    <use xlink:href="#board12" transform="translate(14 15) rotate(90)"/>
+    <use xlink:href="#board3" transform="translate(10 14)"/>
+    <use xlink:href="#board7" transform="translate(15 14) rotate(90)"/>
+    <use xlink:href="#board0" transform="translate(11 13)"/>
+    <use xlink:href="#board4" transform="translate(16 13) rotate(90)"/>
+    <use xlink:href="#board0" transform="translate(12 12)"/>
+    <use xlink:href="#board4" transform="translate(17 12) rotate(90)"/>
+    <use xlink:href="#board11" transform="translate(13 11)"/>
+    <use xlink:href="#board11" transform="translate(18 11) rotate(90)"/>
+    <use xlink:href="#board7" transform="translate(14 10)"/>
+    <use xlink:href="#board14" transform="translate(19 10) rotate(90)"/>
+    <use xlink:href="#board14" transform="translate(15 9)"/>
+    <use xlink:href="#board5" transform="translate(20 9) rotate(90)"/>
+    <use xlink:href="#board12" transform="translate(16 8)"/>
+    <use xlink:href="#board8" transform="translate(21 8) rotate(90)"/>
+    <use xlink:href="#board13" transform="translate(17 7)"/>
+    <use xlink:href="#board9" transform="translate(22 7) rotate(90)"/>
+    <use xlink:href="#board12" transform="translate(18 6)"/>
+    <use xlink:href="#board1" transform="translate(23 6) rotate(90)"/>
+    <use xlink:href="#board0" transform="translate(19 5)"/>
+    <use xlink:href="#board11" transform="translate(24 5) rotate(90)"/>
+    <use xlink:href="#board3" transform="translate(20 4)"/>
+    <use xlink:href="#board1" transform="translate(25 4) rotate(90)"/>
+    <use xlink:href="#board0" transform="translate(21 3)"/>
+    <use xlink:href="#board5" transform="translate(26 3) rotate(90)"/>
+    <use xlink:href="#board1" transform="translate(22 2)"/>
+    <use xlink:href="#board7" transform="translate(27 2) rotate(90)"/>
+    <use xlink:href="#board0" transform="translate(23 1)"/>
+    <use xlink:href="#board11" transform="translate(28 1) rotate(90)"/>
+    <use xlink:href="#board15" transform="translate(24 0)"/>
+    <use xlink:href="#board2" transform="translate(29 0) rotate(90)"/>
+    <use xlink:href="#board10" transform="translate(25 -1)"/>
+    <use xlink:href="#board12" transform="translate(30 -1) rotate(90)"/>
+    <use xlink:href="#board3" transform="translate(26 -2)"/>
+    <use xlink:href="#board7" transform="translate(31 -2) rotate(90)"/>
+    <use xlink:href="#board0" transform="translate(27 -3)"/>
+    <use xlink:href="#board4" transform="translate(32 -3) rotate(90)"/>
+    <use xlink:href="#board0" transform="translate(28 -4)"/>
+  </g>
+</svg>

@@ -1,0 +1,234 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="480" height="480" viewBox="0 0 480 480">
+  <title>The Duke’s Head, Leominster — gilt palmettes and rosettes on madder and claret</title>
+  <defs>
+    <g id="plume-half">
+      <path d="M -0.3,0 V -185 Q 7,-186 10,-179 Q 12,-175 9,-166 Q 16,-172 24,-170 Q 26,-166 22,-160 L 24,-160 Q 23,-153 18,-150 Q 24,-151 26,-154 Q 30,-154 32,-150 L 33,-153 Q 37,-151 39,-148 Q 47,-149 51,-152 Q 53,-145 47,-139 L 50,-140 Q 51,-135 44,-130 L 48,-131 Q 47,-123 40,-121 L 41,-123 Q 38,-117 32,-114 C 24,-108 21,-100 24,-94 Q 28,-87 36.5,-87.7 L 39,-82 Z" fill="#DDB77F" />
+      <path d="M -0.4,0 V -180 C 4,-178 7,-175 5,-170 L 3,-167 Q 10,-172 19,-166 Q 17,-157 11,-149 L 15,-152 Q 14,-145 9,-138 L 15,-143 Q 17,-136 12,-125 L 8,-114 Q 14,-124 18,-140 Q 20,-148 26,-148 L 25,-142 L 31,-146 Q 34,-143 32,-138 Q 40,-140 45,-146 Q 47,-138 39,-132 L 43,-132 Q 39,-124 31,-119 C 21,-112 17,-102 21,-94 Q 24,-86 36,-85 L 38,-85 39,-82 Z" fill="#AC875C" />
+      <path d="M 0,-124 C 3,-114 3,-102 8,-94 C 13,-83 23,-77 33,-77 L 37,-84 C 27,-84 19,-89 18,-97 C 16,-108 22,-119 30,-128 L 40,-137 Q 34,-137 28,-133 L 31,-143 C 23,-138 19,-128 17,-122 Q 19,-131 18,-134 C 13,-124 12,-113 11,-105 Q 7,-119 0,-124 Z" fill="#806146" />
+      <path d="M -0.4,-171 Q 4,-165 3,-156 L 9,-161 Q 8,-152 4,-147 L 7,-149 C 5,-140 1,-138 3,-128 Q 3,-117 8,-107 L 5,-85 -0.4,-84 Z" fill="#806146" />
+    </g>
+    <g id="plume">
+      <use xlink:href="#plume-half" />
+      <use xlink:href="#plume-half" transform="scale(-1 1)" />
+    </g>
+    <g id="field-half">
+      <path d="M -0.4,0 V -119 C 3,-117 5,-106 7,-99 C 11,-87 20,-80 30,-79 Q 32,-79 33.8,-81.5 L 36,-78 Z" fill="#242424" />
+    </g>
+    <g id="field">
+      <use xlink:href="#field-half" />
+      <use xlink:href="#field-half" transform="scale(-1 1)" />
+    </g>
+    <g id="sprig">
+      <path d="M -22,-61 Q -16,-64 -16,-69 L -21,-70 Q -16,-71 -14,-75 L -10,-71 -8,-76 -4,-71 Q 0,-76 2,-75 L 2,-71 Q 8,-74 9,-77 L 11,-72 Q 16,-73 18,-76 L 17,-70 22,-70 Q 20,-65 16,-65 L 15,-60 12,-61 9,-55 7,-58 3,-54 1,-58 -3,-55 -4,-60 -9,-56 -10,-61 -16,-57 -16,-62 Z" fill="#AC875C" />
+      <path d="M -20,-70 Q -15,-71 -13,-75 L -11,-70 -7,-74 -8,-68 -13,-65 -12,-62 -17,-60 -16,-65 -21,-63 -17,-67 Z M -7,-69 L -2,-74 0,-70 4,-72 3,-67 -2,-64 -2,-60 -7,-57 -6,-62 -11,-59 -10,-65 Z M 5,-66 Q 10,-69 10,-74 L 13,-70 17,-73 15,-67 19,-68 Q 17,-63 12,-62 L 9,-57 8,-62 3,-59 Z" fill="#DDB77F" />
+      <path d="M -12,-68 L -7,-71 -8,-68 -12,-65 Z M -1,-67 L 5,-70 3,-67 -2,-63 Z M 10,-64 L 16,-68 14,-65 10,-62 Z" fill="#806146" />
+    </g>
+    <g id="wreath">
+      <use xlink:href="#sprig" transform="rotate(22.5)" />
+      <g transform="rotate(0)">
+        <path d="M -9,-65 Q -8,-70 -4,-73 L 0,-75 3,-72 Q 8,-72 9,-66 L 6,-62 4,-59 -2,-59 -6,-61 Z" fill="#806146" />
+        <path d="M -6,-66 Q -5,-71 -1,-71 L 3,-70 5,-67 4,-63 0,-62 -4,-63 Z" fill="#AC875C" />
+        <path d="M -3,-69 L 1,-70 3,-67 1,-64 -3,-65 Z" fill="#DDB77F" />
+      </g>
+      <use xlink:href="#sprig" transform="rotate(67.5)" />
+      <g transform="rotate(45)">
+        <path d="M -9,-65 Q -8,-70 -4,-73 L 0,-75 3,-72 Q 8,-72 9,-66 L 6,-62 4,-59 -2,-59 -6,-61 Z" fill="#806146" />
+        <path d="M -6,-66 Q -5,-71 -1,-71 L 3,-70 5,-67 4,-63 0,-62 -4,-63 Z" fill="#AC875C" />
+        <path d="M -3,-69 L 1,-70 3,-67 1,-64 -3,-65 Z" fill="#DDB77F" />
+      </g>
+      <use xlink:href="#sprig" transform="rotate(112.5)" />
+      <g transform="rotate(90)">
+        <path d="M -9,-65 Q -8,-70 -4,-73 L 0,-75 3,-72 Q 8,-72 9,-66 L 6,-62 4,-59 -2,-59 -6,-61 Z" fill="#806146" />
+        <path d="M -6,-66 Q -5,-71 -1,-71 L 3,-70 5,-67 4,-63 0,-62 -4,-63 Z" fill="#AC875C" />
+        <path d="M -3,-69 L 1,-70 3,-67 1,-64 -3,-65 Z" fill="#DDB77F" />
+      </g>
+      <use xlink:href="#sprig" transform="rotate(157.5)" />
+      <g transform="rotate(135)">
+        <path d="M -9,-65 Q -8,-70 -4,-73 L 0,-75 3,-72 Q 8,-72 9,-66 L 6,-62 4,-59 -2,-59 -6,-61 Z" fill="#806146" />
+        <path d="M -6,-66 Q -5,-71 -1,-71 L 3,-70 5,-67 4,-63 0,-62 -4,-63 Z" fill="#AC875C" />
+        <path d="M -3,-69 L 1,-70 3,-67 1,-64 -3,-65 Z" fill="#DDB77F" />
+      </g>
+      <use xlink:href="#sprig" transform="rotate(202.5)" />
+      <g transform="rotate(180)">
+        <path d="M -9,-65 Q -8,-70 -4,-73 L 0,-75 3,-72 Q 8,-72 9,-66 L 6,-62 4,-59 -2,-59 -6,-61 Z" fill="#806146" />
+        <path d="M -6,-66 Q -5,-71 -1,-71 L 3,-70 5,-67 4,-63 0,-62 -4,-63 Z" fill="#AC875C" />
+        <path d="M -3,-69 L 1,-70 3,-67 1,-64 -3,-65 Z" fill="#DDB77F" />
+      </g>
+      <use xlink:href="#sprig" transform="rotate(247.5)" />
+      <g transform="rotate(225)">
+        <path d="M -9,-65 Q -8,-70 -4,-73 L 0,-75 3,-72 Q 8,-72 9,-66 L 6,-62 4,-59 -2,-59 -6,-61 Z" fill="#806146" />
+        <path d="M -6,-66 Q -5,-71 -1,-71 L 3,-70 5,-67 4,-63 0,-62 -4,-63 Z" fill="#AC875C" />
+        <path d="M -3,-69 L 1,-70 3,-67 1,-64 -3,-65 Z" fill="#DDB77F" />
+      </g>
+      <use xlink:href="#sprig" transform="rotate(292.5)" />
+      <g transform="rotate(270)">
+        <path d="M -9,-65 Q -8,-70 -4,-73 L 0,-75 3,-72 Q 8,-72 9,-66 L 6,-62 4,-59 -2,-59 -6,-61 Z" fill="#806146" />
+        <path d="M -6,-66 Q -5,-71 -1,-71 L 3,-70 5,-67 4,-63 0,-62 -4,-63 Z" fill="#AC875C" />
+        <path d="M -3,-69 L 1,-70 3,-67 1,-64 -3,-65 Z" fill="#DDB77F" />
+      </g>
+      <use xlink:href="#sprig" transform="rotate(337.5)" />
+      <g transform="rotate(315)">
+        <path d="M -9,-65 Q -8,-70 -4,-73 L 0,-75 3,-72 Q 8,-72 9,-66 L 6,-62 4,-59 -2,-59 -6,-61 Z" fill="#806146" />
+        <path d="M -6,-66 Q -5,-71 -1,-71 L 3,-70 5,-67 4,-63 0,-62 -4,-63 Z" fill="#AC875C" />
+        <path d="M -3,-69 L 1,-70 3,-67 1,-64 -3,-65 Z" fill="#DDB77F" />
+      </g>
+    </g>
+    <g id="petal">
+      <path d="M -2,-10 C -4,-14 -10,-18 -11,-23 Q -14,-27 -12,-31 Q -16,-34 -13,-38 Q -15,-41 -10,-43 Q -10,-47 -6,-47 Q -4,-51 0,-49 Q 5,-52 7,-47 Q 11,-48 11,-43 Q 16,-42 13,-38 Q 17,-33 12,-31 C 14,-25 8,-19 6,-17 L 2,-10 Z" fill="#DDB77F" />
+      <path d="M -1,-11 Q -8,-18 -10,-24 Q -12,-27 -10,-31 L -8,-30 Q -9,-33 -7,-35 L -4,-32 Q -5,-36 -2,-37 L 0,-34 Q 3,-37 5,-38 Q 7,-37 6,-33 L 9,-34 Q 11,-31 9,-28 L 11,-29 Q 10,-21 5,-17 L 2,-11 Z" fill="#AC875C" />
+      <path d="M -1,-11 Q -7,-16 -8,-21 Q -5,-20 -4,-19 L -5,-23 Q -3,-25 -1,-21 Q 0,-24 2,-25 Q 3,-24 3,-21 L 6,-23 Q 7,-21 5,-18 L 7,-19 Q 5,-15 2,-12 Z" fill="#806146" />
+    </g>
+    <g id="flower">
+      <circle cx="0" cy="0" r="15" fill="#806146" />
+      <use xlink:href="#petal" transform="rotate(0) scale(1 1)" />
+      <use xlink:href="#petal" transform="rotate(45) scale(0.88 0.91)" />
+      <use xlink:href="#petal" transform="rotate(90) scale(1 1)" />
+      <use xlink:href="#petal" transform="rotate(135) scale(0.88 0.91)" />
+      <use xlink:href="#petal" transform="rotate(180) scale(1 1)" />
+      <use xlink:href="#petal" transform="rotate(225) scale(0.88 0.91)" />
+      <use xlink:href="#petal" transform="rotate(270) scale(1 1)" />
+      <use xlink:href="#petal" transform="rotate(315) scale(0.88 0.91)" />
+      <path d="M -13,-3 L -11,-8 -7,-10 -4,-14 1,-12 5,-13 8,-9 11,-8 13,-3 11,2 12,6 7,8 4,12 -1,11 -5,13 -8,9 -11,8 -11,4 -14,1 Z" fill="#AC875C" />
+      <path d="M -9,-3 Q -8,-8 -4,-9 L 1,-10 5,-7 8,-6 8,-2 10,1 7,5 5,8 1,8 -2,10 -5,7 -8,6 -7,2 -10,0 Z" fill="#DDB77F" />
+    </g>
+    <g id="medallion">
+      <circle cx="0" cy="0" r="209" fill="#AC875C" />
+      <circle cx="0" cy="0" r="206.5" fill="#DDB77F" />
+      <circle cx="0" cy="0" r="196.5" fill="#AC875C" />
+      <circle cx="0" cy="0" r="194.7" fill="#A33728" />
+      <use xlink:href="#plume" transform="rotate(0)" />
+      <use xlink:href="#plume" transform="rotate(45)" />
+      <use xlink:href="#plume" transform="rotate(90)" />
+      <use xlink:href="#plume" transform="rotate(135)" />
+      <use xlink:href="#plume" transform="rotate(180)" />
+      <use xlink:href="#plume" transform="rotate(225)" />
+      <use xlink:href="#plume" transform="rotate(270)" />
+      <use xlink:href="#plume" transform="rotate(315)" />
+      <use xlink:href="#field" transform="rotate(0)" />
+      <use xlink:href="#field" transform="rotate(45)" />
+      <use xlink:href="#field" transform="rotate(90)" />
+      <use xlink:href="#field" transform="rotate(135)" />
+      <use xlink:href="#field" transform="rotate(180)" />
+      <use xlink:href="#field" transform="rotate(225)" />
+      <use xlink:href="#field" transform="rotate(270)" />
+      <use xlink:href="#field" transform="rotate(315)" />
+      <circle cx="0" cy="0" r="78" fill="#242424" />
+      <use xlink:href="#wreath" />
+      <use xlink:href="#flower" />
+    </g>
+    <g id="lens">
+      <path d="M -125,0 A 270.61045751633986,270.61045751633986 0 0 1 125,0 A 270.61045751633986,270.61045751633986 0 0 1 -125,0 Z" fill="#806146" />
+      <path d="M -98,0 A 262.2368421052632,262.2368421052632 0 0 1 98,0 A 262.2368421052632,262.2368421052632 0 0 1 -98,0 Z" fill="#AC875C" />
+      <path d="M -81,0 A 258.84615384615387,258.84615384615387 0 0 1 81,0 A 258.84615384615387,258.84615384615387 0 0 1 -81,0 Z" fill="#242424" />
+      <use xlink:href="#almond-half" />
+      <use xlink:href="#almond-half" transform="scale(-1 1)" />
+      <path d="M -9,-1 L -4,-4 -1,-9 3,-7 4,-4 9,0 4,3 2,8 -2,7 -4,4 -9,1 Z" fill="#AC875C" />
+      <path d="M -5,0 L -2,-3 0,-6 3,-2 5,0 2,3 0,5 -2,2 Z" fill="#DDB77F" />
+    </g>
+    <g id="almond-half">
+      <path d="M 7,-1 Q 13,-2 16,-8 L 23,-7 26,-9 31,-7 38,-8 43,-6 49,-7 53,-5 59,-5 62,-3 67,-3 72,0 64,1 61,3 56,3 52,5 45,5 41,7 34,6 27,8 23,6 17,7 Q 13,2 7,1 Z" fill="#806146" />
+      <path d="M 15,-1 L 20,-4 27,-4 31,-6 39,-5 43,-6 50,-4 57,-4 64,-1 56,1 53,3 45,2 38,4 33,3 26,5 22,3 17,3 Z" fill="#AC875C" />
+      <path d="M 23,-2 L 29,-3 35,-3 39,-4 49,-2 45,0 38,0 34,2 26,1 Z" fill="#DDB77F" />
+    </g>
+    <g id="spots">
+      <path d="M 65,69 Q 65,65 69,64 L 73,64 77,68 77,73 73,77 69,77 65,74 Z M 82,83 L 84,80 87,81 88,84 85,88 82,86 Z" fill="#AC875C" />
+      <path d="M 65.7,69 Q 66,66 69,65 L 72,65 75,68 75,72 72,75 69,75 66,73 Z M 82,83 L 85,81 87,83 85,86 83,86 Z" fill="#DDB77F" />
+    </g>
+    <g id="corner-flower">
+      <use xlink:href="#wreath" transform="scale(.98)" />
+      <use xlink:href="#flower" />
+    </g>
+  </defs>
+  <rect width="480" height="480" fill="#242424" />
+  <circle cx="-259" cy="-261" r="270.6" fill="#806146" />
+  <circle cx="-259" cy="219" r="270.6" fill="#806146" />
+  <circle cx="-259" cy="699" r="270.6" fill="#806146" />
+  <circle cx="221" cy="-261" r="270.6" fill="#806146" />
+  <circle cx="221" cy="219" r="270.6" fill="#806146" />
+  <circle cx="221" cy="699" r="270.6" fill="#806146" />
+  <circle cx="701" cy="-261" r="270.6" fill="#806146" />
+  <circle cx="701" cy="219" r="270.6" fill="#806146" />
+  <circle cx="701" cy="699" r="270.6" fill="#806146" />
+  <circle cx="-259" cy="-261" r="257.5" fill="#572C26" />
+  <circle cx="-259" cy="219" r="257.5" fill="#572C26" />
+  <circle cx="-259" cy="699" r="257.5" fill="#572C26" />
+  <circle cx="221" cy="-261" r="257.5" fill="#572C26" />
+  <circle cx="221" cy="219" r="257.5" fill="#572C26" />
+  <circle cx="221" cy="699" r="257.5" fill="#572C26" />
+  <circle cx="701" cy="-261" r="257.5" fill="#572C26" />
+  <circle cx="701" cy="219" r="257.5" fill="#572C26" />
+  <circle cx="701" cy="699" r="257.5" fill="#572C26" />
+  <use xlink:href="#lens" transform="translate(-259 -501)" />
+  <use xlink:href="#lens" transform="translate(-499 -261) rotate(90)" />
+  <use xlink:href="#lens" transform="translate(-259 -21)" />
+  <use xlink:href="#lens" transform="translate(-499 219) rotate(90)" />
+  <use xlink:href="#lens" transform="translate(-259 459)" />
+  <use xlink:href="#lens" transform="translate(-499 699) rotate(90)" />
+  <use xlink:href="#lens" transform="translate(221 -501)" />
+  <use xlink:href="#lens" transform="translate(-19 -261) rotate(90)" />
+  <use xlink:href="#lens" transform="translate(221 -21)" />
+  <use xlink:href="#lens" transform="translate(-19 219) rotate(90)" />
+  <use xlink:href="#lens" transform="translate(221 459)" />
+  <use xlink:href="#lens" transform="translate(-19 699) rotate(90)" />
+  <use xlink:href="#lens" transform="translate(701 -501)" />
+  <use xlink:href="#lens" transform="translate(461 -261) rotate(90)" />
+  <use xlink:href="#lens" transform="translate(701 -21)" />
+  <use xlink:href="#lens" transform="translate(461 219) rotate(90)" />
+  <use xlink:href="#lens" transform="translate(701 459)" />
+  <use xlink:href="#lens" transform="translate(461 699) rotate(90)" />
+  <use xlink:href="#medallion" transform="translate(-259 -261)" />
+  <use xlink:href="#corner-flower" transform="translate(-499 -501)" />
+  <use xlink:href="#spots" transform="translate(-499 -501) rotate(0)" />
+  <use xlink:href="#spots" transform="translate(-499 -501) rotate(90)" />
+  <use xlink:href="#spots" transform="translate(-499 -501) rotate(180)" />
+  <use xlink:href="#spots" transform="translate(-499 -501) rotate(270)" />
+  <use xlink:href="#medallion" transform="translate(-259 219)" />
+  <use xlink:href="#corner-flower" transform="translate(-499 -21)" />
+  <use xlink:href="#spots" transform="translate(-499 -21) rotate(0)" />
+  <use xlink:href="#spots" transform="translate(-499 -21) rotate(90)" />
+  <use xlink:href="#spots" transform="translate(-499 -21) rotate(180)" />
+  <use xlink:href="#spots" transform="translate(-499 -21) rotate(270)" />
+  <use xlink:href="#medallion" transform="translate(-259 699)" />
+  <use xlink:href="#corner-flower" transform="translate(-499 459)" />
+  <use xlink:href="#spots" transform="translate(-499 459) rotate(0)" />
+  <use xlink:href="#spots" transform="translate(-499 459) rotate(90)" />
+  <use xlink:href="#spots" transform="translate(-499 459) rotate(180)" />
+  <use xlink:href="#spots" transform="translate(-499 459) rotate(270)" />
+  <use xlink:href="#medallion" transform="translate(221 -261)" />
+  <use xlink:href="#corner-flower" transform="translate(-19 -501)" />
+  <use xlink:href="#spots" transform="translate(-19 -501) rotate(0)" />
+  <use xlink:href="#spots" transform="translate(-19 -501) rotate(90)" />
+  <use xlink:href="#spots" transform="translate(-19 -501) rotate(180)" />
+  <use xlink:href="#spots" transform="translate(-19 -501) rotate(270)" />
+  <use xlink:href="#medallion" transform="translate(221 219)" />
+  <use xlink:href="#corner-flower" transform="translate(-19 -21)" />
+  <use xlink:href="#spots" transform="translate(-19 -21) rotate(0)" />
+  <use xlink:href="#spots" transform="translate(-19 -21) rotate(90)" />
+  <use xlink:href="#spots" transform="translate(-19 -21) rotate(180)" />
+  <use xlink:href="#spots" transform="translate(-19 -21) rotate(270)" />
+  <use xlink:href="#medallion" transform="translate(221 699)" />
+  <use xlink:href="#corner-flower" transform="translate(-19 459)" />
+  <use xlink:href="#spots" transform="translate(-19 459) rotate(0)" />
+  <use xlink:href="#spots" transform="translate(-19 459) rotate(90)" />
+  <use xlink:href="#spots" transform="translate(-19 459) rotate(180)" />
+  <use xlink:href="#spots" transform="translate(-19 459) rotate(270)" />
+  <use xlink:href="#medallion" transform="translate(701 -261)" />
+  <use xlink:href="#corner-flower" transform="translate(461 -501)" />
+  <use xlink:href="#spots" transform="translate(461 -501) rotate(0)" />
+  <use xlink:href="#spots" transform="translate(461 -501) rotate(90)" />
+  <use xlink:href="#spots" transform="translate(461 -501) rotate(180)" />
+  <use xlink:href="#spots" transform="translate(461 -501) rotate(270)" />
+  <use xlink:href="#medallion" transform="translate(701 219)" />
+  <use xlink:href="#corner-flower" transform="translate(461 -21)" />
+  <use xlink:href="#spots" transform="translate(461 -21) rotate(0)" />
+  <use xlink:href="#spots" transform="translate(461 -21) rotate(90)" />
+  <use xlink:href="#spots" transform="translate(461 -21) rotate(180)" />
+  <use xlink:href="#spots" transform="translate(461 -21) rotate(270)" />
+  <use xlink:href="#medallion" transform="translate(701 699)" />
+  <use xlink:href="#corner-flower" transform="translate(461 459)" />
+  <use xlink:href="#spots" transform="translate(461 459) rotate(0)" />
+  <use xlink:href="#spots" transform="translate(461 459) rotate(90)" />
+  <use xlink:href="#spots" transform="translate(461 459) rotate(180)" />
+  <use xlink:href="#spots" transform="translate(461 459) rotate(270)" />
+</svg>

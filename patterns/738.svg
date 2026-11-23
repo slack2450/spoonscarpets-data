@@ -1,0 +1,1127 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="480" height="552" viewBox="0 0 480 552">
+<title>The Golden Lion, Rochester — woven patchwork of eight hexagons</title>
+<defs>
+<clipPath id="panel"><path d="M-80 0 -40-69H40L80 0 40 69H-40Z"/></clipPath>
+<g id="pepper-picks">
+<path fill="#88695f" d="M0 2h2V0h2v3H3v2H0z M5 5h3V3h2v3H8v2H5z M1 8h3v2H1z M8 0h3v2H8z"/>
+<path fill="#bda98e" d="M0 4h2V2h1.5v2H3v2H0z M5 8h2V6h2v2H8v2H5z M9 3h2v2H9z M4 2h2v2H4z"/>
+<path fill="#645b59" d="M4 0h2v2H4z M0 8h1v2H0z"/>
+</g>
+<g id="pepper" clip-path="url(#panel)">
+<rect x="-81" y="-70" width="162" height="140" fill="#352e36"/>
+<g transform="scale(0.66)">
+<use xlink:href="#pepper-picks" x="-81" y="-113"/>
+<use xlink:href="#pepper-picks" x="-70" y="-113"/>
+<use xlink:href="#pepper-picks" x="-59" y="-113"/>
+<use xlink:href="#pepper-picks" x="-48" y="-113"/>
+<use xlink:href="#pepper-picks" x="-37" y="-113"/>
+<use xlink:href="#pepper-picks" x="-26" y="-113"/>
+<use xlink:href="#pepper-picks" x="-15" y="-113"/>
+<use xlink:href="#pepper-picks" x="-4" y="-113"/>
+<use xlink:href="#pepper-picks" x="7" y="-113"/>
+<use xlink:href="#pepper-picks" x="18" y="-113"/>
+<use xlink:href="#pepper-picks" x="29" y="-113"/>
+<use xlink:href="#pepper-picks" x="40" y="-113"/>
+<use xlink:href="#pepper-picks" x="51" y="-113"/>
+<use xlink:href="#pepper-picks" x="62" y="-113"/>
+<use xlink:href="#pepper-picks" x="-79" y="-103"/>
+<use xlink:href="#pepper-picks" x="-68" y="-103"/>
+<use xlink:href="#pepper-picks" x="-57" y="-103"/>
+<use xlink:href="#pepper-picks" x="-46" y="-103"/>
+<use xlink:href="#pepper-picks" x="-35" y="-103"/>
+<use xlink:href="#pepper-picks" x="-24" y="-103"/>
+<use xlink:href="#pepper-picks" x="-13" y="-103"/>
+<use xlink:href="#pepper-picks" x="-2" y="-103"/>
+<use xlink:href="#pepper-picks" x="9" y="-103"/>
+<use xlink:href="#pepper-picks" x="20" y="-103"/>
+<use xlink:href="#pepper-picks" x="31" y="-103"/>
+<use xlink:href="#pepper-picks" x="42" y="-103"/>
+<use xlink:href="#pepper-picks" x="53" y="-103"/>
+<use xlink:href="#pepper-picks" x="64" y="-103"/>
+<use xlink:href="#pepper-picks" x="75" y="-103"/>
+<use xlink:href="#pepper-picks" x="-92" y="-93"/>
+<use xlink:href="#pepper-picks" x="-81" y="-93"/>
+<use xlink:href="#pepper-picks" x="-70" y="-93"/>
+<use xlink:href="#pepper-picks" x="-59" y="-93"/>
+<use xlink:href="#pepper-picks" x="-48" y="-93"/>
+<use xlink:href="#pepper-picks" x="-37" y="-93"/>
+<use xlink:href="#pepper-picks" x="-26" y="-93"/>
+<use xlink:href="#pepper-picks" x="-15" y="-93"/>
+<use xlink:href="#pepper-picks" x="-4" y="-93"/>
+<use xlink:href="#pepper-picks" x="7" y="-93"/>
+<use xlink:href="#pepper-picks" x="18" y="-93"/>
+<use xlink:href="#pepper-picks" x="29" y="-93"/>
+<use xlink:href="#pepper-picks" x="40" y="-93"/>
+<use xlink:href="#pepper-picks" x="51" y="-93"/>
+<use xlink:href="#pepper-picks" x="62" y="-93"/>
+<use xlink:href="#pepper-picks" x="73" y="-93"/>
+<use xlink:href="#pepper-picks" x="-90" y="-83"/>
+<use xlink:href="#pepper-picks" x="-79" y="-83"/>
+<use xlink:href="#pepper-picks" x="-68" y="-83"/>
+<use xlink:href="#pepper-picks" x="-57" y="-83"/>
+<use xlink:href="#pepper-picks" x="-46" y="-83"/>
+<use xlink:href="#pepper-picks" x="-35" y="-83"/>
+<use xlink:href="#pepper-picks" x="-24" y="-83"/>
+<use xlink:href="#pepper-picks" x="-13" y="-83"/>
+<use xlink:href="#pepper-picks" x="-2" y="-83"/>
+<use xlink:href="#pepper-picks" x="9" y="-83"/>
+<use xlink:href="#pepper-picks" x="20" y="-83"/>
+<use xlink:href="#pepper-picks" x="31" y="-83"/>
+<use xlink:href="#pepper-picks" x="42" y="-83"/>
+<use xlink:href="#pepper-picks" x="53" y="-83"/>
+<use xlink:href="#pepper-picks" x="64" y="-83"/>
+<use xlink:href="#pepper-picks" x="75" y="-83"/>
+<use xlink:href="#pepper-picks" x="86" y="-83"/>
+<use xlink:href="#pepper-picks" x="-103" y="-73"/>
+<use xlink:href="#pepper-picks" x="-92" y="-73"/>
+<use xlink:href="#pepper-picks" x="-81" y="-73"/>
+<use xlink:href="#pepper-picks" x="-70" y="-73"/>
+<use xlink:href="#pepper-picks" x="-59" y="-73"/>
+<use xlink:href="#pepper-picks" x="-48" y="-73"/>
+<use xlink:href="#pepper-picks" x="-37" y="-73"/>
+<use xlink:href="#pepper-picks" x="-26" y="-73"/>
+<use xlink:href="#pepper-picks" x="-15" y="-73"/>
+<use xlink:href="#pepper-picks" x="-4" y="-73"/>
+<use xlink:href="#pepper-picks" x="7" y="-73"/>
+<use xlink:href="#pepper-picks" x="18" y="-73"/>
+<use xlink:href="#pepper-picks" x="29" y="-73"/>
+<use xlink:href="#pepper-picks" x="40" y="-73"/>
+<use xlink:href="#pepper-picks" x="51" y="-73"/>
+<use xlink:href="#pepper-picks" x="62" y="-73"/>
+<use xlink:href="#pepper-picks" x="73" y="-73"/>
+<use xlink:href="#pepper-picks" x="84" y="-73"/>
+<use xlink:href="#pepper-picks" x="-101" y="-63"/>
+<use xlink:href="#pepper-picks" x="-90" y="-63"/>
+<use xlink:href="#pepper-picks" x="-79" y="-63"/>
+<use xlink:href="#pepper-picks" x="-68" y="-63"/>
+<use xlink:href="#pepper-picks" x="-57" y="-63"/>
+<use xlink:href="#pepper-picks" x="-46" y="-63"/>
+<use xlink:href="#pepper-picks" x="-35" y="-63"/>
+<use xlink:href="#pepper-picks" x="-24" y="-63"/>
+<use xlink:href="#pepper-picks" x="-13" y="-63"/>
+<use xlink:href="#pepper-picks" x="-2" y="-63"/>
+<use xlink:href="#pepper-picks" x="9" y="-63"/>
+<use xlink:href="#pepper-picks" x="20" y="-63"/>
+<use xlink:href="#pepper-picks" x="31" y="-63"/>
+<use xlink:href="#pepper-picks" x="42" y="-63"/>
+<use xlink:href="#pepper-picks" x="53" y="-63"/>
+<use xlink:href="#pepper-picks" x="64" y="-63"/>
+<use xlink:href="#pepper-picks" x="75" y="-63"/>
+<use xlink:href="#pepper-picks" x="86" y="-63"/>
+<use xlink:href="#pepper-picks" x="97" y="-63"/>
+<use xlink:href="#pepper-picks" x="-114" y="-53"/>
+<use xlink:href="#pepper-picks" x="-103" y="-53"/>
+<use xlink:href="#pepper-picks" x="-92" y="-53"/>
+<use xlink:href="#pepper-picks" x="-81" y="-53"/>
+<use xlink:href="#pepper-picks" x="-70" y="-53"/>
+<use xlink:href="#pepper-picks" x="-59" y="-53"/>
+<use xlink:href="#pepper-picks" x="-48" y="-53"/>
+<use xlink:href="#pepper-picks" x="-37" y="-53"/>
+<use xlink:href="#pepper-picks" x="-26" y="-53"/>
+<use xlink:href="#pepper-picks" x="-15" y="-53"/>
+<use xlink:href="#pepper-picks" x="-4" y="-53"/>
+<use xlink:href="#pepper-picks" x="7" y="-53"/>
+<use xlink:href="#pepper-picks" x="18" y="-53"/>
+<use xlink:href="#pepper-picks" x="29" y="-53"/>
+<use xlink:href="#pepper-picks" x="40" y="-53"/>
+<use xlink:href="#pepper-picks" x="51" y="-53"/>
+<use xlink:href="#pepper-picks" x="62" y="-53"/>
+<use xlink:href="#pepper-picks" x="73" y="-53"/>
+<use xlink:href="#pepper-picks" x="84" y="-53"/>
+<use xlink:href="#pepper-picks" x="95" y="-53"/>
+<use xlink:href="#pepper-picks" x="-112" y="-43"/>
+<use xlink:href="#pepper-picks" x="-101" y="-43"/>
+<use xlink:href="#pepper-picks" x="-90" y="-43"/>
+<use xlink:href="#pepper-picks" x="-79" y="-43"/>
+<use xlink:href="#pepper-picks" x="-68" y="-43"/>
+<use xlink:href="#pepper-picks" x="-57" y="-43"/>
+<use xlink:href="#pepper-picks" x="-46" y="-43"/>
+<use xlink:href="#pepper-picks" x="-35" y="-43"/>
+<use xlink:href="#pepper-picks" x="-24" y="-43"/>
+<use xlink:href="#pepper-picks" x="-13" y="-43"/>
+<use xlink:href="#pepper-picks" x="-2" y="-43"/>
+<use xlink:href="#pepper-picks" x="9" y="-43"/>
+<use xlink:href="#pepper-picks" x="20" y="-43"/>
+<use xlink:href="#pepper-picks" x="31" y="-43"/>
+<use xlink:href="#pepper-picks" x="42" y="-43"/>
+<use xlink:href="#pepper-picks" x="53" y="-43"/>
+<use xlink:href="#pepper-picks" x="64" y="-43"/>
+<use xlink:href="#pepper-picks" x="75" y="-43"/>
+<use xlink:href="#pepper-picks" x="86" y="-43"/>
+<use xlink:href="#pepper-picks" x="97" y="-43"/>
+<use xlink:href="#pepper-picks" x="108" y="-43"/>
+<use xlink:href="#pepper-picks" x="-125" y="-33"/>
+<use xlink:href="#pepper-picks" x="-114" y="-33"/>
+<use xlink:href="#pepper-picks" x="-103" y="-33"/>
+<use xlink:href="#pepper-picks" x="-92" y="-33"/>
+<use xlink:href="#pepper-picks" x="-81" y="-33"/>
+<use xlink:href="#pepper-picks" x="-70" y="-33"/>
+<use xlink:href="#pepper-picks" x="-59" y="-33"/>
+<use xlink:href="#pepper-picks" x="-48" y="-33"/>
+<use xlink:href="#pepper-picks" x="-37" y="-33"/>
+<use xlink:href="#pepper-picks" x="-26" y="-33"/>
+<use xlink:href="#pepper-picks" x="-15" y="-33"/>
+<use xlink:href="#pepper-picks" x="-4" y="-33"/>
+<use xlink:href="#pepper-picks" x="7" y="-33"/>
+<use xlink:href="#pepper-picks" x="18" y="-33"/>
+<use xlink:href="#pepper-picks" x="29" y="-33"/>
+<use xlink:href="#pepper-picks" x="40" y="-33"/>
+<use xlink:href="#pepper-picks" x="51" y="-33"/>
+<use xlink:href="#pepper-picks" x="62" y="-33"/>
+<use xlink:href="#pepper-picks" x="73" y="-33"/>
+<use xlink:href="#pepper-picks" x="84" y="-33"/>
+<use xlink:href="#pepper-picks" x="95" y="-33"/>
+<use xlink:href="#pepper-picks" x="106" y="-33"/>
+<use xlink:href="#pepper-picks" x="117" y="-33"/>
+<use xlink:href="#pepper-picks" x="-123" y="-23"/>
+<use xlink:href="#pepper-picks" x="-112" y="-23"/>
+<use xlink:href="#pepper-picks" x="-101" y="-23"/>
+<use xlink:href="#pepper-picks" x="-90" y="-23"/>
+<use xlink:href="#pepper-picks" x="-79" y="-23"/>
+<use xlink:href="#pepper-picks" x="-68" y="-23"/>
+<use xlink:href="#pepper-picks" x="-57" y="-23"/>
+<use xlink:href="#pepper-picks" x="-46" y="-23"/>
+<use xlink:href="#pepper-picks" x="-35" y="-23"/>
+<use xlink:href="#pepper-picks" x="-24" y="-23"/>
+<use xlink:href="#pepper-picks" x="-13" y="-23"/>
+<use xlink:href="#pepper-picks" x="-2" y="-23"/>
+<use xlink:href="#pepper-picks" x="9" y="-23"/>
+<use xlink:href="#pepper-picks" x="20" y="-23"/>
+<use xlink:href="#pepper-picks" x="31" y="-23"/>
+<use xlink:href="#pepper-picks" x="42" y="-23"/>
+<use xlink:href="#pepper-picks" x="53" y="-23"/>
+<use xlink:href="#pepper-picks" x="64" y="-23"/>
+<use xlink:href="#pepper-picks" x="75" y="-23"/>
+<use xlink:href="#pepper-picks" x="86" y="-23"/>
+<use xlink:href="#pepper-picks" x="97" y="-23"/>
+<use xlink:href="#pepper-picks" x="108" y="-23"/>
+<use xlink:href="#pepper-picks" x="119" y="-23"/>
+<use xlink:href="#pepper-picks" x="-136" y="-13"/>
+<use xlink:href="#pepper-picks" x="-125" y="-13"/>
+<use xlink:href="#pepper-picks" x="-114" y="-13"/>
+<use xlink:href="#pepper-picks" x="-103" y="-13"/>
+<use xlink:href="#pepper-picks" x="-92" y="-13"/>
+<use xlink:href="#pepper-picks" x="-81" y="-13"/>
+<use xlink:href="#pepper-picks" x="-70" y="-13"/>
+<use xlink:href="#pepper-picks" x="-59" y="-13"/>
+<use xlink:href="#pepper-picks" x="-48" y="-13"/>
+<use xlink:href="#pepper-picks" x="-37" y="-13"/>
+<use xlink:href="#pepper-picks" x="-26" y="-13"/>
+<use xlink:href="#pepper-picks" x="-15" y="-13"/>
+<use xlink:href="#pepper-picks" x="-4" y="-13"/>
+<use xlink:href="#pepper-picks" x="7" y="-13"/>
+<use xlink:href="#pepper-picks" x="18" y="-13"/>
+<use xlink:href="#pepper-picks" x="29" y="-13"/>
+<use xlink:href="#pepper-picks" x="40" y="-13"/>
+<use xlink:href="#pepper-picks" x="51" y="-13"/>
+<use xlink:href="#pepper-picks" x="62" y="-13"/>
+<use xlink:href="#pepper-picks" x="73" y="-13"/>
+<use xlink:href="#pepper-picks" x="84" y="-13"/>
+<use xlink:href="#pepper-picks" x="95" y="-13"/>
+<use xlink:href="#pepper-picks" x="106" y="-13"/>
+<use xlink:href="#pepper-picks" x="117" y="-13"/>
+<use xlink:href="#pepper-picks" x="128" y="-13"/>
+<use xlink:href="#pepper-picks" x="-134" y="-3"/>
+<use xlink:href="#pepper-picks" x="-123" y="-3"/>
+<use xlink:href="#pepper-picks" x="-112" y="-3"/>
+<use xlink:href="#pepper-picks" x="-101" y="-3"/>
+<use xlink:href="#pepper-picks" x="-90" y="-3"/>
+<use xlink:href="#pepper-picks" x="-79" y="-3"/>
+<use xlink:href="#pepper-picks" x="-68" y="-3"/>
+<use xlink:href="#pepper-picks" x="-57" y="-3"/>
+<use xlink:href="#pepper-picks" x="-46" y="-3"/>
+<use xlink:href="#pepper-picks" x="-35" y="-3"/>
+<use xlink:href="#pepper-picks" x="-24" y="-3"/>
+<use xlink:href="#pepper-picks" x="-13" y="-3"/>
+<use xlink:href="#pepper-picks" x="-2" y="-3"/>
+<use xlink:href="#pepper-picks" x="9" y="-3"/>
+<use xlink:href="#pepper-picks" x="20" y="-3"/>
+<use xlink:href="#pepper-picks" x="31" y="-3"/>
+<use xlink:href="#pepper-picks" x="42" y="-3"/>
+<use xlink:href="#pepper-picks" x="53" y="-3"/>
+<use xlink:href="#pepper-picks" x="64" y="-3"/>
+<use xlink:href="#pepper-picks" x="75" y="-3"/>
+<use xlink:href="#pepper-picks" x="86" y="-3"/>
+<use xlink:href="#pepper-picks" x="97" y="-3"/>
+<use xlink:href="#pepper-picks" x="108" y="-3"/>
+<use xlink:href="#pepper-picks" x="119" y="-3"/>
+<use xlink:href="#pepper-picks" x="130" y="-3"/>
+<use xlink:href="#pepper-picks" x="-136" y="7"/>
+<use xlink:href="#pepper-picks" x="-125" y="7"/>
+<use xlink:href="#pepper-picks" x="-114" y="7"/>
+<use xlink:href="#pepper-picks" x="-103" y="7"/>
+<use xlink:href="#pepper-picks" x="-92" y="7"/>
+<use xlink:href="#pepper-picks" x="-81" y="7"/>
+<use xlink:href="#pepper-picks" x="-70" y="7"/>
+<use xlink:href="#pepper-picks" x="-59" y="7"/>
+<use xlink:href="#pepper-picks" x="-48" y="7"/>
+<use xlink:href="#pepper-picks" x="-37" y="7"/>
+<use xlink:href="#pepper-picks" x="-26" y="7"/>
+<use xlink:href="#pepper-picks" x="-15" y="7"/>
+<use xlink:href="#pepper-picks" x="-4" y="7"/>
+<use xlink:href="#pepper-picks" x="7" y="7"/>
+<use xlink:href="#pepper-picks" x="18" y="7"/>
+<use xlink:href="#pepper-picks" x="29" y="7"/>
+<use xlink:href="#pepper-picks" x="40" y="7"/>
+<use xlink:href="#pepper-picks" x="51" y="7"/>
+<use xlink:href="#pepper-picks" x="62" y="7"/>
+<use xlink:href="#pepper-picks" x="73" y="7"/>
+<use xlink:href="#pepper-picks" x="84" y="7"/>
+<use xlink:href="#pepper-picks" x="95" y="7"/>
+<use xlink:href="#pepper-picks" x="106" y="7"/>
+<use xlink:href="#pepper-picks" x="117" y="7"/>
+<use xlink:href="#pepper-picks" x="-123" y="17"/>
+<use xlink:href="#pepper-picks" x="-112" y="17"/>
+<use xlink:href="#pepper-picks" x="-101" y="17"/>
+<use xlink:href="#pepper-picks" x="-90" y="17"/>
+<use xlink:href="#pepper-picks" x="-79" y="17"/>
+<use xlink:href="#pepper-picks" x="-68" y="17"/>
+<use xlink:href="#pepper-picks" x="-57" y="17"/>
+<use xlink:href="#pepper-picks" x="-46" y="17"/>
+<use xlink:href="#pepper-picks" x="-35" y="17"/>
+<use xlink:href="#pepper-picks" x="-24" y="17"/>
+<use xlink:href="#pepper-picks" x="-13" y="17"/>
+<use xlink:href="#pepper-picks" x="-2" y="17"/>
+<use xlink:href="#pepper-picks" x="9" y="17"/>
+<use xlink:href="#pepper-picks" x="20" y="17"/>
+<use xlink:href="#pepper-picks" x="31" y="17"/>
+<use xlink:href="#pepper-picks" x="42" y="17"/>
+<use xlink:href="#pepper-picks" x="53" y="17"/>
+<use xlink:href="#pepper-picks" x="64" y="17"/>
+<use xlink:href="#pepper-picks" x="75" y="17"/>
+<use xlink:href="#pepper-picks" x="86" y="17"/>
+<use xlink:href="#pepper-picks" x="97" y="17"/>
+<use xlink:href="#pepper-picks" x="108" y="17"/>
+<use xlink:href="#pepper-picks" x="119" y="17"/>
+<use xlink:href="#pepper-picks" x="-125" y="27"/>
+<use xlink:href="#pepper-picks" x="-114" y="27"/>
+<use xlink:href="#pepper-picks" x="-103" y="27"/>
+<use xlink:href="#pepper-picks" x="-92" y="27"/>
+<use xlink:href="#pepper-picks" x="-81" y="27"/>
+<use xlink:href="#pepper-picks" x="-70" y="27"/>
+<use xlink:href="#pepper-picks" x="-59" y="27"/>
+<use xlink:href="#pepper-picks" x="-48" y="27"/>
+<use xlink:href="#pepper-picks" x="-37" y="27"/>
+<use xlink:href="#pepper-picks" x="-26" y="27"/>
+<use xlink:href="#pepper-picks" x="-15" y="27"/>
+<use xlink:href="#pepper-picks" x="-4" y="27"/>
+<use xlink:href="#pepper-picks" x="7" y="27"/>
+<use xlink:href="#pepper-picks" x="18" y="27"/>
+<use xlink:href="#pepper-picks" x="29" y="27"/>
+<use xlink:href="#pepper-picks" x="40" y="27"/>
+<use xlink:href="#pepper-picks" x="51" y="27"/>
+<use xlink:href="#pepper-picks" x="62" y="27"/>
+<use xlink:href="#pepper-picks" x="73" y="27"/>
+<use xlink:href="#pepper-picks" x="84" y="27"/>
+<use xlink:href="#pepper-picks" x="95" y="27"/>
+<use xlink:href="#pepper-picks" x="106" y="27"/>
+<use xlink:href="#pepper-picks" x="-112" y="37"/>
+<use xlink:href="#pepper-picks" x="-101" y="37"/>
+<use xlink:href="#pepper-picks" x="-90" y="37"/>
+<use xlink:href="#pepper-picks" x="-79" y="37"/>
+<use xlink:href="#pepper-picks" x="-68" y="37"/>
+<use xlink:href="#pepper-picks" x="-57" y="37"/>
+<use xlink:href="#pepper-picks" x="-46" y="37"/>
+<use xlink:href="#pepper-picks" x="-35" y="37"/>
+<use xlink:href="#pepper-picks" x="-24" y="37"/>
+<use xlink:href="#pepper-picks" x="-13" y="37"/>
+<use xlink:href="#pepper-picks" x="-2" y="37"/>
+<use xlink:href="#pepper-picks" x="9" y="37"/>
+<use xlink:href="#pepper-picks" x="20" y="37"/>
+<use xlink:href="#pepper-picks" x="31" y="37"/>
+<use xlink:href="#pepper-picks" x="42" y="37"/>
+<use xlink:href="#pepper-picks" x="53" y="37"/>
+<use xlink:href="#pepper-picks" x="64" y="37"/>
+<use xlink:href="#pepper-picks" x="75" y="37"/>
+<use xlink:href="#pepper-picks" x="86" y="37"/>
+<use xlink:href="#pepper-picks" x="97" y="37"/>
+<use xlink:href="#pepper-picks" x="108" y="37"/>
+<use xlink:href="#pepper-picks" x="-114" y="47"/>
+<use xlink:href="#pepper-picks" x="-103" y="47"/>
+<use xlink:href="#pepper-picks" x="-92" y="47"/>
+<use xlink:href="#pepper-picks" x="-81" y="47"/>
+<use xlink:href="#pepper-picks" x="-70" y="47"/>
+<use xlink:href="#pepper-picks" x="-59" y="47"/>
+<use xlink:href="#pepper-picks" x="-48" y="47"/>
+<use xlink:href="#pepper-picks" x="-37" y="47"/>
+<use xlink:href="#pepper-picks" x="-26" y="47"/>
+<use xlink:href="#pepper-picks" x="-15" y="47"/>
+<use xlink:href="#pepper-picks" x="-4" y="47"/>
+<use xlink:href="#pepper-picks" x="7" y="47"/>
+<use xlink:href="#pepper-picks" x="18" y="47"/>
+<use xlink:href="#pepper-picks" x="29" y="47"/>
+<use xlink:href="#pepper-picks" x="40" y="47"/>
+<use xlink:href="#pepper-picks" x="51" y="47"/>
+<use xlink:href="#pepper-picks" x="62" y="47"/>
+<use xlink:href="#pepper-picks" x="73" y="47"/>
+<use xlink:href="#pepper-picks" x="84" y="47"/>
+<use xlink:href="#pepper-picks" x="95" y="47"/>
+<use xlink:href="#pepper-picks" x="-101" y="57"/>
+<use xlink:href="#pepper-picks" x="-90" y="57"/>
+<use xlink:href="#pepper-picks" x="-79" y="57"/>
+<use xlink:href="#pepper-picks" x="-68" y="57"/>
+<use xlink:href="#pepper-picks" x="-57" y="57"/>
+<use xlink:href="#pepper-picks" x="-46" y="57"/>
+<use xlink:href="#pepper-picks" x="-35" y="57"/>
+<use xlink:href="#pepper-picks" x="-24" y="57"/>
+<use xlink:href="#pepper-picks" x="-13" y="57"/>
+<use xlink:href="#pepper-picks" x="-2" y="57"/>
+<use xlink:href="#pepper-picks" x="9" y="57"/>
+<use xlink:href="#pepper-picks" x="20" y="57"/>
+<use xlink:href="#pepper-picks" x="31" y="57"/>
+<use xlink:href="#pepper-picks" x="42" y="57"/>
+<use xlink:href="#pepper-picks" x="53" y="57"/>
+<use xlink:href="#pepper-picks" x="64" y="57"/>
+<use xlink:href="#pepper-picks" x="75" y="57"/>
+<use xlink:href="#pepper-picks" x="86" y="57"/>
+<use xlink:href="#pepper-picks" x="97" y="57"/>
+<use xlink:href="#pepper-picks" x="-92" y="67"/>
+<use xlink:href="#pepper-picks" x="-81" y="67"/>
+<use xlink:href="#pepper-picks" x="-70" y="67"/>
+<use xlink:href="#pepper-picks" x="-59" y="67"/>
+<use xlink:href="#pepper-picks" x="-48" y="67"/>
+<use xlink:href="#pepper-picks" x="-37" y="67"/>
+<use xlink:href="#pepper-picks" x="-26" y="67"/>
+<use xlink:href="#pepper-picks" x="-15" y="67"/>
+<use xlink:href="#pepper-picks" x="-4" y="67"/>
+<use xlink:href="#pepper-picks" x="7" y="67"/>
+<use xlink:href="#pepper-picks" x="18" y="67"/>
+<use xlink:href="#pepper-picks" x="29" y="67"/>
+<use xlink:href="#pepper-picks" x="40" y="67"/>
+<use xlink:href="#pepper-picks" x="51" y="67"/>
+<use xlink:href="#pepper-picks" x="62" y="67"/>
+<use xlink:href="#pepper-picks" x="73" y="67"/>
+<use xlink:href="#pepper-picks" x="84" y="67"/>
+<use xlink:href="#pepper-picks" x="-90" y="77"/>
+<use xlink:href="#pepper-picks" x="-79" y="77"/>
+<use xlink:href="#pepper-picks" x="-68" y="77"/>
+<use xlink:href="#pepper-picks" x="-57" y="77"/>
+<use xlink:href="#pepper-picks" x="-46" y="77"/>
+<use xlink:href="#pepper-picks" x="-35" y="77"/>
+<use xlink:href="#pepper-picks" x="-24" y="77"/>
+<use xlink:href="#pepper-picks" x="-13" y="77"/>
+<use xlink:href="#pepper-picks" x="-2" y="77"/>
+<use xlink:href="#pepper-picks" x="9" y="77"/>
+<use xlink:href="#pepper-picks" x="20" y="77"/>
+<use xlink:href="#pepper-picks" x="31" y="77"/>
+<use xlink:href="#pepper-picks" x="42" y="77"/>
+<use xlink:href="#pepper-picks" x="53" y="77"/>
+<use xlink:href="#pepper-picks" x="64" y="77"/>
+<use xlink:href="#pepper-picks" x="75" y="77"/>
+<use xlink:href="#pepper-picks" x="86" y="77"/>
+<use xlink:href="#pepper-picks" x="-81" y="87"/>
+<use xlink:href="#pepper-picks" x="-70" y="87"/>
+<use xlink:href="#pepper-picks" x="-59" y="87"/>
+<use xlink:href="#pepper-picks" x="-48" y="87"/>
+<use xlink:href="#pepper-picks" x="-37" y="87"/>
+<use xlink:href="#pepper-picks" x="-26" y="87"/>
+<use xlink:href="#pepper-picks" x="-15" y="87"/>
+<use xlink:href="#pepper-picks" x="-4" y="87"/>
+<use xlink:href="#pepper-picks" x="7" y="87"/>
+<use xlink:href="#pepper-picks" x="18" y="87"/>
+<use xlink:href="#pepper-picks" x="29" y="87"/>
+<use xlink:href="#pepper-picks" x="40" y="87"/>
+<use xlink:href="#pepper-picks" x="51" y="87"/>
+<use xlink:href="#pepper-picks" x="62" y="87"/>
+<use xlink:href="#pepper-picks" x="73" y="87"/>
+<use xlink:href="#pepper-picks" x="-79" y="97"/>
+<use xlink:href="#pepper-picks" x="-68" y="97"/>
+<use xlink:href="#pepper-picks" x="-57" y="97"/>
+<use xlink:href="#pepper-picks" x="-46" y="97"/>
+<use xlink:href="#pepper-picks" x="-35" y="97"/>
+<use xlink:href="#pepper-picks" x="-24" y="97"/>
+<use xlink:href="#pepper-picks" x="-13" y="97"/>
+<use xlink:href="#pepper-picks" x="-2" y="97"/>
+<use xlink:href="#pepper-picks" x="9" y="97"/>
+<use xlink:href="#pepper-picks" x="20" y="97"/>
+<use xlink:href="#pepper-picks" x="31" y="97"/>
+<use xlink:href="#pepper-picks" x="42" y="97"/>
+<use xlink:href="#pepper-picks" x="53" y="97"/>
+<use xlink:href="#pepper-picks" x="64" y="97"/>
+<use xlink:href="#pepper-picks" x="75" y="97"/>
+<use xlink:href="#pepper-picks" x="-70" y="107"/>
+<use xlink:href="#pepper-picks" x="-59" y="107"/>
+<use xlink:href="#pepper-picks" x="-48" y="107"/>
+<use xlink:href="#pepper-picks" x="-37" y="107"/>
+<use xlink:href="#pepper-picks" x="-26" y="107"/>
+<use xlink:href="#pepper-picks" x="-15" y="107"/>
+<use xlink:href="#pepper-picks" x="-4" y="107"/>
+<use xlink:href="#pepper-picks" x="7" y="107"/>
+<use xlink:href="#pepper-picks" x="18" y="107"/>
+<use xlink:href="#pepper-picks" x="29" y="107"/>
+<use xlink:href="#pepper-picks" x="40" y="107"/>
+<use xlink:href="#pepper-picks" x="51" y="107"/>
+<use xlink:href="#pepper-picks" x="62" y="107"/>
+<use xlink:href="#pepper-picks" x="-68" y="117"/>
+<use xlink:href="#pepper-picks" x="-57" y="117"/>
+<use xlink:href="#pepper-picks" x="-46" y="117"/>
+<use xlink:href="#pepper-picks" x="-35" y="117"/>
+<use xlink:href="#pepper-picks" x="-24" y="117"/>
+<use xlink:href="#pepper-picks" x="-13" y="117"/>
+<use xlink:href="#pepper-picks" x="-2" y="117"/>
+<use xlink:href="#pepper-picks" x="9" y="117"/>
+<use xlink:href="#pepper-picks" x="20" y="117"/>
+<use xlink:href="#pepper-picks" x="31" y="117"/>
+<use xlink:href="#pepper-picks" x="42" y="117"/>
+<use xlink:href="#pepper-picks" x="53" y="117"/>
+<use xlink:href="#pepper-picks" x="64" y="117"/>
+</g>
+</g>
+<g id="seed-picks">
+<path fill="#bda98e" d="M0 3h1.5V1h2v2H2.6v1.5H0z M5.5 8h2V6h2v2H8.3v2H5.5z"/>
+<path fill="#645b59" d="M4 4h2v2H4z M10 0h1.5v2H10z"/>
+</g>
+<g id="mixed-bands" clip-path="url(#panel)">
+<rect x="-81" y="-70" width="162" height="140" fill="#352e36"/>
+<rect x="-81" y="-69" width="162" height="2" fill="#405859"/>
+<rect x="-81" y="-67" width="162" height="4" fill="#bda98e"/>
+<rect x="-81" y="-59" width="162" height="4" fill="#a58046"/>
+<rect x="-81" y="-55" width="162" height="6" fill="#bda98e"/>
+<rect x="-81" y="-47" width="162" height="5" fill="#405859"/>
+<rect x="-81" y="-37" width="162" height="8" fill="#bda98e"/>
+<rect x="-81" y="-25" width="162" height="4" fill="#bda98e"/>
+<rect x="-81" y="-17" width="162" height="5" fill="#a58046"/>
+<rect x="-81" y="-11" width="162" height="4" fill="#bda98e"/>
+<rect x="-81" y="-5" width="162" height="3" fill="#405859"/>
+<rect x="-81" y="-1" width="162" height="5" fill="#a58046"/>
+<rect x="-81" y="7" width="162" height="5" fill="#405859"/>
+<rect x="-81" y="15" width="162" height="5" fill="#bda98e"/>
+<rect x="-81" y="21" width="162" height="2" fill="#bda98e"/>
+<rect x="-81" y="23" width="162" height="5" fill="#405859"/>
+<rect x="-81" y="28" width="162" height="4" fill="#a58046"/>
+<rect x="-81" y="35" width="162" height="4" fill="#bda98e"/>
+<rect x="-81" y="39" width="162" height="6" fill="#405859"/>
+<rect x="-81" y="47" width="162" height="3" fill="#405859"/>
+<rect x="-81" y="53" width="162" height="4" fill="#bda98e"/>
+<rect x="-81" y="58" width="162" height="4" fill="#405859"/>
+<rect x="-81" y="63" width="162" height="5" fill="#bda98e"/>
+</g>
+<g id="rose-bands" clip-path="url(#panel)">
+<rect x="-81" y="-70" width="162" height="140" fill="#88695f"/>
+<rect x="-81" y="-71" width="162" height="2" fill="#bda98e"/>
+<rect x="-81" y="-65" width="162" height="2" fill="#645b59"/>
+<rect x="-81" y="-63" width="162" height="3" fill="#bda98e"/>
+<rect x="-81" y="-59" width="162" height="2" fill="#88695f"/>
+<rect x="-81" y="-57" width="162" height="4" fill="#405859"/>
+<rect x="-81" y="-53" width="162" height="2" fill="#bda98e"/>
+<rect x="-81" y="-47" width="162" height="2" fill="#645b59"/>
+<rect x="-81" y="-45" width="162" height="3" fill="#bda98e"/>
+<rect x="-81" y="-41" width="162" height="2" fill="#88695f"/>
+<rect x="-81" y="-39" width="162" height="4" fill="#405859"/>
+<rect x="-81" y="-35" width="162" height="2" fill="#bda98e"/>
+<rect x="-81" y="-29" width="162" height="2" fill="#645b59"/>
+<rect x="-81" y="-27" width="162" height="3" fill="#bda98e"/>
+<rect x="-81" y="-23" width="162" height="2" fill="#88695f"/>
+<rect x="-81" y="-21" width="162" height="4" fill="#405859"/>
+<rect x="-81" y="-17" width="162" height="2" fill="#bda98e"/>
+<rect x="-81" y="-11" width="162" height="2" fill="#645b59"/>
+<rect x="-81" y="-9" width="162" height="3" fill="#bda98e"/>
+<rect x="-81" y="-5" width="162" height="2" fill="#88695f"/>
+<rect x="-81" y="-3" width="162" height="4" fill="#405859"/>
+<rect x="-81" y="1" width="162" height="2" fill="#bda98e"/>
+<rect x="-81" y="7" width="162" height="2" fill="#645b59"/>
+<rect x="-81" y="9" width="162" height="3" fill="#bda98e"/>
+<rect x="-81" y="13" width="162" height="2" fill="#88695f"/>
+<rect x="-81" y="15" width="162" height="4" fill="#405859"/>
+<rect x="-81" y="19" width="162" height="2" fill="#bda98e"/>
+<rect x="-81" y="25" width="162" height="2" fill="#645b59"/>
+<rect x="-81" y="27" width="162" height="3" fill="#bda98e"/>
+<rect x="-81" y="31" width="162" height="2" fill="#88695f"/>
+<rect x="-81" y="33" width="162" height="4" fill="#405859"/>
+<rect x="-81" y="37" width="162" height="2" fill="#bda98e"/>
+<rect x="-81" y="43" width="162" height="2" fill="#645b59"/>
+<rect x="-81" y="45" width="162" height="3" fill="#bda98e"/>
+<rect x="-81" y="49" width="162" height="2" fill="#88695f"/>
+<rect x="-81" y="51" width="162" height="4" fill="#405859"/>
+<rect x="-81" y="55" width="162" height="2" fill="#bda98e"/>
+<rect x="-81" y="61" width="162" height="2" fill="#645b59"/>
+<rect x="-81" y="63" width="162" height="3" fill="#bda98e"/>
+<rect x="-81" y="67" width="162" height="2" fill="#88695f"/>
+<rect x="-81" y="69" width="162" height="4" fill="#405859"/>
+</g>
+<g id="warp-stripes" clip-path="url(#panel)">
+<rect x="-81" y="-70" width="162" height="140" fill="#352e36"/>
+<rect x="-80" y="-70" width="4.2" height="140" fill="#a58046"/>
+<rect x="-72.5" y="-70" width="4.8" height="140" fill="#bda98e"/>
+<rect x="-65" y="-70" width="4.2" height="140" fill="#a58046"/>
+<rect x="-57.5" y="-70" width="4.8" height="140" fill="#bda98e"/>
+<rect x="-57" y="-70" width="2.4" height="140" fill="#a58046"/>
+<rect x="-50" y="-70" width="4.2" height="140" fill="#a58046"/>
+<rect x="-42.5" y="-70" width="4.8" height="140" fill="#bda98e"/>
+<rect x="-35" y="-70" width="4.2" height="140" fill="#a58046"/>
+<rect x="-27.5" y="-70" width="4.8" height="140" fill="#bda98e"/>
+<rect x="-20" y="-70" width="4.2" height="140" fill="#a58046"/>
+<rect x="-12.5" y="-70" width="4.8" height="140" fill="#bda98e"/>
+<rect x="-5" y="-70" width="4.2" height="140" fill="#a58046"/>
+<rect x="2.5" y="-70" width="4.8" height="140" fill="#bda98e"/>
+<rect x="3" y="-70" width="2.4" height="140" fill="#a58046"/>
+<rect x="10" y="-70" width="4.2" height="140" fill="#a58046"/>
+<rect x="17.5" y="-70" width="4.8" height="140" fill="#bda98e"/>
+<rect x="25" y="-70" width="4.2" height="140" fill="#a58046"/>
+<rect x="32.5" y="-70" width="4.8" height="140" fill="#bda98e"/>
+<rect x="40" y="-70" width="4.2" height="140" fill="#a58046"/>
+<rect x="47.5" y="-70" width="4.8" height="140" fill="#bda98e"/>
+<rect x="55" y="-70" width="4.2" height="140" fill="#a58046"/>
+<rect x="62.5" y="-70" width="4.8" height="140" fill="#bda98e"/>
+<rect x="63" y="-70" width="2.4" height="140" fill="#a58046"/>
+<rect x="70" y="-70" width="4.2" height="140" fill="#a58046"/>
+<rect x="77.5" y="-70" width="4.8" height="140" fill="#bda98e"/>
+</g>
+<g id="ochre" clip-path="url(#panel)">
+<rect x="-81" y="-70" width="162" height="140" fill="#a58046"/>
+</g>
+<g id="heather" clip-path="url(#panel)">
+<rect x="-81" y="-70" width="162" height="140" fill="#645b59"/>
+</g>
+<clipPath id="gold-lozenge-clip"><path d="M0 -24.2 L20.2 0 0 24.2 -20.2 0Z"/></clipPath><g id="gold-lozenge" clip-path="url(#gold-lozenge-clip)">
+<path fill="#a58046" d="M0 -24.2 L20.2 0 0 24.2 -20.2 0Z"/>
+<rect x="-13" y="-24.2" width="2.3" height="48.4" fill="#bda98e"/>
+<rect x="-5" y="-24.2" width="3.1" height="48.4" fill="#bda98e"/>
+<rect x="4" y="-24.2" width="2.4" height="48.4" fill="#bda98e"/>
+<rect x="12" y="-24.2" width="1.5" height="48.4" fill="#bda98e"/>
+</g>
+<clipPath id="split-lozenge-clip"><path d="M0 -17.8 L16.5 0 0 17.8 -16.5 0Z"/></clipPath><g id="split-lozenge" clip-path="url(#split-lozenge-clip)">
+<path fill="#405859" d="M0 -17.8 L16.5 0 0 17.8 -16.5 0Z"/>
+<rect x="-12" y="-17.8" width="2" height="35.6" fill="#352e36"/>
+<rect x="-2" y="-17.8" width="2" height="35.6" fill="#bda98e"/>
+<rect x="1" y="-17.8" width="3" height="35.6" fill="#352e36"/>
+<rect x="4" y="-17.8" width="7" height="35.6" fill="#bda98e"/>
+<rect x="13" y="-17.8" width="2" height="35.6" fill="#88695f"/>
+</g>
+<clipPath id="pin-lozenge-clip"><path d="M0 -10.2 L7.4 0 0 10.2 -7.4 0Z"/></clipPath><g id="pin-lozenge" clip-path="url(#pin-lozenge-clip)">
+<path fill="#352e36" d="M0 -10.2 L7.4 0 0 10.2 -7.4 0Z"/>
+<rect x="-6" y="-10.2" width="3" height="20.4" fill="#405859"/>
+<rect x="-1" y="-10.2" width="2" height="20.4" fill="#a58046"/>
+<rect x="4" y="-10.2" width="2" height="20.4" fill="#88695f"/>
+</g>
+<g id="plum-picks">
+<path fill="#88695f" d="M1 5h2V3h3v3H4v2H1z M7 0h2v2H7z M9 12h3v-2h2v3h-2v2H9z"/>
+<path fill="#645b59" d="M8 2h2v2H8z M3 12h1.5v2H3z"/>
+</g>
+<g id="diamonds" clip-path="url(#panel)">
+<rect x="-81" y="-70" width="162" height="140" fill="#352e36"/>
+<g transform="scale(0.8)">
+<use xlink:href="#plum-picks" x="-64" y="-93"/>
+<use xlink:href="#plum-picks" x="-48" y="-93"/>
+<use xlink:href="#plum-picks" x="-32" y="-93"/>
+<use xlink:href="#plum-picks" x="-16" y="-93"/>
+<use xlink:href="#plum-picks" x="0" y="-93"/>
+<use xlink:href="#plum-picks" x="16" y="-93"/>
+<use xlink:href="#plum-picks" x="32" y="-93"/>
+<use xlink:href="#plum-picks" x="48" y="-93"/>
+<use xlink:href="#plum-picks" x="-78" y="-77"/>
+<use xlink:href="#plum-picks" x="-62" y="-77"/>
+<use xlink:href="#plum-picks" x="-46" y="-77"/>
+<use xlink:href="#plum-picks" x="-30" y="-77"/>
+<use xlink:href="#plum-picks" x="-14" y="-77"/>
+<use xlink:href="#plum-picks" x="2" y="-77"/>
+<use xlink:href="#plum-picks" x="18" y="-77"/>
+<use xlink:href="#plum-picks" x="34" y="-77"/>
+<use xlink:href="#plum-picks" x="50" y="-77"/>
+<use xlink:href="#plum-picks" x="66" y="-77"/>
+<use xlink:href="#plum-picks" x="-80" y="-61"/>
+<use xlink:href="#plum-picks" x="-64" y="-61"/>
+<use xlink:href="#plum-picks" x="-48" y="-61"/>
+<use xlink:href="#plum-picks" x="-32" y="-61"/>
+<use xlink:href="#plum-picks" x="-16" y="-61"/>
+<use xlink:href="#plum-picks" x="0" y="-61"/>
+<use xlink:href="#plum-picks" x="16" y="-61"/>
+<use xlink:href="#plum-picks" x="32" y="-61"/>
+<use xlink:href="#plum-picks" x="48" y="-61"/>
+<use xlink:href="#plum-picks" x="64" y="-61"/>
+<use xlink:href="#plum-picks" x="-94" y="-45"/>
+<use xlink:href="#plum-picks" x="-78" y="-45"/>
+<use xlink:href="#plum-picks" x="-62" y="-45"/>
+<use xlink:href="#plum-picks" x="-46" y="-45"/>
+<use xlink:href="#plum-picks" x="-30" y="-45"/>
+<use xlink:href="#plum-picks" x="-14" y="-45"/>
+<use xlink:href="#plum-picks" x="2" y="-45"/>
+<use xlink:href="#plum-picks" x="18" y="-45"/>
+<use xlink:href="#plum-picks" x="34" y="-45"/>
+<use xlink:href="#plum-picks" x="50" y="-45"/>
+<use xlink:href="#plum-picks" x="66" y="-45"/>
+<use xlink:href="#plum-picks" x="82" y="-45"/>
+<use xlink:href="#plum-picks" x="-112" y="-29"/>
+<use xlink:href="#plum-picks" x="-96" y="-29"/>
+<use xlink:href="#plum-picks" x="-80" y="-29"/>
+<use xlink:href="#plum-picks" x="-64" y="-29"/>
+<use xlink:href="#plum-picks" x="-48" y="-29"/>
+<use xlink:href="#plum-picks" x="-32" y="-29"/>
+<use xlink:href="#plum-picks" x="-16" y="-29"/>
+<use xlink:href="#plum-picks" x="0" y="-29"/>
+<use xlink:href="#plum-picks" x="16" y="-29"/>
+<use xlink:href="#plum-picks" x="32" y="-29"/>
+<use xlink:href="#plum-picks" x="48" y="-29"/>
+<use xlink:href="#plum-picks" x="64" y="-29"/>
+<use xlink:href="#plum-picks" x="80" y="-29"/>
+<use xlink:href="#plum-picks" x="96" y="-29"/>
+<use xlink:href="#plum-picks" x="-110" y="-13"/>
+<use xlink:href="#plum-picks" x="-94" y="-13"/>
+<use xlink:href="#plum-picks" x="-78" y="-13"/>
+<use xlink:href="#plum-picks" x="-62" y="-13"/>
+<use xlink:href="#plum-picks" x="-46" y="-13"/>
+<use xlink:href="#plum-picks" x="-30" y="-13"/>
+<use xlink:href="#plum-picks" x="-14" y="-13"/>
+<use xlink:href="#plum-picks" x="2" y="-13"/>
+<use xlink:href="#plum-picks" x="18" y="-13"/>
+<use xlink:href="#plum-picks" x="34" y="-13"/>
+<use xlink:href="#plum-picks" x="50" y="-13"/>
+<use xlink:href="#plum-picks" x="66" y="-13"/>
+<use xlink:href="#plum-picks" x="82" y="-13"/>
+<use xlink:href="#plum-picks" x="98" y="-13"/>
+<use xlink:href="#plum-picks" x="-112" y="3"/>
+<use xlink:href="#plum-picks" x="-96" y="3"/>
+<use xlink:href="#plum-picks" x="-80" y="3"/>
+<use xlink:href="#plum-picks" x="-64" y="3"/>
+<use xlink:href="#plum-picks" x="-48" y="3"/>
+<use xlink:href="#plum-picks" x="-32" y="3"/>
+<use xlink:href="#plum-picks" x="-16" y="3"/>
+<use xlink:href="#plum-picks" x="0" y="3"/>
+<use xlink:href="#plum-picks" x="16" y="3"/>
+<use xlink:href="#plum-picks" x="32" y="3"/>
+<use xlink:href="#plum-picks" x="48" y="3"/>
+<use xlink:href="#plum-picks" x="64" y="3"/>
+<use xlink:href="#plum-picks" x="80" y="3"/>
+<use xlink:href="#plum-picks" x="96" y="3"/>
+<use xlink:href="#plum-picks" x="-94" y="19"/>
+<use xlink:href="#plum-picks" x="-78" y="19"/>
+<use xlink:href="#plum-picks" x="-62" y="19"/>
+<use xlink:href="#plum-picks" x="-46" y="19"/>
+<use xlink:href="#plum-picks" x="-30" y="19"/>
+<use xlink:href="#plum-picks" x="-14" y="19"/>
+<use xlink:href="#plum-picks" x="2" y="19"/>
+<use xlink:href="#plum-picks" x="18" y="19"/>
+<use xlink:href="#plum-picks" x="34" y="19"/>
+<use xlink:href="#plum-picks" x="50" y="19"/>
+<use xlink:href="#plum-picks" x="66" y="19"/>
+<use xlink:href="#plum-picks" x="82" y="19"/>
+<use xlink:href="#plum-picks" x="-96" y="35"/>
+<use xlink:href="#plum-picks" x="-80" y="35"/>
+<use xlink:href="#plum-picks" x="-64" y="35"/>
+<use xlink:href="#plum-picks" x="-48" y="35"/>
+<use xlink:href="#plum-picks" x="-32" y="35"/>
+<use xlink:href="#plum-picks" x="-16" y="35"/>
+<use xlink:href="#plum-picks" x="0" y="35"/>
+<use xlink:href="#plum-picks" x="16" y="35"/>
+<use xlink:href="#plum-picks" x="32" y="35"/>
+<use xlink:href="#plum-picks" x="48" y="35"/>
+<use xlink:href="#plum-picks" x="64" y="35"/>
+<use xlink:href="#plum-picks" x="80" y="35"/>
+<use xlink:href="#plum-picks" x="-78" y="51"/>
+<use xlink:href="#plum-picks" x="-62" y="51"/>
+<use xlink:href="#plum-picks" x="-46" y="51"/>
+<use xlink:href="#plum-picks" x="-30" y="51"/>
+<use xlink:href="#plum-picks" x="-14" y="51"/>
+<use xlink:href="#plum-picks" x="2" y="51"/>
+<use xlink:href="#plum-picks" x="18" y="51"/>
+<use xlink:href="#plum-picks" x="34" y="51"/>
+<use xlink:href="#plum-picks" x="50" y="51"/>
+<use xlink:href="#plum-picks" x="66" y="51"/>
+<use xlink:href="#plum-picks" x="-80" y="67"/>
+<use xlink:href="#plum-picks" x="-64" y="67"/>
+<use xlink:href="#plum-picks" x="-48" y="67"/>
+<use xlink:href="#plum-picks" x="-32" y="67"/>
+<use xlink:href="#plum-picks" x="-16" y="67"/>
+<use xlink:href="#plum-picks" x="0" y="67"/>
+<use xlink:href="#plum-picks" x="16" y="67"/>
+<use xlink:href="#plum-picks" x="32" y="67"/>
+<use xlink:href="#plum-picks" x="48" y="67"/>
+<use xlink:href="#plum-picks" x="64" y="67"/>
+<use xlink:href="#plum-picks" x="-62" y="83"/>
+<use xlink:href="#plum-picks" x="-46" y="83"/>
+<use xlink:href="#plum-picks" x="-30" y="83"/>
+<use xlink:href="#plum-picks" x="-14" y="83"/>
+<use xlink:href="#plum-picks" x="2" y="83"/>
+<use xlink:href="#plum-picks" x="18" y="83"/>
+<use xlink:href="#plum-picks" x="34" y="83"/>
+<use xlink:href="#plum-picks" x="50" y="83"/>
+<use xlink:href="#plum-picks" x="-64" y="99"/>
+<use xlink:href="#plum-picks" x="-48" y="99"/>
+<use xlink:href="#plum-picks" x="-32" y="99"/>
+<use xlink:href="#plum-picks" x="-16" y="99"/>
+<use xlink:href="#plum-picks" x="0" y="99"/>
+<use xlink:href="#plum-picks" x="16" y="99"/>
+<use xlink:href="#plum-picks" x="32" y="99"/>
+<use xlink:href="#plum-picks" x="48" y="99"/>
+</g>
+<use xlink:href="#gold-lozenge" x="-21" y="-46"/>
+<use xlink:href="#split-lozenge" x="17" y="-46"/>
+<use xlink:href="#pin-lozenge" x="44" y="-38"/>
+<use xlink:href="#gold-lozenge" x="-21" y="46"/>
+<use xlink:href="#split-lozenge" x="17" y="46"/>
+<use xlink:href="#pin-lozenge" x="44" y="38"/>
+<use xlink:href="#split-lozenge" x="-61" y="0"/>
+<use xlink:href="#split-lozenge" x="-22" y="0"/>
+<use xlink:href="#split-lozenge" x="62" y="0"/>
+<use xlink:href="#gold-lozenge" x="19" y="0"/>
+<use xlink:href="#pin-lozenge" x="-64" y="-49"/>
+<use xlink:href="#pin-lozenge" x="-64" y="49"/>
+</g>
+<g id="ring-check" clip-path="url(#panel)">
+<rect x="-81" y="-70" width="162" height="140" fill="#352e36"/>
+<g transform="scale(1)">
+<use xlink:href="#seed-picks" x="-54" y="-75"/>
+<use xlink:href="#seed-picks" x="-42" y="-75"/>
+<use xlink:href="#seed-picks" x="-30" y="-75"/>
+<use xlink:href="#seed-picks" x="-18" y="-75"/>
+<use xlink:href="#seed-picks" x="-6" y="-75"/>
+<use xlink:href="#seed-picks" x="6" y="-75"/>
+<use xlink:href="#seed-picks" x="18" y="-75"/>
+<use xlink:href="#seed-picks" x="30" y="-75"/>
+<use xlink:href="#seed-picks" x="42" y="-75"/>
+<use xlink:href="#seed-picks" x="-52" y="-65"/>
+<use xlink:href="#seed-picks" x="-40" y="-65"/>
+<use xlink:href="#seed-picks" x="-28" y="-65"/>
+<use xlink:href="#seed-picks" x="-16" y="-65"/>
+<use xlink:href="#seed-picks" x="-4" y="-65"/>
+<use xlink:href="#seed-picks" x="8" y="-65"/>
+<use xlink:href="#seed-picks" x="20" y="-65"/>
+<use xlink:href="#seed-picks" x="32" y="-65"/>
+<use xlink:href="#seed-picks" x="44" y="-65"/>
+<use xlink:href="#seed-picks" x="-66" y="-55"/>
+<use xlink:href="#seed-picks" x="-54" y="-55"/>
+<use xlink:href="#seed-picks" x="-42" y="-55"/>
+<use xlink:href="#seed-picks" x="-30" y="-55"/>
+<use xlink:href="#seed-picks" x="-18" y="-55"/>
+<use xlink:href="#seed-picks" x="-6" y="-55"/>
+<use xlink:href="#seed-picks" x="6" y="-55"/>
+<use xlink:href="#seed-picks" x="18" y="-55"/>
+<use xlink:href="#seed-picks" x="30" y="-55"/>
+<use xlink:href="#seed-picks" x="42" y="-55"/>
+<use xlink:href="#seed-picks" x="54" y="-55"/>
+<use xlink:href="#seed-picks" x="-64" y="-45"/>
+<use xlink:href="#seed-picks" x="-52" y="-45"/>
+<use xlink:href="#seed-picks" x="-40" y="-45"/>
+<use xlink:href="#seed-picks" x="-28" y="-45"/>
+<use xlink:href="#seed-picks" x="-16" y="-45"/>
+<use xlink:href="#seed-picks" x="-4" y="-45"/>
+<use xlink:href="#seed-picks" x="8" y="-45"/>
+<use xlink:href="#seed-picks" x="20" y="-45"/>
+<use xlink:href="#seed-picks" x="32" y="-45"/>
+<use xlink:href="#seed-picks" x="44" y="-45"/>
+<use xlink:href="#seed-picks" x="56" y="-45"/>
+<use xlink:href="#seed-picks" x="-78" y="-35"/>
+<use xlink:href="#seed-picks" x="-66" y="-35"/>
+<use xlink:href="#seed-picks" x="-54" y="-35"/>
+<use xlink:href="#seed-picks" x="-42" y="-35"/>
+<use xlink:href="#seed-picks" x="-30" y="-35"/>
+<use xlink:href="#seed-picks" x="-18" y="-35"/>
+<use xlink:href="#seed-picks" x="-6" y="-35"/>
+<use xlink:href="#seed-picks" x="6" y="-35"/>
+<use xlink:href="#seed-picks" x="18" y="-35"/>
+<use xlink:href="#seed-picks" x="30" y="-35"/>
+<use xlink:href="#seed-picks" x="42" y="-35"/>
+<use xlink:href="#seed-picks" x="54" y="-35"/>
+<use xlink:href="#seed-picks" x="66" y="-35"/>
+<use xlink:href="#seed-picks" x="-76" y="-25"/>
+<use xlink:href="#seed-picks" x="-64" y="-25"/>
+<use xlink:href="#seed-picks" x="-52" y="-25"/>
+<use xlink:href="#seed-picks" x="-40" y="-25"/>
+<use xlink:href="#seed-picks" x="-28" y="-25"/>
+<use xlink:href="#seed-picks" x="-16" y="-25"/>
+<use xlink:href="#seed-picks" x="-4" y="-25"/>
+<use xlink:href="#seed-picks" x="8" y="-25"/>
+<use xlink:href="#seed-picks" x="20" y="-25"/>
+<use xlink:href="#seed-picks" x="32" y="-25"/>
+<use xlink:href="#seed-picks" x="44" y="-25"/>
+<use xlink:href="#seed-picks" x="56" y="-25"/>
+<use xlink:href="#seed-picks" x="68" y="-25"/>
+<use xlink:href="#seed-picks" x="-90" y="-15"/>
+<use xlink:href="#seed-picks" x="-78" y="-15"/>
+<use xlink:href="#seed-picks" x="-66" y="-15"/>
+<use xlink:href="#seed-picks" x="-54" y="-15"/>
+<use xlink:href="#seed-picks" x="-42" y="-15"/>
+<use xlink:href="#seed-picks" x="-30" y="-15"/>
+<use xlink:href="#seed-picks" x="-18" y="-15"/>
+<use xlink:href="#seed-picks" x="-6" y="-15"/>
+<use xlink:href="#seed-picks" x="6" y="-15"/>
+<use xlink:href="#seed-picks" x="18" y="-15"/>
+<use xlink:href="#seed-picks" x="30" y="-15"/>
+<use xlink:href="#seed-picks" x="42" y="-15"/>
+<use xlink:href="#seed-picks" x="54" y="-15"/>
+<use xlink:href="#seed-picks" x="66" y="-15"/>
+<use xlink:href="#seed-picks" x="78" y="-15"/>
+<use xlink:href="#seed-picks" x="-88" y="-5"/>
+<use xlink:href="#seed-picks" x="-76" y="-5"/>
+<use xlink:href="#seed-picks" x="-64" y="-5"/>
+<use xlink:href="#seed-picks" x="-52" y="-5"/>
+<use xlink:href="#seed-picks" x="-40" y="-5"/>
+<use xlink:href="#seed-picks" x="-28" y="-5"/>
+<use xlink:href="#seed-picks" x="-16" y="-5"/>
+<use xlink:href="#seed-picks" x="-4" y="-5"/>
+<use xlink:href="#seed-picks" x="8" y="-5"/>
+<use xlink:href="#seed-picks" x="20" y="-5"/>
+<use xlink:href="#seed-picks" x="32" y="-5"/>
+<use xlink:href="#seed-picks" x="44" y="-5"/>
+<use xlink:href="#seed-picks" x="56" y="-5"/>
+<use xlink:href="#seed-picks" x="68" y="-5"/>
+<use xlink:href="#seed-picks" x="80" y="-5"/>
+<use xlink:href="#seed-picks" x="-90" y="5"/>
+<use xlink:href="#seed-picks" x="-78" y="5"/>
+<use xlink:href="#seed-picks" x="-66" y="5"/>
+<use xlink:href="#seed-picks" x="-54" y="5"/>
+<use xlink:href="#seed-picks" x="-42" y="5"/>
+<use xlink:href="#seed-picks" x="-30" y="5"/>
+<use xlink:href="#seed-picks" x="-18" y="5"/>
+<use xlink:href="#seed-picks" x="-6" y="5"/>
+<use xlink:href="#seed-picks" x="6" y="5"/>
+<use xlink:href="#seed-picks" x="18" y="5"/>
+<use xlink:href="#seed-picks" x="30" y="5"/>
+<use xlink:href="#seed-picks" x="42" y="5"/>
+<use xlink:href="#seed-picks" x="54" y="5"/>
+<use xlink:href="#seed-picks" x="66" y="5"/>
+<use xlink:href="#seed-picks" x="78" y="5"/>
+<use xlink:href="#seed-picks" x="-76" y="15"/>
+<use xlink:href="#seed-picks" x="-64" y="15"/>
+<use xlink:href="#seed-picks" x="-52" y="15"/>
+<use xlink:href="#seed-picks" x="-40" y="15"/>
+<use xlink:href="#seed-picks" x="-28" y="15"/>
+<use xlink:href="#seed-picks" x="-16" y="15"/>
+<use xlink:href="#seed-picks" x="-4" y="15"/>
+<use xlink:href="#seed-picks" x="8" y="15"/>
+<use xlink:href="#seed-picks" x="20" y="15"/>
+<use xlink:href="#seed-picks" x="32" y="15"/>
+<use xlink:href="#seed-picks" x="44" y="15"/>
+<use xlink:href="#seed-picks" x="56" y="15"/>
+<use xlink:href="#seed-picks" x="68" y="15"/>
+<use xlink:href="#seed-picks" x="-78" y="25"/>
+<use xlink:href="#seed-picks" x="-66" y="25"/>
+<use xlink:href="#seed-picks" x="-54" y="25"/>
+<use xlink:href="#seed-picks" x="-42" y="25"/>
+<use xlink:href="#seed-picks" x="-30" y="25"/>
+<use xlink:href="#seed-picks" x="-18" y="25"/>
+<use xlink:href="#seed-picks" x="-6" y="25"/>
+<use xlink:href="#seed-picks" x="6" y="25"/>
+<use xlink:href="#seed-picks" x="18" y="25"/>
+<use xlink:href="#seed-picks" x="30" y="25"/>
+<use xlink:href="#seed-picks" x="42" y="25"/>
+<use xlink:href="#seed-picks" x="54" y="25"/>
+<use xlink:href="#seed-picks" x="66" y="25"/>
+<use xlink:href="#seed-picks" x="-64" y="35"/>
+<use xlink:href="#seed-picks" x="-52" y="35"/>
+<use xlink:href="#seed-picks" x="-40" y="35"/>
+<use xlink:href="#seed-picks" x="-28" y="35"/>
+<use xlink:href="#seed-picks" x="-16" y="35"/>
+<use xlink:href="#seed-picks" x="-4" y="35"/>
+<use xlink:href="#seed-picks" x="8" y="35"/>
+<use xlink:href="#seed-picks" x="20" y="35"/>
+<use xlink:href="#seed-picks" x="32" y="35"/>
+<use xlink:href="#seed-picks" x="44" y="35"/>
+<use xlink:href="#seed-picks" x="56" y="35"/>
+<use xlink:href="#seed-picks" x="-66" y="45"/>
+<use xlink:href="#seed-picks" x="-54" y="45"/>
+<use xlink:href="#seed-picks" x="-42" y="45"/>
+<use xlink:href="#seed-picks" x="-30" y="45"/>
+<use xlink:href="#seed-picks" x="-18" y="45"/>
+<use xlink:href="#seed-picks" x="-6" y="45"/>
+<use xlink:href="#seed-picks" x="6" y="45"/>
+<use xlink:href="#seed-picks" x="18" y="45"/>
+<use xlink:href="#seed-picks" x="30" y="45"/>
+<use xlink:href="#seed-picks" x="42" y="45"/>
+<use xlink:href="#seed-picks" x="54" y="45"/>
+<use xlink:href="#seed-picks" x="-52" y="55"/>
+<use xlink:href="#seed-picks" x="-40" y="55"/>
+<use xlink:href="#seed-picks" x="-28" y="55"/>
+<use xlink:href="#seed-picks" x="-16" y="55"/>
+<use xlink:href="#seed-picks" x="-4" y="55"/>
+<use xlink:href="#seed-picks" x="8" y="55"/>
+<use xlink:href="#seed-picks" x="20" y="55"/>
+<use xlink:href="#seed-picks" x="32" y="55"/>
+<use xlink:href="#seed-picks" x="44" y="55"/>
+<use xlink:href="#seed-picks" x="-54" y="65"/>
+<use xlink:href="#seed-picks" x="-42" y="65"/>
+<use xlink:href="#seed-picks" x="-30" y="65"/>
+<use xlink:href="#seed-picks" x="-18" y="65"/>
+<use xlink:href="#seed-picks" x="-6" y="65"/>
+<use xlink:href="#seed-picks" x="6" y="65"/>
+<use xlink:href="#seed-picks" x="18" y="65"/>
+<use xlink:href="#seed-picks" x="30" y="65"/>
+<use xlink:href="#seed-picks" x="42" y="65"/>
+<use xlink:href="#seed-picks" x="-52" y="75"/>
+<use xlink:href="#seed-picks" x="-40" y="75"/>
+<use xlink:href="#seed-picks" x="-28" y="75"/>
+<use xlink:href="#seed-picks" x="-16" y="75"/>
+<use xlink:href="#seed-picks" x="-4" y="75"/>
+<use xlink:href="#seed-picks" x="8" y="75"/>
+<use xlink:href="#seed-picks" x="20" y="75"/>
+<use xlink:href="#seed-picks" x="32" y="75"/>
+<use xlink:href="#seed-picks" x="44" y="75"/>
+</g>
+<g transform="translate(-78 -42)">
+<path fill="#a58046" d="M-7.8-9.8H7.4V-8H9.1V7.4H7.5V9.1H-7.5V7.5H-9V-7.7H-7.8Z"/>
+<path fill="#352e36" d="M-4.8-6H4.8V-4.8H6V4.7H4.8V6H-5V4.6H-6V-4.9H-4.8Z"/>
+<rect x="-2.2" y="-2.4" width="4.4" height="4.8" fill="#bda98e"/>
+</g>
+<g transform="translate(-56 -42)">
+<path fill="#a58046" d="M-7.8-9.8H7.4V-8H9.1V7.4H7.5V9.1H-7.5V7.5H-9V-7.7H-7.8Z"/>
+<path fill="#bda98e" d="M-4.8-6H4.8V-4.8H6V4.7H4.8V6H-5V4.6H-6V-4.9H-4.8Z"/>
+</g>
+<g transform="translate(-34 -42)">
+<path fill="#a58046" d="M-7.8-9.8H7.4V-8H9.1V7.4H7.5V9.1H-7.5V7.5H-9V-7.7H-7.8Z"/>
+<path fill="#352e36" d="M-4.8-6H4.8V-4.8H6V4.7H4.8V6H-5V4.6H-6V-4.9H-4.8Z"/>
+<rect x="-2.2" y="-2.4" width="4.4" height="4.8" fill="#bda98e"/>
+</g>
+<g transform="translate(-12 -42)">
+<path fill="#a58046" d="M-7.8-9.8H7.4V-8H9.1V7.4H7.5V9.1H-7.5V7.5H-9V-7.7H-7.8Z"/>
+<path fill="#bda98e" d="M-4.8-6H4.8V-4.8H6V4.7H4.8V6H-5V4.6H-6V-4.9H-4.8Z"/>
+<rect x="-2.2" y="-2.4" width="4.4" height="4.8" fill="#352e36"/>
+</g>
+<g transform="translate(10 -42)">
+<path fill="#a58046" d="M-7.8-9.8H7.4V-8H9.1V7.4H7.5V9.1H-7.5V7.5H-9V-7.7H-7.8Z"/>
+<path fill="#352e36" d="M-4.8-6H4.8V-4.8H6V4.7H4.8V6H-5V4.6H-6V-4.9H-4.8Z"/>
+<rect x="-2.2" y="-2.4" width="4.4" height="4.8" fill="#bda98e"/>
+</g>
+<g transform="translate(32 -42)">
+<path fill="#a58046" d="M-7.8-9.8H7.4V-8H9.1V7.4H7.5V9.1H-7.5V7.5H-9V-7.7H-7.8Z"/>
+<path fill="#bda98e" d="M-4.8-6H4.8V-4.8H6V4.7H4.8V6H-5V4.6H-6V-4.9H-4.8Z"/>
+</g>
+<g transform="translate(54 -42)">
+<path fill="#a58046" d="M-7.8-9.8H7.4V-8H9.1V7.4H7.5V9.1H-7.5V7.5H-9V-7.7H-7.8Z"/>
+<path fill="#352e36" d="M-4.8-6H4.8V-4.8H6V4.7H4.8V6H-5V4.6H-6V-4.9H-4.8Z"/>
+<rect x="-2.2" y="-2.4" width="4.4" height="4.8" fill="#bda98e"/>
+</g>
+<g transform="translate(76 -42)">
+<path fill="#a58046" d="M-7.8-9.8H7.4V-8H9.1V7.4H7.5V9.1H-7.5V7.5H-9V-7.7H-7.8Z"/>
+<path fill="#352e36" d="M-4.8-6H4.8V-4.8H6V4.7H4.8V6H-5V4.6H-6V-4.9H-4.8Z"/>
+<rect x="-2.2" y="-2.4" width="4.4" height="4.8" fill="#bda98e"/>
+</g>
+<g transform="translate(-78 -11)">
+<path fill="#a58046" d="M-7.8-9.8H7.4V-8H9.1V7.4H7.5V9.1H-7.5V7.5H-9V-7.7H-7.8Z"/>
+<path fill="#bda98e" d="M-4.8-6H4.8V-4.8H6V4.7H4.8V6H-5V4.6H-6V-4.9H-4.8Z"/>
+</g>
+<g transform="translate(-56 -11)">
+<path fill="#a58046" d="M-7.8-9.8H7.4V-8H9.1V7.4H7.5V9.1H-7.5V7.5H-9V-7.7H-7.8Z"/>
+<path fill="#352e36" d="M-4.8-6H4.8V-4.8H6V4.7H4.8V6H-5V4.6H-6V-4.9H-4.8Z"/>
+<rect x="-2.2" y="-2.4" width="4.4" height="4.8" fill="#bda98e"/>
+</g>
+<g transform="translate(-34 -11)">
+<path fill="#a58046" d="M-7.8-9.8H7.4V-8H9.1V7.4H7.5V9.1H-7.5V7.5H-9V-7.7H-7.8Z"/>
+<path fill="#bda98e" d="M-4.8-6H4.8V-4.8H6V4.7H4.8V6H-5V4.6H-6V-4.9H-4.8Z"/>
+</g>
+<g transform="translate(-12 -11)">
+<path fill="#a58046" d="M-7.8-9.8H7.4V-8H9.1V7.4H7.5V9.1H-7.5V7.5H-9V-7.7H-7.8Z"/>
+<path fill="#352e36" d="M-4.8-6H4.8V-4.8H6V4.7H4.8V6H-5V4.6H-6V-4.9H-4.8Z"/>
+<rect x="-2.2" y="-2.4" width="4.4" height="4.8" fill="#bda98e"/>
+</g>
+<g transform="translate(10 -11)">
+<path fill="#a58046" d="M-7.8-9.8H7.4V-8H9.1V7.4H7.5V9.1H-7.5V7.5H-9V-7.7H-7.8Z"/>
+<path fill="#bda98e" d="M-4.8-6H4.8V-4.8H6V4.7H4.8V6H-5V4.6H-6V-4.9H-4.8Z"/>
+<rect x="-2.2" y="-2.4" width="4.4" height="4.8" fill="#352e36"/>
+</g>
+<g transform="translate(32 -11)">
+<path fill="#a58046" d="M-7.8-9.8H7.4V-8H9.1V7.4H7.5V9.1H-7.5V7.5H-9V-7.7H-7.8Z"/>
+<path fill="#352e36" d="M-4.8-6H4.8V-4.8H6V4.7H4.8V6H-5V4.6H-6V-4.9H-4.8Z"/>
+<rect x="-2.2" y="-2.4" width="4.4" height="4.8" fill="#bda98e"/>
+</g>
+<g transform="translate(54 -11)">
+<path fill="#a58046" d="M-7.8-9.8H7.4V-8H9.1V7.4H7.5V9.1H-7.5V7.5H-9V-7.7H-7.8Z"/>
+<path fill="#bda98e" d="M-4.8-6H4.8V-4.8H6V4.7H4.8V6H-5V4.6H-6V-4.9H-4.8Z"/>
+</g>
+<g transform="translate(76 -11)">
+<path fill="#a58046" d="M-7.8-9.8H7.4V-8H9.1V7.4H7.5V9.1H-7.5V7.5H-9V-7.7H-7.8Z"/>
+<path fill="#352e36" d="M-4.8-6H4.8V-4.8H6V4.7H4.8V6H-5V4.6H-6V-4.9H-4.8Z"/>
+<rect x="-2.2" y="-2.4" width="4.4" height="4.8" fill="#bda98e"/>
+</g>
+<g transform="translate(-78 20)">
+<path fill="#a58046" d="M-7.8-9.8H7.4V-8H9.1V7.4H7.5V9.1H-7.5V7.5H-9V-7.7H-7.8Z"/>
+<path fill="#352e36" d="M-4.8-6H4.8V-4.8H6V4.7H4.8V6H-5V4.6H-6V-4.9H-4.8Z"/>
+<rect x="-2.2" y="-2.4" width="4.4" height="4.8" fill="#bda98e"/>
+</g>
+<g transform="translate(-56 20)">
+<path fill="#a58046" d="M-7.8-9.8H7.4V-8H9.1V7.4H7.5V9.1H-7.5V7.5H-9V-7.7H-7.8Z"/>
+<path fill="#bda98e" d="M-4.8-6H4.8V-4.8H6V4.7H4.8V6H-5V4.6H-6V-4.9H-4.8Z"/>
+<rect x="-2.2" y="-2.4" width="4.4" height="4.8" fill="#352e36"/>
+</g>
+<g transform="translate(-34 20)">
+<path fill="#a58046" d="M-7.8-9.8H7.4V-8H9.1V7.4H7.5V9.1H-7.5V7.5H-9V-7.7H-7.8Z"/>
+<path fill="#bda98e" d="M-4.8-6H4.8V-4.8H6V4.7H4.8V6H-5V4.6H-6V-4.9H-4.8Z"/>
+</g>
+<g transform="translate(-12 20)">
+<path fill="#a58046" d="M-7.8-9.8H7.4V-8H9.1V7.4H7.5V9.1H-7.5V7.5H-9V-7.7H-7.8Z"/>
+<path fill="#352e36" d="M-4.8-6H4.8V-4.8H6V4.7H4.8V6H-5V4.6H-6V-4.9H-4.8Z"/>
+<rect x="-2.2" y="-2.4" width="4.4" height="4.8" fill="#bda98e"/>
+</g>
+<g transform="translate(10 20)">
+<path fill="#a58046" d="M-7.8-9.8H7.4V-8H9.1V7.4H7.5V9.1H-7.5V7.5H-9V-7.7H-7.8Z"/>
+<path fill="#352e36" d="M-4.8-6H4.8V-4.8H6V4.7H4.8V6H-5V4.6H-6V-4.9H-4.8Z"/>
+<rect x="-2.2" y="-2.4" width="4.4" height="4.8" fill="#bda98e"/>
+</g>
+<g transform="translate(32 20)">
+<path fill="#a58046" d="M-7.8-9.8H7.4V-8H9.1V7.4H7.5V9.1H-7.5V7.5H-9V-7.7H-7.8Z"/>
+<path fill="#bda98e" d="M-4.8-6H4.8V-4.8H6V4.7H4.8V6H-5V4.6H-6V-4.9H-4.8Z"/>
+</g>
+<g transform="translate(54 20)">
+<path fill="#a58046" d="M-7.8-9.8H7.4V-8H9.1V7.4H7.5V9.1H-7.5V7.5H-9V-7.7H-7.8Z"/>
+<path fill="#352e36" d="M-4.8-6H4.8V-4.8H6V4.7H4.8V6H-5V4.6H-6V-4.9H-4.8Z"/>
+<rect x="-2.2" y="-2.4" width="4.4" height="4.8" fill="#bda98e"/>
+</g>
+<g transform="translate(76 20)">
+<path fill="#a58046" d="M-7.8-9.8H7.4V-8H9.1V7.4H7.5V9.1H-7.5V7.5H-9V-7.7H-7.8Z"/>
+<path fill="#bda98e" d="M-4.8-6H4.8V-4.8H6V4.7H4.8V6H-5V4.6H-6V-4.9H-4.8Z"/>
+</g>
+<g transform="translate(-78 51)">
+<path fill="#a58046" d="M-7.8-9.8H7.4V-8H9.1V7.4H7.5V9.1H-7.5V7.5H-9V-7.7H-7.8Z"/>
+<path fill="#bda98e" d="M-4.8-6H4.8V-4.8H6V4.7H4.8V6H-5V4.6H-6V-4.9H-4.8Z"/>
+</g>
+<g transform="translate(-56 51)">
+<path fill="#a58046" d="M-7.8-9.8H7.4V-8H9.1V7.4H7.5V9.1H-7.5V7.5H-9V-7.7H-7.8Z"/>
+<path fill="#352e36" d="M-4.8-6H4.8V-4.8H6V4.7H4.8V6H-5V4.6H-6V-4.9H-4.8Z"/>
+<rect x="-2.2" y="-2.4" width="4.4" height="4.8" fill="#bda98e"/>
+</g>
+<g transform="translate(-34 51)">
+<path fill="#a58046" d="M-7.8-9.8H7.4V-8H9.1V7.4H7.5V9.1H-7.5V7.5H-9V-7.7H-7.8Z"/>
+<path fill="#bda98e" d="M-4.8-6H4.8V-4.8H6V4.7H4.8V6H-5V4.6H-6V-4.9H-4.8Z"/>
+</g>
+<g transform="translate(-12 51)">
+<path fill="#a58046" d="M-7.8-9.8H7.4V-8H9.1V7.4H7.5V9.1H-7.5V7.5H-9V-7.7H-7.8Z"/>
+<path fill="#352e36" d="M-4.8-6H4.8V-4.8H6V4.7H4.8V6H-5V4.6H-6V-4.9H-4.8Z"/>
+<rect x="-2.2" y="-2.4" width="4.4" height="4.8" fill="#bda98e"/>
+</g>
+<g transform="translate(10 51)">
+<path fill="#a58046" d="M-7.8-9.8H7.4V-8H9.1V7.4H7.5V9.1H-7.5V7.5H-9V-7.7H-7.8Z"/>
+<path fill="#352e36" d="M-4.8-6H4.8V-4.8H6V4.7H4.8V6H-5V4.6H-6V-4.9H-4.8Z"/>
+<rect x="-2.2" y="-2.4" width="4.4" height="4.8" fill="#bda98e"/>
+</g>
+<g transform="translate(32 51)">
+<path fill="#a58046" d="M-7.8-9.8H7.4V-8H9.1V7.4H7.5V9.1H-7.5V7.5H-9V-7.7H-7.8Z"/>
+<path fill="#bda98e" d="M-4.8-6H4.8V-4.8H6V4.7H4.8V6H-5V4.6H-6V-4.9H-4.8Z"/>
+</g>
+<g transform="translate(54 51)">
+<path fill="#a58046" d="M-7.8-9.8H7.4V-8H9.1V7.4H7.5V9.1H-7.5V7.5H-9V-7.7H-7.8Z"/>
+<path fill="#352e36" d="M-4.8-6H4.8V-4.8H6V4.7H4.8V6H-5V4.6H-6V-4.9H-4.8Z"/>
+<rect x="-2.2" y="-2.4" width="4.4" height="4.8" fill="#bda98e"/>
+</g>
+<g transform="translate(76 51)">
+<path fill="#a58046" d="M-7.8-9.8H7.4V-8H9.1V7.4H7.5V9.1H-7.5V7.5H-9V-7.7H-7.8Z"/>
+<path fill="#bda98e" d="M-4.8-6H4.8V-4.8H6V4.7H4.8V6H-5V4.6H-6V-4.9H-4.8Z"/>
+<rect x="-2.2" y="-2.4" width="4.4" height="4.8" fill="#352e36"/>
+</g>
+</g>
+</defs>
+<rect x="0" y="0" width="480" height="552" fill="#352e36"/>
+<use xlink:href="#diamonds" x="39.375" y="35.375"/>
+<use xlink:href="#ochre" x="39.375" y="173.375"/>
+<use xlink:href="#pepper" x="39.375" y="311.375"/>
+<use xlink:href="#rose-bands" x="39.375" y="449.375"/>
+<use xlink:href="#diamonds" x="39.375" y="587.375"/>
+<use xlink:href="#ring-check" x="159.375" y="-33.625"/>
+<use xlink:href="#mixed-bands" x="159.375" y="104.375"/>
+<use xlink:href="#heather" x="159.375" y="242.375"/>
+<use xlink:href="#warp-stripes" x="159.375" y="380.375"/>
+<use xlink:href="#ring-check" x="159.375" y="518.375"/>
+<use xlink:href="#pepper" x="279.375" y="35.375"/>
+<use xlink:href="#rose-bands" x="279.375" y="173.375"/>
+<use xlink:href="#diamonds" x="279.375" y="311.375"/>
+<use xlink:href="#ochre" x="279.375" y="449.375"/>
+<use xlink:href="#pepper" x="279.375" y="587.375"/>
+<use xlink:href="#heather" x="399.375" y="-33.625"/>
+<use xlink:href="#warp-stripes" x="399.375" y="104.375"/>
+<use xlink:href="#ring-check" x="399.375" y="242.375"/>
+<use xlink:href="#mixed-bands" x="399.375" y="380.375"/>
+<use xlink:href="#heather" x="399.375" y="518.375"/>
+<use xlink:href="#diamonds" x="519.375" y="35.375"/>
+<use xlink:href="#ochre" x="519.375" y="173.375"/>
+<use xlink:href="#pepper" x="519.375" y="311.375"/>
+<use xlink:href="#rose-bands" x="519.375" y="449.375"/>
+<use xlink:href="#diamonds" x="519.375" y="587.375"/>
+</svg>

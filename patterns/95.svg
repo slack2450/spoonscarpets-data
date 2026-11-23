@@ -1,0 +1,260 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1060" height="500" viewBox="0 0 1060 500">
+  <title>The Moon Under Water, Watford — striped gold cartouches and acanthus scrolls</title>
+  <defs>
+    <g id="field-quarter">
+      <path d="M32 244 Q25 213 48 193 Q52 186 50 181 Q61 186 60 193 Q74 189 78 196 Q73 198 67 203 Q53 200 46 211 Q38 222 45 221 Q58 219 66 223 Q52 225 50 230 Q37 231 32 244Z" fill="#656A76" />
+      <path d="M47 194 C51 177 68 169 84 175 Q94 177 101 170 Q102 178 96 182 Q108 179 115 173 Q113 183 109 190 Q101 192 96 202 Q86 199 84 192 Q74 183 61 189Z" fill="#656A76" />
+      <path d="M40 246 C46 239 61 240 71 226 Q74 221 73 218 Q86 218 87 205 Q92 212 89 219 Q85 234 68 238 Q83 239 90 232 Q82 245 64 245 Q56 244 52 249Z" fill="#656A76" />
+      <path d="M87 239 Q99 232 99 226 Q110 229 118 216 Q117 227 112 234 Q127 236 132 248 Q121 248 114 244 Q112 249 103 250 L91 250 Q88 246 80 247Z" fill="#656A76" />
+      <path d="M115 178 Q123 165 122 152 Q131 159 130 169 Q138 154 137 146 Q147 152 144 166 Q154 158 155 147 Q165 145 176 157 Q164 158 158 171 Q147 186 133 187 Q124 193 125 202 Q114 195 115 178Z" fill="#656A76" />
+      <path d="M131 221 Q136 229 147 227 Q143 221 149 217 Q155 230 167 228 Q158 234 164 238 Q145 238 136 234 Q132 229 129 228Z" fill="#656A76" />
+      <path d="M150 211 Q144 198 156 194 Q166 190 165 183 Q181 188 175 200 Q167 210 169 214 Q174 212 179 213 Q174 225 159 229 Q153 226 156 220 Q145 224 142 216Z" fill="#656A76" />
+      <path d="M173 215 Q185 207 194 207 Q204 207 207 200 Q214 212 206 215 Q224 218 220 226 Q216 226 210 231 Q202 225 190 226 Q195 223 199 220 Q186 224 175 221Z" fill="#656A76" />
+      <path d="M232 207 Q242 206 249 198 Q261 191 263 178 Q272 181 269 191 Q278 183 279 170 Q292 174 288 186 Q280 197 280 205 Q276 202 273 199 Q270 220 280 228 Q267 228 261 217 Q252 212 241 215Z" fill="#656A76" />
+      <path d="M232 181 C237 167 257 165 265 152 Q265 143 258 136 Q270 139 275 147 Q282 133 282 125 Q294 129 292 142 Q286 159 272 166 Q264 179 251 181Z" fill="#656A76" />
+      <path d="M193 170 Q176 166 179 151 Q173 151 172 154 Q165 145 170 136 Q164 139 157 143 Q152 132 163 121 Q168 115 181 114 Q181 120 177 125 Q187 117 191 111 Q205 105 220 112 Q229 117 230 124 Q217 121 213 128 Q207 135 195 140 Q193 147 198 147 Q207 139 212 142 Q207 153 212 162 Q223 169 238 167 Q230 182 215 179Z" fill="#656A76" />
+      <path d="M245 151 Q241 142 242 133 Q245 124 238 115 Q249 114 257 127 Q258 120 254 115 Q268 121 267 136 Q266 148 253 158 Q257 149 255 146 Q252 153 244 158Z" fill="#656A76" />
+      <path d="M146 189 Q146 179 155 177 Q166 176 171 170 Q180 173 185 178 Q172 176 167 183Z" fill="#656A76" />
+      <path d="M207 190 Q212 182 218 179 Q229 184 234 192 Q225 189 223 195 Q215 198 214 207 Q204 200 207 190Z" fill="#656A76" />
+      <path d="M132 236 Q123 230 120 219 Q120 209 125 201 Q128 215 136 220 Q132 215 134 211 Q135 218 143 223 Q140 233 148 235Z" fill="#656A76" />
+      <path d="M156 135 Q157 121 168 117 Q183 110 195 98 Q193 110 184 116 Q195 115 199 107 Q201 120 189 128 Q187 122 179 121 Q167 118 156 135Z" fill="#656A76" />
+      <path d="M194 103 Q208 95 217 79 Q214 92 216 96 Q225 87 229 76 Q230 92 225 98 Q232 92 236 92 Q231 103 237 111 Q228 103 219 105 Q209 103 199 112Z" fill="#656A76" />
+      <path d="M220 72 Q234 53 237 28 Q240 37 240 44 Q246 34 253 29 Q250 43 246 48 Q253 45 259 41 Q257 52 246 61 Q230 72 228 86 Q221 85 223 77Z" fill="#656A76" />
+      <path d="M240 28 Q242 12 240 -1 L244 -1 Q245 11 254 13 Q263 19 271 18 Q263 26 255 22 Q246 23 240 33Z" fill="#656A76" />
+      <path d="M204 171 Q208 179 219 180 Q229 180 232 172 Q235 180 228 185 Q220 190 214 186 Q215 193 220 196 Q207 196 203 187 Q198 176 188 173 Q197 171 204 174Z" fill="#656A76" />
+      <path d="M271 186 Q274 172 285 164 Q301 152 299 140 Q310 146 305 158 Q313 154 316 150 Q312 164 299 169 Q287 173 278 187 Q277 182 278 178Z" fill="#656A76" />
+      <path d="M277 218 Q282 212 281 203 Q292 206 294 216 Q296 207 300 199 Q307 209 302 218 Q299 227 300 236 Q293 233 289 223 Q289 231 292 236 Q279 230 277 218Z" fill="#656A76" />
+      <path d="M35 251 C31 241 37 232 46 227 C53 223 63 222 69 216 C79 207 74 198 65 198 C60 197 55 200 56 204 C58 202 63 202 66 206 C69 210 64 215 58 215 C49 215 45 209 46 203 C46 195 56 189 65 191 C77 193 84 200 81 211 C80 221 66 228 54 231 C73 232 91 222 98 213 C109 199 106 189 99 187 C92 186 89 191 91 196 C86 195 85 190 88 185 C93 176 103 177 110 183 C121 194 118 206 109 217 C97 232 76 238 56 239 Q72 240 79 236 Q76 245 59 246 Q50 246 44 251Z" fill="#AFA6A9" />
+      <path d="M229 237 C205 239 181 239 167 238 C143 237 128 228 131 205 C132 188 142 181 158 177 C176 173 184 158 187 145 C190 128 181 119 172 120 C164 120 158 126 160 133 Q163 127 168 130 Q173 133 169 138 Q176 138 180 131 C187 147 175 166 163 171 C147 178 134 181 129 190 C114 214 130 239 151 244 C170 249 206 243 229 245Z" fill="#AFA6A9" />
+      <path d="M139 226 C130 212 130 196 144 186 C154 178 174 177 186 186 C198 194 197 210 188 214 Q183 216 180 213 Q187 208 183 200 C179 192 170 187 160 189 C147 190 139 197 141 204 Q144 199 151 200 Q142 208 146 217 Q148 223 152 225 Q145 225 145 220 Q144 226 150 230Z" fill="#AFA6A9" />
+      <path d="M153 235 Q152 227 157 222 Q160 220 164 219 Q160 227 164 231 Q176 234 186 233 Q180 228 185 222 Q192 216 199 221 Q192 222 191 227 Q192 235 205 234 Q219 235 231 227 L231 231 Q222 237 211 238 L168 238Z" fill="#AFA6A9" />
+      <path d="M151 181 Q160 177 174 173 Q194 167 203 179 Q207 183 208 189 Q201 186 197 183 Q186 175 174 178Z" fill="#AFA6A9" />
+      <path d="M165 174 C179 160 184 143 193 132 C204 117 216 113 229 116 C244 120 254 128 268 131 C275 140 292 142 304 132 Q300 144 290 146 Q279 148 276 141 Q278 150 289 150 Q278 157 268 151 Q260 146 259 137 C242 130 229 122 219 124 C202 125 193 138 185 151 Q179 166 165 174Z" fill="#AFA6A9" />
+      <path d="M193 132 C199 122 205 112 214 105 Q225 96 238 99 Q246 102 248 110 Q240 104 232 108 Q239 107 241 115 C225 108 207 119 201 128Z" fill="#AFA6A9" />
+      <path d="M273 147 C281 158 269 170 255 174 C242 179 234 177 230 187 C227 194 232 202 239 204 Q248 206 250 199 Q249 194 243 192 Q251 188 256 195 C263 206 251 217 240 215 C225 214 217 204 222 190 C227 175 240 171 252 168 Q259 166 254 158 Q262 157 264 163 Q273 156 273 147Z" fill="#AFA6A9" />
+      <path d="M35 251 Q35 229 48 228 Q56 229 57 235 Q51 232 49 235 Q60 236 66 233 Q60 242 51 242 Q68 244 80 236 Q77 243 65 249 Q61 250 56 251Z" fill="#AFA6A9" />
+    </g>
+    <g id="field-daisy">
+      <path d="M-2 -5 Q-6 -7 -9 -11 Q-11 -14 -8 -16 Q-5 -17 -4 -20 Q0 -22 2 -18 Q6 -20 8 -17 Q10 -14 7 -11 Q5 -8 2 -5Z" fill="#AFA6A9" transform="rotate(0) translate(0 -1) scale(.59 .94)" />
+      <path d="M-2 -5 Q-6 -7 -9 -11 Q-11 -14 -8 -16 Q-5 -17 -4 -20 Q0 -22 2 -18 Q6 -20 8 -17 Q10 -14 7 -11 Q5 -8 2 -5Z" fill="#AFA6A9" transform="rotate(45) translate(0 -1) scale(.59 .94)" />
+      <path d="M-2 -5 Q-6 -7 -9 -11 Q-11 -14 -8 -16 Q-5 -17 -4 -20 Q0 -22 2 -18 Q6 -20 8 -17 Q10 -14 7 -11 Q5 -8 2 -5Z" fill="#AFA6A9" transform="rotate(90) translate(0 -1) scale(.59 .94)" />
+      <path d="M-2 -5 Q-6 -7 -9 -11 Q-11 -14 -8 -16 Q-5 -17 -4 -20 Q0 -22 2 -18 Q6 -20 8 -17 Q10 -14 7 -11 Q5 -8 2 -5Z" fill="#AFA6A9" transform="rotate(135) translate(0 -1) scale(.59 .94)" />
+      <path d="M-2 -5 Q-6 -7 -9 -11 Q-11 -14 -8 -16 Q-5 -17 -4 -20 Q0 -22 2 -18 Q6 -20 8 -17 Q10 -14 7 -11 Q5 -8 2 -5Z" fill="#AFA6A9" transform="rotate(180) translate(0 -1) scale(.59 .94)" />
+      <path d="M-2 -5 Q-6 -7 -9 -11 Q-11 -14 -8 -16 Q-5 -17 -4 -20 Q0 -22 2 -18 Q6 -20 8 -17 Q10 -14 7 -11 Q5 -8 2 -5Z" fill="#AFA6A9" transform="rotate(225) translate(0 -1) scale(.59 .94)" />
+      <path d="M-2 -5 Q-6 -7 -9 -11 Q-11 -14 -8 -16 Q-5 -17 -4 -20 Q0 -22 2 -18 Q6 -20 8 -17 Q10 -14 7 -11 Q5 -8 2 -5Z" fill="#AFA6A9" transform="rotate(270) translate(0 -1) scale(.59 .94)" />
+      <path d="M-2 -5 Q-6 -7 -9 -11 Q-11 -14 -8 -16 Q-5 -17 -4 -20 Q0 -22 2 -18 Q6 -20 8 -17 Q10 -14 7 -11 Q5 -8 2 -5Z" fill="#AFA6A9" transform="rotate(315) translate(0 -1) scale(.59 .94)" />
+      <circle cx="0" cy="0" r="6.8" fill="#292D36" />
+      <circle cx="0" cy="0" r="4.7" fill="#D4C18F" />
+    </g>
+    <clipPath id="stripe-mask">
+      <path d="M 18 -250 C 21 -154 73 -157 103 -155 L 139 -155 139 -96 C 197 -92 222 -64 222 0 C 222 64 197 92 139 96 L 139 155 103 155 C 73 157 21 154 18 250 L -18 250 C -21 154 -73 157 -103 155 L -139 155 -139 96 C -197 92 -222 64 -222 0 C -222 -64 -197 -92 -139 -96 L -139 -155 -103 -155 C -73 -157 -21 -154 -18 -250 Z" fill="#D4C18F" />
+    </clipPath>
+    <g id="gold-frame">
+      <path d="M 37 -250 C 40 -171 82 -174 112 -172 L 157 -172 157 -113 C 215 -109 240 -64 240 0 C 240 64 215 109 157 113 L 157 172 112 172 C 82 174 40 171 37 250 L -37 250 C -40 171 -82 174 -112 172 L -157 172 -157 113 C -215 109 -240 64 -240 0 C -240 -64 -215 -109 -157 -113 L -157 -172 -112 -172 C -82 -174 -40 -171 -37 -250 Z" fill="#AFA6A9" />
+      <path d="M 18 -250 C 21 -154 73 -157 103 -155 L 139 -155 139 -96 C 197 -92 222 -64 222 0 C 222 64 197 92 139 96 L 139 155 103 155 C 73 157 21 154 18 250 L -18 250 C -21 154 -73 157 -103 155 L -139 155 -139 96 C -197 92 -222 64 -222 0 C -222 -64 -197 -92 -139 -96 L -139 -155 -103 -155 C -73 -157 -21 -154 -18 -250 Z" fill="#D4C18F" stroke="#943F5D" stroke-width="2.3" />
+      <g clip-path="url(#stripe-mask)">
+        <path d="M-1.5 -253 h3 v506 h-3Z" fill="#AFA6A9" />
+        <path d="M15.7 -253 h2.6 v506 h-2.6Z" fill="#AFA6A9" />
+        <path d="M-18.3 -253 h2.6 v506 h-2.6Z" fill="#AFA6A9" />
+        <path d="M46.1 -253 h3.8 v506 h-3.8Z" fill="#AFA6A9" />
+        <path d="M-49.9 -253 h3.8 v506 h-3.8Z" fill="#AFA6A9" />
+        <path d="M72.8 -253 h2.4 v506 h-2.4Z" fill="#AFA6A9" />
+        <path d="M-75.2 -253 h2.4 v506 h-2.4Z" fill="#AFA6A9" />
+        <path d="M96.35 -253 h5.3 v506 h-5.3Z" fill="#AFA6A9" />
+        <path d="M-101.65 -253 h5.3 v506 h-5.3Z" fill="#AFA6A9" />
+        <path d="M125.1 -253 h3.8 v506 h-3.8Z" fill="#AFA6A9" />
+        <path d="M-128.9 -253 h3.8 v506 h-3.8Z" fill="#AFA6A9" />
+        <path d="M133.3 -253 h7.4 v506 h-7.4Z" fill="#AFA6A9" />
+        <path d="M-140.7 -253 h7.4 v506 h-7.4Z" fill="#AFA6A9" />
+        <path d="M152.65 -253 h2.7 v506 h-2.7Z" fill="#AFA6A9" />
+        <path d="M-155.35 -253 h2.7 v506 h-2.7Z" fill="#AFA6A9" />
+        <path d="M172.1 -253 h7.8 v506 h-7.8Z" fill="#AFA6A9" />
+        <path d="M-179.9 -253 h7.8 v506 h-7.8Z" fill="#AFA6A9" />
+        <path d="M188.55 -253 h2.9 v506 h-2.9Z" fill="#AFA6A9" />
+        <path d="M-191.45 -253 h2.9 v506 h-2.9Z" fill="#AFA6A9" />
+        <path d="M204.85 -253 h4.3 v506 h-4.3Z" fill="#AFA6A9" />
+        <path d="M-209.15 -253 h4.3 v506 h-4.3Z" fill="#AFA6A9" />
+      </g>
+      <path d="M0 -119 C 21.16 -83.30 69.00 -84.49 84.64 -41.65 C 96.14 -11.90 96.14 11.90 84.64 41.65 C 69.00 84.49 21.16 83.30 0 119 C -21.16 83.30 -69.00 84.49 -84.64 41.65 C -96.14 11.90 -96.14 -11.90 -84.64 -41.65 C -69.00 -84.49 -21.16 -83.30 0 -119Z" fill="#AFA6A9" stroke="#943F5D" stroke-width="1.7" />
+      <path d="M0 -83 C 16.21 -58.10 52.88 -58.93 64.86 -29.05 C 73.67 -8.30 73.67 8.30 64.86 29.05 C 52.88 58.93 16.21 58.10 0 83 C -16.21 58.10 -52.88 58.93 -64.86 29.05 C -73.67 8.30 -73.67 -8.30 -64.86 -29.05 C -52.88 -58.93 -16.21 -58.10 0 -83Z" fill="#943F5D" stroke="#D8CDB4" stroke-width="1.05" />
+    </g>
+    <g id="crest-wing">
+      <path d="M0 0 C7 -11 17 -18 29 -18 C39 -19 52 -14 56 -6 C62 4 57 17 47 20 C38 23 32 17 34 12 Q35 8 40 8 Q38 13 42 15 C47 17 54 11 52 4 Q52 0 47 -1 Q49 5 45 6 Q44 0 38 -3 Q36 -9 27 -10 Q14 -12 0 0Z" fill="#292D36" />
+      <path d="M4 -13 Q10 -22 16 -31 Q22 -40 29 -37 Q39 -34 40 -23 Q34 -29 30 -27 Q25 -29 21 -22 Q14 -16 4 -13Z" fill="#292D36" />
+      <path d="M10 -40 Q16 -47 20 -52 Q26 -58 32 -54 Q37 -50 35 -44 Q31 -48 28 -47 Q24 -48 22 -44 Q17 -40 10 -40Z" fill="#292D36" />
+      <path d="M4 -58 Q8 -66 12 -68 Q17 -71 20 -67 Q16 -67 15 -63 Q12 -57 4 -58Z" fill="#292D36" />
+      <path d="M4 -65 Q3 -73 9 -78 Q14 -84 17 -88 Q18 -77 14 -71 Q11 -65 4 -65Z" fill="#292D36" />
+    </g>
+    <g id="crest">
+      <use xlink:href="#crest-wing" />
+      <use xlink:href="#crest-wing" transform="scale(-1 1)" />
+      <path d="M0 -4 Q-1 -16 -6 -23 L-4 -27 -10 -30 Q-5 -34 -4 -40 L-1 -51 3 -44 4 -39 9 -33 6 -29 8 -27 4 -23 Q1 -16 0 -4Z" fill="#943F5D" />
+      <path d="M0 -67 Q-3 -73 -1 -78 Q-2 -83 0 -91 Q3 -82 4 -78 Q5 -74 2 -71Z" fill="#292D36" />
+    </g>
+    <g id="side-sprig">
+      <use xlink:href="#crest" transform="translate(0 -23)" />
+      <path d="M0 0 Q2 -6 8 -9 Q15 -12 15 -17 Q16 -22 12 -24 Q8 -25 6 -20 Q4 -27 10 -30 Q17 -32 21 -25 Q26 -11 11 -8 Q5 -6 5 -3 L6 -1Z" fill="#292D36" transform="scale(-1 1)" />
+      <path d="M0 0 Q2 -6 8 -9 Q15 -12 15 -17 Q16 -22 12 -24 Q8 -25 6 -20 Q4 -27 10 -30 Q17 -32 21 -25 Q26 -11 11 -8 Q5 -6 5 -3 L6 -1Z" fill="#292D36" transform="scale(1 1)" />
+      <path d="M-1 0 Q-2 -12 -5 -16 L0 -26 5 -17 Q2 -8 1 0Z" fill="#292D36" />
+    </g>
+    <g id="rosette-petal">
+      <path d="M-1.4 -5 Q-4 -6 -5.1 -10 Q-7.2 -14 -6.4 -17.8 Q-4.2 -17.3 -3.3 -19.4 Q-1.3 -20.8 -.6 -22.5 Q1.5 -20.4 3.5 -20 Q6.2 -19.9 5.7 -16.8 Q7.6 -17.4 7 -14.5 Q6.4 -10.4 3 -8.8 L2 -5.3Z" fill="#AFA6A9" />
+    </g>
+    <g id="rosette">
+      <use xlink:href="#rosette-petal" transform="rotate(0) translate(0 -1.7) scale(0.71 1)" />
+      <use xlink:href="#rosette-petal" transform="rotate(45) translate(0 -1.7) scale(0.67 1)" />
+      <use xlink:href="#rosette-petal" transform="rotate(90) translate(0 -1.7) scale(0.72 1)" />
+      <use xlink:href="#rosette-petal" transform="rotate(135) translate(0 -1.7) scale(0.7 1)" />
+      <use xlink:href="#rosette-petal" transform="rotate(180) translate(0 -1.7) scale(0.65 1)" />
+      <use xlink:href="#rosette-petal" transform="rotate(225) translate(0 -1.7) scale(0.7 1)" />
+      <use xlink:href="#rosette-petal" transform="rotate(270) translate(0 -1.7) scale(0.71 1)" />
+      <use xlink:href="#rosette-petal" transform="rotate(315) translate(0 -1.7) scale(0.67 1)" />
+      <circle cx="0" cy="0" r="4.7" fill="#AFA6A9" />
+    </g>
+    <g id="dark-medal">
+      <ellipse cx="0" cy="0" rx="30.4" ry="32.4" fill="#943F5D" />
+      <ellipse cx="0" cy="0" rx="28.5" ry="30.3" fill="#D8CDB4" />
+      <ellipse cx="0" cy="0" rx="26.9" ry="28.8" fill="#292D36" />
+      <use xlink:href="#rosette" transform="scale(1.04 1.07)" />
+    </g>
+    <g id="wine-medal">
+      <ellipse cx="0" cy="0" rx="30.2" ry="31.6" fill="#D8CDB4" />
+      <ellipse cx="0" cy="0" rx="28.5" ry="29.7" fill="#943F5D" />
+      <use xlink:href="#rosette" />
+    </g>
+    <g id="neck-medal">
+      <ellipse cx="0" cy="0" rx="30" ry="32" fill="#943F5D" />
+      <ellipse cx="0" cy="0" rx="27.8" ry="29.7" fill="#D8CDB4" />
+      <ellipse cx="0" cy="0" rx="26" ry="27.9" fill="#943F5D" />
+      <use xlink:href="#rosette" transform="scale(.99)" />
+    </g>
+    <g id="sprig-half">
+      <path d="M.2 0 Q3 -5 7 -8 Q12 -9 14 -5 Q16 -3 15 0 Q12 -4 10 -3 Q8 -2 7 0 Q5 -3 .2 0Z" fill="#AFA6A9" />
+      <path d="M1 -8 Q4 -13 8 -14 Q12 -15 13 -12 Q10 -12 8 -9 Q5 -8 1 -8Z" fill="#AFA6A9" />
+    </g>
+    <g id="small-sprig">
+      <use xlink:href="#sprig-half" />
+      <use xlink:href="#sprig-half" transform="scale(-1 1)" />
+      <path d="M0 -11 Q-3 -13 -3 -15 L-1 -16 0 -21 2 -17 4 -15 Q3 -13 0 -11Z" fill="#AFA6A9" />
+    </g>
+    <g id="small-bud">
+      <path d="M0 0 C-1 -2 -5 -3 -6 -7 L-4 -7 -6 -11 -2 -9 Q-1.1 -11 -1.1 -13.9 L1.1 -13.9 Q5 -11 4 -8 L7 -8 Q6 -4 0 0Z" fill="#AFA6A9" />
+    </g>
+    <g id="central-bloom">
+      <path d="M-3.2 -2 Q-6 -8 -6.4 -14 Q-7.6 -20 -7 -24 L-5 -24 -4.5 -29 -1.5 -28 0 -31.5 3 -29 5 -29 5 -26 7 -25 Q7 -20 6 -17 Q6 -12 4 -8 L3 -2Z" fill="#D4C18F" stroke="#AFA6A9" stroke-width="0.9" transform="rotate(0) scale(0.86 0.96)" />
+      <path d="M-3.2 -2 Q-6 -8 -6.4 -14 Q-7.6 -20 -7 -24 L-5 -24 -4.5 -29 -1.5 -28 0 -31.5 3 -29 5 -29 5 -26 7 -25 Q7 -20 6 -17 Q6 -12 4 -8 L3 -2Z" fill="#D4C18F" stroke="#AFA6A9" stroke-width="0.9" transform="rotate(45) scale(1 1)" />
+      <path d="M-3.2 -2 Q-6 -8 -6.4 -14 Q-7.6 -20 -7 -24 L-5 -24 -4.5 -29 -1.5 -28 0 -31.5 3 -29 5 -29 5 -26 7 -25 Q7 -20 6 -17 Q6 -12 4 -8 L3 -2Z" fill="#D4C18F" stroke="#AFA6A9" stroke-width="0.9" transform="rotate(90) scale(0.86 0.96)" />
+      <path d="M-3.2 -2 Q-6 -8 -6.4 -14 Q-7.6 -20 -7 -24 L-5 -24 -4.5 -29 -1.5 -28 0 -31.5 3 -29 5 -29 5 -26 7 -25 Q7 -20 6 -17 Q6 -12 4 -8 L3 -2Z" fill="#D4C18F" stroke="#AFA6A9" stroke-width="0.9" transform="rotate(135) scale(1 1)" />
+      <path d="M-3.2 -2 Q-6 -8 -6.4 -14 Q-7.6 -20 -7 -24 L-5 -24 -4.5 -29 -1.5 -28 0 -31.5 3 -29 5 -29 5 -26 7 -25 Q7 -20 6 -17 Q6 -12 4 -8 L3 -2Z" fill="#D4C18F" stroke="#AFA6A9" stroke-width="0.9" transform="rotate(180) scale(0.86 0.96)" />
+      <path d="M-3.2 -2 Q-6 -8 -6.4 -14 Q-7.6 -20 -7 -24 L-5 -24 -4.5 -29 -1.5 -28 0 -31.5 3 -29 5 -29 5 -26 7 -25 Q7 -20 6 -17 Q6 -12 4 -8 L3 -2Z" fill="#D4C18F" stroke="#AFA6A9" stroke-width="0.9" transform="rotate(225) scale(1 1)" />
+      <path d="M-3.2 -2 Q-6 -8 -6.4 -14 Q-7.6 -20 -7 -24 L-5 -24 -4.5 -29 -1.5 -28 0 -31.5 3 -29 5 -29 5 -26 7 -25 Q7 -20 6 -17 Q6 -12 4 -8 L3 -2Z" fill="#D4C18F" stroke="#AFA6A9" stroke-width="0.9" transform="rotate(270) scale(0.86 0.96)" />
+      <path d="M-3.2 -2 Q-6 -8 -6.4 -14 Q-7.6 -20 -7 -24 L-5 -24 -4.5 -29 -1.5 -28 0 -31.5 3 -29 5 -29 5 -26 7 -25 Q7 -20 6 -17 Q6 -12 4 -8 L3 -2Z" fill="#D4C18F" stroke="#AFA6A9" stroke-width="0.9" transform="rotate(315) scale(1 1)" />
+      <path d="M-2 0 Q-4 -4 -3 -8 L-4 -12 -2 -11 -1 -16 2 -12 4 -11 3 -7 Q4 -3 2 0Z" fill="#D8CDB4" transform="rotate(0)" />
+      <path d="M-2 0 Q-4 -4 -3 -8 L-4 -12 -2 -11 -1 -16 2 -12 4 -11 3 -7 Q4 -3 2 0Z" fill="#D8CDB4" transform="rotate(45)" />
+      <path d="M-2 0 Q-4 -4 -3 -8 L-4 -12 -2 -11 -1 -16 2 -12 4 -11 3 -7 Q4 -3 2 0Z" fill="#D8CDB4" transform="rotate(90)" />
+      <path d="M-2 0 Q-4 -4 -3 -8 L-4 -12 -2 -11 -1 -16 2 -12 4 -11 3 -7 Q4 -3 2 0Z" fill="#D8CDB4" transform="rotate(135)" />
+      <path d="M-2 0 Q-4 -4 -3 -8 L-4 -12 -2 -11 -1 -16 2 -12 4 -11 3 -7 Q4 -3 2 0Z" fill="#D8CDB4" transform="rotate(180)" />
+      <path d="M-2 0 Q-4 -4 -3 -8 L-4 -12 -2 -11 -1 -16 2 -12 4 -11 3 -7 Q4 -3 2 0Z" fill="#D8CDB4" transform="rotate(225)" />
+      <path d="M-2 0 Q-4 -4 -3 -8 L-4 -12 -2 -11 -1 -16 2 -12 4 -11 3 -7 Q4 -3 2 0Z" fill="#D8CDB4" transform="rotate(270)" />
+      <path d="M-2 0 Q-4 -4 -3 -8 L-4 -12 -2 -11 -1 -16 2 -12 4 -11 3 -7 Q4 -3 2 0Z" fill="#D8CDB4" transform="rotate(315)" />
+      <circle cx="0" cy="0" r="6.1" fill="#AFA6A9" />
+      <circle cx="0" cy="0" r="2.6" fill="#656A76" />
+    </g>
+    <g id="cartouche">
+      <use xlink:href="#dark-medal" transform="translate(-100 -96)" />
+      <use xlink:href="#dark-medal" transform="translate(-100 96)" />
+      <use xlink:href="#dark-medal" transform="translate(100 -96)" />
+      <use xlink:href="#dark-medal" transform="translate(100 96)" />
+      <use xlink:href="#crest" transform="rotate(0) translate(0 -119)" />
+      <use xlink:href="#crest" transform="rotate(180) translate(0 -119)" />
+      <use xlink:href="#side-sprig" transform="rotate(90) translate(0 -92) scale(1.04 1)" />
+      <use xlink:href="#side-sprig" transform="rotate(270) translate(0 -92) scale(1.04 1)" />
+      <use xlink:href="#small-sprig" transform="rotate(0) translate(0 -48) scale(1.19 1.1)" />
+      <use xlink:href="#small-sprig" transform="rotate(0) scale(-1 1) translate(37 -25) rotate(42) scale(.79 .96)" />
+      <path d="M5 -34 Q12 -39 16 -38 Q21 -37 23 -42 Q26 -45 29 -42 Q31 -38 34 -39 Q34 -35 30 -35 Q26 -35 26 -39 Q22 -34 16 -35 Q13 -34 11 -32Z" fill="#AFA6A9" transform="rotate(0) scale(-1 1)" />
+      <use xlink:href="#small-sprig" transform="rotate(0) scale(1 1) translate(37 -25) rotate(42) scale(.79 .96)" />
+      <path d="M5 -34 Q12 -39 16 -38 Q21 -37 23 -42 Q26 -45 29 -42 Q31 -38 34 -39 Q34 -35 30 -35 Q26 -35 26 -39 Q22 -34 16 -35 Q13 -34 11 -32Z" fill="#AFA6A9" transform="rotate(0) scale(1 1)" />
+      <use xlink:href="#small-sprig" transform="rotate(180) translate(0 -48) scale(1.19 1.1)" />
+      <use xlink:href="#small-sprig" transform="rotate(180) scale(-1 1) translate(37 -25) rotate(42) scale(.79 .96)" />
+      <path d="M5 -34 Q12 -39 16 -38 Q21 -37 23 -42 Q26 -45 29 -42 Q31 -38 34 -39 Q34 -35 30 -35 Q26 -35 26 -39 Q22 -34 16 -35 Q13 -34 11 -32Z" fill="#AFA6A9" transform="rotate(180) scale(-1 1)" />
+      <use xlink:href="#small-sprig" transform="rotate(180) scale(1 1) translate(37 -25) rotate(42) scale(.79 .96)" />
+      <path d="M5 -34 Q12 -39 16 -38 Q21 -37 23 -42 Q26 -45 29 -42 Q31 -38 34 -39 Q34 -35 30 -35 Q26 -35 26 -39 Q22 -34 16 -35 Q13 -34 11 -32Z" fill="#AFA6A9" transform="rotate(180) scale(1 1)" />
+      <use xlink:href="#small-bud" transform="rotate(90) translate(0 -47) scale(1.12 1.25)" />
+      <path d="M1 -48 Q8 -49 10 -54 Q15 -56 12 -60 Q11 -57 8 -58 Q4 -58 4 -55Z" fill="#AFA6A9" transform="rotate(90) scale(-1 1)" />
+      <path d="M1 -48 Q8 -49 10 -54 Q15 -56 12 -60 Q11 -57 8 -58 Q4 -58 4 -55Z" fill="#AFA6A9" transform="rotate(90) scale(1 1)" />
+      <use xlink:href="#small-bud" transform="rotate(270) translate(0 -47) scale(1.12 1.25)" />
+      <path d="M1 -48 Q8 -49 10 -54 Q15 -56 12 -60 Q11 -57 8 -58 Q4 -58 4 -55Z" fill="#AFA6A9" transform="rotate(270) scale(-1 1)" />
+      <path d="M1 -48 Q8 -49 10 -54 Q15 -56 12 -60 Q11 -57 8 -58 Q4 -58 4 -55Z" fill="#AFA6A9" transform="rotate(270) scale(1 1)" />
+      <use xlink:href="#floral-edging" transform="scale(1 1)" />
+      <use xlink:href="#floral-edging" transform="scale(-1 1)" />
+      <use xlink:href="#floral-edging" transform="scale(1 -1)" />
+      <use xlink:href="#floral-edging" transform="scale(-1 -1)" />
+      <use xlink:href="#central-bloom" />
+    </g>
+    <g id="floral-edging">
+      <path d="M0 -40 Q2 -40 4 -37 Q7 -32 11 -32 Q14 -32 17 -34 Q20 -37 24 -34 Q29 -33 31 -30 Q27 -32 24 -31 Q21 -33 19 -31 Q14 -28 11 -29 Q7 -28 4 -33 Q2 -37 0 -36Z" fill="#AFA6A9" />
+      <path d="M40 0 Q36 -2 34 -5 Q32 -10 27 -10 L24 -11 Q29 -14 32 -12 Q37 -10 37 -7 Q39 -4 43 -3Z" fill="#AFA6A9" />
+      <path d="M44 -18 Q46 -20 48 -18 Q50 -16 48 -14 Q45 -14 44 -18Z" fill="#AFA6A9" />
+    </g>
+    <g id="blue-field">
+      <use xlink:href="#field-quarter" transform="scale(-1 -1)" />
+      <use xlink:href="#field-daisy" transform="scale(-1 -1) translate(225 154) scale(.99 1)" />
+      <use xlink:href="#field-quarter" transform="scale(-1 1)" />
+      <use xlink:href="#field-daisy" transform="scale(-1 1) translate(225 154) scale(.99 1)" />
+      <use xlink:href="#field-quarter" transform="scale(1 -1)" />
+      <use xlink:href="#field-daisy" transform="scale(1 -1) translate(225 154) scale(.99 1)" />
+      <use xlink:href="#field-quarter" transform="scale(1 1)" />
+      <use xlink:href="#field-daisy" transform="scale(1 1) translate(225 154) scale(.99 1)" />
+    </g>
+    <g id="bridge">
+      <path d="M30 0 C38 -11 47 -14 60 -12 Q72 -11 78 -18 Q81 -16 79 -13 Q87 -13 93 -20 Q97 -12 91 -8 Q102 -9 110 -17 Q111 -11 106 -8 Q119 -9 123 -1 L129 0 123 1 Q119 9 106 8 Q111 11 110 17 Q102 9 91 8 Q97 12 93 20 Q87 13 79 13 Q81 16 78 18 Q72 11 60 12 Q47 14 30 0Z" fill="#AFA6A9" transform="scale(-1 1)" />
+      <path d="M55 0 Q66 -2 72 -8 Q72 -5 71 -4 Q81 -7 87 -11 Q85 -6 81 -3 Q95 -4 103 0 Q95 4 81 3 Q85 6 87 11 Q81 7 71 4 Q72 5 72 8 Q66 2 55 0Z" fill="#292D36" transform="scale(-1 1)" />
+      <path d="M118 -17 Q128 -7 146 -6 Q158 -6 166 -8 Q171 -6 178 -5 Q167 -1 148 -1 Q139 -3 131 -2 Q135 0 139 0 Q135 0 131 2 Q139 3 148 1 Q167 1 178 5 Q171 6 166 8 Q158 6 146 6 Q128 7 118 17 Q126 5 121 2 L115 0 121 -2 Q126 -5 118 -17Z" fill="#656A76" transform="scale(-1 1)" />
+      <path d="M99 0 Q116 -8 124 -5 Q121 -3 119 -2 Q132 0 140 0 Q126 2 119 2 Q122 3 124 5 Q113 7 99 0Z" fill="#656A76" transform="scale(-1 1)" />
+      <path d="M38 0 Q41 -5 46 -7 Q44 -3 49 -4 Q55 -8 62 -8 Q58 -4 61 -4 Q67 -5 72 -2 L68 0 72 2 Q65 6 59 4 Q56 5 61 8 Q53 8 47 4 Q44 3 46 7 Q40 6 38 0Z" fill="#D4C18F" transform="scale(-1 1)" />
+      <path d="M168 -1.9 C194 -2.2 212 -1.5 230 -2 L230 2 C210 1.9 188 2.7 168 1.9Z" fill="#AFA6A9" transform="scale(-1 1)" />
+      <path d="M177 -20 Q185 -23 191 -18 C187 -20 186 -14 187 -8 L187 8 Q185 18 191 18 Q186 24 178 19 Q185 20 183 12 L183 -10 Q185 -20 177 -20Z" fill="#AFA6A9" transform="scale(-1 1)" />
+      <path d="M30 0 C38 -11 47 -14 60 -12 Q72 -11 78 -18 Q81 -16 79 -13 Q87 -13 93 -20 Q97 -12 91 -8 Q102 -9 110 -17 Q111 -11 106 -8 Q119 -9 123 -1 L129 0 123 1 Q119 9 106 8 Q111 11 110 17 Q102 9 91 8 Q97 12 93 20 Q87 13 79 13 Q81 16 78 18 Q72 11 60 12 Q47 14 30 0Z" fill="#AFA6A9" transform="scale(1 1)" />
+      <path d="M55 0 Q66 -2 72 -8 Q72 -5 71 -4 Q81 -7 87 -11 Q85 -6 81 -3 Q95 -4 103 0 Q95 4 81 3 Q85 6 87 11 Q81 7 71 4 Q72 5 72 8 Q66 2 55 0Z" fill="#292D36" transform="scale(1 1)" />
+      <path d="M118 -17 Q128 -7 146 -6 Q158 -6 166 -8 Q171 -6 178 -5 Q167 -1 148 -1 Q139 -3 131 -2 Q135 0 139 0 Q135 0 131 2 Q139 3 148 1 Q167 1 178 5 Q171 6 166 8 Q158 6 146 6 Q128 7 118 17 Q126 5 121 2 L115 0 121 -2 Q126 -5 118 -17Z" fill="#656A76" transform="scale(1 1)" />
+      <path d="M99 0 Q116 -8 124 -5 Q121 -3 119 -2 Q132 0 140 0 Q126 2 119 2 Q122 3 124 5 Q113 7 99 0Z" fill="#656A76" transform="scale(1 1)" />
+      <path d="M38 0 Q41 -5 46 -7 Q44 -3 49 -4 Q55 -8 62 -8 Q58 -4 61 -4 Q67 -5 72 -2 L68 0 72 2 Q65 6 59 4 Q56 5 61 8 Q53 8 47 4 Q44 3 46 7 Q40 6 38 0Z" fill="#D4C18F" transform="scale(1 1)" />
+      <path d="M168 -1.9 C194 -2.2 212 -1.5 230 -2 L230 2 C210 1.9 188 2.7 168 1.9Z" fill="#AFA6A9" transform="scale(1 1)" />
+      <path d="M177 -20 Q185 -23 191 -18 C187 -20 186 -14 187 -8 L187 8 Q185 18 191 18 Q186 24 178 19 Q185 20 183 12 L183 -10 Q185 -20 177 -20Z" fill="#AFA6A9" transform="scale(1 1)" />
+    </g>
+  </defs>
+  <rect width="1060" height="500" fill="#292D36" />
+  <use xlink:href="#blue-field" transform="translate(0 0)" />
+  <use xlink:href="#blue-field" transform="translate(0 500)" />
+  <use xlink:href="#blue-field" transform="translate(530 -250)" />
+  <use xlink:href="#blue-field" transform="translate(530 250)" />
+  <use xlink:href="#blue-field" transform="translate(530 750)" />
+  <use xlink:href="#blue-field" transform="translate(1060 0)" />
+  <use xlink:href="#blue-field" transform="translate(1060 500)" />
+  <use xlink:href="#bridge" transform="translate(0 250)" />
+  <use xlink:href="#bridge" transform="translate(530 0)" />
+  <use xlink:href="#bridge" transform="translate(530 500)" />
+  <use xlink:href="#bridge" transform="translate(1060 250)" />
+  <use xlink:href="#gold-frame" transform="translate(0 0)" />
+  <use xlink:href="#gold-frame" transform="translate(0 500)" />
+  <use xlink:href="#gold-frame" transform="translate(530 -250)" />
+  <use xlink:href="#gold-frame" transform="translate(530 250)" />
+  <use xlink:href="#gold-frame" transform="translate(530 750)" />
+  <use xlink:href="#gold-frame" transform="translate(1060 0)" />
+  <use xlink:href="#gold-frame" transform="translate(1060 500)" />
+  <use xlink:href="#cartouche" transform="translate(0 0)" />
+  <use xlink:href="#cartouche" transform="translate(0 500)" />
+  <use xlink:href="#cartouche" transform="translate(530 250)" />
+  <use xlink:href="#cartouche" transform="translate(1060 0)" />
+  <use xlink:href="#cartouche" transform="translate(1060 500)" />
+  <use xlink:href="#wine-medal" transform="translate(275 0)" />
+  <use xlink:href="#wine-medal" transform="translate(275 500)" />
+  <use xlink:href="#wine-medal" transform="translate(255 250)" />
+  <use xlink:href="#wine-medal" transform="translate(805 250)" />
+  <use xlink:href="#wine-medal" transform="translate(785 0)" />
+  <use xlink:href="#wine-medal" transform="translate(785 500)" />
+  <use xlink:href="#neck-medal" transform="translate(0 250)" />
+  <use xlink:href="#neck-medal" transform="translate(530 0)" />
+  <use xlink:href="#neck-medal" transform="translate(530 500)" />
+  <use xlink:href="#neck-medal" transform="translate(1060 250)" />
+</svg>

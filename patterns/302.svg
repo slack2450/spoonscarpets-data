@@ -1,0 +1,80 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="120" height="128" viewBox="0 0 120 128">
+  <title>The Tanners Hall, Darlington — fawn and plum windowpane check</title>
+  <defs>
+    <g id="plum-picks">
+      <rect x="0" y="0" width="3" height="2" fill="#42303b" />
+      <rect x="3" y="2" width="3" height="2" fill="#42303b" />
+    </g>
+    <g id="cross-picks">
+      <rect x="0" y="0" width="4" height="2" fill="#90745c" />
+      <rect x="4" y="2" width="4" height="2" fill="#90745c" />
+    </g>
+  </defs>
+  <rect x="0" y="0" width="120" height="128" fill="#301e1b" />
+  <rect x="71" y="0" width="38" height="128" fill="#30222b" />
+  <rect x="0" y="78" width="120" height="36" fill="#30222b" />
+  <rect x="85" y="0" width="10" height="128" fill="#42303b" />
+  <rect x="0" y="92" width="120" height="8" fill="#42303b" />
+  <use xlink:href="#plum-picks" x="72" y="80" />
+  <use xlink:href="#plum-picks" x="72" y="84" />
+  <use xlink:href="#plum-picks" x="72" y="88" />
+  <use xlink:href="#plum-picks" x="72" y="92" />
+  <use xlink:href="#plum-picks" x="72" y="96" />
+  <use xlink:href="#plum-picks" x="72" y="100" />
+  <use xlink:href="#plum-picks" x="72" y="104" />
+  <use xlink:href="#plum-picks" x="72" y="108" />
+  <use xlink:href="#plum-picks" x="78" y="80" />
+  <use xlink:href="#plum-picks" x="78" y="84" />
+  <use xlink:href="#plum-picks" x="78" y="88" />
+  <use xlink:href="#plum-picks" x="78" y="92" />
+  <use xlink:href="#plum-picks" x="78" y="96" />
+  <use xlink:href="#plum-picks" x="78" y="100" />
+  <use xlink:href="#plum-picks" x="78" y="104" />
+  <use xlink:href="#plum-picks" x="78" y="108" />
+  <use xlink:href="#plum-picks" x="84" y="80" />
+  <use xlink:href="#plum-picks" x="84" y="84" />
+  <use xlink:href="#plum-picks" x="84" y="88" />
+  <use xlink:href="#plum-picks" x="84" y="92" />
+  <use xlink:href="#plum-picks" x="84" y="96" />
+  <use xlink:href="#plum-picks" x="84" y="100" />
+  <use xlink:href="#plum-picks" x="84" y="104" />
+  <use xlink:href="#plum-picks" x="84" y="108" />
+  <use xlink:href="#plum-picks" x="90" y="80" />
+  <use xlink:href="#plum-picks" x="90" y="84" />
+  <use xlink:href="#plum-picks" x="90" y="88" />
+  <use xlink:href="#plum-picks" x="90" y="92" />
+  <use xlink:href="#plum-picks" x="90" y="96" />
+  <use xlink:href="#plum-picks" x="90" y="100" />
+  <use xlink:href="#plum-picks" x="90" y="104" />
+  <use xlink:href="#plum-picks" x="90" y="108" />
+  <use xlink:href="#plum-picks" x="96" y="80" />
+  <use xlink:href="#plum-picks" x="96" y="84" />
+  <use xlink:href="#plum-picks" x="96" y="88" />
+  <use xlink:href="#plum-picks" x="96" y="92" />
+  <use xlink:href="#plum-picks" x="96" y="96" />
+  <use xlink:href="#plum-picks" x="96" y="100" />
+  <use xlink:href="#plum-picks" x="96" y="104" />
+  <use xlink:href="#plum-picks" x="96" y="108" />
+  <use xlink:href="#plum-picks" x="102" y="80" />
+  <use xlink:href="#plum-picks" x="102" y="84" />
+  <use xlink:href="#plum-picks" x="102" y="88" />
+  <use xlink:href="#plum-picks" x="102" y="92" />
+  <use xlink:href="#plum-picks" x="102" y="96" />
+  <use xlink:href="#plum-picks" x="102" y="100" />
+  <use xlink:href="#plum-picks" x="102" y="104" />
+  <use xlink:href="#plum-picks" x="102" y="108" />
+  <rect x="19" y="0" width="22" height="128" fill="#563b2e" />
+  <rect x="0" y="21" width="120" height="22" fill="#563b2e" />
+  <rect x="23" y="0" width="15" height="128" fill="#755941" />
+  <rect x="0" y="25" width="120" height="14" fill="#755941" />
+  <rect x="26" y="0" width="9" height="128" fill="#90745c" />
+  <rect x="0" y="29" width="120" height="6" fill="#90745c" />
+  <rect x="24" y="26" width="13" height="12" fill="#755941" />
+  <use xlink:href="#cross-picks" x="23" y="27" />
+  <use xlink:href="#cross-picks" x="23" y="31" />
+  <use xlink:href="#cross-picks" x="23" y="35" />
+  <use xlink:href="#cross-picks" x="31" y="27" />
+  <use xlink:href="#cross-picks" x="31" y="31" />
+  <use xlink:href="#cross-picks" x="31" y="35" />
+</svg>

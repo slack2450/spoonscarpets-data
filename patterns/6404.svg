@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="360" height="612" viewBox="0 0 360 612">
+  <title>The Royal Enfield, Redditch — gold lozenges and radiating palm fronds</title>
+  <defs>
+    <g id="side-leaflets">
+      <path d="M 1,-132 Q 15,-181 35,-244 L 59,-203 Q 35,-174 3,-130 Z" />
+      <path d="M 6,-104 Q 31,-136 71,-185 L 90,-151 Q 57,-133 8,-103 Z" />
+      <path d="M 17,-80 Q 60,-101 102,-131 L 124,-93 Q 81,-85 19,-80 Z" />
+      <path d="M 28,-40 Q 73,-53 132,-80 L 153,-44 Q 111,-41 30,-40 Z" />
+    </g>
+    <g id="upper-fan">
+      <path d="M 0,-303 L 25,-261 Q 15,-224 0,-180 Q -16,-224 -25,-261 Z" />
+      <use xlink:href="#side-leaflets" />
+      <use xlink:href="#side-leaflets" transform="scale(-1 1)" />
+    </g>
+    <g id="fan">
+      <use xlink:href="#upper-fan" />
+      <use xlink:href="#upper-fan" transform="scale(1 -1)" />
+      <path transform="scale(1 1)" d="M 34,0 Q 82,-9 160,-28 L 176,0 L 160,28 Q 88,11 34,1 Z" />
+      <path transform="scale(-1 1)" d="M 34,0 Q 82,-9 160,-28 L 176,0 L 160,28 Q 88,11 34,1 Z" />
+    </g>
+    <g id="gold-medallion">
+      <path d="M 0,-306 180,0 0,306 -180,0 Z" fill="#784D33" />
+      <use xlink:href="#fan" fill="#EDC5A4" />
+      <path d="M 0,-103 Q 14,-60 27,-17 Q 33,0 27,17 Q 13,69 0,103 Q -14,61 -28,16 Q -32,0 -28,-16 Q -15,-60 0,-103 Z" fill="#DEAF4C" />
+    </g>
+  </defs>
+  <rect width="360" height="612" fill="#985E42" />
+  <use xlink:href="#fan" transform="translate(81 43)" fill="#D99A76" />
+  <use xlink:href="#fan" transform="translate(81 655)" fill="#D99A76" />
+  <use xlink:href="#fan" transform="translate(441 43)" fill="#D99A76" />
+  <use xlink:href="#fan" transform="translate(441 655)" fill="#D99A76" />
+  <use xlink:href="#gold-medallion" transform="translate(-99 -263)" />
+  <use xlink:href="#gold-medallion" transform="translate(-99 349)" />
+  <use xlink:href="#gold-medallion" transform="translate(261 -263)" />
+  <use xlink:href="#gold-medallion" transform="translate(261 349)" />
+</svg>

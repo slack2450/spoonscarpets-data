@@ -1,0 +1,213 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="720" height="720" viewBox="0 0 720 720">
+<title>The Fire Station, Whitley Bay — quarter-turn repeat of stepped keys, chequered crescents and concentric fans</title><defs>
+<clipPath id="panel"><path d="M0 0H450V450H0Z"/></clipPath>
+<clipPath id="border"><path d="M0 405H111Q159 421 222 425L333 428V450H0Z"/></clipPath>
+<clipPath id="fan"><path d="M-3 -3H91Q85 14 85 39Q29 71 -2 169Z"/></clipPath>
+<clipPath id="bigband"><path d="M0 272H269V204H432V435H0Z"/></clipPath>
+<clipPath id="topcap"><path d="M298 105Q303 62 328 36Q372 -12 450 12L455 105Z"/></clipPath>
+<clipPath id="arch"><path d="M-4 272C5 211 42 167 107 165C165 165 205 200 224 272Z"/></clipPath>
+<clipPath id="lens"><path d="M32 96Q63 50 108 26C149 32 179 57 188 98Q151 126 106 126Q62 124 32 96Z"/></clipPath>
+<clipPath id="coin"><path d="M108 332C110 300 132 274 161 272C188 269 213 295 215 319C220 350 195 377 166 379C135 382 111 361 108 332Z"/></clipPath>
+<clipPath id="check"><path d="M366 105C349 108 336 126 335 151C333 170 340 189 355 198C378 215 423 211 451 192V105Z"/></clipPath>
+<clipPath id="button"><path d="M217 391C217 365 238 339 273 335C302 340 323 364 327 391C329 419 310 444 276 450C242 446 218 421 217 391Z"/></clipPath>
+<clipPath id="apex"><path d="M106 26Q213 -27 328 35Q304 63 298 105H269V135H187L176 88Z"/></clipPath>
+<clipPath id="scroll"><path d="M34 272H108V336Q52 330 34 272Z"/></clipPath>
+<g id="key">
+<path d="M1 1H24V23H4V6H19V18H9V11H14V14" fill="none" stroke="#392e2b" stroke-width="3" stroke-linejoin="round"/>
+</g>
+<g id="smallkey">
+<path d="M1 1H18V17H3V5H14V13H7V9H10" fill="none" stroke="#392e2b" stroke-width="2.5" stroke-linejoin="round"/>
+</g>
+<g id="quadrant" clip-path="url(#panel)">
+<rect x="0" y="0" width="450" height="450" fill="#436a6b"/>
+<path d="M437 100H450V450H0V404L110 405Q172 422 224 427H437Z" fill="#99b0b1"/>
+<path d="M0 405H111Q159 421 222 425L333 428V450H0Z" fill="#c2a579" stroke="#392e2b" stroke-width="2.4" stroke-linejoin="round"/>
+<g clip-path="url(#border)">
+<use xlink:href="#key" transform="translate(-24 406)"/>
+<use xlink:href="#key" transform="translate(0 456) rotate(180)"/>
+<use xlink:href="#key" transform="translate(1 406)"/>
+<use xlink:href="#key" transform="translate(25 456) rotate(180)"/>
+<use xlink:href="#key" transform="translate(59 406)"/>
+<use xlink:href="#key" transform="translate(83 456) rotate(180)"/>
+<use xlink:href="#key" transform="translate(85 406)"/>
+<use xlink:href="#key" transform="translate(109 456) rotate(180)"/>
+<use xlink:href="#key" transform="translate(117 406)"/>
+<use xlink:href="#key" transform="translate(141 456) rotate(180)"/>
+<use xlink:href="#key" transform="translate(144 406)"/>
+<use xlink:href="#key" transform="translate(168 456) rotate(180)"/>
+<use xlink:href="#key" transform="translate(176 406)"/>
+<use xlink:href="#key" transform="translate(200 456) rotate(180)"/>
+<use xlink:href="#key" transform="translate(202 406)"/>
+<use xlink:href="#key" transform="translate(226 456) rotate(180)"/>
+<use xlink:href="#key" transform="translate(233 406)"/>
+<use xlink:href="#key" transform="translate(257 456) rotate(180)"/>
+<use xlink:href="#key" transform="translate(259 406)"/>
+<use xlink:href="#key" transform="translate(283 456) rotate(180)"/>
+<use xlink:href="#key" transform="translate(290 406)"/>
+<use xlink:href="#key" transform="translate(314 456) rotate(180)"/>
+<use xlink:href="#key" transform="translate(316 406)"/>
+<use xlink:href="#key" transform="translate(340 456) rotate(180)"/>
+</g>
+<rect x="333" y="427" width="33" height="23" fill="#392e2b"/>
+<rect x="446" y="110" width="4" height="211" fill="#c2a579"/>
+<g clip-path="url(#bigband)">
+<circle cx="215" cy="215" r="213" fill="#392e2b"/>
+<circle cx="215" cy="215" r="210" fill="#b32e29"/>
+<circle cx="215" cy="215" r="181" fill="none" stroke="#392e2b" stroke-width="17"/>
+<circle cx="215" cy="215" r="181" fill="none" stroke="#975758" stroke-width="12"/>
+<circle cx="215" cy="215" r="153" fill="none" stroke="#392e2b" stroke-width="15"/>
+<circle cx="215" cy="215" r="153" fill="none" stroke="#975758" stroke-width="10"/>
+<circle cx="215" cy="215" r="132" fill="none" stroke="#392e2b" stroke-width="13"/>
+<circle cx="215" cy="215" r="132" fill="none" stroke="#975758" stroke-width="8"/>
+<circle cx="215" cy="215" r="112" fill="none" stroke="#392e2b" stroke-width="12"/>
+<circle cx="215" cy="215" r="112" fill="none" stroke="#975758" stroke-width="7"/>
+</g>
+<g clip-path="url(#arch)">
+<rect x="-4" y="159" width="234" height="114" fill="#b32e29"/>
+<circle cx="110" cy="273" r="92" fill="none" stroke="#392e2b" stroke-width="14.6"/>
+<circle cx="110" cy="273" r="92" fill="none" stroke="#975758" stroke-width="10"/>
+<circle cx="110" cy="273" r="65" fill="none" stroke="#392e2b" stroke-width="12.6"/>
+<circle cx="110" cy="273" r="65" fill="none" stroke="#975758" stroke-width="8"/>
+<circle cx="110" cy="273" r="43" fill="none" stroke="#392e2b" stroke-width="10.6"/>
+<circle cx="110" cy="273" r="43" fill="none" stroke="#975758" stroke-width="6"/>
+<circle cx="110" cy="273" r="26" fill="none" stroke="#392e2b" stroke-width="9.6"/>
+<circle cx="110" cy="273" r="26" fill="none" stroke="#975758" stroke-width="5"/>
+<circle cx="110" cy="273" r="12" fill="none" stroke="#392e2b" stroke-width="8.6"/>
+<circle cx="110" cy="273" r="12" fill="none" stroke="#975758" stroke-width="4"/>
+</g>
+<path d="M-1 272C9 210 47 166 107 165C167 164 207 208 224 272" fill="none" stroke="#392e2b" stroke-width="2.6" stroke-linejoin="round"/>
+<path d="M-2 272H109V373Q66 377 28 340Q1 313 -2 272Z" fill="#99b0b1" stroke="#392e2b" stroke-width="2.5" stroke-linejoin="round"/>
+<path d="M22 272H108V350Q43 343 22 272Z" fill="#c2a579" stroke="#392e2b" stroke-width="2.5" stroke-linejoin="round"/>
+<g clip-path="url(#scroll)">
+<rect x="30" y="270" width="80" height="69" fill="#b32e29"/>
+<path d="M35 275 Q87 274 93 290 Q106 311 102 340" fill="none" stroke="#392e2b" stroke-width="6" stroke-linejoin="round"/>
+<path d="M35 275 Q87 274 93 290 Q106 311 102 340" fill="none" stroke="#975758" stroke-width="3.3" stroke-linejoin="round"/>
+<path d="M46 286 Q76 285 82 301 Q95 322 91 340" fill="none" stroke="#392e2b" stroke-width="6" stroke-linejoin="round"/>
+<path d="M46 286 Q76 285 82 301 Q95 322 91 340" fill="none" stroke="#975758" stroke-width="3.3" stroke-linejoin="round"/>
+<path d="M56 296 Q66 295 72 311 Q85 332 81 340" fill="none" stroke="#392e2b" stroke-width="6" stroke-linejoin="round"/>
+<path d="M56 296 Q66 295 72 311 Q85 332 81 340" fill="none" stroke="#975758" stroke-width="3.3" stroke-linejoin="round"/>
+</g>
+<path d="M108 273H271V332Q249 340 213 337L109 374Z" fill="#b32e29" stroke="#392e2b" stroke-width="2.5" stroke-linejoin="round"/>
+<path d="M108 274H164Q119 287 109 331Z" fill="#975758"/>
+<g clip-path="url(#coin)">
+<rect x="105" y="268" width="114" height="117" fill="#c2a579"/>
+<circle cx="103" cy="263" r="75" fill="none" stroke="#392e2b" stroke-width="15"/>
+<circle cx="103" cy="263" r="75" fill="none" stroke="#975758" stroke-width="11"/>
+<circle cx="103" cy="263" r="89" fill="none" stroke="#392e2b" stroke-width="17"/>
+<circle cx="103" cy="263" r="89" fill="none" stroke="#99b0b1" stroke-width="13"/>
+<circle cx="103" cy="263" r="105" fill="none" stroke="#392e2b" stroke-width="13"/>
+<circle cx="103" cy="263" r="105" fill="none" stroke="#975758" stroke-width="9"/>
+</g>
+<g clip-path="url(#button)">
+<rect x="214" y="333" width="116" height="121" fill="#975758"/>
+<path d="M273 333H333V416Q308 387 273 393Z" fill="#b32e29" stroke="#392e2b" stroke-width="2.5" stroke-linejoin="round"/>
+<path d="M242 424Q252 404 274 398V450Q251 441 242 424Z" fill="#c2a579" stroke="#392e2b" stroke-width="2.5" stroke-linejoin="round"/>
+<path d="M274 394Q302 387 327 408Q318 443 274 450Z" fill="#99b0b1" stroke="#392e2b" stroke-width="2.5" stroke-linejoin="round"/>
+</g>
+<path d="M217 391C217 365 238 339 273 335C302 340 323 364 327 391C329 419 310 444 276 450C242 446 218 421 217 391Z" fill="none" stroke="#392e2b" stroke-width="2.4" stroke-linejoin="round"/>
+<g clip-path="url(#apex)">
+<rect x="102" y="-4" width="230" height="143" fill="#c2a579"/>
+<rect x="179" y="-1" width="91" height="138" fill="#436a6b"/>
+<path d="M183 0H265V92H181Z" fill="#392e2b"/>
+<path d="M193 6H259V85H191V75H249V16H194Z" fill="#b32e29"/>
+<path d="M193 18H249V77H194Z" fill="#436a6b"/>
+<path d="M201 25H243V69H203Z" fill="#392e2b"/>
+<path d="M207 29H238V65H207Z" fill="#b32e29"/>
+<rect x="215" y="38" width="16" height="20" fill="#392e2b"/>
+<rect x="217.5" y="41" width="11" height="15" fill="#436a6b"/>
+<path d="M187 -2H212Q221 41 187 86L174 88Q201 48 187 -2Z" fill="#c2a579" stroke="#392e2b" stroke-width="2.8" stroke-linejoin="round"/>
+</g>
+<g clip-path="url(#fan)">
+<rect x="-4" y="-4" width="100" height="178" fill="#c2a579"/>
+<circle cx="114" cy="25" r="109" fill="none" stroke="#392e2b" stroke-width="14"/>
+<circle cx="114" cy="25" r="109" fill="none" stroke="#975758" stroke-width="10"/>
+<circle cx="114" cy="25" r="83" fill="none" stroke="#392e2b" stroke-width="13"/>
+<circle cx="114" cy="25" r="83" fill="none" stroke="#975758" stroke-width="9"/>
+<circle cx="114" cy="25" r="54" fill="none" stroke="#392e2b" stroke-width="12"/>
+<circle cx="114" cy="25" r="54" fill="none" stroke="#975758" stroke-width="8"/>
+<circle cx="114" cy="25" r="31" fill="none" stroke="#392e2b" stroke-width="11"/>
+<circle cx="114" cy="25" r="31" fill="none" stroke="#975758" stroke-width="7"/>
+</g>
+<path d="M88 0Q85 16 85 39Q24 77 0 167" fill="none" stroke="#392e2b" stroke-width="2.4" stroke-linejoin="round"/>
+<g clip-path="url(#topcap)">
+<rect x="295" y="-5" width="160" height="112" fill="#b32e29"/>
+<circle cx="411" cy="116" r="96" fill="none" stroke="#392e2b" stroke-width="9"/>
+<circle cx="411" cy="116" r="96" fill="none" stroke="#975758" stroke-width="6"/>
+<circle cx="411" cy="116" r="77" fill="none" stroke="#392e2b" stroke-width="9"/>
+<circle cx="411" cy="116" r="77" fill="none" stroke="#975758" stroke-width="6"/>
+<circle cx="411" cy="116" r="58" fill="none" stroke="#392e2b" stroke-width="9"/>
+<circle cx="411" cy="116" r="58" fill="none" stroke="#975758" stroke-width="6"/>
+<circle cx="411" cy="116" r="40" fill="none" stroke="#392e2b" stroke-width="9"/>
+<circle cx="411" cy="116" r="40" fill="none" stroke="#975758" stroke-width="6"/>
+<circle cx="411" cy="116" r="21" fill="none" stroke="#392e2b" stroke-width="8"/>
+<circle cx="411" cy="116" r="21" fill="none" stroke="#975758" stroke-width="5"/>
+<path d="M295 105Q302 65 329 35Q358 52 379 87L371 104Z" fill="#99b0b1" stroke="#392e2b" stroke-width="2.5" stroke-linejoin="round"/>
+<path d="M368 103Q402 75 444 99L452 106Z" fill="#c2a579" stroke="#392e2b" stroke-width="2.5" stroke-linejoin="round"/>
+</g>
+<path d="M298 105Q303 62 328 36Q372 -12 450 12" fill="none" stroke="#392e2b" stroke-width="2.6" stroke-linejoin="round"/>
+<path d="M270 105H386Q409 159 384 207Q368 251 326 258Q295 263 270 238Z" fill="#392e2b"/>
+<path d="M272 138Q280 117 307 116Q344 114 367 136Q391 168 376 214Q365 248 334 257Q294 267 271 238Z" fill="#c2a579"/>
+<path d="M340 130Q351 109 373 105H450V216Q430 231 397 232Q345 232 336 182Z" fill="#975758" stroke="#392e2b" stroke-width="2.5" stroke-linejoin="round"/>
+<path d="M344 177Q374 206 450 182V219Q423 231 388 228Q357 226 344 205Z" fill="#c2a579"/>
+<g clip-path="url(#check)">
+<rect x="330" y="102" width="123" height="110" fill="#99b0b1"/>
+<path d="M335 106H347Q357 125 352 150L343 150Q345 125 335 106Z" fill="#392e2b"/>
+<path d="M360 106H372Q382 125 377 150L364 150Q370 125 360 106Z" fill="#392e2b"/>
+<path d="M384 106H397Q407 125 403 150L390 150Q394 125 384 106Z" fill="#392e2b"/>
+<path d="M411 106H451Q461 125 452 150L418 150Q421 125 411 106Z" fill="#436a6b"/>
+<path d="M352 150L364 150L361 169L351 166Z" fill="#392e2b"/>
+<path d="M377 150L390 150L387 169L374 170Z" fill="#392e2b"/>
+<path d="M403 150L418 150L419 165L403 167Z" fill="#392e2b"/>
+<path d="M340 165L351 166L352 185L340 183Z" fill="#392e2b"/>
+<path d="M361 169L374 170L378 190L364 190Z" fill="#392e2b"/>
+<path d="M387 169L403 167L406 184L392 187Z" fill="#392e2b"/>
+<path d="M419 165L452 165L452 181L422 182Z" fill="#392e2b"/>
+<path d="M352 185L364 190L366 211L352 210Z" fill="#392e2b"/>
+<path d="M378 190L392 187L394 210L379 212Z" fill="#392e2b"/>
+<path d="M406 184L422 182L425 202L410 207Z" fill="#392e2b"/>
+<path d="M416 151H450V165H419Z" fill="#392e2b"/>
+<rect x="423" y="153" width="16" height="9" fill="#975758"/>
+<path d="M419 166H450V190L423 200Z" fill="#436a6b"/>
+</g>
+<path d="M223 137H270V127H303V194H269V186H223Z" fill="#99b0b1" stroke="#392e2b" stroke-width="2.5" stroke-linejoin="round"/>
+<path d="M270 131H302V192H270Z" fill="#c2a579"/>
+<use xlink:href="#smallkey" transform="translate(226 140)"/>
+<use xlink:href="#smallkey" transform="translate(267 158) rotate(180)"/>
+<use xlink:href="#smallkey" transform="translate(244 181) rotate(180)"/>
+<use xlink:href="#smallkey" transform="translate(248 163)"/>
+<use xlink:href="#smallkey" transform="translate(274 134)"/>
+<use xlink:href="#smallkey" transform="translate(296 170) rotate(180)"/>
+<use xlink:href="#smallkey" transform="translate(275 174)"/>
+<path d="M269 126V198" fill="none" stroke="#392e2b" stroke-width="3" stroke-linejoin="round"/>
+<path d="M131 169Q141 131 174 115Q189 106 205 119Q229 134 222 163Q219 193 189 203Q154 216 131 169Z" fill="#c2a579" stroke="#392e2b" stroke-width="2.5" stroke-linejoin="round"/>
+<path d="M145 170Q160 199 185 192C206 187 216 166 209 144Q204 127 184 124" fill="none" stroke="#975758" stroke-width="9" stroke-linejoin="round"/>
+<path d="M158 163Q161 178 178 180Q197 180 200 160Q201 141 184 136" fill="none" stroke="#392e2b" stroke-width="6" stroke-linejoin="round"/>
+<path d="M165 158Q172 144 185 140Q198 164 181 177Z" fill="#c2a579"/>
+<path d="M32 96Q61 120 105 125Q155 127 187 96C191 136 161 169 121 176C77 185 40 153 32 96Z" fill="#975758" stroke="#392e2b" stroke-width="2.5" stroke-linejoin="round"/>
+<g clip-path="url(#lens)">
+<rect x="28" y="20" width="165" height="113" fill="#99b0b1"/>
+<path d="M109 22Q173 37 190 100H108Z" fill="#392e2b"/>
+<circle cx="107" cy="101" r="56" fill="none" stroke="#99b0b1" stroke-width="16"/>
+<circle cx="107" cy="101" r="22" fill="none" stroke="#99b0b1" stroke-width="11"/>
+<path d="M108 77Q84 79 85 104Q85 119 107 126Z" fill="#c2a579" stroke="#392e2b" stroke-width="2.5" stroke-linejoin="round"/>
+<path d="M108 101Q119 97 127 106Q120 115 108 118Z" fill="#436a6b"/>
+<path d="M108 101L189 100Q149 127 108 126Z" fill="#99b0b1"/>
+<path d="M108 101L147 101Q135 116 108 126Z" fill="#436a6b"/>
+</g>
+<path d="M32 96Q63 50 108 26C149 32 179 57 188 98Q151 126 106 126Q62 124 32 96Z" fill="none" stroke="#392e2b" stroke-width="2.5" stroke-linejoin="round"/>
+</g>
+<g id="repeat">
+<use xlink:href="#quadrant" transform="rotate(0 450 450)"/>
+<use xlink:href="#quadrant" transform="rotate(90 450 450)"/>
+<use xlink:href="#quadrant" transform="rotate(180 450 450)"/>
+<use xlink:href="#quadrant" transform="rotate(270 450 450)"/>
+</g>
+</defs>
+<rect x="0" y="0" width="720" height="720" fill="#436a6b"/>
+<g transform="scale(.8) translate(-42.4 -55.3)">
+<use xlink:href="#repeat" transform="translate(0 0)"/>
+<use xlink:href="#repeat" transform="translate(900 0)"/>
+<use xlink:href="#repeat" transform="translate(0 900)"/>
+<use xlink:href="#repeat" transform="translate(900 900)"/>
+</g>
+</svg>

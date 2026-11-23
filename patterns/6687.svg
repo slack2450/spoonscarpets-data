@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="240" height="240" viewBox="0 0 240 240">
+  <title>The Horse Shoe Inn, Crook — six-yarn striped Axminster carpet repeat</title>
+  <desc>Parallel wine, madder and cocoa bands with narrow copper and buff rules. The width spans a complete sequence of unequal stripe groups.</desc>
+  <defs>
+    <path id="band-1" d="M0 -1h1v242H0Z"/>
+    <path id="band-2" d="M0 -1h2v242H0Z"/>
+    <path id="band-3" d="M0 -1h3v242H0Z"/>
+    <path id="band-4" d="M0 -1h4v242H0Z"/>
+    <path id="band-5" d="M0 -1h5v242H0Z"/>
+    <path id="band-6" d="M0 -1h6v242H0Z"/>
+    <path id="band-7" d="M0 -1h7v242H0Z"/>
+    <path id="band-8" d="M0 -1h8v242H0Z"/>
+    <path id="band-9" d="M0 -1h9v242H0Z"/>
+    <path id="band-10" d="M0 -1h10v242H0Z"/>
+    <path id="band-11" d="M0 -1h11v242H0Z"/>
+  </defs>
+  <rect width="240" height="240" fill="#91564d"/>
+  <use xlink:href="#band-8" x="4" fill="#77473f"/>
+  <use xlink:href="#band-4" x="18" fill="#77473f"/>
+  <use xlink:href="#band-6" x="26" fill="#ae7966"/>
+  <use xlink:href="#band-2" x="32" fill="#7e594f"/>
+  <use xlink:href="#band-4" x="34" fill="#6d4639"/>
+  <use xlink:href="#band-3" x="38" fill="#7e594f"/>
+  <use xlink:href="#band-2" x="41" fill="#ae7966"/>
+  <use xlink:href="#band-10" x="43" fill="#7e594f"/>
+  <use xlink:href="#band-7" x="53" fill="#6d4639"/>
+  <use xlink:href="#band-2" x="60" fill="#7e594f"/>
+  <use xlink:href="#band-4" x="62" fill="#ae7966"/>
+  <use xlink:href="#band-11" x="80" fill="#77473f"/>
+  <use xlink:href="#band-2" x="98" fill="#77473f"/>
+  <use xlink:href="#band-3" x="103" fill="#ae7966"/>
+  <use xlink:href="#band-3" x="108" fill="#77473f"/>
+  <use xlink:href="#band-9" x="111" fill="#7e594f"/>
+  <use xlink:href="#band-2" x="120" fill="#ae7966"/>
+  <use xlink:href="#band-1" x="122" fill="#7e594f"/>
+  <use xlink:href="#band-5" x="126" fill="#77473f"/>
+  <use xlink:href="#band-2" x="140" fill="#ae7966"/>
+  <use xlink:href="#band-4" x="144" fill="#77473f"/>
+  <use xlink:href="#band-2" x="148" fill="#ae7966"/>
+  <use xlink:href="#band-4" x="150" fill="#d2a185"/>
+  <use xlink:href="#band-2" x="154" fill="#ae7966"/>
+  <use xlink:href="#band-2" x="156" fill="#7e594f"/>
+  <use xlink:href="#band-2" x="158" fill="#6d4639"/>
+  <use xlink:href="#band-2" x="160" fill="#77473f"/>
+  <use xlink:href="#band-4" x="165" fill="#77473f"/>
+  <use xlink:href="#band-6" x="175" fill="#77473f"/>
+  <use xlink:href="#band-6" x="186" fill="#ae7966"/>
+  <use xlink:href="#band-2" x="192" fill="#7e594f"/>
+  <use xlink:href="#band-4" x="194" fill="#6d4639"/>
+  <use xlink:href="#band-3" x="198" fill="#7e594f"/>
+  <use xlink:href="#band-2" x="201" fill="#ae7966"/>
+  <use xlink:href="#band-10" x="203" fill="#7e594f"/>
+  <use xlink:href="#band-7" x="213" fill="#6d4639"/>
+  <use xlink:href="#band-2" x="220" fill="#7e594f"/>
+  <use xlink:href="#band-4" x="222" fill="#ae7966"/>
+</svg>

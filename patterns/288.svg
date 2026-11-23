@@ -1,0 +1,234 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="640" height="640" viewBox="0 0 640 640">
+  <title>The Cricketers, Ipswich — acanthus and laurel carpet repeat</title>
+  <defs>
+    <g id="acanthus">
+      <g transform="scale(.4) translate(-185 -495)">
+        <path d="M87 263 Q93 238 68 191 Q109 201 128 216 L100 178 L127 177 L125 145 Q153 152 166 164 L183 96 L204 130 L215 169 L264 149 L258 175 L289 167 Q295 190 279 212 Q301 197 335 191 Q312 232 312 263 L277 255 Q264 291 258 330 Q222 345 184 349 Q153 344 126 348 Q120 305 104 280 Z" fill="#535a3b" />
+        <path d="M97 209 Q91 191 90 137 Q113 147 139 140 Q141 91 183 45 Q233 84 239 138 Q270 139 294 125 Q287 142 293 153 L302 190 Q257 200 213 234 L198 216 L166 214 L128 228 Z" fill="#cda354" />
+        <path d="M140 140 Q142 91 183 45 Q228 79 240 139 L229 126 Q221 99 201 95 L196 83 L185 91 L178 82 L166 100 L162 95 L151 122 Z" fill="#efdaa2" />
+        <path d="M154 337 Q147 279 123 237 Q121 207 110 171 Q138 171 164 193 Q159 160 172 119 Q194 127 205 159 L200 194 Q226 183 246 173 Q229 196 213 220 L202 253 L193 333 Z" fill="#535a3b" />
+        <path d="M172 349 Q178 307 176 266 L171 245 L180 257 L185 202 L192 168 L194 218 L191 254 L207 238 L200 264 Q187 302 195 347 Z" fill="#394557" />
+      </g>
+    </g>
+    <g id="fleur-leaf">
+      <g transform="scale(.4) translate(-185 -495)">
+        <path d="M179 332 Q143 319 104 300 Q84 281 79 242 L119 243 Q95 207 82 164 L67 137 Q91 128 134 141 Q117 99 174 43 Q233 80 232 137 Q271 123 302 142 Q281 168 273 206 L257 245 L290 233 Q284 275 261 298 Q226 317 189 330 Z" fill="#efdaa2" />
+        <path d="M179 331 Q140 313 105 298 Q81 277 80 240 L122 246 Q99 202 88 161 L77 144 Q97 135 145 152 Q132 110 174 63 Q220 87 223 149 Q257 137 292 148 Q273 175 269 203 Q263 225 250 248 L286 236 Q278 277 256 297 Q222 309 190 328 Z" fill="#cda354" />
+        <path d="M179 312 Q150 280 133 242 Q126 214 125 186 Q153 197 176 226 L180 185 Q162 173 164 146 Q161 117 177 93 Q204 109 199 145 Q201 167 186 188 L186 221 Q204 195 238 183 L224 227 Q216 254 195 275 L191 299 Q212 278 242 275 Q220 299 193 309 L189 328 Z" fill="#535a3b" />
+        <path d="M164 311 Q137 304 118 282 Q144 286 166 301 Z" fill="#535a3b" />
+        <path d="M173 334 L177 298 L169 270 L178 279 L181 230 L185 207 L188 246 L194 235 L189 267 L188 294 L195 286 L190 330 Z" fill="#394557" />
+      </g>
+    </g>
+    <g id="border-bud-petal">
+      <path d="M-4 -9 Q-10 -15 -6 -18 Q-3 -20 0 -18 Q4 -21 7 -18 Q7 -12 3 -9 L0 -6 Z" fill="#535a3b" />
+      <path d="M-6 -16 Q-4 -20 0 -18 L3 -19 L4 -16 L0 -16 L-2 -14 Z" fill="#cda354" />
+    </g>
+    <g id="border-bud">
+      <use xlink:href="#border-bud-petal" transform="rotate(0)" />
+      <use xlink:href="#border-bud-petal" transform="rotate(45)" />
+      <use xlink:href="#border-bud-petal" transform="rotate(90)" />
+      <use xlink:href="#border-bud-petal" transform="rotate(135)" />
+      <use xlink:href="#border-bud-petal" transform="rotate(180)" />
+      <use xlink:href="#border-bud-petal" transform="rotate(225)" />
+      <use xlink:href="#border-bud-petal" transform="rotate(270)" />
+      <use xlink:href="#border-bud-petal" transform="rotate(315)" />
+      <circle cx="0" cy="0" r="6.1" fill="#535a3b" />
+      <circle cx="0" cy="0" r="3.6" fill="#832c32" />
+      <path d="M0 -3 L3 -1 L2 2 L-2 3 L-3 0 Z" fill="#535a3b" />
+    </g>
+    <g id="laurel-pair">
+      <path d="M-17 0 Q-17 -9 -10 -14 Q-4 -17 4 -17 Q11 -17 17 -22 Q19 -15 14 -9 Q9 -2 -3 0 Q-9 2 -15 3 Z" fill="#efdaa2" />
+      <path d="M-17 0 Q-17 -9 -10 -14 Q-4 -17 4 -17 Q11 -17 17 -22 Q19 -15 14 -9 Q9 -2 -3 0 Q-9 2 -15 3 Z" fill="#efdaa2" transform="scale(1 -1)" />
+      <path d="M-16 0 Q-15 -8 -9 -12 Q-1 -16 6 -15 Q12 -15 16 -18 Q13 -11 7 -8 Q4 -4 -2 -2 Q-9 1 -16 2 Z" fill="#cda354" />
+      <path d="M-16 0 Q-15 -8 -9 -12 Q-1 -16 6 -15 Q12 -15 16 -18 Q13 -11 7 -8 Q4 -4 -2 -2 Q-9 1 -16 2 Z" fill="#cda354" transform="scale(1 -1)" />
+      <path d="M-16 0 Q-15 -7 -11 -8 Q-9 -7 -9 -3 L-2 -4 L-7 -1 L0 1 Q-8 3 -15 2 Z" fill="#535a3b" />
+    </g>
+    <g id="laurel-petal">
+      <path d="M-5 -5 Q-13 -9 -13 -18 Q-6 -24 0 -21 Q5 -23 10 -21 Q14 -16 10 -10 L4 -4 Z" fill="#cda354" />
+      <path d="M-5 -5 Q-12 -11 -10 -17 Q-6 -16 -4 -20 L0 -16 L6 -19 Q9 -19 9 -15 L6 -9 L0 -6 Z" fill="#535a3b" />
+      <path d="M-3 -10 Q-3 -14 0 -16 L3 -14 L1 -10 Z" fill="#cda354" />
+    </g>
+    <g id="laurel-flower">
+      <use xlink:href="#laurel-petal" transform="rotate(45)" />
+      <use xlink:href="#laurel-petal" transform="rotate(135)" />
+      <use xlink:href="#laurel-petal" transform="rotate(225)" />
+      <use xlink:href="#laurel-petal" transform="rotate(315)" />
+      <path d="M-4 -9 Q-5 -15 0 -21 Q6 -17 4 -11 L1 -7 Z" fill="#cda354" transform="rotate(0)" />
+      <path d="M-4 -9 Q-5 -15 0 -21 Q6 -17 4 -11 L1 -7 Z" fill="#cda354" transform="rotate(90)" />
+      <path d="M-4 -9 Q-5 -15 0 -21 Q6 -17 4 -11 L1 -7 Z" fill="#cda354" transform="rotate(180)" />
+      <path d="M-4 -9 Q-5 -15 0 -21 Q6 -17 4 -11 L1 -7 Z" fill="#cda354" transform="rotate(270)" />
+      <circle cx="0" cy="0" r="8.3" fill="#832c32" />
+      <circle cx="0" cy="0" r="3.35" fill="#cda354" />
+      <path d="M-1 -3 L2 -2 L2 0 L-1 1 Z" fill="#efdaa2" />
+    </g>
+    <g id="corner-spray">
+      <path d="M-4 -26 Q-3 -39 -12 -45 Q-19 -52 -17 -65 Q-5 -64 0 -57 Q3 -69 -1 -78 Q11 -75 15 -66 Q18 -57 11 -49 L12 -43 L22 -46 Q22 -33 11 -27 Z" fill="#535a3b" />
+    </g>
+    <g id="corner-spear">
+      <path d="M-3 -30 Q-10 -39 -20 -41 Q-25 -48 -25 -59 Q-12 -58 -6 -49 Q-9 -64 -5 -72 Q0 -78 0 -85 Q14 -77 15 -65 Q15 -54 7 -46 Q19 -50 25 -57 Q29 -44 17 -35 L6 -30 Z" fill="#535a3b" />
+    </g>
+    <g id="corner-gold">
+      <path d="M-5 -12 Q-15 -16 -17 -24 Q-13 -22 -11 -24 L-13 -30 Q-7 -31 -2 -24 Q-2 -32 2 -36 Q4 -30 9 -28 Q11 -24 7 -18 L2 -14 Z" fill="#cda354" />
+    </g>
+    <g id="corner-red">
+      <path d="M-4 1 Q-12 -4 -13 -13 Q-13 -21 -7 -23 Q-3 -23 0 -26 Q3 -23 7 -23 Q14 -21 14 -14 Q14 -5 5 1 Z" fill="#efdaa2" />
+      <path d="M-4 0 Q-10 -6 -11 -13 Q-11 -19 -6 -20 Q-2 -20 0 -23 Q3 -20 7 -20 Q11 -19 11 -14 Q12 -6 4 0 Z" fill="#832c32" />
+    </g>
+    <g id="corner">
+      <use xlink:href="#corner-spray" transform="rotate(0)" />
+      <use xlink:href="#corner-spray" transform="rotate(90)" />
+      <use xlink:href="#corner-spray" transform="rotate(180)" />
+      <use xlink:href="#corner-spray" transform="rotate(270)" />
+      <use xlink:href="#corner-spear" transform="rotate(45)" />
+      <use xlink:href="#corner-spear" transform="rotate(135)" />
+      <use xlink:href="#corner-spear" transform="rotate(225)" />
+      <use xlink:href="#corner-spear" transform="rotate(315)" />
+      <use xlink:href="#corner-gold" transform="rotate(0)" />
+      <use xlink:href="#corner-gold" transform="rotate(30)" />
+      <use xlink:href="#corner-gold" transform="rotate(60)" />
+      <use xlink:href="#corner-gold" transform="rotate(90)" />
+      <use xlink:href="#corner-gold" transform="rotate(120)" />
+      <use xlink:href="#corner-gold" transform="rotate(150)" />
+      <use xlink:href="#corner-gold" transform="rotate(180)" />
+      <use xlink:href="#corner-gold" transform="rotate(210)" />
+      <use xlink:href="#corner-gold" transform="rotate(240)" />
+      <use xlink:href="#corner-gold" transform="rotate(270)" />
+      <use xlink:href="#corner-gold" transform="rotate(300)" />
+      <use xlink:href="#corner-gold" transform="rotate(330)" />
+      <use xlink:href="#corner-red" transform="rotate(45)" />
+      <use xlink:href="#corner-red" transform="rotate(135)" />
+      <use xlink:href="#corner-red" transform="rotate(225)" />
+      <use xlink:href="#corner-red" transform="rotate(315)" />
+      <circle cx="0" cy="0" r="4.2" fill="#cda354" />
+    </g>
+    <g id="central-petal">
+      <path d="M-2 -5 Q-10 -9 -12 -17 Q-10 -21 -12 -28 Q-6 -27 -2 -32 Q1 -28 6 -27 Q13 -24 11 -16 Q9 -10 3 -6 Z" fill="#535a3b" />
+      <path d="M-7 -15 Q-6 -18 -9 -22 Q-4 -22 -2 -27 L2 -23 L6 -22 L6 -18 L1 -16 L-3 -18 Z" fill="#cda354" />
+    </g>
+    <g id="central-cream">
+      <path d="M-1 -6 Q-11 -11 -10 -20 Q-9 -26 0 -34 Q4 -31 8 -23 Q13 -14 4 -7 Z" fill="#535a3b" />
+      <path d="M-2 -8 Q-10 -14 -8 -21 Q-5 -25 0 -32 Q3 -26 7 -23 L8 -17 Q7 -11 2 -8 Z" fill="#efdaa2" />
+    </g>
+    <g id="centre">
+      <circle cx="0" cy="0" r="54" fill="#535a3b" />
+      <circle cx="0" cy="0" r="52" fill="#252b35" />
+      <circle cx="0" cy="0" r="47" fill="#832c32" />
+      <circle cx="0" cy="0" r="53" fill="none" stroke="#cda354" stroke-width="1.9" stroke-dasharray="8 5 3 7" />
+      <use xlink:href="#central-petal" transform="rotate(0)" />
+      <use xlink:href="#central-petal" transform="rotate(90)" />
+      <use xlink:href="#central-petal" transform="rotate(180)" />
+      <use xlink:href="#central-petal" transform="rotate(270)" />
+      <use xlink:href="#central-cream" transform="rotate(45)" />
+      <use xlink:href="#central-cream" transform="rotate(135)" />
+      <use xlink:href="#central-cream" transform="rotate(225)" />
+      <use xlink:href="#central-cream" transform="rotate(315)" />
+      <circle cx="0" cy="0" r="9.1" fill="#252b35" />
+      <path d="M-4 -5 L0 -7 L5 -3 L5 2 L2 5 L-4 4 L-5 0 Z" fill="#efdaa2" />
+    </g>
+    <g id="medallion">
+      <circle cx="0" cy="0" r="262" fill="#535a3b" />
+      <circle cx="0" cy="0" r="259.8" fill="#252b35" />
+      <circle cx="0" cy="0" r="255.5" fill="#832c32" />
+      <circle cx="0" cy="0" r="247.6" fill="#394557" />
+      <circle cx="0" cy="0" r="261" fill="none" stroke="#cda354" stroke-width="1.65" stroke-dasharray="3 5 7 4" />
+      <use xlink:href="#border-bud" transform="rotate(11.25) translate(0 -218) rotate(0)" />
+      <use xlink:href="#border-bud" transform="rotate(33.75) translate(0 -218) rotate(15)" />
+      <use xlink:href="#border-bud" transform="rotate(56.25) translate(0 -218) rotate(0)" />
+      <use xlink:href="#border-bud" transform="rotate(78.75) translate(0 -218) rotate(15)" />
+      <use xlink:href="#border-bud" transform="rotate(101.25) translate(0 -218) rotate(0)" />
+      <use xlink:href="#border-bud" transform="rotate(123.75) translate(0 -218) rotate(15)" />
+      <use xlink:href="#border-bud" transform="rotate(146.25) translate(0 -218) rotate(0)" />
+      <use xlink:href="#border-bud" transform="rotate(168.75) translate(0 -218) rotate(15)" />
+      <use xlink:href="#border-bud" transform="rotate(191.25) translate(0 -218) rotate(0)" />
+      <use xlink:href="#border-bud" transform="rotate(213.75) translate(0 -218) rotate(15)" />
+      <use xlink:href="#border-bud" transform="rotate(236.25) translate(0 -218) rotate(0)" />
+      <use xlink:href="#border-bud" transform="rotate(258.75) translate(0 -218) rotate(15)" />
+      <use xlink:href="#border-bud" transform="rotate(281.25) translate(0 -218) rotate(0)" />
+      <use xlink:href="#border-bud" transform="rotate(303.75) translate(0 -218) rotate(15)" />
+      <use xlink:href="#border-bud" transform="rotate(326.25) translate(0 -218) rotate(0)" />
+      <use xlink:href="#border-bud" transform="rotate(348.75) translate(0 -218) rotate(15)" />
+      <path d="M 0.000 -204.000 Q 34.629 -174.089 78.067 -188.471 Q 98.614 -147.586 144.250 -144.250 Q 147.586 -98.614 188.471 -78.067 Q 174.089 -34.629 204.000 -0.000 Q 174.089 34.629 188.471 78.067 Q 147.586 98.614 144.250 144.250 Q 98.614 147.586 78.067 188.471 Q 34.629 174.089 0.000 204.000 Q -34.629 174.089 -78.067 188.471 Q -98.614 147.586 -144.250 144.250 Q -147.586 98.614 -188.471 78.067 Q -174.089 34.629 -204.000 0.000 Q -174.089 -34.629 -188.471 -78.067 Q -147.586 -98.614 -144.250 -144.250 Q -98.614 -147.586 -78.067 -188.471 Q -34.629 -174.089 -0.000 -204.000 Z" fill="#832c32" stroke="#cda354" stroke-width="8" stroke-linejoin="round" />
+      <path d="M 0.000 -204.000 Q 34.629 -174.089 78.067 -188.471 Q 98.614 -147.586 144.250 -144.250 Q 147.586 -98.614 188.471 -78.067 Q 174.089 -34.629 204.000 -0.000 Q 174.089 34.629 188.471 78.067 Q 147.586 98.614 144.250 144.250 Q 98.614 147.586 78.067 188.471 Q 34.629 174.089 0.000 204.000 Q -34.629 174.089 -78.067 188.471 Q -98.614 147.586 -144.250 144.250 Q -147.586 98.614 -188.471 78.067 Q -174.089 34.629 -204.000 0.000 Q -174.089 -34.629 -188.471 -78.067 Q -147.586 -98.614 -144.250 -144.250 Q -98.614 -147.586 -78.067 -188.471 Q -34.629 -174.089 -0.000 -204.000 Z" fill="#832c32" stroke="#535a3b" stroke-width="5.9" stroke-linejoin="round" />
+      <path d="M 0.000 -204.000 Q 34.629 -174.089 78.067 -188.471 Q 98.614 -147.586 144.250 -144.250 Q 147.586 -98.614 188.471 -78.067 Q 174.089 -34.629 204.000 -0.000 Q 174.089 34.629 188.471 78.067 Q 147.586 98.614 144.250 144.250 Q 98.614 147.586 78.067 188.471 Q 34.629 174.089 0.000 204.000 Q -34.629 174.089 -78.067 188.471 Q -98.614 147.586 -144.250 144.250 Q -147.586 98.614 -188.471 78.067 Q -174.089 34.629 -204.000 0.000 Q -174.089 -34.629 -188.471 -78.067 Q -147.586 -98.614 -144.250 -144.250 Q -98.614 -147.586 -78.067 -188.471 Q -34.629 -174.089 -0.000 -204.000 Z" fill="#832c32" stroke="#252b35" stroke-width="3.2" stroke-linejoin="round" />
+      <path d="M 0.000 -204.000 Q 34.629 -174.089 78.067 -188.471 Q 98.614 -147.586 144.250 -144.250 Q 147.586 -98.614 188.471 -78.067 Q 174.089 -34.629 204.000 -0.000 Q 174.089 34.629 188.471 78.067 Q 147.586 98.614 144.250 144.250 Q 98.614 147.586 78.067 188.471 Q 34.629 174.089 0.000 204.000 Q -34.629 174.089 -78.067 188.471 Q -98.614 147.586 -144.250 144.250 Q -147.586 98.614 -188.471 78.067 Q -174.089 34.629 -204.000 0.000 Q -174.089 -34.629 -188.471 -78.067 Q -147.586 -98.614 -144.250 -144.250 Q -98.614 -147.586 -78.067 -188.471 Q -34.629 -174.089 -0.000 -204.000 Z" fill="none" stroke="#efdaa2" stroke-width="1.9" stroke-dasharray="5.5 2.1" transform="scale(.986)" />
+      <circle cx="0" cy="0" r="92" fill="#535a3b" />
+      <path d="M-50 -54 Q-50 -77 -54 -103 Q-49 -114 -47 -121 Q-30 -115 -25 -105 L0 -135 L27 -107 Q39 -111 47 -121 L51 -107 Q47 -90 53 -68 L45 -51 Z" fill="#535a3b" transform="rotate(0)" />
+      <path d="M-50 -54 Q-50 -77 -54 -103 Q-49 -114 -47 -121 Q-30 -115 -25 -105 L0 -135 L27 -107 Q39 -111 47 -121 L51 -107 Q47 -90 53 -68 L45 -51 Z" fill="#535a3b" transform="rotate(45)" />
+      <path d="M-50 -54 Q-50 -77 -54 -103 Q-49 -114 -47 -121 Q-30 -115 -25 -105 L0 -135 L27 -107 Q39 -111 47 -121 L51 -107 Q47 -90 53 -68 L45 -51 Z" fill="#535a3b" transform="rotate(90)" />
+      <path d="M-50 -54 Q-50 -77 -54 -103 Q-49 -114 -47 -121 Q-30 -115 -25 -105 L0 -135 L27 -107 Q39 -111 47 -121 L51 -107 Q47 -90 53 -68 L45 -51 Z" fill="#535a3b" transform="rotate(135)" />
+      <path d="M-50 -54 Q-50 -77 -54 -103 Q-49 -114 -47 -121 Q-30 -115 -25 -105 L0 -135 L27 -107 Q39 -111 47 -121 L51 -107 Q47 -90 53 -68 L45 -51 Z" fill="#535a3b" transform="rotate(180)" />
+      <path d="M-50 -54 Q-50 -77 -54 -103 Q-49 -114 -47 -121 Q-30 -115 -25 -105 L0 -135 L27 -107 Q39 -111 47 -121 L51 -107 Q47 -90 53 -68 L45 -51 Z" fill="#535a3b" transform="rotate(225)" />
+      <path d="M-50 -54 Q-50 -77 -54 -103 Q-49 -114 -47 -121 Q-30 -115 -25 -105 L0 -135 L27 -107 Q39 -111 47 -121 L51 -107 Q47 -90 53 -68 L45 -51 Z" fill="#535a3b" transform="rotate(270)" />
+      <path d="M-50 -54 Q-50 -77 -54 -103 Q-49 -114 -47 -121 Q-30 -115 -25 -105 L0 -135 L27 -107 Q39 -111 47 -121 L51 -107 Q47 -90 53 -68 L45 -51 Z" fill="#535a3b" transform="rotate(315)" />
+      <circle cx="0" cy="0" r="66" fill="#394557" />
+      <path d="M-12 -58 Q-7 -70 -4 -83 L1 -108 L4 -85 Q7 -68 14 -58 Z" fill="#394557" transform="rotate(22)" />
+      <path d="M-12 -58 Q-7 -70 -4 -83 L1 -108 L4 -85 Q7 -68 14 -58 Z" fill="#394557" transform="rotate(67)" />
+      <path d="M-12 -58 Q-7 -70 -4 -83 L1 -108 L4 -85 Q7 -68 14 -58 Z" fill="#394557" transform="rotate(112)" />
+      <path d="M-12 -58 Q-7 -70 -4 -83 L1 -108 L4 -85 Q7 -68 14 -58 Z" fill="#394557" transform="rotate(157)" />
+      <path d="M-12 -58 Q-7 -70 -4 -83 L1 -108 L4 -85 Q7 -68 14 -58 Z" fill="#394557" transform="rotate(202)" />
+      <path d="M-12 -58 Q-7 -70 -4 -83 L1 -108 L4 -85 Q7 -68 14 -58 Z" fill="#394557" transform="rotate(247)" />
+      <path d="M-12 -58 Q-7 -70 -4 -83 L1 -108 L4 -85 Q7 -68 14 -58 Z" fill="#394557" transform="rotate(292)" />
+      <path d="M-12 -58 Q-7 -70 -4 -83 L1 -108 L4 -85 Q7 -68 14 -58 Z" fill="#394557" transform="rotate(337)" />
+      <use xlink:href="#acanthus" transform="rotate(0)" />
+      <use xlink:href="#acanthus" transform="rotate(90)" />
+      <use xlink:href="#acanthus" transform="rotate(180)" />
+      <use xlink:href="#acanthus" transform="rotate(270)" />
+      <use xlink:href="#fleur-leaf" transform="rotate(45)" />
+      <use xlink:href="#fleur-leaf" transform="rotate(135)" />
+      <use xlink:href="#fleur-leaf" transform="rotate(225)" />
+      <use xlink:href="#fleur-leaf" transform="rotate(315)" />
+      <use xlink:href="#centre" />
+    </g>
+    <g id="quarter-vine">
+      <use xlink:href="#laurel-pair" transform="rotate(16) translate(0 -315.5) scale(0.79)" />
+      <use xlink:href="#laurel-pair" transform="rotate(22.65) translate(0 -315.5) scale(0.91)" />
+      <use xlink:href="#laurel-pair" transform="rotate(29.5) translate(0 -315.5) scale(1.03)" />
+      <use xlink:href="#laurel-pair" transform="rotate(36.7) translate(0 -315.5) scale(1.08)" />
+    </g>
+    <g id="garland">
+      <use xlink:href="#quarter-vine" transform="rotate(0)" />
+      <use xlink:href="#quarter-vine" transform="rotate(0) scale(-1 1)" />
+      <use xlink:href="#laurel-flower" transform="rotate(45) translate(0 -315.5)" />
+      <use xlink:href="#quarter-vine" transform="rotate(90)" />
+      <use xlink:href="#quarter-vine" transform="rotate(90) scale(-1 1)" />
+      <use xlink:href="#laurel-flower" transform="rotate(135) translate(0 -315.5)" />
+      <use xlink:href="#quarter-vine" transform="rotate(180)" />
+      <use xlink:href="#quarter-vine" transform="rotate(180) scale(-1 1)" />
+      <use xlink:href="#laurel-flower" transform="rotate(225) translate(0 -315.5)" />
+      <use xlink:href="#quarter-vine" transform="rotate(270)" />
+      <use xlink:href="#quarter-vine" transform="rotate(270) scale(-1 1)" />
+      <use xlink:href="#laurel-flower" transform="rotate(315) translate(0 -315.5)" />
+    </g>
+    <g id="shared-sprig">
+      <use xlink:href="#laurel-flower" />
+      <g transform="scale(-1 1)">
+        <use xlink:href="#laurel-pair" transform="translate(31 0) scale(.67 .76)" />
+        <use xlink:href="#laurel-pair" transform="translate(57 0) scale(.72 .93)" />
+      </g>
+      <g transform="scale(1 1)">
+        <use xlink:href="#laurel-pair" transform="translate(31 0) scale(.67 .76)" />
+        <use xlink:href="#laurel-pair" transform="translate(57 0) scale(.72 .93)" />
+      </g>
+    </g>
+  </defs>
+  <rect width="640" height="640" fill="#252b35" />
+  <use xlink:href="#corner" transform="translate(0 0)" />
+  <use xlink:href="#corner" transform="translate(0 640)" />
+  <use xlink:href="#corner" transform="translate(640 0)" />
+  <use xlink:href="#corner" transform="translate(640 640)" />
+  <use xlink:href="#garland" transform="translate(320 320)" />
+  <use xlink:href="#garland" transform="translate(-320 -320)" />
+  <use xlink:href="#garland" transform="translate(-320 320)" />
+  <use xlink:href="#garland" transform="translate(-320 960)" />
+  <use xlink:href="#garland" transform="translate(320 -320)" />
+  <use xlink:href="#garland" transform="translate(320 960)" />
+  <use xlink:href="#garland" transform="translate(960 -320)" />
+  <use xlink:href="#garland" transform="translate(960 320)" />
+  <use xlink:href="#garland" transform="translate(960 960)" />
+  <use xlink:href="#shared-sprig" transform="translate(320 0) rotate(0)" />
+  <use xlink:href="#shared-sprig" transform="translate(320 640) rotate(0)" />
+  <use xlink:href="#shared-sprig" transform="translate(0 320) rotate(90)" />
+  <use xlink:href="#shared-sprig" transform="translate(640 320) rotate(90)" />
+  <use xlink:href="#medallion" transform="translate(320 320)" />
+</svg>

@@ -1,0 +1,420 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1000" height="1000" viewBox="0 0 1000 1000">
+  <title>The Eva Hart, Chadwell Heath — plum medallions, fluted rosettes and acanthus</title>
+  <defs>
+    <g id="shell-stitch">
+      <path d="M-15 -269 Q-15 -277 -9 -280 Q-9 -285 -5 -287 Q-1 -286 0 -280 Q3 -281 5 -285 Q11 -283 11 -278 Q16 -275 14 -269 Q10 -267 6 -270 Q3 -266 -1 -268 Q-6 -264 -10 -268Z" fill="#a08b72" />
+      <path d="M-11 -271 Q-10 -279 -5 -281 Q-1 -281 -1 -275 Q3 -275 5 -280 Q10 -276 8 -271 Q5 -270 2 -272 Q-2 -268 -5 -270Z" fill="#c5b2a1" />
+    </g>
+    <g id="coronet-quarter">
+      <path d="M500 500 H269 Q265 492 256 484 Q270 482 277 469 Q282 473 288 468 Q303 455 304 437 Q303 428 298 421 Q306 414 306 405 Q298 411 289 407 Q279 402 281 393 Q286 398 293 395 Q275 387 277 368 C278 343 294 325 314 326 Q327 325 339 335 Q349 348 360 346 C382 348 405 322 406 303 Q411 300 415 305 Q416 316 431 312 Q448 307 453 295 Q462 278 480 277 L500 302 L500 500 Z" fill="#22252a" />
+      <path d="M273 374 C276 352 285 332 306 329 C323 326 337 337 347 344 C366 355 392 333 402 317 Q415 293 402 278 Q398 269 388 277 Q393 260 405 264 Q415 267 418 283 Q421 300 430 299 Q439 298 440 285 L433 285 Q431 276 443 274 L445 263 Q457 268 453 278 L462 273 Q462 290 446 302 Q430 320 413 306 Q409 313 412 321 Q397 340 378 348 Q357 357 343 346 Q329 335 311 334 C295 334 281 347 285 361 Q288 375 302 376 Q307 376 308 368 Q306 361 299 363 L300 369 Q292 368 293 360 Q297 349 308 352 C324 353 328 368 320 380 Q314 389 303 389 L310 394 Q302 405 294 402 L296 394 Q279 389 273 374Z" fill="#a08b72" />
+      <path d="M331 341 Q329 327 337 312 L343 315 Q340 303 353 296 L352 304 Q360 292 372 293 Q365 300 365 306 L378 302 L373 315 Q360 311 353 322 Q345 332 351 341 Q356 348 370 344 Q355 353 344 346Z" fill="#a08b72" />
+      <path d="M281 357 Q286 330 309 329 Q328 328 339 338 Q319 329 308 334 Q286 337 285 357 Q283 371 297 377 Q286 377 281 368Z" fill="#c5b2a1" />
+      <path d="M388 276 Q397 260 405 267 Q415 270 416 288 Q420 305 432 303 Q444 300 448 288 Q446 305 431 311 Q417 314 410 299 Q410 281 404 277 Q399 269 388 276Z" fill="#c5b2a1" />
+      <use xlink:href="#flanking-sprig" transform="matrix(0 1 1 0 0 0)" />
+      <path d="M283 361 Q287 376 300 376 Q311 376 310 367 Q309 359 303 359 Q300 359 298 362 Q299 352 309 353 Q322 354 322 368 Q323 385 306 388 L312 391 Q307 397 300 398 L303 392 Q290 391 285 383 L291 384 Q281 376 281 366Z" fill="#766049" />
+      <path d="M296 365 Q296 358 303 357 Q313 355 316 365 Q318 375 311 379 Q315 371 310 366 Q305 360 301 365 L302 369 Q296 370 296 365Z" fill="#a08b72" />
+      <path d="M300 380 Q296 382 290 378 Q293 386 301 386 L299 390 Q310 388 314 382 Q305 384 300 380Z" fill="#c5b2a1" />
+      <path d="M338 338 Q336 326 345 315 L345 321 Q352 308 365 306 Q356 312 352 321 L357 317 Q349 329 350 337 L354 344 Q345 344 342 337Z" fill="#c5b2a1" />
+      <use xlink:href="#scroll-fold" />
+      <use xlink:href="#scroll-fold" transform="matrix(0 1 1 0 0 0)" />
+      <path d="M500 322 Q486 325 472 312 Q462 330 445 326 Q430 333 412 328 Q407 347 390 346 Q379 362 359 359 Q357 379 342 385 Q347 404 330 418 Q334 432 327 447 Q330 467 313 475 Q325 490 321 500 H500Z" fill="#a08b72" />
+      <path d="M500 324 Q483 326 473 316 Q471 331 452 333 Q439 336 422 332 Q433 345 449 339 Q469 342 476 330 Q486 338 500 338Z" fill="#c5b2a1" />
+      <path d="M411 331 Q407 350 390 349 Q379 363 362 362 L367 370 Q384 370 394 356 Q408 357 413 346Z" fill="#766049" />
+      <path d="M361 365 Q363 380 347 387 Q350 406 335 417 Q343 416 350 406 Q355 394 353 390 Q368 380 365 368Z" fill="#c5b2a1" />
+      <path d="M332 425 Q337 440 331 451 Q334 465 316 477 Q327 489 324 500 H335 Q337 487 330 478 Q343 464 339 450 Q345 435 337 425Z" fill="#766049" />
+      <path d="M500 346 Q486 347 471 338 Q459 352 443 349 Q429 359 409 356 Q405 373 388 375 Q382 390 370 392 Q368 409 351 420 Q354 439 346 447 Q349 464 333 477 Q344 490 341 500 H500Z" fill="#5e2e4a" />
+    </g>
+    <g id="flanking-sprig">
+      <path d="M407 313 Q412 289 402 277 Q397 269 389 277 Q396 260 407 267 Q415 272 417 284 Q419 301 432 298 Q441 293 439 284 L432 285 Q431 277 441 274 L445 264 Q456 269 451 281 L461 275 Q459 293 442 304 Q421 319 413 304Z" fill="#a08b72" />
+      <path d="M391 274 Q402 258 410 271 Q414 277 416 287 Q420 304 432 301 Q444 296 448 286 Q445 304 431 308 Q418 313 411 299 Q409 274 401 273Z" fill="#c5b2a1" />
+      <path d="M335 337 Q330 322 339 308 L343 314 Q344 302 354 297 L353 305 Q359 296 371 291 L367 304 L379 300 Q377 309 371 315 Q358 311 352 323 Q346 335 351 343Z" fill="#a08b72" />
+    </g>
+    <g id="scroll-fold">
+      <path d="M417 300 Q429 310 438 296 L435 296 Q441 288 438 281 Q447 281 448 275 Q455 281 450 290 L456 286 Q450 302 435 308 Q425 313 417 300Z" fill="#766049" />
+      <path d="M432 298 Q438 292 436 286 L439 285 L441 278 Q446 281 444 288 L447 286 Q444 296 432 298Z" fill="#c5b2a1" />
+    </g>
+    <g id="pointed-clasp">
+      <path d="M0 -353 C-7 -324 -25 -302 -61 -284 Q-57 -271 -45 -266 Q-15 -251 -6 -216 L0 -183 Q8 -237 28 -252 Q43 -266 61 -279 Q30 -294 17 -312 Q6 -328 0 -353Z" fill="#a08b72" />
+      <path d="M0 -338 Q-8 -308 -35 -290 L-48 -281 Q-22 -265 -10 -245 L0 -218 Q10 -252 26 -265 L45 -280 Q16 -299 0 -338Z" fill="#c5b2a1" />
+      <path d="M0 -309 Q-10 -291 -27 -278 Q-13 -265 0 -247 Q12 -263 27 -278 Q11 -292 0 -309Z" fill="#22252a" />
+      <path d="M0 -298 L17 -278 L0 -257 L-17 -278Z" fill="#383532" />
+      <path d="M0 -285 L7 -278 L0 -270 L-7 -278Z" fill="#a08b72" />
+    </g>
+    <g id="flower-clasp">
+      <path d="M-322 0 Q-306 -11 -289 -31 L-273 -47 Q-261 -38 -246 -21 L-222 0 Q-240 14 -256 34 L-273 50 Q-297 21 -322 0Z" fill="#a08b72" />
+      <path d="M-312 0 L-273 -40 L-232 0 L-273 41Z" fill="#c5b2a1" />
+      <path d="M-299 0 Q-294 -12 -283 -10 L-288 -22 Q-277 -26 -272 -15 Q-266 -27 -255 -23 L-259 -12 Q-247 -12 -245 -2 Q-254 -4 -259 1 Q-248 6 -250 15 Q-261 17 -267 9 Q-260 23 -273 29 Q-283 21 -280 12 Q-289 20 -298 13 L-288 3Z" fill="#766049" />
+      <path d="M-273 -19 l5 5 -5 6 -5 -6Z" fill="#5e2e4a" />
+      <path d="M-286 -9 l5 5 -5 6 -5 -6Z" fill="#5e2e4a" />
+      <path d="M-260 -9 l5 5 -5 6 -5 -6Z" fill="#5e2e4a" />
+      <path d="M-281 6 l5 5 -5 6 -5 -6Z" fill="#5e2e4a" />
+      <path d="M-265 6 l5 5 -5 6 -5 -6Z" fill="#5e2e4a" />
+      <ellipse cx="-273" cy="0" rx="5" ry="5" fill="#a08b72" />
+    </g>
+    <g id="lily-spoke">
+      <path d="M-24 -44 Q-14 -50 -7 -60 Q-5 -66 -5 -78 Q-17 -91 -25 -80 Q-28 -93 -15 -97 Q-23 -100 -24 -108 Q-12 -111 -5 -99 Q-14 -113 -8 -119 L0 -133 L8 -122 Q17 -115 8 -101 Q18 -111 25 -105 Q24 -98 15 -95 Q30 -94 26 -79 Q18 -90 11 -84 Q4 -77 5 -67 Q6 -58 22 -45Z" fill="#a08b72" />
+      <path d="M-17 -48 Q-6 -59 -3 -67 L-2 -87 Q-4 -96 -13 -100 Q-2 -101 1 -95 Q6 -106 0 -117 Q12 -111 6 -97 L3 -87 L1 -65 Q4 -54 13 -48Z" fill="#c5b2a1" />
+    </g>
+    <g id="trefoil-spoke">
+      <path d="M-17 -43 Q-8 -53 -8 -62 Q-21 -58 -24 -68 Q-18 -75 -8 -70 Q-14 -76 -8 -82 L0 -89 L8 -82 Q13 -75 8 -69 Q18 -76 25 -68 Q20 -57 9 -62 Q9 -51 17 -44Z" fill="#a08b72" />
+      <path d="M0 -90 L3 -101 Q-5 -105 -10 -99 Q-10 -110 -19 -111 Q-24 -109 -21 -103 Q-32 -110 -23 -118 Q-15 -123 -7 -114 Q-17 -129 -7 -138 Q0 -145 8 -133 Q4 -135 0 -129 L5 -123 Q13 -132 18 -127 Q20 -122 16 -117 Q30 -121 31 -111 Q30 -106 22 -103 Q23 -113 16 -112 Q9 -111 11 -101 L6 -87Z" fill="#a08b72" />
+      <path d="M-5 -133 Q0 -140 6 -134 Q-3 -134 -3 -125 L0 -119 Q-7 -121 -5 -133Z M8 -108 Q15 -119 22 -115 Q12 -114 11 -102Z" fill="#c5b2a1" />
+    </g>
+    <g id="great-medallion">
+      <ellipse cx="500" cy="500" rx="282" ry="279" fill="#5e2e4a" />
+      <use xlink:href="#shell-stitch" transform="translate(500 500) rotate(14)" />
+      <use xlink:href="#shell-stitch" transform="translate(500 500) rotate(21)" />
+      <use xlink:href="#shell-stitch" transform="translate(500 500) rotate(28)" />
+      <use xlink:href="#shell-stitch" transform="translate(500 500) rotate(35)" />
+      <use xlink:href="#shell-stitch" transform="translate(500 500) rotate(42)" />
+      <use xlink:href="#shell-stitch" transform="translate(500 500) rotate(49)" />
+      <use xlink:href="#shell-stitch" transform="translate(500 500) rotate(56)" />
+      <use xlink:href="#shell-stitch" transform="translate(500 500) rotate(63)" />
+      <use xlink:href="#shell-stitch" transform="translate(500 500) rotate(70)" />
+      <use xlink:href="#shell-stitch" transform="translate(500 500) rotate(77)" />
+      <use xlink:href="#shell-stitch" transform="translate(500 500) rotate(105)" />
+      <use xlink:href="#shell-stitch" transform="translate(500 500) rotate(112)" />
+      <use xlink:href="#shell-stitch" transform="translate(500 500) rotate(119)" />
+      <use xlink:href="#shell-stitch" transform="translate(500 500) rotate(126)" />
+      <use xlink:href="#shell-stitch" transform="translate(500 500) rotate(133)" />
+      <use xlink:href="#shell-stitch" transform="translate(500 500) rotate(140)" />
+      <use xlink:href="#shell-stitch" transform="translate(500 500) rotate(147)" />
+      <use xlink:href="#shell-stitch" transform="translate(500 500) rotate(154)" />
+      <use xlink:href="#shell-stitch" transform="translate(500 500) rotate(161)" />
+      <use xlink:href="#shell-stitch" transform="translate(500 500) rotate(168)" />
+      <use xlink:href="#shell-stitch" transform="translate(500 500) rotate(196)" />
+      <use xlink:href="#shell-stitch" transform="translate(500 500) rotate(203)" />
+      <use xlink:href="#shell-stitch" transform="translate(500 500) rotate(210)" />
+      <use xlink:href="#shell-stitch" transform="translate(500 500) rotate(217)" />
+      <use xlink:href="#shell-stitch" transform="translate(500 500) rotate(224)" />
+      <use xlink:href="#shell-stitch" transform="translate(500 500) rotate(231)" />
+      <use xlink:href="#shell-stitch" transform="translate(500 500) rotate(238)" />
+      <use xlink:href="#shell-stitch" transform="translate(500 500) rotate(245)" />
+      <use xlink:href="#shell-stitch" transform="translate(500 500) rotate(252)" />
+      <use xlink:href="#shell-stitch" transform="translate(500 500) rotate(287)" />
+      <use xlink:href="#shell-stitch" transform="translate(500 500) rotate(294)" />
+      <use xlink:href="#shell-stitch" transform="translate(500 500) rotate(301)" />
+      <use xlink:href="#shell-stitch" transform="translate(500 500) rotate(308)" />
+      <use xlink:href="#shell-stitch" transform="translate(500 500) rotate(315)" />
+      <use xlink:href="#shell-stitch" transform="translate(500 500) rotate(322)" />
+      <use xlink:href="#shell-stitch" transform="translate(500 500) rotate(329)" />
+      <use xlink:href="#shell-stitch" transform="translate(500 500) rotate(336)" />
+      <use xlink:href="#shell-stitch" transform="translate(500 500) rotate(343)" />
+      <use xlink:href="#coronet-quarter" />
+      <use xlink:href="#coronet-quarter" transform="translate(1000 0) scale(-1 1)" />
+      <use xlink:href="#coronet-quarter" transform="translate(0 1000) scale(1 -1)" />
+      <use xlink:href="#coronet-quarter" transform="translate(1000 1000) scale(-1 -1)" />
+      <use xlink:href="#pointed-clasp" transform="translate(500 500) rotate(0)" />
+      <use xlink:href="#flower-clasp" transform="translate(500 500) rotate(0)" />
+      <use xlink:href="#pointed-clasp" transform="translate(500 500) rotate(180)" />
+      <use xlink:href="#flower-clasp" transform="translate(500 500) rotate(180)" />
+      <use xlink:href="#band-inlay" />
+      <use xlink:href="#band-inlay" transform="translate(1000 0) scale(-1 1)" />
+      <use xlink:href="#band-inlay" transform="translate(0 1000) scale(1 -1)" />
+      <use xlink:href="#band-inlay" transform="translate(1000 1000) scale(-1 -1)" />
+      <use xlink:href="#lily-spoke" transform="translate(500 500) rotate(0)" />
+      <use xlink:href="#trefoil-spoke" transform="translate(500 500) rotate(45)" />
+      <use xlink:href="#lily-spoke" transform="translate(500 500) rotate(90)" />
+      <use xlink:href="#trefoil-spoke" transform="translate(500 500) rotate(135)" />
+      <use xlink:href="#lily-spoke" transform="translate(500 500) rotate(180)" />
+      <use xlink:href="#trefoil-spoke" transform="translate(500 500) rotate(225)" />
+      <use xlink:href="#lily-spoke" transform="translate(500 500) rotate(270)" />
+      <use xlink:href="#trefoil-spoke" transform="translate(500 500) rotate(315)" />
+      <ellipse cx="500" cy="500" rx="56" ry="52" fill="#a08b72" />
+      <ellipse cx="500" cy="500" rx="51" ry="47" fill="#22252a" />
+      <use xlink:href="#floret-petal" transform="translate(500 500) rotate(0)" />
+      <use xlink:href="#floret-petal" transform="translate(500 500) rotate(45)" />
+      <use xlink:href="#floret-petal" transform="translate(500 500) rotate(90)" />
+      <use xlink:href="#floret-petal" transform="translate(500 500) rotate(135)" />
+      <use xlink:href="#floret-petal" transform="translate(500 500) rotate(180)" />
+      <use xlink:href="#floret-petal" transform="translate(500 500) rotate(225)" />
+      <use xlink:href="#floret-petal" transform="translate(500 500) rotate(270)" />
+      <use xlink:href="#floret-petal" transform="translate(500 500) rotate(315)" />
+      <ellipse cx="500" cy="500" rx="15" ry="13" fill="#766049" />
+      <path d="M487 500 Q491 490 503 490 Q514 491 514 501 Q513 511 501 511 Q491 510 494 502 Q496 497 503 499 L505 503 Q508 497 501 496 Q493 496 491 505Z" fill="#a08b72" />
+    </g>
+    <g id="band-inlay">
+      <path d="M348 417 Q354 408 355 397 L360 392 Q361 403 354 413Z M421 346 Q431 346 438 341 Q435 348 425 351Z M480 335 Q489 337 496 332 L493 339 Q486 342 480 339Z" fill="#c5b2a1" />
+    </g>
+    <g id="floret-petal">
+      <path d="M-8 -8 Q-15 -17 -12 -24 Q-9 -30 -4 -29 L0 -36 L5 -29 Q14 -31 15 -23 Q14 -15 6 -8Z" fill="#a08b72" />
+      <path d="M-4 -14 Q-8 -20 -7 -25 L-2 -23 L1 -29 Q6 -23 3 -18Z" fill="#c5b2a1" />
+    </g>
+    <g id="acanthus">
+      <path d="M684 151 Q699 142 708 158 Q713 169 711 177 Q722 192 726 222 Q731 256 736 283 Q741 306 756 320 C769 332 787 335 798 327 Q816 316 813 298 Q811 281 795 279 Q779 276 773 291 Q766 305 779 312 Q789 318 796 310 Q802 302 794 298 Q787 297 788 304 Q778 300 784 292 Q790 286 798 291 C816 301 804 324 786 326 Q762 329 749 311 L741 318 Q742 330 751 338 L741 335 Q743 345 750 350 L738 349 Q739 358 748 364 L736 364 Q740 372 745 375 Q723 380 705 361 Q691 351 684 361 Q681 371 665 366 C643 369 624 359 623 343 C621 326 633 316 646 318 Q657 318 658 329 Q658 339 648 340 Q640 340 640 334 Q648 336 650 330 Q648 325 641 327 Q628 332 633 346 Q640 360 656 356 Q671 354 681 332 C699 303 706 247 705 209 Q699 250 670 281 C635 321 572 322 534 290 Q519 277 513 249 Q520 255 526 248 L533 239 Q537 257 550 259 L547 249 Q559 252 561 244 L567 231 Q571 244 578 248 L579 256 L585 250 Q587 260 596 263 L602 256 Q604 264 611 265 Q627 265 639 255 L636 263 Q652 264 662 251 L660 258 C682 244 701 214 704 186 L701 176 Q694 184 683 186 Q692 176 690 168 Q690 160 684 151Z" fill="#766049" />
+      <path d="M513 249 Q520 256 526 248 L532 239 Q536 259 550 263 Q558 283 575 295 Q539 285 526 263 Q532 285 550 297 Q521 282 513 249Z M547 248 Q555 254 561 245 L566 231 Q570 246 578 250 L580 257 L585 249 Q589 260 596 263 L602 255 Q605 268 617 266 L628 261 L625 267 Q643 266 650 256 L649 263 Q668 256 679 238 Q672 259 654 270 Q628 288 598 283 Q620 295 645 278 Q626 303 589 291 Q559 282 547 248Z" fill="#a08b72" />
+      <path d="M515 251 Q522 256 525 250 Q532 277 546 286 Q521 277 515 251Z M551 254 L561 246 L566 232 Q569 246 577 252 L578 260 L584 253 Q589 266 599 269 Q590 273 582 268 L585 277 Q565 269 557 255 Q560 267 571 277 Q553 268 551 254Z M596 270 Q614 278 631 270 Q620 280 603 279Z" fill="#c5b2a1" />
+      <path d="M688 152 Q702 147 706 158 L712 172 L705 170 Q701 184 684 185 Q693 174 691 166Z M714 187 Q727 214 722 233 L727 228 Q730 248 721 265 L729 259 Q730 280 720 287 L732 281 Q731 296 719 306 L732 298 Q732 312 722 320 Q733 322 740 315 Q740 329 729 334 L742 330 Q744 341 733 345 L745 344 Q740 354 732 357 Q736 361 742 359 L747 366 Q731 374 718 365 Q698 350 701 327 Q701 315 708 303 Q710 298 707 296 Q700 315 689 320 Q701 302 706 283 Q713 267 716 243 Q723 228 715 212Z" fill="#a08b72" />
+      <path d="M720 221 Q725 242 717 258 L718 249Z M723 263 Q725 277 715 286 L717 276Z M716 298 Q717 310 709 320 L709 312Z M711 328 Q714 338 727 340 Q720 344 714 341 Q719 349 731 350 Q723 357 715 351 Q720 361 730 363 Q719 368 707 354 Q701 343 703 335Z" fill="#c5b2a1" />
+      <path d="M684 320 Q686 337 674 351 Q661 367 642 359 Q628 354 628 341 Q628 328 642 324 Q654 321 655 331 Q654 337 647 336 Q651 334 649 330 Q646 326 639 330 Q632 336 635 344 Q642 359 657 353 Q671 348 675 332Z" fill="#a08b72" />
+      <path d="M752 307 Q751 289 761 276 L765 281 Q767 266 780 266 L779 259 L789 263 L792 253 Q805 263 806 269 Q830 277 839 301 L830 299 Q838 310 834 326 Q827 335 813 339 Q826 317 817 296 Q809 277 792 276 Q773 276 768 294 L772 291 Q771 302 764 306Z" fill="#a08b72" />
+      <path d="M758 295 Q761 280 770 278 L770 272 L779 272 L778 266 L788 269 L792 261 Q801 269 803 277 Q787 269 775 281 L778 282 Q765 288 765 298Z M755 311 Q768 328 788 325 Q805 322 805 307 Q807 323 797 329 Q777 339 755 319Z" fill="#c5b2a1" />
+      <path d="M746 351 Q760 347 773 350 L767 343 Q780 346 789 342 Q801 348 815 341 Q834 332 845 322 C864 303 890 302 913 316 Q937 331 941 354 L946 351 Q950 366 947 381 L952 379 Q950 400 942 410 L947 407 Q941 430 920 441 Q895 455 868 441 L872 437 Q849 422 852 404 Q854 387 871 379 Q886 371 893 385 L889 392 Q885 384 879 385 Q865 389 865 401 Q863 414 874 420 L873 412 L879 409 Q879 423 893 425 Q915 426 925 404 Q940 370 918 343 Q903 325 883 325 Q856 322 839 343 Q828 354 827 369 Q814 366 803 369 Q783 371 761 359 L766 366 Q755 363 746 351Z" fill="#a08b72" />
+      <path d="M754 351 Q762 348 774 351 L768 345 Q777 347 786 344 Q799 349 813 344 L809 351 Q824 349 837 335 Q831 353 812 358 Q790 364 769 354 L774 360Z M849 321 Q864 309 878 310 L876 306 Q891 302 902 312 L901 307 Q914 311 920 321 L922 317 Q936 329 936 339 L943 339 L940 350 Q936 340 925 336 Q916 325 903 323 L907 320 Q891 314 878 319 L883 315 Q863 314 849 326Z" fill="#c5b2a1" />
+      <path d="M936 355 Q945 356 946 349 Q951 364 946 380 L951 378 Q950 395 941 408 L945 407 Q939 423 926 429 L929 422 Q918 435 905 436 L910 431 Q885 446 864 431 Q857 426 855 416 Q868 428 881 425 L876 416 Q886 430 900 425 Q922 420 930 396 Q937 379 933 365Z M859 400 Q859 385 872 380 Q882 374 890 382 Q877 379 870 390 L866 401Z" fill="#c5b2a1" />
+      <use xlink:href="#seed-cluster" />
+      <path d="M546 233 Q554 216 563 207 Q577 190 593 190 Q607 191 608 201 Q609 213 599 217 Q592 219 588 214 Q584 209 590 204 Q590 210 596 208 Q600 206 596 201 Q587 196 582 206 Q575 219 588 226 Q601 232 614 223 Q630 214 624 195 L619 197 L623 187 Q618 181 610 181 L618 174 Q608 168 597 173 Q603 158 622 165 Q608 149 591 156 L591 152 Q570 153 559 168 L568 167 Q549 181 546 199 L553 192 Q547 210 546 233Z" fill="#a08b72" />
+      <path d="M551 208 Q558 183 577 175 Q565 175 558 181 Q571 160 593 156 L591 161 Q606 155 617 163 Q605 160 594 168 L603 168 Q595 172 590 178 Q610 173 619 183 Q605 179 592 187 Q571 182 551 208Z M579 208 Q582 199 589 199 Q580 207 585 216 Q592 225 605 219 Q597 229 587 225 Q576 221 579 208Z" fill="#c5b2a1" />
+      <use xlink:href="#grain" transform="translate(646 192) rotate(8) scale(0.85)" />
+      <use xlink:href="#grain" transform="translate(629 207) rotate(13) scale(0.85)" />
+      <use xlink:href="#grain" transform="translate(647 211) rotate(25) scale(1)" />
+      <use xlink:href="#grain" transform="translate(663 207) rotate(-15) scale(0.7)" />
+      <use xlink:href="#grain" transform="translate(654 225) rotate(15) scale(0.6)" />
+      <use xlink:href="#grain" transform="translate(636 232) rotate(-8) scale(0.65)" />
+      <use xlink:href="#grain" transform="translate(676 430) rotate(-5) scale(0.55)" />
+      <use xlink:href="#grain" transform="translate(697 451) rotate(30) scale(0.6)" />
+      <use xlink:href="#grain" transform="translate(511 311) rotate(15) scale(0.75)" />
+    </g>
+    <g id="seed-cluster">
+      <path d="M684 365 q1 -6 6 -8 l4 -3 3 4 q8 3 7 11 l-4 -1 -3 4 -4 -1 -2 3Z" fill="#766049" />
+      <path d="M685 365 l4 -6 4 1 2 4 -4 4 -4 2Z" fill="#a08b72" />
+      <path d="M689 361 l4 -3 3 4 -4 3Z" fill="#c5b2a1" />
+      <path d="M695 372 q1 -6 7 -9 l4 -3 3 4 q9 3 8 12 l-4 -1 -3 4 -4 -1 -2 3Z" fill="#766049" />
+      <path d="M696 372 l4 -7 4 1 2 4 -4 4 -4 2Z" fill="#a08b72" />
+      <path d="M701 368 l4 -3 3 4 -4 3Z" fill="#c5b2a1" />
+      <path d="M674 378 q1 -6 7 -9 l4 -3 3 4 q9 3 8 12 l-4 -1 -3 4 -4 -1 -2 3Z" fill="#766049" />
+      <path d="M675 378 l4 -7 4 1 2 4 -4 4 -4 2Z" fill="#a08b72" />
+      <path d="M680 374 l4 -3 3 4 -4 3Z" fill="#c5b2a1" />
+      <path d="M709 385 q1 -6 6 -8 l4 -3 3 4 q8 3 7 11 l-4 -1 -3 4 -4 -1 -2 3Z" fill="#5e2e4a" />
+      <path d="M710 385 l4 -6 4 1 2 4 -4 4 -4 2Z" fill="#a08b72" />
+      <path d="M714 381 l4 -3 3 4 -4 3Z" fill="#c5b2a1" />
+      <path d="M684 390 q1 -6 8 -10 l4 -3 3 4 q10 3 9 13 l-4 -1 -3 4 -4 -1 -2 3Z" fill="#766049" />
+      <path d="M685 390 l5 -8 4 1 2 4 -4 4 -4 2Z" fill="#a08b72" />
+      <path d="M691 386 l4 -3 3 4 -4 3Z" fill="#c5b2a1" />
+      <path d="M664 391 q1 -6 5 -7 l4 -3 3 4 q7 3 6 10 l-4 -1 -3 4 -4 -1 -2 3Z" fill="#766049" />
+      <path d="M665 391 l3 -5 4 1 2 4 -4 4 -4 2Z" fill="#a08b72" />
+      <path d="M668 387 l4 -3 3 4 -4 3Z" fill="#c5b2a1" />
+      <path d="M699 402 q1 -6 5 -7 l4 -3 3 4 q7 3 6 10 l-4 -1 -3 4 -4 -1 -2 3Z" fill="#766049" />
+      <path d="M700 402 l3 -5 4 1 2 4 -4 4 -4 2Z" fill="#a08b72" />
+      <path d="M703 398 l4 -3 3 4 -4 3Z" fill="#c5b2a1" />
+      <path d="M675 407 q1 -6 6 -8 l4 -3 3 4 q8 3 7 11 l-4 -1 -3 4 -4 -1 -2 3Z" fill="#766049" />
+      <path d="M676 407 l4 -6 4 1 2 4 -4 4 -4 2Z" fill="#a08b72" />
+      <path d="M680 403 l4 -3 3 4 -4 3Z" fill="#c5b2a1" />
+      <path d="M714 397 q1 -6 4 -6 l4 -3 3 4 q6 3 5 9 l-4 -1 -3 4 -4 -1 -2 3Z" fill="#5e2e4a" />
+      <path d="M715 397 l3 -4 4 1 2 4 -4 4 -4 2Z" fill="#a08b72" />
+      <path d="M717 393 l4 -3 3 4 -4 3Z" fill="#c5b2a1" />
+    </g>
+    <g id="grain">
+      <path d="M-6 1 L-3 -2 L-2 -5 L1 -3 L5 -4 L6 0 L2 2 L1 5 L-2 3 L-5 4Z" fill="#a08b72" />
+    </g>
+    <g id="pleated-wheel">
+      <ellipse cx="0" cy="0" rx="151" ry="160" fill="#766049" />
+      <ellipse cx="0" cy="0" rx="143" ry="151" fill="#a08b72" />
+      <ellipse cx="0" cy="0" rx="137" ry="145" fill="#383532" />
+      <use xlink:href="#rope-link" transform="scale(.969 1.025) rotate(0)" />
+      <use xlink:href="#rope-link" transform="scale(.969 1.025) rotate(8.182)" />
+      <use xlink:href="#rope-link" transform="scale(.969 1.025) rotate(16.364)" />
+      <use xlink:href="#rope-link" transform="scale(.969 1.025) rotate(24.545)" />
+      <use xlink:href="#rope-link" transform="scale(.969 1.025) rotate(32.727)" />
+      <use xlink:href="#rope-link" transform="scale(.969 1.025) rotate(40.909)" />
+      <use xlink:href="#rope-link" transform="scale(.969 1.025) rotate(49.091)" />
+      <use xlink:href="#rope-link" transform="scale(.969 1.025) rotate(57.273)" />
+      <use xlink:href="#rope-link" transform="scale(.969 1.025) rotate(65.455)" />
+      <use xlink:href="#rope-link" transform="scale(.969 1.025) rotate(73.636)" />
+      <use xlink:href="#rope-link" transform="scale(.969 1.025) rotate(81.818)" />
+      <use xlink:href="#rope-link" transform="scale(.969 1.025) rotate(90)" />
+      <use xlink:href="#rope-link" transform="scale(.969 1.025) rotate(98.182)" />
+      <use xlink:href="#rope-link" transform="scale(.969 1.025) rotate(106.364)" />
+      <use xlink:href="#rope-link" transform="scale(.969 1.025) rotate(114.545)" />
+      <use xlink:href="#rope-link" transform="scale(.969 1.025) rotate(122.727)" />
+      <use xlink:href="#rope-link" transform="scale(.969 1.025) rotate(130.909)" />
+      <use xlink:href="#rope-link" transform="scale(.969 1.025) rotate(139.091)" />
+      <use xlink:href="#rope-link" transform="scale(.969 1.025) rotate(147.273)" />
+      <use xlink:href="#rope-link" transform="scale(.969 1.025) rotate(155.455)" />
+      <use xlink:href="#rope-link" transform="scale(.969 1.025) rotate(163.636)" />
+      <use xlink:href="#rope-link" transform="scale(.969 1.025) rotate(171.818)" />
+      <use xlink:href="#rope-link" transform="scale(.969 1.025) rotate(180)" />
+      <use xlink:href="#rope-link" transform="scale(.969 1.025) rotate(188.182)" />
+      <use xlink:href="#rope-link" transform="scale(.969 1.025) rotate(196.364)" />
+      <use xlink:href="#rope-link" transform="scale(.969 1.025) rotate(204.545)" />
+      <use xlink:href="#rope-link" transform="scale(.969 1.025) rotate(212.727)" />
+      <use xlink:href="#rope-link" transform="scale(.969 1.025) rotate(220.909)" />
+      <use xlink:href="#rope-link" transform="scale(.969 1.025) rotate(229.091)" />
+      <use xlink:href="#rope-link" transform="scale(.969 1.025) rotate(237.273)" />
+      <use xlink:href="#rope-link" transform="scale(.969 1.025) rotate(245.455)" />
+      <use xlink:href="#rope-link" transform="scale(.969 1.025) rotate(253.636)" />
+      <use xlink:href="#rope-link" transform="scale(.969 1.025) rotate(261.818)" />
+      <use xlink:href="#rope-link" transform="scale(.969 1.025) rotate(270)" />
+      <use xlink:href="#rope-link" transform="scale(.969 1.025) rotate(278.182)" />
+      <use xlink:href="#rope-link" transform="scale(.969 1.025) rotate(286.364)" />
+      <use xlink:href="#rope-link" transform="scale(.969 1.025) rotate(294.545)" />
+      <use xlink:href="#rope-link" transform="scale(.969 1.025) rotate(302.727)" />
+      <use xlink:href="#rope-link" transform="scale(.969 1.025) rotate(310.909)" />
+      <use xlink:href="#rope-link" transform="scale(.969 1.025) rotate(319.091)" />
+      <use xlink:href="#rope-link" transform="scale(.969 1.025) rotate(327.273)" />
+      <use xlink:href="#rope-link" transform="scale(.969 1.025) rotate(335.455)" />
+      <use xlink:href="#rope-link" transform="scale(.969 1.025) rotate(343.636)" />
+      <use xlink:href="#rope-link" transform="scale(.969 1.025) rotate(351.818)" />
+      <g transform="scale(.966 1.035)">
+        <path d="M-37.011 -138.127 Q0 -115 37.011 -138.127 Q57.5 -99.593 101.116 -101.116 Q99.593 -57.5 138.127 -37.011 Q115 -0 138.127 37.011 Q99.593 57.5 101.116 101.116 Q57.5 99.593 37.011 138.127 Q0 115 -37.011 138.127 Q-57.5 99.593 -101.116 101.116 Q-99.593 57.5 -138.127 37.011 Q-115 0 -138.127 -37.011 Q-99.593 -57.5 -101.116 -101.116 Q-57.5 -99.593 -37.011 -138.127Z" fill="#a08b72" />
+        <path d="M-34.941 -130.4 Q0 -108 34.941 -130.4 Q54 -93.531 95.459 -95.459 Q93.531 -54 130.4 -34.941 Q108 -0 130.4 34.941 Q93.531 54 95.459 95.459 Q54 93.531 34.941 130.4 Q0 108 -34.941 130.4 Q-54 93.531 -95.459 95.459 Q-93.531 54 -130.4 34.941 Q-108 0 -130.4 -34.941 Q-93.531 -54 -95.459 -95.459 Q-54 -93.531 -34.941 -130.4Z" fill="#766049" />
+        <path d="M-33.129 -123.639 Q0 -103 33.129 -123.639 Q51.5 -89.201 90.51 -90.51 Q89.201 -51.5 123.639 -33.129 Q103 -0 123.639 33.129 Q89.201 51.5 90.51 90.51 Q51.5 89.201 33.129 123.639 Q0 103 -33.129 123.639 Q-51.5 89.201 -90.51 90.51 Q-89.201 51.5 -123.639 33.129 Q-103 0 -123.639 -33.129 Q-89.201 -51.5 -90.51 -90.51 Q-51.5 -89.201 -33.129 -123.639Z" fill="#5e2e4a" />
+        <path d="M-31.058 -115.911 Q0 -99 31.058 -115.911 Q49.5 -85.737 84.853 -84.853 Q85.737 -49.5 115.911 -31.058 Q99 -0 115.911 31.058 Q85.737 49.5 84.853 84.853 Q49.5 85.737 31.058 115.911 Q0 99 -31.058 115.911 Q-49.5 85.737 -84.853 84.853 Q-85.737 49.5 -115.911 31.058 Q-99 0 -115.911 -31.058 Q-85.737 -49.5 -84.853 -84.853 Q-49.5 -85.737 -31.058 -115.911Z" fill="#c5b2a1" />
+        <use xlink:href="#pleat" transform="rotate(0)" />
+        <use xlink:href="#pleat" transform="rotate(30)" />
+        <use xlink:href="#pleat" transform="rotate(60)" />
+        <use xlink:href="#pleat" transform="rotate(90)" />
+        <use xlink:href="#pleat" transform="rotate(120)" />
+        <use xlink:href="#pleat" transform="rotate(150)" />
+        <use xlink:href="#pleat" transform="rotate(180)" />
+        <use xlink:href="#pleat" transform="rotate(210)" />
+        <use xlink:href="#pleat" transform="rotate(240)" />
+        <use xlink:href="#pleat" transform="rotate(270)" />
+        <use xlink:href="#pleat" transform="rotate(300)" />
+        <use xlink:href="#pleat" transform="rotate(330)" />
+        <ellipse cx="0" cy="0" rx="47" ry="48" fill="#766049" />
+        <use xlink:href="#floret-petal" transform="rotate(0) scale(.79 1.26)" />
+        <use xlink:href="#floret-petal" transform="rotate(36) scale(.79 1.26)" />
+        <use xlink:href="#floret-petal" transform="rotate(72) scale(.79 1.26)" />
+        <use xlink:href="#floret-petal" transform="rotate(108) scale(.79 1.26)" />
+        <use xlink:href="#floret-petal" transform="rotate(144) scale(.79 1.26)" />
+        <use xlink:href="#floret-petal" transform="rotate(180) scale(.79 1.26)" />
+        <use xlink:href="#floret-petal" transform="rotate(216) scale(.79 1.26)" />
+        <use xlink:href="#floret-petal" transform="rotate(252) scale(.79 1.26)" />
+        <use xlink:href="#floret-petal" transform="rotate(288) scale(.79 1.26)" />
+        <use xlink:href="#floret-petal" transform="rotate(324) scale(.79 1.26)" />
+        <ellipse cx="0" cy="0" rx="13" ry="14" fill="#766049" />
+        <ellipse cx="0" cy="0" rx="8" ry="9" fill="#a08b72" />
+        <path d="M-3 -6 Q4 -9 5 -3 Q5 0 1 2 L3 6 Q-7 6 -5 0 Q1 -2 -3 -6Z" fill="#c5b2a1" />
+      </g>
+    </g>
+    <g id="rope-link">
+      <path d="M-13 -151 Q-10 -154 -5 -155 L7 -155 L13 -151 Q4 -149 1 -143 L-8 -142 L-13 -145 L-9 -149Z" fill="#a08b72" />
+      <path d="M-8 -151 L-4 -154 L6 -154 L8 -151 Q2 -148 -2 -145 L-9 -145 L-5 -150Z" fill="#c5b2a1" />
+    </g>
+    <g id="pleat">
+      <path d="M-27.2 -109.7 Q-14 -104 -1 -103.8 Q13 -104 27.2 -109.7 L9.5 -44 Q0 -41 -9.5 -44Z" fill="#5e2e4a" />
+      <path d="M-27.2 -109.7 Q-10 -102 8 -104.7 L1 -42.5 L-9.5 -44Z" fill="#22252a" />
+    </g>
+    <g id="side-sprig">
+      <path d="M93 501 Q109 492 117 482 Q137 466 156 480 Q172 487 184 472 Q189 466 185 459 Q202 473 187 486 Q175 493 183 500 Q174 508 185 518 Q197 530 184 543 Q187 527 173 523 Q166 519 155 525 Q131 538 117 521 Q107 507 93 501Z" fill="#a08b72" />
+      <path d="M105 501 Q119 495 130 485 Q145 478 156 487 Q169 493 179 482 Q175 496 162 497 Q175 501 180 511 Q167 505 153 512 Q132 523 117 507Z" fill="#c5b2a1" />
+      <use xlink:href="#calyx-curl" />
+      <use xlink:href="#calyx-curl" transform="translate(0 1000) scale(1 -1)" />
+      <use xlink:href="#grain" transform="translate(203 501) rotate(15) scale(1)" />
+      <use xlink:href="#grain" transform="translate(216 499) rotate(-20) scale(0.9)" />
+      <use xlink:href="#grain" transform="translate(228 502) rotate(20) scale(0.8)" />
+      <use xlink:href="#grain" transform="translate(243 500) rotate(0) scale(0.55)" />
+      <use xlink:href="#grain" transform="translate(275 474) rotate(0) scale(0.65)" />
+      <use xlink:href="#grain" transform="translate(288 458) rotate(-20) scale(0.6)" />
+      <use xlink:href="#grain" transform="translate(302 449) rotate(5) scale(0.7)" />
+      <use xlink:href="#grain" transform="translate(274 527) rotate(-5) scale(0.7)" />
+      <use xlink:href="#grain" transform="translate(288 545) rotate(-5) scale(0.6)" />
+      <use xlink:href="#grain" transform="translate(304 555) rotate(0) scale(0.7)" />
+      <use xlink:href="#grain" transform="translate(293 503) rotate(-10) scale(0.8)" />
+      <use xlink:href="#grain" transform="translate(303 490) rotate(-30) scale(0.6)" />
+      <use xlink:href="#grain" transform="translate(307 513) rotate(10) scale(0.7)" />
+      <use xlink:href="#grain" transform="translate(320 500) rotate(0) scale(0.6)" />
+    </g>
+    <g id="calyx-curl">
+      <path d="M180 494 Q195 490 211 477 Q229 462 229 450 Q230 439 221 435 Q209 430 204 442 Q201 449 206 452 Q209 456 214 451 Q211 450 211 446 Q216 440 220 448 Q222 460 211 462 Q199 464 192 454 Q184 442 194 428 L190 423 Q201 412 213 415 L212 409 Q226 411 235 420 L235 414 Q247 422 248 438 Q257 443 264 431 Q265 448 249 452 Q241 471 223 482 Q206 494 180 494Z" fill="#a08b72" />
+      <path d="M193 440 Q193 426 204 422 L200 420 Q207 416 218 419 L217 414 Q231 417 236 427 L238 423 Q244 430 244 441 Q236 431 226 429 Q210 424 204 436 Q199 447 205 451 Q212 458 217 451 Q216 460 207 460 Q194 458 193 446Z M198 486 Q223 479 238 453 Q235 473 217 483 Q205 491 188 492Z" fill="#c5b2a1" />
+    </g>
+    <g id="almond">
+      <path d="M0 -99 C35 -95 58 -51 58 0 C58 47 36 86 0 99 C-36 87 -57 47 -57 0 C-57 -49 -33 -91 0 -99Z" fill="#a08b72" />
+      <path d="M0 -99 C35 -95 58 -51 58 0 C58 47 36 86 0 99 C-36 87 -57 47 -57 0 C-57 -49 -33 -91 0 -99Z" fill="#766049" transform="scale(.83 .89)" />
+      <use xlink:href="#almond-ray" />
+      <use xlink:href="#almond-ray" transform="rotate(180)" />
+      <use xlink:href="#almond-side-petal" />
+      <use xlink:href="#almond-side-petal" transform="scale(-1 1)" />
+      <use xlink:href="#almond-side-petal" transform="scale(1 -1)" />
+      <use xlink:href="#almond-side-petal" transform="scale(-1 -1)" />
+      <path d="M0 -46 Q5 -27 15 -15 L25 -12 L19 -5 L27 0 L18 6 L21 12 Q6 25 0 46 Q-4 27 -16 16 L-22 14 L-18 5 L-26 0 L-17 -6 L-22 -15 Q-8 -23 0 -46Z" fill="#766049" />
+      <path d="M0 -24 L6 -9 L17 0 L6 7 L0 24 L-6 8 L-16 0 L-6 -8Z" fill="#a08b72" />
+      <path d="M0 -13 Q3 -5 9 0 Q4 2 0 11 Q-3 3 -8 0 Q-2 -5 0 -13Z" fill="#383532" />
+      <g>
+        <use xlink:href="#bead-bud" transform="translate(65 12) rotate(215)" />
+        <use xlink:href="#bead-bud" transform="translate(68 32) rotate(225)" />
+        <use xlink:href="#bead-bud" transform="translate(63 52) rotate(226)" />
+        <use xlink:href="#bead-bud" transform="translate(55 70) rotate(232)" />
+        <use xlink:href="#bead-bud" transform="translate(47 84) rotate(222)" />
+        <use xlink:href="#bead-bud" transform="translate(34 98) rotate(215)" />
+        <use xlink:href="#bead-bud" transform="translate(16 111) rotate(197)" />
+      </g>
+      <g transform="scale(-1 1)">
+        <use xlink:href="#bead-bud" transform="translate(65 12) rotate(215)" />
+        <use xlink:href="#bead-bud" transform="translate(68 32) rotate(225)" />
+        <use xlink:href="#bead-bud" transform="translate(63 52) rotate(226)" />
+        <use xlink:href="#bead-bud" transform="translate(55 70) rotate(232)" />
+        <use xlink:href="#bead-bud" transform="translate(47 84) rotate(222)" />
+        <use xlink:href="#bead-bud" transform="translate(34 98) rotate(215)" />
+        <use xlink:href="#bead-bud" transform="translate(16 111) rotate(197)" />
+      </g>
+      <g transform="scale(1 -1)">
+        <use xlink:href="#bead-bud" transform="translate(65 12) rotate(215)" />
+        <use xlink:href="#bead-bud" transform="translate(68 32) rotate(225)" />
+        <use xlink:href="#bead-bud" transform="translate(63 52) rotate(226)" />
+        <use xlink:href="#bead-bud" transform="translate(55 70) rotate(232)" />
+        <use xlink:href="#bead-bud" transform="translate(47 84) rotate(222)" />
+        <use xlink:href="#bead-bud" transform="translate(34 98) rotate(215)" />
+        <use xlink:href="#bead-bud" transform="translate(16 111) rotate(197)" />
+      </g>
+      <g transform="scale(-1 -1)">
+        <use xlink:href="#bead-bud" transform="translate(65 12) rotate(215)" />
+        <use xlink:href="#bead-bud" transform="translate(68 32) rotate(225)" />
+        <use xlink:href="#bead-bud" transform="translate(63 52) rotate(226)" />
+        <use xlink:href="#bead-bud" transform="translate(55 70) rotate(232)" />
+        <use xlink:href="#bead-bud" transform="translate(47 84) rotate(222)" />
+        <use xlink:href="#bead-bud" transform="translate(34 98) rotate(215)" />
+        <use xlink:href="#bead-bud" transform="translate(16 111) rotate(197)" />
+      </g>
+      <use xlink:href="#bead-bud" transform="translate(0 -111) scale(1.22)" />
+      <use xlink:href="#bead-bud" transform="translate(0 111) scale(1.22)" />
+    </g>
+    <g id="almond-ray">
+      <path d="M0 -83 Q4 -75 10 -72 L8 -65 L16 -69 Q18 -59 15 -52 Q7 -37 4 -24 L0 -18 L-5 -28 Q-5 -40 -15 -54 L-11 -57 L-16 -67 L-8 -66 L-10 -74Z" fill="#c5b2a1" />
+    </g>
+    <g id="almond-side-petal">
+      <path d="M-13 -17 Q-16 -36 -27 -51 L-24 -58 Q-30 -56 -34 -50 L-36 -53 Q-39 -46 -36 -41 Q-29 -31 -22 -20Z M-19 -11 Q-24 -23 -40 -31 Q-46 -28 -44 -21 L-48 -20 L-44 -12 Q-35 -13 -22 -6Z M-23 -3 Q-37 -5 -44 2 L-45 7 L-38 12 Q-29 9 -22 3Z" fill="#c5b2a1" />
+    </g>
+    <g id="bead-bud">
+      <path d="M0 9 Q-5 5 -7 -2 L-3 -3 L0 -10 L4 -4 L8 -3 L6 3Z" fill="#a08b72" />
+      <path d="M-3 1 L0 -6 L4 -2 L2 2Z" fill="#c5b2a1" />
+    </g>
+    <g id="almond-scroll">
+      <path d="M77 -91 Q81 -107 104 -110 Q120 -112 139 -106 Q153 -103 161 -113 Q169 -125 162 -131 Q156 -137 151 -131 Q148 -128 155 -126 Q147 -120 143 -126 Q138 -138 151 -143 Q168 -147 174 -135 Q181 -123 173 -110 L178 -110 Q174 -98 162 -98 L169 -89 Q154 -98 144 -98 Q150 -87 157 -81 Q154 -77 161 -68 L172 -65 L167 -60 L177 -57 L167 -53 Q160 -45 151 -44 Q155 -53 152 -55 Q149 -48 141 -45 Q147 -59 140 -66 L138 -62 Q136 -80 121 -88 C105 -100 88 -99 77 -91Z" fill="#a08b72" />
+      <path d="M79 -95 Q92 -112 117 -107 Q141 -99 150 -104 Q135 -97 124 -101 Q137 -94 142 -83 Q129 -95 110 -100 Q91 -103 79 -95Z M139 -90 Q151 -84 157 -74 L154 -72 L160 -64 L170 -62 L163 -57 L168 -54 L156 -49 L157 -57 L150 -53 Q153 -65 147 -69 L147 -64 Q145 -78 139 -83Z M163 -137 Q174 -132 172 -122 Q170 -112 159 -109 Q169 -117 166 -128Z" fill="#c5b2a1" />
+      <path d="M84 -87 Q98 -96 110 -84 Q123 -72 119 -61 Q112 -47 102 -48 Q95 -49 95 -55 Q96 -62 102 -60" fill="none" stroke="#a08b72" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" />
+      <path d="M149 -44 Q149 -34 137 -31 L138 -36 Q129 -23 111 -24 L114 -28 Q96 -25 86 -33 L91 -27 Q82 -31 78 -27 Q84 -19 99 -21 Q116 -14 133 -23 Q146 -28 150 -37Z" fill="#a08b72" />
+      <path d="M134 -28 Q122 -19 110 -22 L114 -26 L105 -25 L104 -30 Q116 -24 122 -28 L122 -32Z" fill="#c5b2a1" />
+    </g>
+    <g id="flourished-almond">
+      <use xlink:href="#almond-scroll" />
+      <use xlink:href="#almond-scroll" transform="scale(-1 1)" />
+      <use xlink:href="#almond-scroll" transform="scale(1 -1)" />
+      <use xlink:href="#almond-scroll" transform="scale(-1 -1)" />
+      <use xlink:href="#grain" transform="translate(0 -149) rotate(0) scale(0.7)" />
+      <use xlink:href="#grain" transform="translate(20 -137) rotate(20) scale(0.8)" />
+      <use xlink:href="#grain" transform="translate(-22 -138) rotate(-22) scale(0.7)" />
+      <use xlink:href="#grain" transform="translate(28 -158) rotate(28) scale(0.6)" />
+      <use xlink:href="#grain" transform="translate(-27 -158) rotate(-27) scale(0.55)" />
+      <use xlink:href="#grain" transform="translate(0 149) rotate(0) scale(0.7)" />
+      <use xlink:href="#grain" transform="translate(20 137) rotate(20) scale(0.8)" />
+      <use xlink:href="#grain" transform="translate(-22 138) rotate(-22) scale(0.7)" />
+      <use xlink:href="#grain" transform="translate(28 158) rotate(28) scale(0.6)" />
+      <use xlink:href="#grain" transform="translate(-27 158) rotate(-27) scale(0.55)" />
+      <use xlink:href="#almond" />
+    </g>
+    <g id="wheel-and-foliage">
+      <use xlink:href="#pleated-wheel" transform="translate(500 500)" />
+      <use xlink:href="#acanthus" />
+      <use xlink:href="#acanthus" transform="translate(1000 0) scale(-1 1)" />
+      <use xlink:href="#acanthus" transform="translate(0 1000) scale(1 -1)" />
+      <use xlink:href="#acanthus" transform="translate(1000 1000) scale(-1 -1)" />
+      <use xlink:href="#side-sprig" />
+      <use xlink:href="#side-sprig" transform="translate(1000 0) scale(-1 1)" />
+    </g>
+  </defs>
+  <rect width="1000" height="1000" fill="#383532" />
+  <use xlink:href="#wheel-and-foliage" transform="translate(-500 -500)" />
+  <use xlink:href="#wheel-and-foliage" transform="translate(-500 500)" />
+  <use xlink:href="#wheel-and-foliage" transform="translate(500 -500)" />
+  <use xlink:href="#wheel-and-foliage" transform="translate(500 500)" />
+  <use xlink:href="#flourished-almond" transform="translate(0 500)" />
+  <use xlink:href="#flourished-almond" transform="translate(1000 500)" />
+  <use xlink:href="#almond" transform="translate(500 0)" />
+  <use xlink:href="#almond" transform="translate(500 1000)" />
+  <use xlink:href="#great-medallion" />
+</svg>

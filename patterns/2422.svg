@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="96" height="96" viewBox="0 0 96 96">
+  <title>The Gold Cape, Mold — wine check with paired rails</title>
+  <defs>
+    <g id="check">
+      <rect x="0" y="0" width="96" height="96" fill="#8B3742"/>
+      <path fill="#792D38" d="M11 12H43V16H46V31H43V44H32V42H12Z M52 12H85V43H69V45H54V39H51V25H54Z M12 52H29V50H44V63H46V81H42V85H12Z M52 53H65V50H84V84H54V78H51V62H54Z"/>
+      <rect x="0" y="0" width="96" height="11" fill="#B87878"/>
+      <rect x="0" y="85" width="96" height="11" fill="#B87878"/>
+      <rect x="14" y="0" width="3" height="6" fill="#C18D80"/>
+      <rect x="16" y="90" width="3" height="6" fill="#C18D80"/>
+      <rect x="18" y="85" width="4" height="4" fill="#9D6160"/>
+      <rect x="18" y="7" width="4" height="4" fill="#9D6160"/>
+      <rect x="24" y="0" width="3" height="6" fill="#C18D80"/>
+      <rect x="26" y="90" width="3" height="6" fill="#C18D80"/>
+      <rect x="28" y="85" width="4" height="4" fill="#9D6160"/>
+      <rect x="28" y="7" width="4" height="4" fill="#9D6160"/>
+      <rect x="34" y="0" width="3" height="6" fill="#C18D80"/>
+      <rect x="36" y="90" width="3" height="6" fill="#C18D80"/>
+      <rect x="38" y="85" width="4" height="4" fill="#9D6160"/>
+      <rect x="38" y="7" width="4" height="4" fill="#9D6160"/>
+      <rect x="44" y="0" width="3" height="6" fill="#C18D80"/>
+      <rect x="46" y="90" width="3" height="6" fill="#C18D80"/>
+      <rect x="48" y="85" width="4" height="4" fill="#9D6160"/>
+      <rect x="48" y="7" width="4" height="4" fill="#9D6160"/>
+      <rect x="54" y="0" width="3" height="6" fill="#C18D80"/>
+      <rect x="56" y="90" width="3" height="6" fill="#C18D80"/>
+      <rect x="58" y="85" width="4" height="4" fill="#9D6160"/>
+      <rect x="58" y="7" width="4" height="4" fill="#9D6160"/>
+      <rect x="64" y="0" width="3" height="6" fill="#C18D80"/>
+      <rect x="66" y="90" width="3" height="6" fill="#C18D80"/>
+      <rect x="68" y="85" width="4" height="4" fill="#9D6160"/>
+      <rect x="68" y="7" width="4" height="4" fill="#9D6160"/>
+      <rect x="74" y="0" width="3" height="6" fill="#C18D80"/>
+      <rect x="76" y="90" width="3" height="6" fill="#C18D80"/>
+      <rect x="78" y="85" width="4" height="4" fill="#9D6160"/>
+      <rect x="78" y="7" width="4" height="4" fill="#9D6160"/>
+      <rect x="0" y="0" width="11" height="96" fill="#9D6160"/>
+      <rect x="85" y="0" width="11" height="96" fill="#9D6160"/>
+      <rect x="4" y="0" width="6" height="96" fill="#C18D80"/>
+      <rect x="86" y="0" width="6" height="96" fill="#C18D80"/>
+      <rect x="10" y="0" width="1" height="96" fill="#B87878"/>
+      <rect x="92" y="0" width="2" height="96" fill="#B87878"/>
+      <rect x="84" y="0" width="2" height="96" fill="#B87878"/>
+    </g>
+  </defs>
+  <rect width="96" height="96" fill="#8B3742"/>
+  <use xlink:href="#check" x="-36" y="-36"/>
+  <use xlink:href="#check" x="60" y="-36"/>
+  <use xlink:href="#check" x="-36" y="60"/>
+  <use xlink:href="#check" x="60" y="60"/>
+</svg>

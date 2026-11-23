@@ -1,0 +1,507 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="800" height="800" viewBox="0 0 800 800">
+<title>The Central Hotel, Shotton — eight-leaf medallion and gilded scroll Axminster repeat</title>
+<defs>
+<g id="bead">
+<path d="M-6 4 Q-9 1 -7 -3 L-5 -3 -5 -6 -1 -6 1 -8 3 -6 6 -6 6 -3 8 -1 6 3 6 5 2 5 0 7 -3 5 -6 6Z" fill="#A13917"/>
+<path d="M-6 2 L-7 -2 -5 -3 -5 -5 -2 -5 0 -7 2 -5 5 -5 5 -2 6 0 3 1 2 4 -1 3 -3 5 -3 3Z" fill="#D99647"/>
+<path d="M-5 0 L-5 -3 -2 -3 -1 -5 1 -4 1 -2 -1 -2 -2 1Z" fill="#E9CE9E"/>
+</g>
+<g id="palm-half">
+<path d="M0 -151 Q5 -149 8 -135 Q16 -147 26 -144 Q23 -134 15 -126 L11 -119 Q20 -120 24 -126 L23 -119 Q32 -121 41 -126 Q39 -117 32 -110 L39 -112 Q39 -106 31 -99 Q21 -88 28 -73 Q32 -66 38 -66 Q45 -66 48 -79 L55 -68 48 -56 26 -51 0 -72Z" fill="#A13917"/>
+<path d="M0 -150 Q6 -147 7 -134 Q18 -146 27 -142 Q23 -133 15 -124 L12 -116 Q20 -116 24 -123 L23 -117 Q34 -119 42 -125 Q41 -116 34 -111 L40 -112 Q38 -106 31 -100 Q21 -87 28 -73 Q17 -77 14 -91 Q10 -105 6 -109 Q4 -99 9 -85 Q3 -90 0 -99Z" fill="#D99647"/>
+<path d="M0 -150 Q6 -146 7 -135 L4 -127 1 -132 0 -130Z M9 -131 Q18 -146 27 -142 Q24 -137 18 -132 L12 -124 13 -132Z M12 -111 Q23 -115 24 -123 L25 -117 Q34 -118 42 -125 Q39 -117 32 -112 L36 -113 28 -107 22 -103 24 -110 17 -106Z" fill="#E9CE9E"/>
+<path d="M0 -75 Q13 -77 19 -89 Q24 -101 23 -107 L27 -102 Q29 -110 32 -112 Q30 -103 29 -97 Q31 -102 34 -103 Q27 -93 27 -86 Q27 -77 37 -68 Q22 -67 15 -74 Q5 -83 0 -85Z" fill="#A13917"/>
+<path d="M12 -78 Q18 -83 21 -91 Q20 -87 22 -83 Q19 -78 16 -76Z" fill="#D99647"/>
+<path d="M0 -128 L4 -123 10 -127 7 -119 3 -111 0 -96Z" fill="#A13917"/>
+</g>
+<g id="palm">
+<use xlink:href="#palm-half" transform="translate(0)"/>
+<use xlink:href="#palm-half" transform="scale(-1 1)"/>
+</g>
+<g id="calyx-half">
+<path d="M0 -78 C6 -67 16 -59 29 -58 L30 -49 0 -40Z" fill="#41452A"/>
+</g>
+<g id="heart-petal">
+<path d="M-2 -11 C-3 -15 -7 -15 -7 -21 Q-12 -25 -9 -31 L-8 -31 Q-8 -35 -4 -36 L-2 -36 0 -39 3 -37 6 -37 7 -34 Q11 -32 10 -27 Q12 -24 7 -20 Q6 -15 3 -15 L2 -11Z" fill="#D99647"/>
+<path d="M-9 -27 Q-11 -32 -7 -33 L-6 -34 -4 -36 -2 -35 0 -38 3 -36 5 -36 7 -34 7 -32 Q10 -31 10 -27 L7 -29 7 -27 4 -31 2 -29 0 -32 -2 -30 -5 -32 -5 -29 -7 -30Z" fill="#E9CE9E"/>
+<path d="M-4 -11 L-5 -15 -6 -16 -6 -19 -8 -20 -7 -24 -5 -23 -4 -19 -3 -22 -2 -18 0 -21 1 -27 3 -23 3 -20 6 -23 6 -18 7 -20 6 -15 3 -12 2 -9Z" fill="#A13917"/>
+</g>
+<g id="seed">
+<path d="M0 -5 L2 -3 4 -3 4 -1 6 1 3 2 3 4 0 6 -2 3 -5 3 -4 0 -5 -2 -2 -3Z" fill="#D99647"/>
+<path d="M-4 0 L-4 -2 -2 -2 0 -5 2 -2 0 -1 -1 2Z" fill="#E9CE9E"/>
+</g>
+<g id="wreath">
+<path d="M8 -51 Q14 -45 19 -46 L16 -50 20 -49 17 -54 14 -51 10 -54Z" fill="#D99647"/>
+<path d="M20 -48 Q23 -46 25 -47 L25 -50 29 -47 28 -45 31 -45 28 -41 26 -42 22 -41Z" fill="#D99647"/>
+<path d="M31 -43 L33 -47 36 -46 36 -43 39 -43 38 -38 35 -36 35 -40 32 -39Z" fill="#D99647"/>
+<g transform="scale(-1 1) translate(11 -57) rotate(-27) scale(0.82)">
+<path d="M0 -4 Q3 -4 4 -6 L4 -1 2 2 -1 5 -1 2 -4 3 -3 -1Z" fill="#E9CE9E"/>
+</g>
+<g transform="scale(1 1) translate(11 -57) rotate(-27) scale(0.82)">
+<path d="M0 -4 Q3 -4 4 -6 L4 -1 2 2 -1 5 -1 2 -4 3 -3 -1Z" fill="#E9CE9E"/>
+</g>
+<g transform="scale(-1 1) translate(19 -55) rotate(-25) scale(0.85)">
+<path d="M0 -4 Q3 -4 4 -6 L4 -1 2 2 -1 5 -1 2 -4 3 -3 -1Z" fill="#E9CE9E"/>
+</g>
+<g transform="scale(1 1) translate(19 -55) rotate(-25) scale(0.85)">
+<path d="M0 -4 Q3 -4 4 -6 L4 -1 2 2 -1 5 -1 2 -4 3 -3 -1Z" fill="#E9CE9E"/>
+</g>
+<g transform="scale(-1 1) translate(23 -49) rotate(-48) scale(0.85)">
+<path d="M0 -4 Q3 -4 4 -6 L4 -1 2 2 -1 5 -1 2 -4 3 -3 -1Z" fill="#D99647"/>
+</g>
+<g transform="scale(1 1) translate(23 -49) rotate(-48) scale(0.85)">
+<path d="M0 -4 Q3 -4 4 -6 L4 -1 2 2 -1 5 -1 2 -4 3 -3 -1Z" fill="#D99647"/>
+</g>
+<g transform="scale(-1 1) translate(15 -51) rotate(-15) scale(0.65)">
+<path d="M0 -4 Q3 -4 4 -6 L4 -1 2 2 -1 5 -1 2 -4 3 -3 -1Z" fill="#D99647"/>
+</g>
+<g transform="scale(1 1) translate(15 -51) rotate(-15) scale(0.65)">
+<path d="M0 -4 Q3 -4 4 -6 L4 -1 2 2 -1 5 -1 2 -4 3 -3 -1Z" fill="#D99647"/>
+</g>
+<g transform="scale(-1 1) translate(7 -53) rotate(-10) scale(0.65)">
+<path d="M0 -4 Q3 -4 4 -6 L4 -1 2 2 -1 5 -1 2 -4 3 -3 -1Z" fill="#D99647"/>
+</g>
+<g transform="scale(1 1) translate(7 -53) rotate(-10) scale(0.65)">
+<path d="M0 -4 Q3 -4 4 -6 L4 -1 2 2 -1 5 -1 2 -4 3 -3 -1Z" fill="#D99647"/>
+</g>
+</g>
+<g id="wreath-bud">
+<use xlink:href="#seed" transform="translate(0 -62) scale(1.45)"/>
+<path d="M-2 -63 L0 -67 3 -64 2 -60 0 -58 -2 -60Z" fill="#A13917"/>
+</g>
+<g id="wreath-leaf">
+<path d="M-4 -60 L-5 -64 -2 -64 -1 -68 2 -65 4 -65 4 -61 6 -60 2 -57 2 -54 -1 -56 -3 -54Z" fill="#D99647"/>
+<path d="M-2 -63 L-1 -67 2 -64 3 -64 2 -61 0 -63 -1 -60Z" fill="#E9CE9E"/>
+</g>
+<g id="garland">
+<use xlink:href="#wreath" transform="translate(0 0) rotate(0) scale(1)"/>
+<use xlink:href="#wreath" transform="translate(0 0) rotate(45) scale(1)"/>
+<use xlink:href="#wreath" transform="translate(0 0) rotate(90) scale(1)"/>
+<use xlink:href="#wreath" transform="translate(0 0) rotate(135) scale(1)"/>
+<use xlink:href="#wreath" transform="translate(0 0) rotate(180) scale(1)"/>
+<use xlink:href="#wreath" transform="translate(0 0) rotate(225) scale(1)"/>
+<use xlink:href="#wreath" transform="translate(0 0) rotate(270) scale(1)"/>
+<use xlink:href="#wreath" transform="translate(0 0) rotate(315) scale(1)"/>
+<use xlink:href="#wreath-bud" transform="translate(0 0) rotate(0) scale(1)"/>
+<use xlink:href="#wreath-bud" transform="translate(0 0) rotate(90) scale(1)"/>
+<use xlink:href="#wreath-bud" transform="translate(0 0) rotate(180) scale(1)"/>
+<use xlink:href="#wreath-bud" transform="translate(0 0) rotate(270) scale(1)"/>
+<g transform="rotate(45)">
+<use xlink:href="#wreath-leaf" transform="translate(0 0) rotate(0) scale(1)"/>
+<use xlink:href="#wreath-leaf" transform="translate(0 0) rotate(90) scale(1)"/>
+<use xlink:href="#wreath-leaf" transform="translate(0 0) rotate(180) scale(1)"/>
+<use xlink:href="#wreath-leaf" transform="translate(0 0) rotate(270) scale(1)"/>
+</g>
+</g>
+<g id="flower">
+<use xlink:href="#heart-petal" transform="rotate(0) scale(.76 1)"/>
+<use xlink:href="#heart-petal" transform="rotate(45) scale(.76 1)"/>
+<use xlink:href="#heart-petal" transform="rotate(90) scale(.76 1)"/>
+<use xlink:href="#heart-petal" transform="rotate(135) scale(.76 1)"/>
+<use xlink:href="#heart-petal" transform="rotate(180) scale(.76 1)"/>
+<use xlink:href="#heart-petal" transform="rotate(225) scale(.76 1)"/>
+<use xlink:href="#heart-petal" transform="rotate(270) scale(.76 1)"/>
+<use xlink:href="#heart-petal" transform="rotate(315) scale(.76 1)"/>
+<circle cx="0" cy="0" r="12.5" fill="#A13917"/>
+<path d="M0 -9 L3 -4 7 -2 5 2 1 4 -1 8 -4 4 -7 2 -5 -3 -2 -4Z" fill="#41452A"/>
+<path d="M0 -7 L2 -3 5 0 2 1 0 5 -3 1 -3 -2Z" fill="#E9CE9E"/>
+</g>
+<g id="sun">
+<circle cx="0" cy="0" r="172" fill="#E9CE9E"/>
+<circle cx="0" cy="0" r="169" fill="#A13917"/>
+<circle cx="0" cy="0" r="163.2" fill="#E9CE9E"/>
+<circle cx="0" cy="0" r="161.8" fill="#263E73"/>
+<circle cx="0" cy="0" r="78" fill="#A13917"/>
+<use xlink:href="#palm" transform="translate(0 0) rotate(0) scale(1)"/>
+<use xlink:href="#palm" transform="translate(0 0) rotate(45) scale(1)"/>
+<use xlink:href="#palm" transform="translate(0 0) rotate(90) scale(1)"/>
+<use xlink:href="#palm" transform="translate(0 0) rotate(135) scale(1)"/>
+<use xlink:href="#palm" transform="translate(0 0) rotate(180) scale(1)"/>
+<use xlink:href="#palm" transform="translate(0 0) rotate(225) scale(1)"/>
+<use xlink:href="#palm" transform="translate(0 0) rotate(270) scale(1)"/>
+<use xlink:href="#palm" transform="translate(0 0) rotate(315) scale(1)"/>
+<path d="M0 -79 C10.0 -63.0 18.0 -59.0 30.6 -58.6 Q43.0 -58.0 55.86 -55.86 C51.62 -37.48 54.45 -28.99 63.07 -19.8 Q71.42 -10.61 79.0 -0.0 C63.0 10.0 59.0 18.0 58.6 30.6 Q58.0 43.0 55.86 55.86 C37.48 51.62 28.99 54.45 19.8 63.07 Q10.61 71.42 0.0 79.0 C-10.0 63.0 -18.0 59.0 -30.6 58.6 Q-43.0 58.0 -55.86 55.86 C-51.62 37.48 -54.45 28.99 -63.07 19.8 Q-71.42 10.61 -79.0 0.0 C-63.0 -10.0 -59.0 -18.0 -58.6 -30.6 Q-58.0 -43.0 -55.86 -55.86 C-37.48 -51.62 -28.99 -54.45 -19.8 -63.07 Q-10.61 -71.42 -0.0 -79.0Z" fill="#41452A"/>
+<use xlink:href="#garland" transform="translate(0)"/>
+<use xlink:href="#flower" transform="translate(0)"/>
+</g>
+<g id="spear">
+<path d="M0 -6 L3 -1 6 1 4 5 0 7 -5 4 -6 0Z" fill="#A13917"/>
+<path d="M-5 0 L-3 -4 0 -5 3 -2 1 0 -2 1Z" fill="#D99647"/>
+<use xlink:href="#seed" transform="translate(0 15) scale(.86)"/>
+<use xlink:href="#seed" transform="translate(0 29) scale(.5)"/>
+<path d="M0 -28 Q3 -20 11 -17 L7 -15 5 -12 Q1 -16 0 -19 Q-3 -15 -6 -13 L-8 -16 -11 -17 Q-4 -20 0 -28Z" fill="#D99647"/>
+<path d="M0 -22 Q2 -17 6 -15 L3 -14 0 -11 -4 -15Z" fill="#A13917"/>
+</g>
+<g id="main">
+<rect x="-226.0" y="-216.0" width="452" height="432" fill="#A13917"/>
+<rect x="-224.0" y="-214.0" width="448" height="428" fill="#E9CE9E"/>
+<rect x="-222.0" y="-212.0" width="444" height="424" fill="#A13917"/>
+<rect x="-220.0" y="-210.0" width="440" height="420" fill="#41452A"/>
+<rect x="-206.0" y="-196.0" width="412" height="392" fill="#A13917"/>
+<rect x="-204.0" y="-194.0" width="408" height="388" fill="#E9CE9E"/>
+<rect x="-202.0" y="-192.0" width="404" height="384" fill="#A13917"/>
+<rect x="-200.0" y="-190.0" width="400" height="380" fill="#263E73"/>
+<use xlink:href="#bead" transform="translate(-209 -203) rotate(180) scale(1)"/>
+<use xlink:href="#bead" transform="translate(-191.583 -203) rotate(180) scale(1)"/>
+<use xlink:href="#bead" transform="translate(-174.167 -203) rotate(180) scale(1)"/>
+<use xlink:href="#bead" transform="translate(-156.75 -203) rotate(180) scale(1)"/>
+<use xlink:href="#bead" transform="translate(-139.333 -203) rotate(180) scale(1)"/>
+<use xlink:href="#bead" transform="translate(-121.917 -203) rotate(180) scale(1)"/>
+<use xlink:href="#bead" transform="translate(-104.5 -203) rotate(180) scale(1)"/>
+<use xlink:href="#bead" transform="translate(-87.0833 -203) rotate(180) scale(1)"/>
+<use xlink:href="#bead" transform="translate(-69.6667 -203) rotate(180) scale(1)"/>
+<use xlink:href="#bead" transform="translate(-52.25 -203) rotate(180) scale(1)"/>
+<use xlink:href="#bead" transform="translate(-34.8333 -203) rotate(180) scale(1)"/>
+<use xlink:href="#bead" transform="translate(-17.4167 -203) rotate(180) scale(1)"/>
+<use xlink:href="#bead" transform="translate(0 -203) rotate(180) scale(1)"/>
+<use xlink:href="#bead" transform="translate(17.4167 -203) rotate(180) scale(1)"/>
+<use xlink:href="#bead" transform="translate(34.8333 -203) rotate(180) scale(1)"/>
+<use xlink:href="#bead" transform="translate(52.25 -203) rotate(180) scale(1)"/>
+<use xlink:href="#bead" transform="translate(69.6667 -203) rotate(180) scale(1)"/>
+<use xlink:href="#bead" transform="translate(87.0833 -203) rotate(180) scale(1)"/>
+<use xlink:href="#bead" transform="translate(104.5 -203) rotate(180) scale(1)"/>
+<use xlink:href="#bead" transform="translate(121.917 -203) rotate(180) scale(1)"/>
+<use xlink:href="#bead" transform="translate(139.333 -203) rotate(180) scale(1)"/>
+<use xlink:href="#bead" transform="translate(156.75 -203) rotate(180) scale(1)"/>
+<use xlink:href="#bead" transform="translate(174.167 -203) rotate(180) scale(1)"/>
+<use xlink:href="#bead" transform="translate(191.583 -203) rotate(180) scale(1)"/>
+<use xlink:href="#bead" transform="translate(209 -203) rotate(180) scale(1)"/>
+<use xlink:href="#bead" transform="translate(-213 -184) rotate(-90) scale(1)"/>
+<use xlink:href="#bead" transform="translate(-213 -167.273) rotate(-90) scale(1)"/>
+<use xlink:href="#bead" transform="translate(-213 -150.545) rotate(-90) scale(1)"/>
+<use xlink:href="#bead" transform="translate(-213 -133.818) rotate(-90) scale(1)"/>
+<use xlink:href="#bead" transform="translate(-213 -117.091) rotate(-90) scale(1)"/>
+<use xlink:href="#bead" transform="translate(-213 -100.364) rotate(-90) scale(1)"/>
+<use xlink:href="#bead" transform="translate(-213 -83.6364) rotate(-90) scale(1)"/>
+<use xlink:href="#bead" transform="translate(-213 -66.9091) rotate(-90) scale(1)"/>
+<use xlink:href="#bead" transform="translate(-213 -50.1818) rotate(-90) scale(1)"/>
+<use xlink:href="#bead" transform="translate(-213 -33.4545) rotate(-90) scale(1)"/>
+<use xlink:href="#bead" transform="translate(-213 -16.7273) rotate(-90) scale(1)"/>
+<use xlink:href="#bead" transform="translate(-213 0) rotate(-90) scale(1)"/>
+<use xlink:href="#bead" transform="translate(-213 16.7273) rotate(-90) scale(1)"/>
+<use xlink:href="#bead" transform="translate(-213 33.4545) rotate(-90) scale(1)"/>
+<use xlink:href="#bead" transform="translate(-213 50.1818) rotate(-90) scale(1)"/>
+<use xlink:href="#bead" transform="translate(-213 66.9091) rotate(-90) scale(1)"/>
+<use xlink:href="#bead" transform="translate(-213 83.6364) rotate(-90) scale(1)"/>
+<use xlink:href="#bead" transform="translate(-213 100.364) rotate(-90) scale(1)"/>
+<use xlink:href="#bead" transform="translate(-213 117.091) rotate(-90) scale(1)"/>
+<use xlink:href="#bead" transform="translate(-213 133.818) rotate(-90) scale(1)"/>
+<use xlink:href="#bead" transform="translate(-213 150.545) rotate(-90) scale(1)"/>
+<use xlink:href="#bead" transform="translate(-213 167.273) rotate(-90) scale(1)"/>
+<use xlink:href="#bead" transform="translate(-213 184) rotate(-90) scale(1)"/>
+<use xlink:href="#bead" transform="translate(-209 203) rotate(0) scale(1)"/>
+<use xlink:href="#bead" transform="translate(-191.583 203) rotate(0) scale(1)"/>
+<use xlink:href="#bead" transform="translate(-174.167 203) rotate(0) scale(1)"/>
+<use xlink:href="#bead" transform="translate(-156.75 203) rotate(0) scale(1)"/>
+<use xlink:href="#bead" transform="translate(-139.333 203) rotate(0) scale(1)"/>
+<use xlink:href="#bead" transform="translate(-121.917 203) rotate(0) scale(1)"/>
+<use xlink:href="#bead" transform="translate(-104.5 203) rotate(0) scale(1)"/>
+<use xlink:href="#bead" transform="translate(-87.0833 203) rotate(0) scale(1)"/>
+<use xlink:href="#bead" transform="translate(-69.6667 203) rotate(0) scale(1)"/>
+<use xlink:href="#bead" transform="translate(-52.25 203) rotate(0) scale(1)"/>
+<use xlink:href="#bead" transform="translate(-34.8333 203) rotate(0) scale(1)"/>
+<use xlink:href="#bead" transform="translate(-17.4167 203) rotate(0) scale(1)"/>
+<use xlink:href="#bead" transform="translate(0 203) rotate(0) scale(1)"/>
+<use xlink:href="#bead" transform="translate(17.4167 203) rotate(0) scale(1)"/>
+<use xlink:href="#bead" transform="translate(34.8333 203) rotate(0) scale(1)"/>
+<use xlink:href="#bead" transform="translate(52.25 203) rotate(0) scale(1)"/>
+<use xlink:href="#bead" transform="translate(69.6667 203) rotate(0) scale(1)"/>
+<use xlink:href="#bead" transform="translate(87.0833 203) rotate(0) scale(1)"/>
+<use xlink:href="#bead" transform="translate(104.5 203) rotate(0) scale(1)"/>
+<use xlink:href="#bead" transform="translate(121.917 203) rotate(0) scale(1)"/>
+<use xlink:href="#bead" transform="translate(139.333 203) rotate(0) scale(1)"/>
+<use xlink:href="#bead" transform="translate(156.75 203) rotate(0) scale(1)"/>
+<use xlink:href="#bead" transform="translate(174.167 203) rotate(0) scale(1)"/>
+<use xlink:href="#bead" transform="translate(191.583 203) rotate(0) scale(1)"/>
+<use xlink:href="#bead" transform="translate(209 203) rotate(0) scale(1)"/>
+<use xlink:href="#bead" transform="translate(213 -184) rotate(90) scale(1)"/>
+<use xlink:href="#bead" transform="translate(213 -167.273) rotate(90) scale(1)"/>
+<use xlink:href="#bead" transform="translate(213 -150.545) rotate(90) scale(1)"/>
+<use xlink:href="#bead" transform="translate(213 -133.818) rotate(90) scale(1)"/>
+<use xlink:href="#bead" transform="translate(213 -117.091) rotate(90) scale(1)"/>
+<use xlink:href="#bead" transform="translate(213 -100.364) rotate(90) scale(1)"/>
+<use xlink:href="#bead" transform="translate(213 -83.6364) rotate(90) scale(1)"/>
+<use xlink:href="#bead" transform="translate(213 -66.9091) rotate(90) scale(1)"/>
+<use xlink:href="#bead" transform="translate(213 -50.1818) rotate(90) scale(1)"/>
+<use xlink:href="#bead" transform="translate(213 -33.4545) rotate(90) scale(1)"/>
+<use xlink:href="#bead" transform="translate(213 -16.7273) rotate(90) scale(1)"/>
+<use xlink:href="#bead" transform="translate(213 0) rotate(90) scale(1)"/>
+<use xlink:href="#bead" transform="translate(213 16.7273) rotate(90) scale(1)"/>
+<use xlink:href="#bead" transform="translate(213 33.4545) rotate(90) scale(1)"/>
+<use xlink:href="#bead" transform="translate(213 50.1818) rotate(90) scale(1)"/>
+<use xlink:href="#bead" transform="translate(213 66.9091) rotate(90) scale(1)"/>
+<use xlink:href="#bead" transform="translate(213 83.6364) rotate(90) scale(1)"/>
+<use xlink:href="#bead" transform="translate(213 100.364) rotate(90) scale(1)"/>
+<use xlink:href="#bead" transform="translate(213 117.091) rotate(90) scale(1)"/>
+<use xlink:href="#bead" transform="translate(213 133.818) rotate(90) scale(1)"/>
+<use xlink:href="#bead" transform="translate(213 150.545) rotate(90) scale(1)"/>
+<use xlink:href="#bead" transform="translate(213 167.273) rotate(90) scale(1)"/>
+<use xlink:href="#bead" transform="translate(213 184) rotate(90) scale(1)"/>
+<use xlink:href="#sun" transform="translate(0)"/>
+<use xlink:href="#spear" transform="scale(-1 -1) translate(165 -151) rotate(46)"/>
+<use xlink:href="#spear" transform="scale(-1 1) translate(165 -151) rotate(46)"/>
+<use xlink:href="#spear" transform="scale(1 -1) translate(165 -151) rotate(46)"/>
+<use xlink:href="#spear" transform="scale(1 1) translate(165 -151) rotate(46)"/>
+</g>
+<g id="hook">
+<path d="M218 389 Q193 392 170 382 Q146 375 130 354 Q113 339 93 345 C59 357 68 407 98 405 Q120 404 123 383 Q139 388 136 401 C132 433 89 442 62 416 C33 388 43 346 62 324 Q78 307 88 307 L78 292 Q101 291 112 300 L111 292 Q126 297 138 312 L124 284 Q149 283 162 303 Q170 313 180 335 Q191 357 218 378Z" fill="#A13917"/>
+<path d="M209 378 Q188 381 163 364 Q148 349 135 337 C110 318 83 333 73 350 C49 393 86 430 113 411 Q125 403 124 392 Q132 407 118 419 C82 449 37 410 45 368 Q48 343 64 324 L60 317 76 317 84 311 77 292 Q100 290 114 304 L110 293 Q127 300 144 322 L128 284 Q151 284 164 309 Q174 326 183 348 Q193 367 209 378Z" fill="#D99647"/>
+<path d="M45 370 Q48 341 62 326 L59 318 75 317 85 311 79 293 Q99 293 112 306 L110 295 Q125 301 138 317 L119 309 122 317 99 309 102 316 88 315 Q65 327 53 357Z" fill="#E9CE9E"/>
+<path d="M134 324 Q159 332 175 360 Q156 354 145 341 L146 347 132 334 118 327Z" fill="#A13917"/>
+</g>
+<g id="scroll-ribbon">
+<path d="M208 315 Q222 330 229 313 C243 269 294 267 307 301 C324 342 278 373 256 345 Q247 333 259 319 Q271 307 279 321 Q263 329 274 337 Q290 345 296 326 C306 294 260 282 242 319 C226 355 254 378 289 377 L340 373 Q370 367 376 337 Q389 339 385 363 Q385 381 402 393 Q428 405 427 432 C427 466 400 493 373 481 Q349 471 357 451 Q362 433 379 436 Q395 439 396 452 Q388 450 382 456 Q377 466 389 468 Q408 467 410 445 Q414 411 375 398 C344 390 294 388 262 396 C215 409 203 451 224 480 C242 508 286 506 301 482 C318 455 300 430 279 438 Q265 443 265 451 Q270 458 282 451 Q284 469 270 473 C246 480 234 453 251 430 C269 405 306 415 322 440 C337 464 329 491 311 508 L315 512 Q296 522 273 526 C225 536 188 503 193 459 Q197 409 242 389 Q213 379 208 354 L206 338 196 320Z" fill="#A13917"/>
+<path d="M207 319 L220 329 Q237 283 273 282 C310 280 323 337 286 351 Q267 359 255 342 Q248 329 261 319 Q268 314 276 322 Q263 331 273 339 Q291 348 298 328 C309 290 261 277 240 314 Q215 360 261 379 Q224 373 210 345Z" fill="#D99647"/>
+<path d="M196 318 L209 318 216 329 Q227 315 230 308 Q217 337 225 352 L213 344Z M256 331 Q260 316 271 320 L276 322 Q266 326 266 333Z" fill="#E9CE9E"/>
+<path d="M267 385 Q308 378 342 378 Q368 379 377 341 Q386 341 382 361 Q377 384 397 393 Q364 381 344 385Z" fill="#D99647"/>
+<path d="M251 390 C214 402 191 430 195 467 C200 513 245 538 287 520 Q306 516 322 508 L316 504 Q341 472 318 440 C299 415 268 418 253 438 Q240 459 256 470 Q277 480 282 452 Q272 459 265 453 C257 441 281 426 296 437 C321 455 304 492 282 499 C244 512 215 491 211 461 Q207 423 251 390Z" fill="#D99647"/>
+<path d="M193 467 Q193 502 224 519 Q252 537 285 523 L279 520 303 513 298 511 314 505 311 502 Q288 517 261 516 Q219 515 201 480Z M252 454 Q253 473 270 468 L279 457 Q270 461 264 455 L260 450Z" fill="#E9CE9E"/>
+<path d="M367 393 Q409 402 414 432 Q418 461 399 475 Q370 495 357 469 Q351 454 364 444 Q380 431 391 451 Q374 448 377 462 Q383 482 402 467 Q423 445 410 421 Q401 404 367 393Z" fill="#D99647"/>
+<path d="M357 456 Q366 443 376 444 Q388 444 391 452 Q377 450 376 462 L372 455 367 458 367 452Z" fill="#E9CE9E"/>
+</g>
+<g id="scroll">
+<use xlink:href="#hook" transform="translate(0)"/>
+<use xlink:href="#hook" transform="matrix(0 1 1 0 8 -6)"/>
+<use xlink:href="#scroll-ribbon" transform="translate(0)"/>
+<use xlink:href="#scroll-ribbon" transform="matrix(0 1 1 0 8 -6)"/>
+<use xlink:href="#seed" transform="translate(339 327) scale(2.1)"/>
+<use xlink:href="#seed" transform="translate(312 299) scale(1.24)"/>
+</g>
+<g id="small-daisy">
+<g transform="rotate(0)">
+<path d="M-2 -3 Q-4 -5 -4 -8 L-5 -9 Q-7 -13 -4 -14 L-2 -13 0 -16 3 -14 4 -14 4 -12 5 -10 Q6 -7 3 -6 L2 -3Z" fill="#D99647"/>
+<path d="M-4 -11 L-4 -13 -2 -12 0 -14 3 -13 4 -11 1 -12 -1 -10Z" fill="#E9CE9E"/>
+</g>
+<g transform="rotate(60)">
+<path d="M-2 -3 Q-4 -5 -4 -8 L-5 -9 Q-7 -13 -4 -14 L-2 -13 0 -16 3 -14 4 -14 4 -12 5 -10 Q6 -7 3 -6 L2 -3Z" fill="#D99647"/>
+<path d="M-4 -11 L-4 -13 -2 -12 0 -14 3 -13 4 -11 1 -12 -1 -10Z" fill="#E9CE9E"/>
+</g>
+<g transform="rotate(120)">
+<path d="M-2 -3 Q-4 -5 -4 -8 L-5 -9 Q-7 -13 -4 -14 L-2 -13 0 -16 3 -14 4 -14 4 -12 5 -10 Q6 -7 3 -6 L2 -3Z" fill="#D99647"/>
+<path d="M-4 -11 L-4 -13 -2 -12 0 -14 3 -13 4 -11 1 -12 -1 -10Z" fill="#E9CE9E"/>
+</g>
+<g transform="rotate(180)">
+<path d="M-2 -3 Q-4 -5 -4 -8 L-5 -9 Q-7 -13 -4 -14 L-2 -13 0 -16 3 -14 4 -14 4 -12 5 -10 Q6 -7 3 -6 L2 -3Z" fill="#D99647"/>
+<path d="M-4 -11 L-4 -13 -2 -12 0 -14 3 -13 4 -11 1 -12 -1 -10Z" fill="#E9CE9E"/>
+</g>
+<g transform="rotate(240)">
+<path d="M-2 -3 Q-4 -5 -4 -8 L-5 -9 Q-7 -13 -4 -14 L-2 -13 0 -16 3 -14 4 -14 4 -12 5 -10 Q6 -7 3 -6 L2 -3Z" fill="#D99647"/>
+<path d="M-4 -11 L-4 -13 -2 -12 0 -14 3 -13 4 -11 1 -12 -1 -10Z" fill="#E9CE9E"/>
+</g>
+<g transform="rotate(300)">
+<path d="M-2 -3 Q-4 -5 -4 -8 L-5 -9 Q-7 -13 -4 -14 L-2 -13 0 -16 3 -14 4 -14 4 -12 5 -10 Q6 -7 3 -6 L2 -3Z" fill="#D99647"/>
+<path d="M-4 -11 L-4 -13 -2 -12 0 -14 3 -13 4 -11 1 -12 -1 -10Z" fill="#E9CE9E"/>
+</g>
+<path d="M-4 -4 L-1 -5 3 -4 4 -1 6 1 3 3 2 5 -2 4 -5 2 -4 0Z" fill="#263E73"/>
+</g>
+<g id="cartouche">
+<rect x="-97.5" y="-56.5" width="195" height="113" fill="#A13917"/>
+<rect x="-95.3" y="-54.3" width="190.6" height="108.6" fill="#E9CE9E"/>
+<rect x="-92.7" y="-51.7" width="185.4" height="103.4" fill="#41452A"/>
+<rect x="-89.5" y="-48.5" width="179" height="97" fill="#E9CE9E"/>
+<rect x="-87.1" y="-46.1" width="174.2" height="92.2" fill="#263E73"/>
+<rect x="-81.0" y="-40.0" width="162.0" height="80.0" fill="#E9CE9E"/>
+<rect x="-78.7" y="-37.7" width="157.4" height="75.4" fill="#41452A"/>
+<rect x="-68.5" y="-27.5" width="137" height="55" fill="#D99647"/>
+<rect x="-65.5" y="-24.5" width="131" height="49" fill="#E9CE9E"/>
+<rect x="-63.5" y="-22.5" width="127" height="45" fill="#A13917"/>
+<path d="M-78 -50l2 2 2 -1 -2 -2Z" fill="#D99647"/>
+<path d="M-65 -50l2 2 2 -1 -2 -2Z" fill="#D99647"/>
+<path d="M-52 -50l2 2 2 -1 -2 -2Z" fill="#D99647"/>
+<path d="M-39 -50l2 2 2 -1 -2 -2Z" fill="#D99647"/>
+<path d="M-26 -50l2 2 2 -1 -2 -2Z" fill="#D99647"/>
+<path d="M-13 -50l2 2 2 -1 -2 -2Z" fill="#D99647"/>
+<path d="M0 -50l2 2 2 -1 -2 -2Z" fill="#D99647"/>
+<path d="M13 -50l2 2 2 -1 -2 -2Z" fill="#D99647"/>
+<path d="M26 -50l2 2 2 -1 -2 -2Z" fill="#D99647"/>
+<path d="M39 -50l2 2 2 -1 -2 -2Z" fill="#D99647"/>
+<path d="M52 -50l2 2 2 -1 -2 -2Z" fill="#D99647"/>
+<path d="M65 -50l2 2 2 -1 -2 -2Z" fill="#D99647"/>
+<path d="M78 -50l2 2 2 -1 -2 -2Z" fill="#D99647"/>
+<path d="M-78 50l2 -2 2 1 -2 2Z" fill="#D99647"/>
+<path d="M-65 50l2 -2 2 1 -2 2Z" fill="#D99647"/>
+<path d="M-52 50l2 -2 2 1 -2 2Z" fill="#D99647"/>
+<path d="M-39 50l2 -2 2 1 -2 2Z" fill="#D99647"/>
+<path d="M-26 50l2 -2 2 1 -2 2Z" fill="#D99647"/>
+<path d="M-13 50l2 -2 2 1 -2 2Z" fill="#D99647"/>
+<path d="M0 50l2 -2 2 1 -2 2Z" fill="#D99647"/>
+<path d="M13 50l2 -2 2 1 -2 2Z" fill="#D99647"/>
+<path d="M26 50l2 -2 2 1 -2 2Z" fill="#D99647"/>
+<path d="M39 50l2 -2 2 1 -2 2Z" fill="#D99647"/>
+<path d="M52 50l2 -2 2 1 -2 2Z" fill="#D99647"/>
+<path d="M65 50l2 -2 2 1 -2 2Z" fill="#D99647"/>
+<path d="M78 50l2 -2 2 1 -2 2Z" fill="#D99647"/>
+<use xlink:href="#small-daisy" transform="translate(0)"/>
+<use xlink:href="#seed" transform="translate(-30 0) rotate(0) scale(0.8)"/>
+<use xlink:href="#seed" transform="translate(-46 0) rotate(0) scale(0.47)"/>
+<use xlink:href="#seed" transform="translate(30 0) rotate(0) scale(0.8)"/>
+<use xlink:href="#seed" transform="translate(46 0) rotate(0) scale(0.47)"/>
+</g>
+<g id="fleur-half">
+<path d="M0 -23 L3 -20 4 -21 6 -15 10 -16 11 -11 15 -10 14 -6 18 -6 19 -3 23 -1 21 2 17 2 16 6 12 5 10 9 6 8 3 15 0 17Z" fill="#D99647"/>
+<path d="M0 -23 L3 -20 4 -21 6 -15 9 -16 10 -12 7 -12 6 -8 4 -12 2 -9 1 -15 0 -13Z M15 -6 L18 -6 19 -3 23 -1 21 1 17 -1 14 2Z" fill="#E9CE9E"/>
+<path d="M0 -15 Q3 -8 7 -9 L6 -5 11 -5 8 -2 14 0 Q9 1 6 5 L6 8 3 8 0 16Z" fill="#A13917"/>
+</g>
+<g id="fleur">
+<use xlink:href="#fleur-half" transform="translate(0)"/>
+<use xlink:href="#fleur-half" transform="scale(-1 1)"/>
+<use xlink:href="#fleur-half" transform="rotate(180)"/>
+<use xlink:href="#fleur-half" transform="scale(1 -1)"/>
+</g>
+<g id="shield-quarter">
+<path d="M0 0 L0 -39 5 -36 8 -38 10 -34 15 -36 17 -32 21 -33 22 -28 Q31 -25 31 -14 L34 -10 32 -8 38 -7 37 -4 43 0Z" fill="#D99647"/>
+<path d="M2 -37 L5 -35 8 -37 10 -32 14 -35 16 -31 19 -32 20 -28 14 -29 11 -24 9 -29 7 -25 5 -30 2 -28Z M30 -13 L34 -10 31 -8 37 -7 37 -4 42 0 35 -2 33 0 32 -4 28 -4Z" fill="#E9CE9E"/>
+<path d="M0 0 L0 -32 4 -28 5 -21 10 -24 12 -29 15 -25 14 -17 20 -20 22 -27 26 -23 Q27 -15 21 -11 Q19 -8 22 -5 Q26 -3 29 -9 L31 -6 36 -3 38 0Z" fill="#A13917"/>
+<path d="M9 -32 Q10 -26 5 -21 Q1 -18 4 -12 Q8 -8 12 -12 Q13 -15 10 -16 Q14 -19 16 -15 Q19 -9 13 -6 Q7 -3 3 -8 Q-2 -14 2 -22Z" fill="#D99647"/>
+<path d="M20 -18 Q24 -18 23 -22 L22 -24 Q29 -21 25 -14 Q20 -9 15 -10 Q19 -13 20 -18Z" fill="#41452A"/>
+<path d="M0 -12 L3 -10 2 -6 6 -7 5 -3 10 -3 13 0 0 0Z" fill="#D99647"/>
+</g>
+<g id="shield">
+<use xlink:href="#shield-quarter" transform="scale(-1 -1)"/>
+<use xlink:href="#shield-quarter" transform="scale(-1 1)"/>
+<use xlink:href="#shield-quarter" transform="scale(1 -1)"/>
+<use xlink:href="#shield-quarter" transform="scale(1 1)"/>
+<circle cx="0" cy="0" r="3.4" fill="#A13917"/>
+</g>
+<g id="large-panel">
+<rect x="-176.0" y="-81.5" width="352" height="163" fill="#A13917"/>
+<rect x="-174.0" y="-79.5" width="348" height="159" fill="#E9CE9E"/>
+<rect x="-172.0" y="-77.5" width="344" height="155" fill="#A13917"/>
+<rect x="-170.0" y="-75.5" width="340" height="151" fill="#41452A"/>
+<rect x="-157.0" y="-62.5" width="314" height="125" fill="#A13917"/>
+<rect x="-155.0" y="-60.5" width="310" height="121" fill="#E9CE9E"/>
+<rect x="-153.0" y="-58.5" width="306" height="117" fill="#41452A"/>
+<rect x="-151.0" y="-56.5" width="302" height="113" fill="#475D5C"/>
+<use xlink:href="#bead" transform="translate(-161 -68.3) rotate(180) scale(1)"/>
+<use xlink:href="#bead" transform="translate(-144.053 -68.3) rotate(180) scale(1)"/>
+<use xlink:href="#bead" transform="translate(-127.105 -68.3) rotate(180) scale(1)"/>
+<use xlink:href="#bead" transform="translate(-110.158 -68.3) rotate(180) scale(1)"/>
+<use xlink:href="#bead" transform="translate(-93.2105 -68.3) rotate(180) scale(1)"/>
+<use xlink:href="#bead" transform="translate(-76.2632 -68.3) rotate(180) scale(1)"/>
+<use xlink:href="#bead" transform="translate(-59.3158 -68.3) rotate(180) scale(1)"/>
+<use xlink:href="#bead" transform="translate(-42.3684 -68.3) rotate(180) scale(1)"/>
+<use xlink:href="#bead" transform="translate(-25.4211 -68.3) rotate(180) scale(1)"/>
+<use xlink:href="#bead" transform="translate(-8.47368 -68.3) rotate(180) scale(1)"/>
+<use xlink:href="#bead" transform="translate(8.47368 -68.3) rotate(180) scale(1)"/>
+<use xlink:href="#bead" transform="translate(25.4211 -68.3) rotate(180) scale(1)"/>
+<use xlink:href="#bead" transform="translate(42.3684 -68.3) rotate(180) scale(1)"/>
+<use xlink:href="#bead" transform="translate(59.3158 -68.3) rotate(180) scale(1)"/>
+<use xlink:href="#bead" transform="translate(76.2632 -68.3) rotate(180) scale(1)"/>
+<use xlink:href="#bead" transform="translate(93.2105 -68.3) rotate(180) scale(1)"/>
+<use xlink:href="#bead" transform="translate(110.158 -68.3) rotate(180) scale(1)"/>
+<use xlink:href="#bead" transform="translate(127.105 -68.3) rotate(180) scale(1)"/>
+<use xlink:href="#bead" transform="translate(144.053 -68.3) rotate(180) scale(1)"/>
+<use xlink:href="#bead" transform="translate(161 -68.3) rotate(180) scale(1)"/>
+<use xlink:href="#bead" transform="translate(-163 -50) rotate(-90) scale(1)"/>
+<use xlink:href="#bead" transform="translate(-163 -33.3333) rotate(-90) scale(1)"/>
+<use xlink:href="#bead" transform="translate(-163 -16.6667) rotate(-90) scale(1)"/>
+<use xlink:href="#bead" transform="translate(-163 0) rotate(-90) scale(1)"/>
+<use xlink:href="#bead" transform="translate(-163 16.6667) rotate(-90) scale(1)"/>
+<use xlink:href="#bead" transform="translate(-163 33.3333) rotate(-90) scale(1)"/>
+<use xlink:href="#bead" transform="translate(-163 50) rotate(-90) scale(1)"/>
+<use xlink:href="#bead" transform="translate(-161 68.3) rotate(0) scale(1)"/>
+<use xlink:href="#bead" transform="translate(-144.053 68.3) rotate(0) scale(1)"/>
+<use xlink:href="#bead" transform="translate(-127.105 68.3) rotate(0) scale(1)"/>
+<use xlink:href="#bead" transform="translate(-110.158 68.3) rotate(0) scale(1)"/>
+<use xlink:href="#bead" transform="translate(-93.2105 68.3) rotate(0) scale(1)"/>
+<use xlink:href="#bead" transform="translate(-76.2632 68.3) rotate(0) scale(1)"/>
+<use xlink:href="#bead" transform="translate(-59.3158 68.3) rotate(0) scale(1)"/>
+<use xlink:href="#bead" transform="translate(-42.3684 68.3) rotate(0) scale(1)"/>
+<use xlink:href="#bead" transform="translate(-25.4211 68.3) rotate(0) scale(1)"/>
+<use xlink:href="#bead" transform="translate(-8.47368 68.3) rotate(0) scale(1)"/>
+<use xlink:href="#bead" transform="translate(8.47368 68.3) rotate(0) scale(1)"/>
+<use xlink:href="#bead" transform="translate(25.4211 68.3) rotate(0) scale(1)"/>
+<use xlink:href="#bead" transform="translate(42.3684 68.3) rotate(0) scale(1)"/>
+<use xlink:href="#bead" transform="translate(59.3158 68.3) rotate(0) scale(1)"/>
+<use xlink:href="#bead" transform="translate(76.2632 68.3) rotate(0) scale(1)"/>
+<use xlink:href="#bead" transform="translate(93.2105 68.3) rotate(0) scale(1)"/>
+<use xlink:href="#bead" transform="translate(110.158 68.3) rotate(0) scale(1)"/>
+<use xlink:href="#bead" transform="translate(127.105 68.3) rotate(0) scale(1)"/>
+<use xlink:href="#bead" transform="translate(144.053 68.3) rotate(0) scale(1)"/>
+<use xlink:href="#bead" transform="translate(161 68.3) rotate(0) scale(1)"/>
+<use xlink:href="#bead" transform="translate(163 -50) rotate(90) scale(1)"/>
+<use xlink:href="#bead" transform="translate(163 -33.3333) rotate(90) scale(1)"/>
+<use xlink:href="#bead" transform="translate(163 -16.6667) rotate(90) scale(1)"/>
+<use xlink:href="#bead" transform="translate(163 0) rotate(90) scale(1)"/>
+<use xlink:href="#bead" transform="translate(163 16.6667) rotate(90) scale(1)"/>
+<use xlink:href="#bead" transform="translate(163 33.3333) rotate(90) scale(1)"/>
+<use xlink:href="#bead" transform="translate(163 50) rotate(90) scale(1)"/>
+<use xlink:href="#shield" transform="translate(0)"/>
+<use xlink:href="#fleur" transform="translate(-99 0) rotate(0) scale(1.14)"/>
+<use xlink:href="#seed" transform="translate(-66 0) rotate(0) scale(0.95)"/>
+<use xlink:href="#seed" transform="translate(-135 0) rotate(0) scale(0.8)"/>
+<use xlink:href="#fleur" transform="translate(99 0) rotate(0) scale(1.14)"/>
+<use xlink:href="#seed" transform="translate(66 0) rotate(0) scale(0.95)"/>
+<use xlink:href="#seed" transform="translate(135 0) rotate(0) scale(0.8)"/>
+</g>
+<g id="diamond">
+<g transform="scale(1 1)">
+<path d="M-296 0 C-175 -13 -31 -68 0 -289 C22 -113 114 -24 296 0 C138 20 24 103 0 289 C-26 102 -135 19 -296 0Z" fill="#A13917"/>
+</g>
+<g transform="scale(0.986 0.986)">
+<path d="M-296 0 C-175 -13 -31 -68 0 -289 C22 -113 114 -24 296 0 C138 20 24 103 0 289 C-26 102 -135 19 -296 0Z" fill="#E9CE9E"/>
+</g>
+<g transform="scale(0.968 0.968)">
+<path d="M-296 0 C-175 -13 -31 -68 0 -289 C22 -113 114 -24 296 0 C138 20 24 103 0 289 C-26 102 -135 19 -296 0Z" fill="#41452A"/>
+</g>
+<g transform="scale(0.898 0.898)">
+<path d="M-296 0 C-175 -13 -31 -68 0 -289 C22 -113 114 -24 296 0 C138 20 24 103 0 289 C-26 102 -135 19 -296 0Z" fill="#E9CE9E"/>
+</g>
+<g transform="scale(0.87 0.87)">
+<path d="M-296 0 C-175 -13 -31 -68 0 -289 C22 -113 114 -24 296 0 C138 20 24 103 0 289 C-26 102 -135 19 -296 0Z" fill="#475D5C"/>
+</g>
+<use xlink:href="#garland" transform="scale(.99)"/>
+<use xlink:href="#flower" transform="scale(1.05)"/>
+<g transform="rotate(0)">
+<path d="M0 -118 L4 -109 7 -111 9 -99 18 -103 16 -96 23 -96 Q18 -83 4 -78 L0 -74 -4 -78 Q-18 -84 -23 -96 L-16 -96 -18 -103 -9 -99 -7 -111 -4 -109Z" fill="#D99647"/>
+<path d="M0 -118 L4 -109 6 -110 7 -103 3 -105 1 -99 -2 -106 -5 -103 -4 -110Z M13 -98 L18 -103 16 -97 22 -96 18 -91 14 -91 14 -94 10 -92Z" fill="#E9CE9E"/>
+<path d="M0 -105 L3 -97 7 -101 6 -93 12 -97 9 -90 17 -92 Q14 -86 6 -82 L0 -76 -6 -82 Q-14 -86 -17 -92 L-9 -90 -12 -97 -6 -93 -7 -101 -3 -97Z" fill="#A13917"/>
+<use xlink:href="#seed" transform="translate(0 -145) scale(1.7)"/>
+<path d="M0 -150 L4 -145 1 -140 -3 -144Z" fill="#41452A"/>
+</g>
+<g transform="rotate(90)">
+<path d="M0 -118 L4 -109 7 -111 9 -99 18 -103 16 -96 23 -96 Q18 -83 4 -78 L0 -74 -4 -78 Q-18 -84 -23 -96 L-16 -96 -18 -103 -9 -99 -7 -111 -4 -109Z" fill="#D99647"/>
+<path d="M0 -118 L4 -109 6 -110 7 -103 3 -105 1 -99 -2 -106 -5 -103 -4 -110Z M13 -98 L18 -103 16 -97 22 -96 18 -91 14 -91 14 -94 10 -92Z" fill="#E9CE9E"/>
+<path d="M0 -105 L3 -97 7 -101 6 -93 12 -97 9 -90 17 -92 Q14 -86 6 -82 L0 -76 -6 -82 Q-14 -86 -17 -92 L-9 -90 -12 -97 -6 -93 -7 -101 -3 -97Z" fill="#A13917"/>
+<use xlink:href="#seed" transform="translate(0 -145) scale(1.7)"/>
+<path d="M0 -150 L4 -145 1 -140 -3 -144Z" fill="#41452A"/>
+</g>
+<g transform="rotate(180)">
+<path d="M0 -118 L4 -109 7 -111 9 -99 18 -103 16 -96 23 -96 Q18 -83 4 -78 L0 -74 -4 -78 Q-18 -84 -23 -96 L-16 -96 -18 -103 -9 -99 -7 -111 -4 -109Z" fill="#D99647"/>
+<path d="M0 -118 L4 -109 6 -110 7 -103 3 -105 1 -99 -2 -106 -5 -103 -4 -110Z M13 -98 L18 -103 16 -97 22 -96 18 -91 14 -91 14 -94 10 -92Z" fill="#E9CE9E"/>
+<path d="M0 -105 L3 -97 7 -101 6 -93 12 -97 9 -90 17 -92 Q14 -86 6 -82 L0 -76 -6 -82 Q-14 -86 -17 -92 L-9 -90 -12 -97 -6 -93 -7 -101 -3 -97Z" fill="#A13917"/>
+<use xlink:href="#seed" transform="translate(0 -145) scale(1.7)"/>
+<path d="M0 -150 L4 -145 1 -140 -3 -144Z" fill="#41452A"/>
+</g>
+<g transform="rotate(270)">
+<path d="M0 -118 L4 -109 7 -111 9 -99 18 -103 16 -96 23 -96 Q18 -83 4 -78 L0 -74 -4 -78 Q-18 -84 -23 -96 L-16 -96 -18 -103 -9 -99 -7 -111 -4 -109Z" fill="#D99647"/>
+<path d="M0 -118 L4 -109 6 -110 7 -103 3 -105 1 -99 -2 -106 -5 -103 -4 -110Z M13 -98 L18 -103 16 -97 22 -96 18 -91 14 -91 14 -94 10 -92Z" fill="#E9CE9E"/>
+<path d="M0 -105 L3 -97 7 -101 6 -93 12 -97 9 -90 17 -92 Q14 -86 6 -82 L0 -76 -6 -82 Q-14 -86 -17 -92 L-9 -90 -12 -97 -6 -93 -7 -101 -3 -97Z" fill="#A13917"/>
+<use xlink:href="#seed" transform="translate(0 -145) scale(1.7)"/>
+<path d="M0 -150 L4 -145 1 -140 -3 -144Z" fill="#41452A"/>
+</g>
+</g>
+<g id="corner-scroll">
+<use xlink:href="#scroll" transform="translate(495 490) scale(.5)"/>
+<path d="M505 712 V628 H637 V503 H713" fill="none" stroke="#E9CE9E" stroke-width="2.9" stroke-linecap="round" stroke-dasharray="1.1 11.3"/>
+</g>
+</defs>
+<rect x="0" y="0" width="800" height="800" fill="#263E73"/>
+<use xlink:href="#diamond" transform="translate(0 0)"/>
+<use xlink:href="#diamond" transform="translate(0 800)"/>
+<use xlink:href="#diamond" transform="translate(800 0)"/>
+<use xlink:href="#diamond" transform="translate(800 800)"/>
+<use xlink:href="#corner-scroll" transform="translate(400 400) scale(-1 -1) translate(-400 -400)"/>
+<use xlink:href="#corner-scroll" transform="translate(400 400) scale(-1 1) translate(-400 -400)"/>
+<use xlink:href="#corner-scroll" transform="translate(400 400) scale(1 -1) translate(-400 -400)"/>
+<use xlink:href="#corner-scroll" transform="translate(400 400) scale(1 1) translate(-400 -400)"/>
+<use xlink:href="#cartouche" transform="translate(400 132) rotate(0) scale(1)"/>
+<use xlink:href="#cartouche" transform="translate(126 400) rotate(90) scale(1.005)"/>
+<use xlink:href="#cartouche" transform="translate(400 668) rotate(0) scale(1)"/>
+<use xlink:href="#cartouche" transform="translate(674 400) rotate(90) scale(1.005)"/>
+<use xlink:href="#large-panel" transform="translate(400 0) rotate(0) scale(1)"/>
+<use xlink:href="#large-panel" transform="translate(400 800) rotate(0) scale(1)"/>
+<use xlink:href="#large-panel" transform="translate(0 400) rotate(90) scale(0.98)"/>
+<use xlink:href="#large-panel" transform="translate(800 400) rotate(90) scale(0.98)"/>
+<use xlink:href="#main" transform="translate(400 400)"/>
+</svg>

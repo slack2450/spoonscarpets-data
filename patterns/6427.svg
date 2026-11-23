@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="288" height="256" viewBox="0 0 288 256">
+<title>The Angel Vaults Inn, Hitchin — gold fan and rosette Axminster repeat</title>
+<desc>Ochre rosettes and nested fan ribs on a dark brown ground. Tapered links meet open ornaments between the fans.</desc>
+<defs>
+<g id="ribs" fill="#B78E4C">
+<path d="M -1 76 C 24 76 41 59 50 36 C 53 29 55 22 58 17 Q 61 14 65 19 C 61 40 51 60 36 74 Q 17 91 -1 90 Z" />
+<path d="M -1 107 C 25 109 55 84 70 55 C 75 44 78 35 81 28 Q 83 24 88 29 C 85 47 77 67 61 86 C 45 106 21 122 -1 122 Z" />
+<path d="M -1 139 C 25 139 53 119 75 99 C 94 81 101 56 108 41 Q 111 35 117 39 C 114 63 105 84 85 105 C 60 129 29 154 -1 154 Z" />
+<path d="M -1 171 C 36 167 75 144 98 122 C 118 103 127 77 133 61 Q 137 55 142 61 C 139 82 130 105 111 126 C 83 155 43 179 -1 186 Z" />
+<path d="M -1 205 C 46 201 79 179 107 153 C 129 133 144 109 152 83 Q 155 76 161 82 C 157 109 142 134 121 156 C 90 188 47 212 -1 220 Z" />
+</g>
+<g id="right-fan" fill="#B78E4C">
+<use xlink:href="#ribs"/>
+<path d="M 100 256 C 113 245 139 228 159 217 C 180 202 198 180 204 162 Q 207 158 211 162 C 211 181 197 203 176 218 C 153 235 130 248 119 256 Z" />
+<path d="M 151 256 C 166 243 184 229 196 215 Q 208 201 213 186 Q 217 182 220 188 C 218 208 208 224 194 237 Q 181 248 173 256 Z" />
+<path d="M 205 256 Q 217 239 221 222 Q 224 218 227 224 Q 232 239 230 256 Z" />
+<path d="M 66 210 C 112 199 147 167 167 128 C 177 111 192 93 200 74 C 207 55 212 38 216 27 L 230 34 C 221 66 211 95 201 126 C 195 151 180 175 155 194 C 129 214 99 224 75 228 Z" />
+</g><g id="fan">
+<use xlink:href="#right-fan"/>
+<use xlink:href="#right-fan" transform="scale(-1 1)"/>
+</g>
+<g id="spindle" fill="#B78E4C">
+<path d="M 0 -58 C 10 -56 16 -49 20 -42 L 34 -16 Q 39 -8 37 0 Q 39 8 34 16 L 20 42 Q 11 56 0 58 Q -11 56 -20 42 L -34 16 Q -39 8 -37 0 Q -39 -8 -34 -16 L -20 -42 Q -10 -56 0 -58 Z" />
+</g>
+<g id="eye" fill="#B78E4C">
+<path d="M 0 -46 C 15 -46 33 -43 41 -35 C 48 -26 50 -10 49 0 C 50 14 46 30 39 38 C 29 46 13 48 0 47 C -13 48 -29 46 -39 38 C -46 30 -50 14 -49 0 C -50 -10 -48 -26 -41 -35 C -33 -43 -15 -46 0 -46 Z M 0 -15 C -9 -15 -16 -10 -16 0 C -16 10 -10 15 0 15 C 10 15 16 10 16 0 C 16 -10 9 -15 0 -15 Z" fill-rule="evenodd"/>
+</g>
+<g id="medallion" fill="#B78E4C">
+<path d="M 0 -108 C 8 -108 11 -114 17 -112 Q 25 -110 30 -98 Q 35 -92 46 -92 C 62 -92 69 -83 73 -67 Q 75 -55 86 -49 Q 98 -44 98 -29 Q 98 -18 102 -8 Q 107 0 102 8 Q 98 18 98 29 Q 98 44 86 49 Q 75 55 73 67 C 69 83 62 92 46 92 Q 35 92 30 98 Q 25 110 17 112 Q 10 113 4 109 Q 0 107 -4 109 Q -10 113 -17 112 Q -25 110 -30 98 Q -35 92 -46 92 C -62 92 -69 83 -73 67 Q -75 55 -86 49 Q -98 44 -98 29 Q -98 18 -102 8 Q -107 0 -102 -8 Q -98 -18 -98 -29 Q -98 -44 -86 -49 Q -75 -55 -73 -67 C -69 -83 -62 -92 -46 -92 Q -35 -92 -30 -98 Q -25 -110 -17 -112 C -11 -114 -8 -108 0 -108 Z" />
+</g><g id="motif">
+<use xlink:href="#fan" transform="translate(256 0)"/>
+<use xlink:href="#fan" transform="translate(256 512) scale(1 -1)"/>
+<use xlink:href="#medallion" transform="translate(256 256)"/>
+</g></defs>
+<rect width="288" height="256" fill="#29231F"/>
+<g transform="scale(.5625 .5)">
+<use xlink:href="#motif"/>
+<use xlink:href="#spindle" transform="translate(256 0)"/>
+<use xlink:href="#eye" transform="translate(0 0)"/>
+<use xlink:href="#eye" transform="translate(512 0)"/>
+<use xlink:href="#spindle" transform="translate(256 512)"/>
+<use xlink:href="#eye" transform="translate(0 512)"/>
+<use xlink:href="#eye" transform="translate(512 512)"/>
+</g></svg>

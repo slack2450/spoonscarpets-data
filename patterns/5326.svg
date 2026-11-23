@@ -1,0 +1,84 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="640" height="640" viewBox="0 0 640 640">
+<title>The Bishops’ Mill, Durham — crimson scrolls and blue floral medallions</title>
+<defs>
+<g id="medallion">
+<g transform="rotate(0)">
+<path d="M-162 160 C-136 158 -83 157 -52 154 Q-42 143 -28 138 Q-16 130 0 127 Q16 130 28 138 Q42 143 52 154 C83 157 136 158 162 160" fill="none" stroke="#392a3a" stroke-width="16" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M-162 160 C-136 158 -83 157 -52 154 Q-42 143 -28 138 Q-16 130 0 127 Q16 130 28 138 Q42 143 52 154 C83 157 136 158 162 160" fill="none" stroke="#bcb3a6" stroke-width="11.5" stroke-linejoin="round" stroke-linecap="round"/>
+</g>
+<g transform="rotate(90)">
+<path d="M-162 160 C-136 158 -83 157 -52 154 Q-42 143 -28 138 Q-16 130 0 127 Q16 130 28 138 Q42 143 52 154 C83 157 136 158 162 160" fill="none" stroke="#392a3a" stroke-width="16" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M-162 160 C-136 158 -83 157 -52 154 Q-42 143 -28 138 Q-16 130 0 127 Q16 130 28 138 Q42 143 52 154 C83 157 136 158 162 160" fill="none" stroke="#bcb3a6" stroke-width="11.5" stroke-linejoin="round" stroke-linecap="round"/>
+</g>
+<g transform="rotate(180)">
+<path d="M-162 160 C-136 158 -83 157 -52 154 Q-42 143 -28 138 Q-16 130 0 127 Q16 130 28 138 Q42 143 52 154 C83 157 136 158 162 160" fill="none" stroke="#392a3a" stroke-width="16" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M-162 160 C-136 158 -83 157 -52 154 Q-42 143 -28 138 Q-16 130 0 127 Q16 130 28 138 Q42 143 52 154 C83 157 136 158 162 160" fill="none" stroke="#bcb3a6" stroke-width="11.5" stroke-linejoin="round" stroke-linecap="round"/>
+</g>
+<g transform="rotate(270)">
+<path d="M-162 160 C-136 158 -83 157 -52 154 Q-42 143 -28 138 Q-16 130 0 127 Q16 130 28 138 Q42 143 52 154 C83 157 136 158 162 160" fill="none" stroke="#392a3a" stroke-width="16" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M-162 160 C-136 158 -83 157 -52 154 Q-42 143 -28 138 Q-16 130 0 127 Q16 130 28 138 Q42 143 52 154 C83 157 136 158 162 160" fill="none" stroke="#bcb3a6" stroke-width="11.5" stroke-linejoin="round" stroke-linecap="round"/>
+</g>
+<path d="M0 197 C8 197 10 193 11 180 C13 150 21 118 43 104 C57 95 72 97 77 108 C64 105 53 116 56 129 C59 143 73 147 86 141 C100 135 105 119 101 101 C119 105 135 100 141 86 C147 73 143 59 129 56 C116 53 105 64 108 77 C97 72 95 57 104 43 C118 21 150 13 180 11 C193 10 197 8 197 0 C197 -8 193 -10 180 -11 C150 -13 118 -21 104 -43 C95 -57 97 -72 108 -77 C105 -64 116 -53 129 -56 C143 -59 147 -73 141 -86 C135 -100 119 -105 101 -101 C105 -119 100 -135 86 -141 C73 -147 59 -143 56 -129 C53 -116 64 -105 77 -108 C72 -97 57 -95 43 -104 C21 -118 13 -150 11 -180 C10 -193 8 -197 0 -197 C-8 -197 -10 -193 -11 -180 C-13 -150 -21 -118 -43 -104 C-57 -95 -72 -97 -77 -108 C-64 -105 -53 -116 -56 -129 C-59 -143 -73 -147 -86 -141 C-100 -135 -105 -119 -101 -101 C-119 -105 -135 -100 -141 -86 C-147 -73 -143 -59 -129 -56 C-116 -53 -105 -64 -108 -77 C-97 -72 -95 -57 -104 -43 C-118 -21 -150 -13 -180 -11 C-193 -10 -197 -8 -197 0 C-197 8 -193 10 -180 11 C-150 13 -118 21 -104 43 C-95 57 -97 72 -108 77 C-105 64 -116 53 -129 56 C-143 59 -147 73 -141 86 C-135 100 -119 105 -101 101 C-105 119 -100 135 -86 141 C-73 147 -59 143 -56 129 C-53 116 -64 105 -77 108 C-72 97 -57 95 -43 104 C-21 118 -13 150 -11 180 C-10 193 -8 197 0 197 Z" fill="#bcb3a6" stroke="#392a3a" stroke-width="3" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M0 128 C15 91 43 66 77 77 C66 43 91 15 128 0 C91 -15 66 -43 77 -77 C43 -66 15 -91 0 -128 C-15 -91 -43 -66 -77 -77 C-66 -43 -91 -15 -128 0 C-91 15 -66 43 -77 77 C-43 66 -15 91 0 128 Z" fill="#284662"/>
+<g id="petal">
+<path d="M-3 14 C-5 28 -16 43 -18 53 Q-20 61 -15 66 L-4 76 Q0 80 3 77 L14 67 Q20 62 18 53 C16 40 7 27 4 14 Z" fill="#bcb3a6"/>
+</g>
+<use xlink:href="#petal" transform="rotate(0)"/>
+<use xlink:href="#petal" transform="rotate(45)"/>
+<use xlink:href="#petal" transform="rotate(90)"/>
+<use xlink:href="#petal" transform="rotate(135)"/>
+<use xlink:href="#petal" transform="rotate(180)"/>
+<use xlink:href="#petal" transform="rotate(225)"/>
+<use xlink:href="#petal" transform="rotate(270)"/>
+<use xlink:href="#petal" transform="rotate(315)"/>
+<circle r="20" fill="#bcb3a6"/></g>
+<g id="spray">
+<path d="M0 -102 C14 -137 34 -158 60 -158 C84 -159 101 -142 101 -119 C103 -101 94 -90 82 -87 C69 -83 55 -92 54 -104 C52 -117 62 -125 75 -121 C72 -135 57 -137 44 -128 C20 -113 11 -72 11 -45 L10 -28 H-10 L-11 -45 C-12 -72 -20 -113 -44 -128 C-57 -137 -72 -135 -75 -121 C-62 -125 -52 -117 -54 -104 C-55 -92 -69 -83 -82 -87 C-94 -90 -103 -101 -101 -119 C-101 -142 -84 -159 -60 -158 C-34 -158 -14 -137 0 -102 Z" fill="#bcb3a6" stroke="#392a3a" stroke-width="3" stroke-linejoin="round" stroke-linecap="round"/>
+</g>
+<g id="flower">
+<path d="M0 -43 C17.4 -58 38.86 -63.22 49.88 -56.84 C62.64 -51.04 61.48 -20.3 43 0 C58 17.4 63.22 38.86 56.84 49.88 C51.04 62.64 20.3 61.48 0 43 C-17.4 58 -38.86 63.22 -49.88 56.84 C-62.64 51.04 -61.48 20.3 -43 0 C-58 -17.4 -63.22 -38.86 -56.84 -49.88 C-51.04 -62.64 -20.3 -61.48 0 -43 Z" fill="#bcb3a6" stroke="#392a3a" stroke-width="2.6" stroke-linejoin="round" stroke-linecap="round"/>
+<use xlink:href="#spray" transform="rotate(0)"/>
+<use xlink:href="#spray" transform="rotate(90)"/>
+<use xlink:href="#spray" transform="rotate(180)"/>
+<use xlink:href="#spray" transform="rotate(270)"/>
+<path d="M0 -43 C17.4 -58 38.86 -63.22 49.88 -56.84 C62.64 -51.04 61.48 -20.3 43 0 C58 17.4 63.22 38.86 56.84 49.88 C51.04 62.64 20.3 61.48 0 43 C-17.4 58 -38.86 63.22 -49.88 56.84 C-62.64 51.04 -61.48 20.3 -43 0 C-58 -17.4 -63.22 -38.86 -56.84 -49.88 C-51.04 -62.64 -20.3 -61.48 0 -43 Z" fill="#bcb3a6"/>
+<path d="M0 -35 C15.6 -52 34.84 -56.68 44.72 -50.96 C56.16 -45.76 55.12 -18.2 35 0 C52 15.6 56.68 34.84 50.96 44.72 C45.76 56.16 18.2 55.12 0 35 C-15.6 52 -34.84 56.68 -44.72 50.96 C-56.16 45.76 -55.12 18.2 -35 0 C-52 -15.6 -56.68 -34.84 -50.96 -44.72 C-45.76 -56.16 -18.2 -55.12 0 -35 Z" fill="#284662"/>
+<g id="floret-opening">
+<path d="M9 -29 Q23 -43 40 -42 Q45 -29 32 -10 Q25 -24 9 -29 Z" fill="#bcb3a6"/>
+</g>
+<use xlink:href="#floret-opening" transform="rotate(0)"/>
+<use xlink:href="#floret-opening" transform="rotate(90)"/>
+<use xlink:href="#floret-opening" transform="rotate(180)"/>
+<use xlink:href="#floret-opening" transform="rotate(270)"/>
+<circle r="21" fill="#bcb3a6"/></g>
+<g id="knot">
+<path d="M0 -27 C10.2 -34 22.78 -37.06 29.24 -33.32 C36.72 -29.92 36.04 -11.9 27 0 C34 10.2 37.06 22.78 33.32 29.24 C29.92 36.72 11.9 36.04 0 27 C-10.2 34 -22.78 37.06 -29.24 33.32 C-36.72 29.92 -36.04 11.9 -27 0 C-34 -10.2 -37.06 -22.78 -33.32 -29.24 C-29.92 -36.72 -11.9 -36.04 0 -27 Z" fill="#bcb3a6" stroke="#392a3a" stroke-width="3" stroke-linejoin="round" stroke-linecap="round"/>
+<circle r="10.6" fill="#284662"/>
+<g transform="rotate(0)">
+<path d="M8 -17 Q14 -22 20 -22 Q24 -20 22 -13 L20 -5 Q16 -11 8 -17 Z" fill="#284662"/>
+</g>
+<g transform="rotate(90)">
+<path d="M8 -17 Q14 -22 20 -22 Q24 -20 22 -13 L20 -5 Q16 -11 8 -17 Z" fill="#284662"/>
+</g>
+<g transform="rotate(180)">
+<path d="M8 -17 Q14 -22 20 -22 Q24 -20 22 -13 L20 -5 Q16 -11 8 -17 Z" fill="#284662"/>
+</g>
+<g transform="rotate(270)">
+<path d="M8 -17 Q14 -22 20 -22 Q24 -20 22 -13 L20 -5 Q16 -11 8 -17 Z" fill="#284662"/>
+</g>
+</g></defs>
+<rect width="640" height="640" fill="#792c39"/>
+<use xlink:href="#medallion" transform="translate(320 0)"/>
+<use xlink:href="#medallion" transform="translate(320 640)"/>
+<use xlink:href="#medallion" transform="translate(0 320)"/>
+<use xlink:href="#medallion" transform="translate(640 320)"/>
+<use xlink:href="#flower" transform="translate(0 0)"/>
+<use xlink:href="#flower" transform="translate(0 640)"/>
+<use xlink:href="#flower" transform="translate(640 0)"/>
+<use xlink:href="#flower" transform="translate(640 640)"/>
+<use xlink:href="#flower" transform="translate(320 320)"/>
+<use xlink:href="#knot" transform="translate(160 160)"/>
+<use xlink:href="#knot" transform="translate(160 480)"/>
+<use xlink:href="#knot" transform="translate(480 160)"/>
+<use xlink:href="#knot" transform="translate(480 480)"/>
+</svg>

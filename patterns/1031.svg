@@ -1,0 +1,495 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="640" viewBox="0 0 640 640" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <title>The Standing Order, Stevenage — bar-room Axminster carpet</title>
+  <defs>
+    <g id="railSprig">
+      <path d="M-16 0Q-7-2 0 0Q7 2 16 0L16 1Q7 4 0 2Q-7 0-16 2Z" fill="#ba9173" />
+      <path d="M-11 0q-6 -1 -6 -6q6 0 6 6Zm4 2q1 5 6 5q-1 -5 -6 -5Z" fill="#ba9173" />
+      <path d="M-1 0q-6 -1 -6 -6q6 0 6 6Zm4 2q1 5 6 5q-1 -5 -6 -5Z" fill="#ba9173" />
+      <path d="M9 0q-6 -1 -6 -6q6 0 6 6Zm4 2q1 5 6 5q-1 -5 -6 -5Z" fill="#ba9173" />
+    </g>
+    <g id="lozenge">
+      <path d="M0-26Q5-17 13-11L23 0 13 10Q6 17 0 26Q-6 17-13 10L-23 0-13-11Q-5-17 0-26Z" fill="#9d5246" />
+      <path d="M0-16L5-9 10-8 9-4 14 0 8 4 8 8 4 9 0 16-4 9-9 8-8 4-14 0-9-4-10-8-5-9Z" fill="#ba9173" />
+      <g transform="rotate(0)">
+        <path d="M0 -20.6l1.8 2.6 -1.8 2.6 -1.8 -2.6Z" fill="#ba9173" />
+        <path d="M7 -13l1.5 2 -1.5 2 -1.5 -2Z" fill="#ba9173" />
+      </g>
+      <g transform="rotate(90)">
+        <path d="M0 -20.6l1.8 2.6 -1.8 2.6 -1.8 -2.6Z" fill="#ba9173" />
+        <path d="M7 -13l1.5 2 -1.5 2 -1.5 -2Z" fill="#ba9173" />
+      </g>
+      <g transform="rotate(180)">
+        <path d="M0 -20.6l1.8 2.6 -1.8 2.6 -1.8 -2.6Z" fill="#ba9173" />
+        <path d="M7 -13l1.5 2 -1.5 2 -1.5 -2Z" fill="#ba9173" />
+      </g>
+      <g transform="rotate(270)">
+        <path d="M0 -20.6l1.8 2.6 -1.8 2.6 -1.8 -2.6Z" fill="#ba9173" />
+        <path d="M7 -13l1.5 2 -1.5 2 -1.5 -2Z" fill="#ba9173" />
+      </g>
+      <path d="M0 -7l5 7 -5 7 -5 -7Z" fill="#768786" />
+      <path d="M0 -3l2 3 -2 3 -2 -3Z" fill="#d7bdab" />
+    </g>
+    <g id="crossing">
+      <path d="M-22-31H22L24-23 31-21V21L24 23 22 31H-22L-24 23-31 21V-21L-24-23Z" fill="#768786" stroke="#ba9173" stroke-width="3" stroke-linejoin="round" />
+      <path d="M-16-23H16L17-15 24-14V14L17 15 16 23H-16L-17 15-24 14V-14L-17-15Z" fill="#ba9173" />
+      <path d="M-13-18L0-15 13-18 12-7 18 0 12 7 13 18 0 15-13 18-12 7-18 0-12-7Z" fill="#768786" />
+      <path d="M-11-13L0-9 11-13 9-3 12 10 2 8-8 12-7 2Z" fill="#9d5246" />
+      <g transform="translate(0 0) scale(0.68)">
+        <path d="M-3-10H3L5-6 8-7 10-3 8 0 10 4 6 7 3 6 2 10H-2L-4 7-7 8-10 4-8 1-10-3-7-6-4-6Z" fill="#ba9173" />
+        <path d="M0 -4l3 4 -3 4 -3 -4Z" fill="#393651" />
+      </g>
+    </g>
+    <pattern id="navyWeave" width="18" height="16" patternUnits="userSpaceOnUse">
+      <rect width="18" height="16" fill="#393651" />
+      <path d="M3 0h2v3H3zM3 7h2v6H3zM12 3h2v6h-2z" fill="#2e302b" />
+      <path d="M6 4l2-2 1 3-2 1zM14 12l2-2 1 3-2 1z" fill="#768786" />
+      <path d="M2 14h2v2H2zM10 5h2v3h-2z" fill="#9d5246" />
+    </pattern>
+    <g id="blueField">
+      <path d="M16 21Q31 14 52 15L102 15Q120 15 129 24L144 40Q147 44 146 56L146 129Q145 144 133 146L48 146Q31 144 23 134Q16 125 16 108Z" fill="url(#navyWeave)" stroke="#ba9173" stroke-width="3" stroke-linejoin="round" />
+      <path d="M20 117Q21 131 33 138L45 142 132 142Q141 141 142 132V60L141 46 127 29Q136 39 138 48L139 130Q139 138 131 139H45Q27 137 20 117Z" fill="#393651" />
+    </g>
+    <g id="darkField">
+      <path d="M16 21Q31 14 52 15L102 15Q120 15 129 24L144 40Q147 44 146 56L146 129Q145 144 133 146L48 146Q31 144 23 134Q16 125 16 108Z" fill="#2e302b" stroke="#ba9173" stroke-width="3" stroke-linejoin="round" />
+      <use xlink:href="#roseTwig" />
+      <path d="M35 118Q45 111 51 104Q51 112 47 116L41 120ZM87 110Q93 102 90 94Q84 96 83 105ZM121 80Q129 69 136 70Q135 80 127 84Z" fill="#768786" />
+      <path d="M38 106Q43 101 45 94Q40 93 36 98L33 104ZM131 98Q137 94 139 86Q131 87 129 93Z" fill="#9d5246" />
+      <path d="M37 129l2.5 4 -2.5 4 -2.5 -4Z" fill="#9d5246" />
+      <path d="M95 132.3l2.9 3.7 -2.9 3.7 -2.9 -3.7Z" fill="#ba9173" />
+      <path d="M129 36.8l2.6 4.2 -2.6 4.2 -2.6 -4.2Z" fill="#9d5246" />
+      <path d="M106 52.2l2.8 3.8 -2.8 3.8 -2.8 -3.8Z" fill="#ba9173" />
+    </g>
+    <g id="roseTwig">
+      <path d="M117 29C116 45 125 55 117 72S112 98 102 108Q91 120 64 124L63 122Q94 116 100 104C111 92 109 82 117 68Q123 53 115 38Z" fill="#768786" />
+      <path d="M116 59Q104 56 102 46Q114 45 116 59ZM117 68Q130 62 130 53Q120 55 117 68ZM112 91Q100 85 99 78Q110 78 112 91ZM105 100Q117 102 123 92Q113 90 105 100Z" fill="#768786" />
+      <g transform="translate(116 39) scale(0.95)">
+        <path d="M-3-10H3L5-6 8-7 10-3 8 0 10 4 6 7 3 6 2 10H-2L-4 7-7 8-10 4-8 1-10-3-7-6-4-6Z" fill="#ba9173" />
+        <path d="M0 -4l3 4 -3 4 -3 -4Z" fill="#9d5246" />
+      </g>
+      <g transform="translate(117 69) scale(1.3)">
+        <path d="M-3-10H3L5-6 8-7 10-3 8 0 10 4 6 7 3 6 2 10H-2L-4 7-7 8-10 4-8 1-10-3-7-6-4-6Z" fill="#9d5246" />
+        <path d="M0 -4l3 4 -3 4 -3 -4Z" fill="#ba9173" />
+      </g>
+      <g transform="translate(111 100) scale(0.7)">
+        <path d="M-3-10H3L5-6 8-7 10-3 8 0 10 4 6 7 3 6 2 10H-2L-4 7-7 8-10 4-8 1-10-3-7-6-4-6Z" fill="#ba9173" />
+        <path d="M0 -4l3 4 -3 4 -3 -4Z" fill="#9d5246" />
+      </g>
+      <g transform="translate(82 122) scale(1.5)">
+        <path d="M-3-10H3L5-6 8-7 10-3 8 0 10 4 6 7 3 6 2 10H-2L-4 7-7 8-10 4-8 1-10-3-7-6-4-6Z" fill="#9d5246" />
+        <path d="M0 -4l3 4 -3 4 -3 -4Z" fill="#ba9173" />
+      </g>
+      <path d="M80 109L76 103 82 105 86 101 87 109ZM70 125Q63 139 56 134Q58 127 70 125Z" fill="#768786" />
+      <g transform="translate(37 120) scale(0.83)">
+        <path d="M-3-10H3L5-6 8-7 10-3 8 0 10 4 6 7 3 6 2 10H-2L-4 7-7 8-10 4-8 1-10-3-7-6-4-6Z" fill="#ba9173" />
+        <path d="M0 -4l3 4 -3 4 -3 -4Z" fill="#9d5246" />
+      </g>
+      <path d="M59 107l3.8 6 -3.8 6 -3.8 -6Z" fill="#768786" />
+      <path d="M57 130l3.6 4 -3.6 4 -3.6 -4Z" fill="#ba9173" />
+      <g transform="translate(105 125) scale(0.52)">
+        <path d="M-3-10H3L5-6 8-7 10-3 8 0 10 4 6 7 3 6 2 10H-2L-4 7-7 8-10 4-8 1-10-3-7-6-4-6Z" fill="#9d5246" />
+        <path d="M0 -4l3 4 -3 4 -3 -4Z" fill="#ba9173" />
+      </g>
+    </g>
+    <g id="squareFlower">
+      <path d="M0 -85 Q8 -84 13 -89 Q21 -93 27 -88 Q36 -80 42 -82 Q48 -82 54 -90 L86 -90 Q90 -89 90 -85 L90 -54 Q82 -46 82 -42 Q80 -36 88 -27 Q93 -21 89 -13 Q84 -8 85 0 Q84 8 89 13 Q93 21 88 27 Q80 36 82 42 Q82 48 90 54 L90 86 Q89 90 85 90 L54 90 Q46 82 42 82 Q36 80 27 88 Q21 93 13 89 Q8 84 0 85 Q-8 84 -13 89 Q-21 93 -27 88 Q-36 80 -42 82 Q-48 82 -54 90 L-86 90 Q-90 89 -90 85 L-90 54 Q-82 46 -82 42 Q-80 36 -88 27 Q-93 21 -89 13 Q-84 8 -85 0 Q-84 -8 -89 -13 Q-93 -21 -88 -27 Q-80 -36 -82 -42 Q-82 -48 -90 -54 L-90 -86 Q-89 -90 -85 -90 L-54 -90 Q-46 -82 -42 -82 Q-36 -80 -27 -88 Q-21 -93 -13 -89 Q-8 -84 0 -85Z" fill="#768786" stroke="#ba9173" stroke-width="3.8" stroke-linejoin="round" />
+      <g transform="scale(.92)">
+        <path d="M0 -85 Q8 -84 13 -89 Q21 -93 27 -88 Q36 -80 42 -82 Q48 -82 54 -90 L86 -90 Q90 -89 90 -85 L90 -54 Q82 -46 82 -42 Q80 -36 88 -27 Q93 -21 89 -13 Q84 -8 85 0 Q84 8 89 13 Q93 21 88 27 Q80 36 82 42 Q82 48 90 54 L90 86 Q89 90 85 90 L54 90 Q46 82 42 82 Q36 80 27 88 Q21 93 13 89 Q8 84 0 85 Q-8 84 -13 89 Q-21 93 -27 88 Q-36 80 -42 82 Q-48 82 -54 90 L-86 90 Q-90 89 -90 85 L-90 54 Q-82 46 -82 42 Q-80 36 -88 27 Q-93 21 -89 13 Q-84 8 -85 0 Q-84 -8 -89 -13 Q-93 -21 -88 -27 Q-80 -36 -82 -42 Q-82 -48 -90 -54 L-90 -86 Q-89 -90 -85 -90 L-54 -90 Q-46 -82 -42 -82 Q-36 -80 -27 -88 Q-21 -93 -13 -89 Q-8 -84 0 -85Z" fill="none" stroke="#ba9173" stroke-width="1.8" stroke-linejoin="round" />
+      </g>
+      <g transform="rotate(0)">
+        <use xlink:href="#leafPair" />
+        <use xlink:href="#leafPair" transform="scale(-1 1)" />
+      </g>
+      <g transform="rotate(90)">
+        <use xlink:href="#leafPair" />
+        <use xlink:href="#leafPair" transform="scale(-1 1)" />
+      </g>
+      <g transform="rotate(180)">
+        <use xlink:href="#leafPair" />
+        <use xlink:href="#leafPair" transform="scale(-1 1)" />
+      </g>
+      <g transform="rotate(270)">
+        <use xlink:href="#leafPair" />
+        <use xlink:href="#leafPair" transform="scale(-1 1)" />
+      </g>
+      <path d="M0 -65 L9 -57 Q18 -48 25 -47 L40 -52 48 -54 49 -43 46 -28 Q46 -19 56 -11 L65 0 L57 9 Q48 18 47 25 L52 40 54 48 43 49 28 46 Q19 46 11 56 L0 65 L-9 57 Q-18 48 -25 47 L-40 52 -48 54 -49 43 -46 28 Q-46 19 -56 11 L-65 0 L-57 -9 Q-48 -18 -47 -25 L-52 -40 -54 -48 -43 -49 -28 -46 Q-19 -46 -11 -56 L0 -65Z" fill="#9d5246" stroke="#393651" stroke-width="3" stroke-linejoin="round" />
+      <use xlink:href="#starBud" transform="rotate(0)" />
+      <use xlink:href="#starBud" transform="rotate(90)" />
+      <use xlink:href="#starBud" transform="rotate(180)" />
+      <use xlink:href="#starBud" transform="rotate(270)" />
+      <path d="M0 -31 Q8 -33 13 -26 L18 -28 Q26 -27 26 -19 L24 -14 Q31 -11 31 0 Q33 8 26 13 L28 18 Q27 26 19 26 L14 24 Q11 31 0 31 Q-8 33 -13 26 L-18 28 Q-26 27 -26 19 L-24 14 Q-31 11 -31 0 Q-33 -8 -26 -13 L-28 -18 Q-27 -26 -19 -26 L-14 -24 Q-11 -31 0 -31Z" fill="#d7bdab" stroke="#ba9173" stroke-width="3" stroke-linejoin="round" />
+      <use xlink:href="#centrePetal" transform="rotate(0)" />
+      <use xlink:href="#centrePetal" transform="rotate(90)" />
+      <use xlink:href="#centrePetal" transform="rotate(180)" />
+      <use xlink:href="#centrePetal" transform="rotate(270)" />
+      <path d="M0 -8l6 8 -6 8 -6 -8Z" fill="#9d5246" />
+    </g>
+    <g id="leafPair">
+      <path d="M5-29Q8-48 21-57Q28-63 31-70Q38-59 32-49Q25-36 5-29Z" fill="#2e302b" />
+      <path d="M13-37Q34-54 30-64Q17-59 13-37Z" fill="#768786" />
+      <path d="M23-46Q28-52 28-57L24-54Z" fill="#d7bdab" />
+      <path d="M34-48Q47-57 51-75Q50-83 45-86Q43-78 37-73Q29-61 34-48Z" fill="#393651" />
+      <path d="M36-54Q37-66 46-74Q46-60 36-54Z" fill="#768786" />
+      <path d="M56-56Q51-65 55-75Q60-83 72-81Q77-68 72-60Q66-54 56-56Z" fill="#768786" stroke="#2e302b" stroke-width="1.8" stroke-linejoin="round" />
+      <path d="M53-55Q56-66 66-74Q63-64 53-55Z" fill="#768786" />
+      <path d="M65 -73l3.2 5 -3.2 5 -3.2 -5Z" fill="#d7bdab" />
+    </g>
+    <g id="starBud">
+      <path d="M-9-51Q-7-56 0-61Q8-55 9-49L4-40H-3Z" fill="#2e302b" />
+      <path d="M-21-36Q-28-44-36-45Q-38-36-32-29L-24-26Z" fill="#393651" />
+    </g>
+    <g id="centrePetal">
+      <path d="M-5-10Q-9-17-5-22Q0-28 5-22Q9-16 4-10L0-6Z" fill="#ba9173" />
+      <path d="M0 -21.8l2 3.8 -2 3.8 -2 -3.8Z" fill="#9d5246" />
+    </g>
+    <g id="roundFlower">
+      <path d="M0 -78 Q10 -78 16 -82 Q28 -87 39 -82 Q49 -77 50 -67 Q50 -61 58 -60 Q75 -58 80 -48 Q85 -39 81 -31 Q76 -24 78 -15 Q81 -6 78 0 Q78 10 82 16 Q87 28 82 39 Q77 49 67 50 Q61 50 60 58 Q58 75 48 80 Q39 85 31 81 Q24 76 15 78 Q6 81 0 78 Q-10 78 -16 82 Q-28 87 -39 82 Q-49 77 -50 67 Q-50 61 -58 60 Q-75 58 -80 48 Q-85 39 -81 31 Q-76 24 -78 15 Q-81 6 -78 0 Q-78 -10 -82 -16 Q-87 -28 -82 -39 Q-77 -49 -67 -50 Q-61 -50 -60 -58 Q-58 -75 -48 -80 Q-39 -85 -31 -81 Q-24 -76 -15 -78 Q-6 -81 0 -78Z" fill="#768786" stroke="#ba9173" stroke-width="3.8" stroke-linejoin="round" />
+      <g transform="scale(.92)">
+        <path d="M0 -78 Q10 -78 16 -82 Q28 -87 39 -82 Q49 -77 50 -67 Q50 -61 58 -60 Q75 -58 80 -48 Q85 -39 81 -31 Q76 -24 78 -15 Q81 -6 78 0 Q78 10 82 16 Q87 28 82 39 Q77 49 67 50 Q61 50 60 58 Q58 75 48 80 Q39 85 31 81 Q24 76 15 78 Q6 81 0 78 Q-10 78 -16 82 Q-28 87 -39 82 Q-49 77 -50 67 Q-50 61 -58 60 Q-75 58 -80 48 Q-85 39 -81 31 Q-76 24 -78 15 Q-81 6 -78 0 Q-78 -10 -82 -16 Q-87 -28 -82 -39 Q-77 -49 -67 -50 Q-61 -50 -60 -58 Q-58 -75 -48 -80 Q-39 -85 -31 -81 Q-24 -76 -15 -78 Q-6 -81 0 -78Z" fill="none" stroke="#ba9173" stroke-width="2" stroke-linejoin="round" />
+      </g>
+      <g transform="rotate(0)">
+        <use xlink:href="#roundPetals" />
+        <path d="M-4-28Q-7-44-14-52Q-21-56-25-49Q-26-33-12-25Z" fill="#9d5246" stroke="#ba9173" stroke-width="2" stroke-linejoin="round" />
+        <path d="M-22-56Q-15-62-16-69Q-25-68-26-62Q-33-71-37-69Q-35-58-22-56Z" fill="#2e302b" />
+      </g>
+      <g transform="rotate(90)">
+        <use xlink:href="#roundPetals" />
+        <path d="M-4-28Q-7-44-14-52Q-21-56-25-49Q-26-33-12-25Z" fill="#9d5246" stroke="#ba9173" stroke-width="2" stroke-linejoin="round" />
+        <path d="M-22-56Q-15-62-16-69Q-25-68-26-62Q-33-71-37-69Q-35-58-22-56Z" fill="#2e302b" />
+      </g>
+      <g transform="rotate(180)">
+        <use xlink:href="#roundPetals" />
+        <path d="M-4-28Q-7-44-14-52Q-21-56-25-49Q-26-33-12-25Z" fill="#9d5246" stroke="#ba9173" stroke-width="2" stroke-linejoin="round" />
+        <path d="M-22-56Q-15-62-16-69Q-25-68-26-62Q-33-71-37-69Q-35-58-22-56Z" fill="#2e302b" />
+      </g>
+      <g transform="rotate(270)">
+        <use xlink:href="#roundPetals" />
+        <path d="M-4-28Q-7-44-14-52Q-21-56-25-49Q-26-33-12-25Z" fill="#9d5246" stroke="#ba9173" stroke-width="2" stroke-linejoin="round" />
+        <path d="M-22-56Q-15-62-16-69Q-25-68-26-62Q-33-71-37-69Q-35-58-22-56Z" fill="#2e302b" />
+      </g>
+      <g transform="translate(0 0) scale(2.4)">
+        <path d="M-3-10H3L5-6 8-7 10-3 8 0 10 4 6 7 3 6 2 10H-2L-4 7-7 8-10 4-8 1-10-3-7-6-4-6Z" fill="#d7bdab" />
+        <path d="M0 -4l3 4 -3 4 -3 -4Z" fill="#9d5246" />
+      </g>
+      <g transform="scale(.69)">
+        <use xlink:href="#centrePetal" transform="rotate(0)" />
+        <use xlink:href="#centrePetal" transform="rotate(90)" />
+        <use xlink:href="#centrePetal" transform="rotate(180)" />
+        <use xlink:href="#centrePetal" transform="rotate(270)" />
+      </g>
+      <path d="M0 -8l7 8 -7 8 -7 -8Z" fill="#393651" />
+    </g>
+    <g id="roundPetals">
+      <path d="M2-28Q6-42 9-48Q12-55 20-55L26-50 26-43Q25-32 11-24Z" fill="#9d5246" stroke="#ba9173" stroke-width="2.4" stroke-linejoin="round" />
+      <path d="M18-56Q10-62 13-70Q20-70 24-62L27-65Q32-72 38-70Q38-57 26-53Z" fill="#2e302b" />
+      <path d="M27-23Q32-39 41-43Q49-46 53-39Q52-26 37-21Z" fill="#9d5246" stroke="#ba9173" stroke-width="2.2" stroke-linejoin="round" />
+      <path d="M45 -57l3.7 5 -3.7 5 -3.7 -5Z" fill="#d7bdab" />
+      <path d="M6 -74.8l3.6 6.8 -3.6 6.8 -3.6 -6.8Z" fill="#ba9173" />
+      <path d="M11-31Q14-42 21-47Q21-39 16-33Z" fill="#ba9173" />
+      <path d="M31-25Q40-37 47-36Q42-30 37-28Z" fill="#ba9173" />
+      <path d="M51 -20.3l3.4 5.3 -3.4 5.3 -3.4 -5.3Z" fill="#2e302b" />
+      <path d="M56 -6.5l2.6 4.5 -2.6 4.5 -2.6 -4.5Z" fill="#ba9173" />
+      <path d="M61 -40.3l2.6 4.3 -2.6 4.3 -2.6 -4.3Z" fill="#d7bdab" />
+    </g>
+    <g id="borderRunner">
+      <path d="M-15 2Q-8 1-1-2Q7-5 15-3L15-1Q7-2 0 1Q-8 4-15 4Z" fill="#ba9173" />
+      <path d="M-3 0Q-11 0-12-7Q-5-7-3 0ZM4 0Q9 8 13 5Q12 0 4 0Z" fill="#ba9173" />
+      <path d="M0 -8l4 4 -4 4 -4 -4Z" fill="#d7bdab" />
+      <path d="M0 -6.3l1.8 2.3 -1.8 2.3 -1.8 -2.3Z" fill="#9d5246" />
+    </g>
+    <g id="cell0">
+      <use xlink:href="#darkField" transform="scale(1 1)" />
+      <use xlink:href="#darkField" transform="scale(-1 1)" />
+      <use xlink:href="#darkField" transform="scale(1 -1)" />
+      <use xlink:href="#darkField" transform="scale(-1 -1)" />
+      <g transform="rotate(0)">
+        <use xlink:href="#railSprig" transform="translate(93 0)" />
+        <use xlink:href="#railSprig" transform="translate(122 0)" />
+      </g>
+      <g transform="rotate(90)">
+        <use xlink:href="#railSprig" transform="translate(93 0)" />
+        <use xlink:href="#railSprig" transform="translate(122 0)" />
+      </g>
+      <g transform="rotate(180)">
+        <use xlink:href="#railSprig" transform="translate(93 0)" />
+        <use xlink:href="#railSprig" transform="translate(122 0)" />
+      </g>
+      <g transform="rotate(270)">
+        <use xlink:href="#railSprig" transform="translate(93 0)" />
+        <use xlink:href="#railSprig" transform="translate(122 0)" />
+      </g>
+      <use xlink:href="#squareFlower" />
+    </g>
+    <g id="cell1">
+      <use xlink:href="#blueField" transform="scale(1 1)" />
+      <use xlink:href="#blueField" transform="scale(-1 1)" />
+      <use xlink:href="#blueField" transform="scale(1 -1)" />
+      <use xlink:href="#blueField" transform="scale(-1 -1)" />
+      <g transform="rotate(0)">
+        <use xlink:href="#railSprig" transform="translate(93 0)" />
+        <use xlink:href="#railSprig" transform="translate(122 0)" />
+      </g>
+      <g transform="rotate(90)">
+        <use xlink:href="#railSprig" transform="translate(93 0)" />
+        <use xlink:href="#railSprig" transform="translate(122 0)" />
+      </g>
+      <g transform="rotate(180)">
+        <use xlink:href="#railSprig" transform="translate(93 0)" />
+        <use xlink:href="#railSprig" transform="translate(122 0)" />
+      </g>
+      <g transform="rotate(270)">
+        <use xlink:href="#railSprig" transform="translate(93 0)" />
+        <use xlink:href="#railSprig" transform="translate(122 0)" />
+      </g>
+      <use xlink:href="#roundFlower" />
+    </g>
+  </defs>
+  <rect width="640" height="640" fill="#9d5246" />
+  <use xlink:href="#cell0" transform="translate(160 160)" />
+  <use xlink:href="#cell1" transform="translate(160 480)" />
+  <use xlink:href="#cell1" transform="translate(480 160)" />
+  <use xlink:href="#cell0" transform="translate(480 480)" />
+  <use xlink:href="#lozenge" transform="translate(0 -160)" />
+  <use xlink:href="#lozenge" transform="translate(-160 0) rotate(90)" />
+  <g transform="translate(0 0) rotate(0)">
+    <use xlink:href="#borderRunner" transform="translate(46 0)" />
+    <use xlink:href="#borderRunner" transform="translate(77 0)" />
+    <use xlink:href="#borderRunner" transform="translate(108 0)" />
+    <use xlink:href="#borderRunner" transform="translate(135 0)" />
+  </g>
+  <g transform="translate(0 0) rotate(90)">
+    <use xlink:href="#borderRunner" transform="translate(46 0)" />
+    <use xlink:href="#borderRunner" transform="translate(77 0)" />
+    <use xlink:href="#borderRunner" transform="translate(108 0)" />
+    <use xlink:href="#borderRunner" transform="translate(135 0)" />
+  </g>
+  <g transform="translate(0 0) rotate(180)">
+    <use xlink:href="#borderRunner" transform="translate(46 0)" />
+    <use xlink:href="#borderRunner" transform="translate(77 0)" />
+    <use xlink:href="#borderRunner" transform="translate(108 0)" />
+    <use xlink:href="#borderRunner" transform="translate(135 0)" />
+  </g>
+  <g transform="translate(0 0) rotate(270)">
+    <use xlink:href="#borderRunner" transform="translate(46 0)" />
+    <use xlink:href="#borderRunner" transform="translate(77 0)" />
+    <use xlink:href="#borderRunner" transform="translate(108 0)" />
+    <use xlink:href="#borderRunner" transform="translate(135 0)" />
+  </g>
+  <use xlink:href="#crossing" />
+  <use xlink:href="#lozenge" transform="translate(0 160)" />
+  <use xlink:href="#lozenge" transform="translate(-160 320) rotate(90)" />
+  <g transform="translate(0 320) rotate(0)">
+    <use xlink:href="#borderRunner" transform="translate(46 0)" />
+    <use xlink:href="#borderRunner" transform="translate(77 0)" />
+    <use xlink:href="#borderRunner" transform="translate(108 0)" />
+    <use xlink:href="#borderRunner" transform="translate(135 0)" />
+  </g>
+  <g transform="translate(0 320) rotate(90)">
+    <use xlink:href="#borderRunner" transform="translate(46 0)" />
+    <use xlink:href="#borderRunner" transform="translate(77 0)" />
+    <use xlink:href="#borderRunner" transform="translate(108 0)" />
+    <use xlink:href="#borderRunner" transform="translate(135 0)" />
+  </g>
+  <g transform="translate(0 320) rotate(180)">
+    <use xlink:href="#borderRunner" transform="translate(46 0)" />
+    <use xlink:href="#borderRunner" transform="translate(77 0)" />
+    <use xlink:href="#borderRunner" transform="translate(108 0)" />
+    <use xlink:href="#borderRunner" transform="translate(135 0)" />
+  </g>
+  <g transform="translate(0 320) rotate(270)">
+    <use xlink:href="#borderRunner" transform="translate(46 0)" />
+    <use xlink:href="#borderRunner" transform="translate(77 0)" />
+    <use xlink:href="#borderRunner" transform="translate(108 0)" />
+    <use xlink:href="#borderRunner" transform="translate(135 0)" />
+  </g>
+  <use xlink:href="#crossing" transform="translate(0 320)" />
+  <use xlink:href="#lozenge" transform="translate(0 480)" />
+  <use xlink:href="#lozenge" transform="translate(-160 640) rotate(90)" />
+  <g transform="translate(0 640) rotate(0)">
+    <use xlink:href="#borderRunner" transform="translate(46 0)" />
+    <use xlink:href="#borderRunner" transform="translate(77 0)" />
+    <use xlink:href="#borderRunner" transform="translate(108 0)" />
+    <use xlink:href="#borderRunner" transform="translate(135 0)" />
+  </g>
+  <g transform="translate(0 640) rotate(90)">
+    <use xlink:href="#borderRunner" transform="translate(46 0)" />
+    <use xlink:href="#borderRunner" transform="translate(77 0)" />
+    <use xlink:href="#borderRunner" transform="translate(108 0)" />
+    <use xlink:href="#borderRunner" transform="translate(135 0)" />
+  </g>
+  <g transform="translate(0 640) rotate(180)">
+    <use xlink:href="#borderRunner" transform="translate(46 0)" />
+    <use xlink:href="#borderRunner" transform="translate(77 0)" />
+    <use xlink:href="#borderRunner" transform="translate(108 0)" />
+    <use xlink:href="#borderRunner" transform="translate(135 0)" />
+  </g>
+  <g transform="translate(0 640) rotate(270)">
+    <use xlink:href="#borderRunner" transform="translate(46 0)" />
+    <use xlink:href="#borderRunner" transform="translate(77 0)" />
+    <use xlink:href="#borderRunner" transform="translate(108 0)" />
+    <use xlink:href="#borderRunner" transform="translate(135 0)" />
+  </g>
+  <use xlink:href="#crossing" transform="translate(0 640)" />
+  <use xlink:href="#lozenge" transform="translate(320 -160)" />
+  <use xlink:href="#lozenge" transform="translate(160 0) rotate(90)" />
+  <g transform="translate(320 0) rotate(0)">
+    <use xlink:href="#borderRunner" transform="translate(46 0)" />
+    <use xlink:href="#borderRunner" transform="translate(77 0)" />
+    <use xlink:href="#borderRunner" transform="translate(108 0)" />
+    <use xlink:href="#borderRunner" transform="translate(135 0)" />
+  </g>
+  <g transform="translate(320 0) rotate(90)">
+    <use xlink:href="#borderRunner" transform="translate(46 0)" />
+    <use xlink:href="#borderRunner" transform="translate(77 0)" />
+    <use xlink:href="#borderRunner" transform="translate(108 0)" />
+    <use xlink:href="#borderRunner" transform="translate(135 0)" />
+  </g>
+  <g transform="translate(320 0) rotate(180)">
+    <use xlink:href="#borderRunner" transform="translate(46 0)" />
+    <use xlink:href="#borderRunner" transform="translate(77 0)" />
+    <use xlink:href="#borderRunner" transform="translate(108 0)" />
+    <use xlink:href="#borderRunner" transform="translate(135 0)" />
+  </g>
+  <g transform="translate(320 0) rotate(270)">
+    <use xlink:href="#borderRunner" transform="translate(46 0)" />
+    <use xlink:href="#borderRunner" transform="translate(77 0)" />
+    <use xlink:href="#borderRunner" transform="translate(108 0)" />
+    <use xlink:href="#borderRunner" transform="translate(135 0)" />
+  </g>
+  <use xlink:href="#crossing" transform="translate(320 0)" />
+  <use xlink:href="#lozenge" transform="translate(320 160)" />
+  <use xlink:href="#lozenge" transform="translate(160 320) rotate(90)" />
+  <g transform="translate(320 320) rotate(0)">
+    <use xlink:href="#borderRunner" transform="translate(46 0)" />
+    <use xlink:href="#borderRunner" transform="translate(77 0)" />
+    <use xlink:href="#borderRunner" transform="translate(108 0)" />
+    <use xlink:href="#borderRunner" transform="translate(135 0)" />
+  </g>
+  <g transform="translate(320 320) rotate(90)">
+    <use xlink:href="#borderRunner" transform="translate(46 0)" />
+    <use xlink:href="#borderRunner" transform="translate(77 0)" />
+    <use xlink:href="#borderRunner" transform="translate(108 0)" />
+    <use xlink:href="#borderRunner" transform="translate(135 0)" />
+  </g>
+  <g transform="translate(320 320) rotate(180)">
+    <use xlink:href="#borderRunner" transform="translate(46 0)" />
+    <use xlink:href="#borderRunner" transform="translate(77 0)" />
+    <use xlink:href="#borderRunner" transform="translate(108 0)" />
+    <use xlink:href="#borderRunner" transform="translate(135 0)" />
+  </g>
+  <g transform="translate(320 320) rotate(270)">
+    <use xlink:href="#borderRunner" transform="translate(46 0)" />
+    <use xlink:href="#borderRunner" transform="translate(77 0)" />
+    <use xlink:href="#borderRunner" transform="translate(108 0)" />
+    <use xlink:href="#borderRunner" transform="translate(135 0)" />
+  </g>
+  <use xlink:href="#crossing" transform="translate(320 320)" />
+  <use xlink:href="#lozenge" transform="translate(320 480)" />
+  <use xlink:href="#lozenge" transform="translate(160 640) rotate(90)" />
+  <g transform="translate(320 640) rotate(0)">
+    <use xlink:href="#borderRunner" transform="translate(46 0)" />
+    <use xlink:href="#borderRunner" transform="translate(77 0)" />
+    <use xlink:href="#borderRunner" transform="translate(108 0)" />
+    <use xlink:href="#borderRunner" transform="translate(135 0)" />
+  </g>
+  <g transform="translate(320 640) rotate(90)">
+    <use xlink:href="#borderRunner" transform="translate(46 0)" />
+    <use xlink:href="#borderRunner" transform="translate(77 0)" />
+    <use xlink:href="#borderRunner" transform="translate(108 0)" />
+    <use xlink:href="#borderRunner" transform="translate(135 0)" />
+  </g>
+  <g transform="translate(320 640) rotate(180)">
+    <use xlink:href="#borderRunner" transform="translate(46 0)" />
+    <use xlink:href="#borderRunner" transform="translate(77 0)" />
+    <use xlink:href="#borderRunner" transform="translate(108 0)" />
+    <use xlink:href="#borderRunner" transform="translate(135 0)" />
+  </g>
+  <g transform="translate(320 640) rotate(270)">
+    <use xlink:href="#borderRunner" transform="translate(46 0)" />
+    <use xlink:href="#borderRunner" transform="translate(77 0)" />
+    <use xlink:href="#borderRunner" transform="translate(108 0)" />
+    <use xlink:href="#borderRunner" transform="translate(135 0)" />
+  </g>
+  <use xlink:href="#crossing" transform="translate(320 640)" />
+  <use xlink:href="#lozenge" transform="translate(640 -160)" />
+  <use xlink:href="#lozenge" transform="translate(480 0) rotate(90)" />
+  <g transform="translate(640 0) rotate(0)">
+    <use xlink:href="#borderRunner" transform="translate(46 0)" />
+    <use xlink:href="#borderRunner" transform="translate(77 0)" />
+    <use xlink:href="#borderRunner" transform="translate(108 0)" />
+    <use xlink:href="#borderRunner" transform="translate(135 0)" />
+  </g>
+  <g transform="translate(640 0) rotate(90)">
+    <use xlink:href="#borderRunner" transform="translate(46 0)" />
+    <use xlink:href="#borderRunner" transform="translate(77 0)" />
+    <use xlink:href="#borderRunner" transform="translate(108 0)" />
+    <use xlink:href="#borderRunner" transform="translate(135 0)" />
+  </g>
+  <g transform="translate(640 0) rotate(180)">
+    <use xlink:href="#borderRunner" transform="translate(46 0)" />
+    <use xlink:href="#borderRunner" transform="translate(77 0)" />
+    <use xlink:href="#borderRunner" transform="translate(108 0)" />
+    <use xlink:href="#borderRunner" transform="translate(135 0)" />
+  </g>
+  <g transform="translate(640 0) rotate(270)">
+    <use xlink:href="#borderRunner" transform="translate(46 0)" />
+    <use xlink:href="#borderRunner" transform="translate(77 0)" />
+    <use xlink:href="#borderRunner" transform="translate(108 0)" />
+    <use xlink:href="#borderRunner" transform="translate(135 0)" />
+  </g>
+  <use xlink:href="#crossing" transform="translate(640 0)" />
+  <use xlink:href="#lozenge" transform="translate(640 160)" />
+  <use xlink:href="#lozenge" transform="translate(480 320) rotate(90)" />
+  <g transform="translate(640 320) rotate(0)">
+    <use xlink:href="#borderRunner" transform="translate(46 0)" />
+    <use xlink:href="#borderRunner" transform="translate(77 0)" />
+    <use xlink:href="#borderRunner" transform="translate(108 0)" />
+    <use xlink:href="#borderRunner" transform="translate(135 0)" />
+  </g>
+  <g transform="translate(640 320) rotate(90)">
+    <use xlink:href="#borderRunner" transform="translate(46 0)" />
+    <use xlink:href="#borderRunner" transform="translate(77 0)" />
+    <use xlink:href="#borderRunner" transform="translate(108 0)" />
+    <use xlink:href="#borderRunner" transform="translate(135 0)" />
+  </g>
+  <g transform="translate(640 320) rotate(180)">
+    <use xlink:href="#borderRunner" transform="translate(46 0)" />
+    <use xlink:href="#borderRunner" transform="translate(77 0)" />
+    <use xlink:href="#borderRunner" transform="translate(108 0)" />
+    <use xlink:href="#borderRunner" transform="translate(135 0)" />
+  </g>
+  <g transform="translate(640 320) rotate(270)">
+    <use xlink:href="#borderRunner" transform="translate(46 0)" />
+    <use xlink:href="#borderRunner" transform="translate(77 0)" />
+    <use xlink:href="#borderRunner" transform="translate(108 0)" />
+    <use xlink:href="#borderRunner" transform="translate(135 0)" />
+  </g>
+  <use xlink:href="#crossing" transform="translate(640 320)" />
+  <use xlink:href="#lozenge" transform="translate(640 480)" />
+  <use xlink:href="#lozenge" transform="translate(480 640) rotate(90)" />
+  <g transform="translate(640 640) rotate(0)">
+    <use xlink:href="#borderRunner" transform="translate(46 0)" />
+    <use xlink:href="#borderRunner" transform="translate(77 0)" />
+    <use xlink:href="#borderRunner" transform="translate(108 0)" />
+    <use xlink:href="#borderRunner" transform="translate(135 0)" />
+  </g>
+  <g transform="translate(640 640) rotate(90)">
+    <use xlink:href="#borderRunner" transform="translate(46 0)" />
+    <use xlink:href="#borderRunner" transform="translate(77 0)" />
+    <use xlink:href="#borderRunner" transform="translate(108 0)" />
+    <use xlink:href="#borderRunner" transform="translate(135 0)" />
+  </g>
+  <g transform="translate(640 640) rotate(180)">
+    <use xlink:href="#borderRunner" transform="translate(46 0)" />
+    <use xlink:href="#borderRunner" transform="translate(77 0)" />
+    <use xlink:href="#borderRunner" transform="translate(108 0)" />
+    <use xlink:href="#borderRunner" transform="translate(135 0)" />
+  </g>
+  <g transform="translate(640 640) rotate(270)">
+    <use xlink:href="#borderRunner" transform="translate(46 0)" />
+    <use xlink:href="#borderRunner" transform="translate(77 0)" />
+    <use xlink:href="#borderRunner" transform="translate(108 0)" />
+    <use xlink:href="#borderRunner" transform="translate(135 0)" />
+  </g>
+  <use xlink:href="#crossing" transform="translate(640 640)" />
+</svg>

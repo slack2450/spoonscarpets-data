@@ -1,0 +1,127 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1024" height="1024" viewBox="0 0 1024 1024">
+<title>The London &amp; County, Eastbourne — alternating flower and scroll medallions</title>
+<defs>
+<g id="medallion-scroll" fill="#C3BFB6">
+<path d="M 240,151 C 240,135 241,117 239,101&#10; C 236,74 225,58 208,49 C 188,38 166,42 151,56&#10; C 140,66 134,84 139,96 C 144,108 157,115 171,110&#10; C 177,108 181,104 183,98 C 174,96 163,87 161,79&#10; C 157,69 166,57 177,55 C 189,52 202,59 209,70&#10; C 221,91 213,114 198,126 C 180,142 151,145 130,134&#10; C 109,122 103,98 110,73 C 119,40 142,19 172,15&#10; C 205,10 231,23 254,49 Q 256,52 258,49&#10; C 278,20 301,9 327,7 C 362,5 388,23 401,51&#10; C 413,77 407,103 391,120 C 379,133 360,140 341,135&#10; C 318,131 304,117 303,96 C 301,78 308,59 322,52&#10; C 332,46 347,49 355,58 C 367,72 360,88 349,94&#10; Q 345,97 339,96 C 344,109 356,110 366,102&#10; C 383,90 382,73 374,59 C 363,38 339,31 320,39&#10; C 290,48 277,72 272,101 C 269,118 271,138 271,150&#10; Q 254,153 240,151 Z"/>
+</g>
+<g id="flower-scroll">
+<path d="M 254,-50 Q 259,-48 271,-29&#10; C 271,-1 272,30 271,56 C 271,83 282,101 303,110&#10; C 326,120 349,115 364,99 C 379,83 380,62 369,53&#10; C 361,46 345,48 339,57 C 348,60 354,69 355,77&#10; C 358,94 343,107 327,104 C 309,102 297,87 298,68&#10; C 299,45 315,26 336,22 C 363,17 387,30 399,49&#10; C 415,74 408,103 389,124 C 368,147 337,156 305,149&#10; C 284,145 269,135 256,120 C 241,137 222,147 202,151&#10; C 172,156 141,146 122,125 C 105,107 99,81 106,60&#10; C 114,38 134,24 156,22 C 180,20 203,34 211,54&#10; C 220,75 211,95 194,103 C 178,111 160,103 157,89&#10; C 154,76 161,64 174,58 C 162,48 147,51 139,60&#10; C 127,74 131,93 144,105 C 159,119 184,120 204,111&#10; C 225,102 238,84 239,62 C 241,34 239,2 240,-28&#10; Q 248,-42 254,-50 Z"/>
+</g>
+<g id="flower-quarter" fill="#C3BFB6">
+<path d="M 250,258 C 250,242 246,227 241,211&#10; C 236,196 230,185 233,170 C 235,153 245,139 255,126&#10; C 265,138 274,151 278,166 C 284,184 275,202 270,219&#10; Q 263,241 263,257 Z"/>
+<path d="M 254,251 C 266,237 270,219 278,201&#10; C 284,184 294,174 307,170 C 318,166 330,168 344,167&#10; C 342,181 346,196 339,209 C 333,222 320,228 306,234&#10; C 287,241 273,244 260,258 Z"/>
+</g>
+<g id="eight-petal-flower" fill="#C3BFB6">
+<use xlink:href="#flower-quarter"/>
+<use xlink:href="#flower-quarter" transform="rotate(90 256 256)"/>
+<use xlink:href="#flower-quarter" transform="rotate(180 256 256)"/>
+<use xlink:href="#flower-quarter" transform="rotate(270 256 256)"/>
+<circle cx="256" cy="256" r="24"/>
+</g>
+<g id="pierced-square" fill="#C3BFB6">
+<path d="M 139,137 C 151,141 165,138 180,136 C 202,133 215,139 232,147&#10; C 242,153 251,153 260,152 C 280,151 292,141 307,136&#10; C 329,130 347,140 373,133 C 370,148 369,161 374,178&#10; C 380,201 373,216 365,234 C 360,247 356,255 362,274&#10; C 368,292 374,302 374,321 C 375,340 368,353 373,374&#10; C 354,369 338,375 322,376 C 305,377 290,371 273,363&#10; C 255,355 236,361 221,368 C 199,379 181,378 162,375&#10; Q 150,373 136,378 C 142,357 135,342 135,324&#10; C 135,304 142,289 150,273 C 155,262 155,247 149,232&#10; C 140,212 135,199 138,179 Q 144,153 139,137 Z" stroke="#3C3C3F" stroke-width="3.2" stroke-linejoin="round"/>
+</g>
+<g id="corner-piercings" fill="#3C3C3F">
+<path d="M 162,161 C 174,162 182,171 185,184 C 173,184 164,177 162,161 Z&#10; M 194,158 C 212,161 226,169 233,185 Q 219,188 207,198 C 207,187 199,173 194,158 Z&#10; M 158,197 C 172,200 185,209 199,205 Q 188,218 185,233 C 169,228 160,216 158,197 Z&#10; M 244,184 Q 245,164 254,164 Q 268,161 270,184 Q 257,181 244,184 Z&#10; M 317,153 C 318,163 314,183 308,198 Q 295,187 282,185 C 289,171 304,160 317,153 Z&#10; M 320,187 C 326,171 334,157 353,152 C 359,162 349,179 338,185 Q 329,190 320,191 Z&#10; M 314,205 C 328,205 347,198 359,190 C 354,209 343,222 329,232 Q 326,217 314,205 Z&#10; M 328,244 Q 345,241 348,255 Q 348,268 329,269 Z"/>
+</g>
+<g id="ring" fill="#C3BFB6">
+<circle cx="256" cy="256" r="71"/>
+<circle cx="256" cy="256" r="54.5" fill="#3C3C3F"/>
+</g>
+<g id="ring-leaf" fill="#C3BFB6">
+<path d="M 253,247 Q 249,243 248,236 Q 242,234 239,239&#10; Q 242,243 245,243 Q 238,250 231,253 L 220,252&#10; Q 220,245 228,241 L 224,240 Q 225,234 229,231&#10; L 227,225 Q 234,223 240,227 Q 246,218 251,222&#10; Q 256,225 253,231 Q 257,236 253,247 Z"/>
+</g>
+<g id="medallion">
+<use xlink:href="#pierced-square"/>
+<use xlink:href="#corner-piercings"/>
+<use xlink:href="#corner-piercings" transform="rotate(180 256 256)"/>
+<use xlink:href="#ring"/>
+<use xlink:href="#ring-leaf"/>
+<use xlink:href="#ring-leaf" transform="rotate(90 256 256)"/>
+<use xlink:href="#ring-leaf" transform="rotate(180 256 256)"/>
+<use xlink:href="#ring-leaf" transform="rotate(270 256 256)"/>
+<path d="M251 251 Q256 248 261 251 L262 260 Q256 264 250 261 Z" fill="#C3BFB6"/>
+</g>
+<g id="horizontal-rail" fill="#C3BFB6">
+<rect x="-256" y="-3.3" width="512" height="6.6"/>
+<rect x="-256" y="-9.899999999999999" width="512" height="2.4"/>
+<rect x="-256" y="7.499999999999999" width="512" height="2.4"/>
+</g>
+<g id="junction-silhouette">
+<path d="M -59,-59 C -44,-58 -31,-61 -21,-54 C -9,-47 -10,-32 -2,-26&#10; Q 0,-24 3,-28 C 10,-39 11,-49 22,-55 C 33,-61 47,-58 59,-59&#10; C 58,-45 61,-32 54,-21 C 47,-10 32,-10 26,-2 Q 24,0 28,3&#10; C 39,10 50,11 55,22 C 61,34 58,47 59,59&#10; C 44,58 31,61 21,54 C 10,47 10,33 2,26 Q 0,24 -3,28&#10; C -10,40 -11,50 -23,55 C -33,61 -47,58 -59,59&#10; C -58,45 -61,32 -55,22 C -48,11 -34,11 -27,3 Q -23,0 -28,-3&#10; C -40,-11 -50,-11 -55,-22 C -61,-33 -58,-47 -59,-59 Z"/>
+</g>
+<g id="junction">
+<g fill="#C3BFB6" stroke="#3C3C3F" stroke-width="13.6" stroke-linejoin="round">
+<use xlink:href="#junction-silhouette" transform="scale(.915)"/>
+</g>
+<g fill="#C3BFB6" stroke="#C3BFB6" stroke-width="9.2" stroke-linejoin="round">
+<use xlink:href="#junction-silhouette" transform="scale(.915)"/>
+</g>
+<g fill="#C3BFB6" stroke="#3C3C3F" stroke-width="5.5" stroke-linejoin="round">
+<use xlink:href="#junction-silhouette" transform="scale(.915)"/>
+</g>
+<g fill="#C3BFB6" stroke="#C3BFB6" stroke-width="0" stroke-linejoin="round">
+<use xlink:href="#junction-silhouette" transform="scale(.915)"/>
+</g>
+<path d="M -13,-13 C -21,-10 -30,-19 -34,-27 L -37,-38 C -27,-39 -19,-34 -15,-27 Q -10,-20 -13,-13 Z" fill="#3C3C3F" transform="rotate(0)"/>
+<path d="M -13,-13 C -21,-10 -30,-19 -34,-27 L -37,-38 C -27,-39 -19,-34 -15,-27 Q -10,-20 -13,-13 Z" fill="#3C3C3F" transform="rotate(90)"/>
+<path d="M -13,-13 C -21,-10 -30,-19 -34,-27 L -37,-38 C -27,-39 -19,-34 -15,-27 Q -10,-20 -13,-13 Z" fill="#3C3C3F" transform="rotate(180)"/>
+<path d="M -13,-13 C -21,-10 -30,-19 -34,-27 L -37,-38 C -27,-39 -19,-34 -15,-27 Q -10,-20 -13,-13 Z" fill="#3C3C3F" transform="rotate(270)"/>
+<path d="M -8,-8 Q -2,-13 7,-9 Q 12,-6 11,4 Q 6,12 -4,11 Q -12,7 -11,0 Z" fill="#3C3C3F"/>
+</g>
+<g id="medallion-cell">
+<use xlink:href="#medallion-scroll"/>
+<use xlink:href="#medallion-scroll" transform="rotate(90 256 256)"/>
+<use xlink:href="#medallion-scroll" transform="rotate(180 256 256)"/>
+<use xlink:href="#medallion-scroll" transform="rotate(270 256 256)"/>
+<use xlink:href="#medallion"/>
+</g>
+<g id="flower-cell">
+<g fill="#C3BFB6" stroke="#3C3C3F" stroke-width="3.5" stroke-linejoin="round">
+<use xlink:href="#flower-scroll"/>
+<use xlink:href="#flower-scroll" transform="rotate(90 256 256)"/>
+<use xlink:href="#flower-scroll" transform="rotate(180 256 256)"/>
+<use xlink:href="#flower-scroll" transform="rotate(270 256 256)"/>
+</g>
+<g fill="#C3BFB6">
+<use xlink:href="#flower-scroll"/>
+<use xlink:href="#flower-scroll" transform="rotate(90 256 256)"/>
+<use xlink:href="#flower-scroll" transform="rotate(180 256 256)"/>
+<use xlink:href="#flower-scroll" transform="rotate(270 256 256)"/>
+</g>
+<use xlink:href="#eight-petal-flower"/>
+</g>
+</defs>
+<rect width="1024" height="1024" fill="#3C3C3F"/>
+<use xlink:href="#horizontal-rail" transform="translate(256 0)"/>
+<use xlink:href="#horizontal-rail" transform="translate(0 256) rotate(90)"/>
+<use xlink:href="#horizontal-rail" transform="translate(768 0)"/>
+<use xlink:href="#horizontal-rail" transform="translate(0 768) rotate(90)"/>
+<use xlink:href="#horizontal-rail" transform="translate(256 512)"/>
+<use xlink:href="#horizontal-rail" transform="translate(512 256) rotate(90)"/>
+<use xlink:href="#horizontal-rail" transform="translate(768 512)"/>
+<use xlink:href="#horizontal-rail" transform="translate(512 768) rotate(90)"/>
+<use xlink:href="#horizontal-rail" transform="translate(256 1024)"/>
+<use xlink:href="#horizontal-rail" transform="translate(1024 256) rotate(90)"/>
+<use xlink:href="#horizontal-rail" transform="translate(768 1024)"/>
+<use xlink:href="#horizontal-rail" transform="translate(1024 768) rotate(90)"/>
+<use xlink:href="#flower-cell" transform="translate(-512 0)"/>
+<use xlink:href="#flower-cell" transform="translate(-512 1024)"/>
+<use xlink:href="#flower-cell" transform="translate(0 -512)"/>
+<use xlink:href="#flower-cell" transform="translate(0 512)"/>
+<use xlink:href="#flower-cell" transform="translate(512 0)"/>
+<use xlink:href="#flower-cell" transform="translate(512 1024)"/>
+<use xlink:href="#flower-cell" transform="translate(1024 -512)"/>
+<use xlink:href="#flower-cell" transform="translate(1024 512)"/>
+<use xlink:href="#medallion-cell" transform="translate(0 0)"/>
+<use xlink:href="#medallion-cell" transform="translate(512 512)"/>
+<use xlink:href="#junction" transform="translate(0 0)"/>
+<use xlink:href="#junction" transform="translate(0 512)"/>
+<use xlink:href="#junction" transform="translate(0 1024)"/>
+<use xlink:href="#junction" transform="translate(512 0)"/>
+<use xlink:href="#junction" transform="translate(512 512)"/>
+<use xlink:href="#junction" transform="translate(512 1024)"/>
+<use xlink:href="#junction" transform="translate(1024 0)"/>
+<use xlink:href="#junction" transform="translate(1024 512)"/>
+<use xlink:href="#junction" transform="translate(1024 1024)"/>
+</svg>

@@ -1,0 +1,766 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="520" height="328" viewBox="0 0 520 328">
+  <title>The Sedge Lynn — rose and acanthus Axminster repeat</title>
+  <defs>
+    <g id="calyx">
+      <path d="M -13,-12 C -13,-26 -29,-36 -22,-49 Q -17,-57 -10,-54 Q -17,-63 -6,-71 L 0,-81 Q 5,-70 12,-66 Q 20,-58 14,-50 Q 24,-54 25,-42 Q 24,-27 9,-13 L 0,-3 Z" fill="#8b916b" />
+      <path d="M -14,-43 Q -22,-53 -14,-51 Q -5,-46 -4,-32 Q -3,-57 0,-74 Q 9,-67 9,-60 Q 9,-50 3,-37 Q 12,-49 17,-46 Q 21,-40 12,-30 L 0,-17 Z" fill="#b8ae83" />
+      <path d="M -10,-41 Q -7,-37 -4,-25 Q -3,-40 0,-52 Q 4,-59 4,-64 Q 12,-54 5,-40 Q 1,-31 2,-23 Q 9,-37 15,-39 Q 14,-30 5,-17 L -4,-12 Z" fill="#85575c" />
+      <path d="M -1,-33 Q 3,-47 5,-52 Q 6,-43 2,-34 L 0,-24 Z" fill="#c09788" />
+    </g>
+    <g id="brocade-petal">
+      <path d="M -3,-5 C -16,-15 -25,-12 -27,-24 Q -28,-30 -26,-32 Q -35,-31 -37,-41 Q -39,-48 -36,-51 Q -42,-52 -41,-61 Q -39,-71 -44,-76 Q -34,-75 -23,-77 Q -13,-77 -10,-69 Q -4,-77 6,-73 Q 11,-73 16,-80 Q 18,-68 24,-63 Q 30,-55 25,-47 Q 34,-48 35,-39 Q 36,-27 26,-22 Q 16,-18 10,-13 L 3,-3 Z" fill="#8b916b" />
+      <path d="M -6,-10 Q -20,-13 -23,-25 Q -24,-30 -19,-30 Q -32,-32 -33,-42 Q -33,-45 -31,-47 Q -40,-53 -36,-65 L -38,-72 Q -30,-69 -22,-72 Q -12,-75 -9,-62 Q -2,-73 7,-69 Q 11,-70 14,-74 Q 14,-64 20,-58 Q 26,-52 19,-42 Q 31,-44 30,-35 Q 29,-26 19,-23 L 3,-9 Z" fill="#b8ae83" />
+      <path d="M -3,-11 Q -9,-23 -18,-27 Q -22,-31 -20,-36 Q -14,-34 -11,-31 Q -17,-43 -27,-46 Q -35,-50 -33,-63 Q -24,-57 -18,-56 Q -11,-52 -8,-43 Q -10,-56 -20,-63 Q -25,-67 -27,-70 Q -13,-73 -8,-61 Q -4,-54 -4,-46 Q -2,-61 6,-65 Q 11,-67 13,-70 Q 18,-57 11,-48 Q 5,-40 5,-34 Q 14,-49 20,-44 Q 24,-42 18,-34 Q 12,-27 11,-22 Q 21,-35 26,-34 Q 27,-27 17,-21 L 2,-9 Z" fill="#85575c" />
+      <path d="M -5,-18 Q -11,-32 -18,-36 Q -16,-39 -11,-35 Q -8,-33 -7,-30 Q -11,-44 -20,-48 Q -29,-52 -29,-58 Q -17,-54 -12,-49 Q -4,-43 -4,-32 Q -4,-49 -10,-58 Q -12,-62 -10,-64 Q -2,-61 -1,-50 Q 0,-45 -1,-39 Q 2,-53 9,-58 L 12,-62 Q 13,-53 7,-46 Q 1,-39 1,-29 Q 8,-40 12,-40 Q 16,-39 8,-30 Q 3,-25 0,-17 Z" fill="#c09788" />
+      <path d="M -3,-16 Q -11,-21 -15,-22 Q -18,-26 -17,-28 Q -7,-26 -3,-20 Q 0,-27 4,-28 Q 6,-25 1,-18 Z" fill="#716951" />
+    </g>
+    <g id="star-flower">
+      <use xlink:href="#calyx" transform="rotate(0) scale(1.12 .85)" />
+      <use xlink:href="#calyx" transform="rotate(90) scale(1.12 .85)" />
+      <use xlink:href="#calyx" transform="rotate(180) scale(1.12 .85)" />
+      <use xlink:href="#calyx" transform="rotate(270) scale(1.12 .85)" />
+      <use xlink:href="#brocade-petal" transform="rotate(43) scale(.9 1.0)" />
+      <use xlink:href="#brocade-petal" transform="rotate(134) scale(.9 1.0)" />
+      <use xlink:href="#brocade-petal" transform="rotate(224) scale(.9 1.0)" />
+      <use xlink:href="#brocade-petal" transform="rotate(314) scale(.9 1.0)" />
+      <use xlink:href="#heart-petal" transform="rotate(29) scale(0.88)" />
+      <use xlink:href="#heart-petal" transform="rotate(118) scale(0.92)" />
+      <use xlink:href="#heart-petal" transform="rotate(211) scale(0.86)" />
+      <use xlink:href="#heart-petal" transform="rotate(306) scale(0.9)" />
+      <ellipse cx="8.0" cy="0.0" rx="5" ry="5" fill="#b8ae83" />
+      <ellipse cx="5.656854249492381" cy="5.65685424949238" rx="5" ry="5" fill="#85575c" />
+      <ellipse cx="4.898587196589413e-16" cy="8.0" rx="5" ry="5" fill="#b8ae83" />
+      <ellipse cx="-5.65685424949238" cy="5.656854249492381" rx="5" ry="5" fill="#85575c" />
+      <ellipse cx="-8.0" cy="9.797174393178826e-16" rx="5" ry="5" fill="#b8ae83" />
+      <ellipse cx="-5.6568542494923815" cy="-5.65685424949238" rx="5" ry="5" fill="#85575c" />
+      <ellipse cx="-1.4695761589768238e-15" cy="-8.0" rx="5" ry="5" fill="#b8ae83" />
+      <ellipse cx="5.656854249492379" cy="-5.6568542494923815" rx="5" ry="5" fill="#85575c" />
+      <ellipse cx="0" cy="0" rx="10" ry="10" fill="#716951" />
+      <ellipse cx="0" cy="0" rx="7.8" ry="7.8" fill="#b8ae83" />
+      <ellipse cx="-1" cy="-1" rx="4" ry="4" fill="#85575c" />
+      <ellipse cx="-2" cy="-2" rx="2" ry="2" fill="#c09788" />
+    </g>
+    <g id="heart-petal">
+      <path d="M -2,-4 C -10,-10 -18,-13 -21,-23 Q -25,-33 -20,-41 Q -14,-36 -10,-36 Q -5,-35 -3,-27 Q 0,-36 9,-43 Q 12,-46 13,-50 Q 20,-42 16,-31 Q 10,-19 8,-13 L 3,-5 Z" fill="#85575c" />
+      <path d="M -4,-12 Q -8,-20 -15,-23 Q -20,-28 -19,-35 Q -10,-33 -7,-26 Q -2,-20 -3,-15 Q -1,-28 6,-34 L 12,-41 Q 14,-34 9,-29 Q 3,-20 3,-12 Z" fill="#c09788" />
+      <path d="M -1,-9 Q -11,-15 -14,-19 Q -6,-18 -2,-14 Q 2,-23 8,-26 Q 6,-17 3,-11 Z" fill="#b8ae83" />
+    </g>
+    <g id="leaflet">
+      <path d="M 0,1 C -2,-5 -14,-7 -14,-16 Q -15,-22 -10,-24 Q -5,-22 -3,-17 Q -6,-25 -3,-31 L 1,-37 Q 2,-31 7,-29 Q 12,-25 7,-17 Q 14,-23 17,-19 Q 20,-13 13,-8 Q 5,-4 0,1 Z" fill="#8b916b" />
+      <path d="M 0,-2 Q -2,-11 -10,-17 Q -12,-21 -10,-21 Q -4,-19 -2,-11 Q -2,-25 1,-31 Q 6,-27 5,-21 Q 3,-16 2,-10 Q 8,-17 13,-17 Q 14,-13 9,-10 Z" fill="#b8ae83" />
+      <path d="M -.7,-3 Q -1,-13 1,-22 L 3,-24 Q 4,-18 2,-13 L 1,-3 Z" fill="#716951" />
+    </g>
+    <g id="button">
+      <path d="M 0,14 Q -5,12 -8,12 L -10,8 Q -16,6 -13,1 Q -16,-4 -11,-7 Q -11,-13 -6,-12 Q -3,-16 1,-13 Q 6,-15 9,-10 Q 14,-10 13,-5 Q 17,-1 13,4 Q 14,10 8,10 Q 5,15 0,14 Z" fill="#8b916b" />
+      <ellipse cx="7.794960518281882" cy="1.79960843475092" rx="3.2" ry="3" fill="#b8ae83" />
+      <ellipse cx="4.239354113865639" cy="6.784384769251408" rx="3.2" ry="3" fill="#b8ae83" />
+      <ellipse cx="-1.7996084347509185" cy="7.794960518281882" rx="3.2" ry="3" fill="#b8ae83" />
+      <ellipse cx="-6.784384769251408" cy="4.239354113865639" rx="3.2" ry="3" fill="#b8ae83" />
+      <ellipse cx="-7.794960518281882" cy="-1.7996084347509198" rx="3.2" ry="3" fill="#b8ae83" />
+      <ellipse cx="-4.23935411386564" cy="-6.784384769251408" rx="3.2" ry="3" fill="#b8ae83" />
+      <ellipse cx="1.7996084347509194" cy="-7.794960518281882" rx="3.2" ry="3" fill="#b8ae83" />
+      <ellipse cx="6.784384769251403" cy="-4.239354113865646" rx="3.2" ry="3" fill="#b8ae83" />
+      <ellipse cx="0" cy="0" rx="6.8" ry="7" fill="#716951" />
+      <ellipse cx="0.5" cy="-0.5" rx="3.8" ry="4" fill="#b8ae83" />
+    </g>
+    <g id="posy">
+      <use xlink:href="#leaflet" transform="rotate(-62) scale(.79 .91)" />
+      <use xlink:href="#leaflet" transform="rotate(5) scale(.79 .91)" />
+      <use xlink:href="#leaflet" transform="rotate(70) scale(.79 .91)" />
+      <path d="M -2,10 C -6,-1 -21,-6 -22,-14 Q -18,-20 -11,-13 Q -8,-8 -6,-3 Q -10,-22 -4,-30 Q 0,-35 3,-27 Q 6,-16 3,-6 Q 9,-20 16,-20 Q 25,-19 19,-12 Q 10,-5 5,6 L 2,12 Z" fill="#85575c" />
+      <path d="M -1,7 Q -9,-6 -16,-10 L -17,-14 Q -9,-14 -4,-5 Q -7,-21 -2,-26 Q 1,-19 0,-9 L 0,-3 Q 8,-14 15,-15 Q 13,-11 7,-6 Z" fill="#c09788" />
+      <use xlink:href="#leaflet" transform="translate(-1 12) rotate(-61) scale(.7 .52)" />
+      <use xlink:href="#leaflet" transform="translate(0 11) rotate(64) scale(.66 .51)" />
+    </g>
+    <g id="high-fan">
+      <path d="M 1,1 C -13,-17 -41,-45 -51,-78 C -64,-117 -54,-138 -54,-154 Q -56,-164 -62,-165 Q -69,-165 -68,-158 Q -67,-155 -64,-156 Q -67,-149 -74,-153 Q -82,-162 -74,-171 Q -65,-182 -52,-174 Q -43,-169 -45,-153 C -31,-167 -30,-186 -40,-190 Q -45,-192 -48,-188 Q -50,-185 -46,-181 C -56,-181 -57,-195 -47,-199 C -31,-207 -18,-189 -23,-173 Q -26,-158 -34,-150 C -44,-129 -48,-107 -44,-92 C -44,-116 -34,-133 -21,-139 Q -10,-143 -5,-136 Q 3,-126 -6,-119 Q -12,-115 -16,-121 Q -18,-126 -12,-129 C -28,-131 -35,-106 -35,-89 C -29,-108 -20,-115 -12,-111 C -6,-108 -8,-101 -14,-98 Q -23,-100 -25,-89 Q -29,-79 -25,-66 C -18,-80 -9,-84 1,-78 C 12,-71 8,-54 -3,-53 Q -13,-52 -14,-60 Q -15,-66 -8,-67 Q -4,-66 -4,-62 Q 3,-64 0,-71 C -9,-81 -23,-64 -19,-48 Q -15,-32 1,1 Z" fill="#8b916b" />
+      <path d="M -3,-7 C -27,-36 -47,-67 -48,-96 C -50,-129 -33,-150 -31,-174 Q -26,-165 -33,-146 Q -52,-104 -39,-73 Q -33,-55 -20,-38 Z" fill="#b8ae83" />
+      <path d="M -41,-102 Q -40,-130 -22,-136 Q -10,-141 -7,-132 Q -6,-127 -10,-124 Q -9,-132 -16,-132 Q -31,-133 -41,-102 Z M -23,-61 Q -18,-78 -7,-76 Q 1,-76 4,-70 Q -3,-75 -9,-71 Q -17,-67 -20,-56 Z" fill="#b8ae83" />
+    </g>
+    <g id="quill">
+      <path d="M 0,0 C -34,-14 -68,-20 -88,-45 Q -98,-57 -91,-67 Q -84,-75 -77,-66 Q -75,-60 -80,-58 Q -86,-59 -85,-64 C -96,-59 -86,-44 -74,-37 Q -61,-28 -39,-22 C -67,-36 -85,-63 -89,-88 L -94,-110 Q -85,-103 -85,-91 C -81,-67 -67,-47 -51,-37 Q -71,-60 -71,-77 Q -70,-90 -62,-92 Q -55,-92 -55,-85 Q -57,-79 -62,-81 Q -63,-85 -66,-82 C -71,-70 -51,-43 -34,-30 Z" fill="#8b916b" />
+      <path d="M -3,-2 Q -67,-28 -78,-59 Q -65,-41 -49,-33 Q -60,-47 -62,-55 Q -42,-28 -3,-2 Z" fill="#b8ae83" />
+      <path d="M -2,0 C -31,-5 -76,-11 -84,5 C -88,14 -79,19 -76,12" fill="none" stroke="#8b916b" stroke-width="4.1" stroke-linejoin="round" stroke-linecap="round" />
+      <path d="M -1,-1 C -16,-3 -39,-4 -48,5 Q -54,14 -48,18" fill="none" stroke="#8b916b" stroke-width="4" stroke-linejoin="round" stroke-linecap="round" />
+      <ellipse cx="-76" cy="12" rx="3.6" ry="4" fill="#b8ae83" />
+      <ellipse cx="-48" cy="17" rx="3.5" ry="4" fill="#b8ae83" />
+    </g>
+    <g id="tendril">
+      <path d="M 0,0 C -13,12 -11,34 -23,50 C -34,67 -47,70 -62,65 C -74,60 -85,45 -79,34 C -75,27 -65,28 -64,36 Q -65,44 -71,40" fill="none" stroke="#8b916b" stroke-width="4.2" stroke-linejoin="round" stroke-linecap="round" />
+      <path d="M -39,64 C -58,76 -77,64 -87,57 Q -103,48 -122,52" fill="none" stroke="#8b916b" stroke-width="3.6" stroke-linejoin="round" stroke-linecap="round" />
+      <path d="M -67,65 Q -53,71 -57,82 Q -63,92 -70,87 Q -75,82 -69,78" fill="none" stroke="#8b916b" stroke-width="3.6" stroke-linejoin="round" stroke-linecap="round" />
+      <use xlink:href="#leaflet" transform="translate(-7 10) rotate(17) scale(0.65)" />
+      <use xlink:href="#leaflet" transform="translate(-16 36) rotate(-45) scale(0.57)" />
+      <use xlink:href="#leaflet" transform="translate(-25 49) rotate(55) scale(0.5)" />
+      <use xlink:href="#leaflet" transform="translate(-69 66) rotate(-27) scale(0.46)" />
+      <use xlink:href="#leaflet" transform="translate(-103 52) rotate(-65) scale(0.5)" />
+    </g>
+    <g id="scroll">
+      <path d="M 0,0 C -3,24 -12,51 -35,66 C -57,79 -78,79 -98,70 Q -109,65 -112,56 Q -114,50 -108,47 Q -101,45 -100,52 Q -100,56 -105,56 Q -107,62 -96,65 Q -87,67 -80,66 Q -90,63 -88,55 Q -86,49 -82,54 Q -83,58 -76,60 C -57,68 -36,55 -22,41 Q -9,23 0,0 Z" fill="#8b916b" />
+      <path d="M -10,30 C -22,55 -42,73 -67,73 Q -85,74 -98,67 Q -82,70 -70,67 Q -41,66 -27,48 Z" fill="#b8ae83" />
+      <path d="M 1,0 C -1,40 -23,82 -63,91 C -94,98 -133,86 -144,67 Q -148,56 -142,51 Q -136,47 -132,54" fill="none" stroke="#8b916b" stroke-width="5" stroke-linejoin="round" stroke-linecap="round" />
+      <path d="M -71,92 C -100,93 -123,81 -127,70 Q -130,61 -124,61" fill="none" stroke="#b8ae83" stroke-width="3.5" stroke-linejoin="round" stroke-linecap="round" />
+      <path d="M -25,42 Q -48,53 -57,39 Q -64,29 -57,22 Q -50,16 -45,22 Q -40,29 -47,30" fill="none" stroke="#8b916b" stroke-width="4" stroke-linejoin="round" stroke-linecap="round" />
+      <path d="M -75,64 Q -88,52 -89,35 Q -89,23 -100,19 Q -112,16 -115,23 Q -118,31 -111,31" fill="none" stroke="#8b916b" stroke-width="3.7" stroke-linejoin="round" stroke-linecap="round" />
+    </g>
+    <g id="pendant">
+      <path d="M 0,0 C 1,25 4,55 -7,70 Q -14,83 -26,79" fill="none" stroke="#8b916b" stroke-width="5" stroke-linejoin="round" stroke-linecap="round" />
+      <path d="M 2,25 C 2,56 11,78 29,78 Q 42,78 44,69 Q 46,60 39,59 Q 33,59 34,65" fill="none" stroke="#8b916b" stroke-width="4.3" stroke-linejoin="round" stroke-linecap="round" />
+      <path d="M -2,62 Q -4,76 -18,78 Q -12,75 -12,66 Q -10,72 -7,70 Z M 3,40 Q 7,55 19,51 Q 16,62 11,61 Q 7,59 3,40 Z" fill="#8b916b" />
+      <use xlink:href="#button" transform="translate(-29 85) scale(.97)" />
+      <use xlink:href="#button" transform="translate(48 83) scale(.9)" />
+    </g>
+    <g id="side-flower">
+      <use xlink:href="#posy" transform="translate(0 0)" />
+      <use xlink:href="#leaflet" transform="translate(0 15) rotate(166) scale(.78 .83)" />
+    </g>
+    <g id="arching-vine">
+      <path d="M 0,0 C 37,17 65,40 96,46 C 115,50 144,60 160,84 C 134,66 117,57 93,54 C 59,49 30,25 0,0 Z" fill="#8b916b" />
+      <path d="M 6,3 C 38,26 68,44 98,48 Q 127,53 144,67 Q 120,55 95,52 C 62,46 34,28 6,3 Z" fill="#b8ae83" />
+      <path d="M 2,1 C 22,23 48,65 80,72 Q 101,77 101,65 Q 101,58 94,60 Q 90,62 92,66 Q 82,64 84,56 Q 87,48 96,51 Q 109,54 105,69 Q 103,79 91,79 C 55,83 26,44 2,1 Z" fill="#8b916b" />
+      <path d="M 9,12 C 34,44 61,73 86,76 Q 61,78 40,55 Z" fill="#b8ae83" />
+      <path d="M 156,81 C 135,57 99,33 74,33 Q 53,32 51,46 Q 49,54 56,55 Q 59,54 58,51 Q 54,43 62,40 Q 69,37 78,40 Q 69,42 68,49 Q 69,57 76,56 Q 76,50 83,49 C 105,44 135,66 156,81 Z" fill="#8b916b" />
+      <path d="M 157,82 Q 130,40 109,32 Q 97,27 98,20 Q 100,12 108,17" fill="none" stroke="#8b916b" stroke-width="3.7" stroke-linejoin="round" stroke-linecap="round" />
+      <path d="M 143,67 Q 128,40 130,31 Q 131,24 136,27" fill="none" stroke="#8b916b" stroke-width="3.6" stroke-linejoin="round" stroke-linecap="round" />
+    </g>
+    <g id="rose-branch">
+      <path d="M 0,0 C -44,-13 -92,-45 -105,-88 C -114,-115 -119,-141 -134,-159" fill="none" stroke="#8b916b" stroke-width="5" stroke-linejoin="round" stroke-linecap="round" />
+      <path d="M -5,-2 C -34,-10 -71,-21 -79,-44 Q -84,-61 -73,-65 Q -64,-68 -65,-58 Q -69,-62 -73,-56 Q -79,-44 -63,-30 Q -42,-15 -5,-2 Z" fill="#8b916b" />
+      <path d="M -71,-42 Q -99,-59 -92,-75 Q -87,-86 -82,-79" fill="none" stroke="#8b916b" stroke-width="4.4" stroke-linejoin="round" stroke-linecap="round" />
+      <use xlink:href="#side-flower" transform="translate(-134 -159) rotate(-8) scale(1.1)" />
+    </g>
+    <g id="low-fan">
+      <path d="M 0,0 C -27,-14 -65,-22 -96,-13 Q -125,-4 -142,23 Q -154,39 -169,38 Q -151,55 -131,34 Q -112,15 -96,12 Q -111,27 -102,40 Q -95,48 -88,43 Q -83,39 -88,35 Q -95,40 -98,33 Q -101,25 -89,16 Q -73,5 -59,7 Q -72,17 -65,25 Q -58,34 -51,26 Q -57,27 -57,21 Q -56,14 -43,11 Q -28,6 0,0 Z" fill="#8b916b" />
+      <path d="M -2,0 Q -73,-24 -104,-4 Q -121,4 -137,26 Q -150,44 -161,42 Q -146,48 -132,29 Q -111,4 -88,0 Q -51,-7 -2,0 Z" fill="#b8ae83" />
+      <path d="M -1,1 C -25,6 -53,16 -62,37 Q -67,50 -57,54 Q -49,57 -47,50 Q -47,45 -52,45" fill="none" stroke="#8b916b" stroke-width="5.1" stroke-linejoin="round" stroke-linecap="round" />
+      <path d="M -1,2 Q -24,14 -31,36 Q -35,51 -28,56" fill="none" stroke="#8b916b" stroke-width="4" stroke-linejoin="round" stroke-linecap="round" />
+      <use xlink:href="#button" transform="translate(-27 58) scale(.75)" />
+    </g>
+    <g id="motif-1">
+      <use xlink:href="#high-fan" transform="translate(443 122)" />
+    </g>
+    <g id="motif-2">
+      <use xlink:href="#rose-branch" transform="translate(443 122)" />
+    </g>
+    <g id="motif-3">
+      <use xlink:href="#quill" transform="translate(443 122) scale(.74 .71)" />
+    </g>
+    <g id="motif-4">
+      <use xlink:href="#tendril" transform="translate(443 122)" />
+    </g>
+    <g id="motif-5">
+      <use xlink:href="#arching-vine" transform="translate(-77 122)" />
+    </g>
+    <g id="motif-6">
+      <use xlink:href="#low-fan" transform="translate(83 206)" />
+    </g>
+    <g id="motif-7">
+      <use xlink:href="#tendril" transform="translate(83 206) rotate(185) scale(1.03 1.05)" />
+    </g>
+    <g id="motif-8">
+      <path d="M 83,206 C 101,166 129,141 146,116 C 156,102 157,89 149,84 Q 138,77 133,87 Q 130,97 138,97" fill="none" stroke="#8b916b" stroke-width="4.4" stroke-linejoin="round" stroke-linecap="round" />
+    </g>
+    <g id="motif-9">
+      <path d="M 139,126 Q 167,110 178,122 Q 184,131 177,136 Q 168,140 169,132" fill="none" stroke="#8b916b" stroke-width="3.9" stroke-linejoin="round" stroke-linecap="round" />
+    </g>
+    <g id="motif-10">
+      <path d="M 143,121 C 137,99 116,77 97,80 Q 79,81 76,95 Q 75,106 84,107 Q 94,106 91,98" fill="none" stroke="#8b916b" stroke-width="5.1" stroke-linejoin="round" stroke-linecap="round" />
+    </g>
+    <g id="motif-11">
+      <use xlink:href="#leaflet" transform="translate(99 178) rotate(-50) scale(0.62)" />
+    </g>
+    <g id="motif-12">
+      <use xlink:href="#leaflet" transform="translate(122 147) rotate(46) scale(0.65)" />
+    </g>
+    <g id="motif-13">
+      <use xlink:href="#leaflet" transform="translate(146 114) rotate(45) scale(0.62)" />
+    </g>
+    <g id="motif-14">
+      <use xlink:href="#leaflet" transform="translate(144 114) rotate(-46) scale(0.52)" />
+    </g>
+    <g id="motif-15">
+      <use xlink:href="#leaflet" transform="translate(103 173) rotate(34) scale(0.6)" />
+    </g>
+    <g id="motif-16">
+      <use xlink:href="#leaflet" transform="translate(443 122) rotate(0) rotate(-29) scale(0.71)" />
+    </g>
+    <g id="motif-17">
+      <use xlink:href="#leaflet" transform="translate(443 122) rotate(0) rotate(29) scale(0.65)" />
+    </g>
+    <g id="motif-18">
+      <use xlink:href="#leaflet" transform="translate(443 122) rotate(0) rotate(80) scale(0.63)" />
+    </g>
+    <g id="motif-19">
+      <use xlink:href="#leaflet" transform="translate(443 122) rotate(0) rotate(142) scale(0.54)" />
+    </g>
+    <g id="motif-20">
+      <use xlink:href="#leaflet" transform="translate(443 122) rotate(0) rotate(-86) scale(0.48)" />
+    </g>
+    <g id="motif-21">
+      <use xlink:href="#button" transform="translate(443 122) rotate(0) translate(6 -30) scale(.85)" />
+    </g>
+    <g id="motif-22">
+      <use xlink:href="#leaflet" transform="translate(83 206) rotate(168) rotate(-29) scale(0.71)" />
+    </g>
+    <g id="motif-23">
+      <use xlink:href="#leaflet" transform="translate(83 206) rotate(168) rotate(29) scale(0.65)" />
+    </g>
+    <g id="motif-24">
+      <use xlink:href="#leaflet" transform="translate(83 206) rotate(168) rotate(80) scale(0.63)" />
+    </g>
+    <g id="motif-25">
+      <use xlink:href="#leaflet" transform="translate(83 206) rotate(168) rotate(142) scale(0.54)" />
+    </g>
+    <g id="motif-26">
+      <use xlink:href="#leaflet" transform="translate(83 206) rotate(168) rotate(-86) scale(0.48)" />
+    </g>
+    <g id="motif-27">
+      <use xlink:href="#button" transform="translate(83 206) rotate(168) translate(6 -30) scale(.85)" />
+    </g>
+    <g id="motif-28">
+      <use xlink:href="#scroll" transform="translate(235 -35)" />
+    </g>
+    <g id="motif-29">
+      <use xlink:href="#pendant" transform="translate(235 -35) scale(1.15 1.37)" />
+    </g>
+    <g id="motif-30">
+      <path d="M 235,-33 C 238,-65 221,-99 197,-108 Q 172,-115 160,-99 Q 151,-85 159,-75 Q 165,-69 170,-74 Q 174,-80 166,-82" fill="none" stroke="#8b916b" stroke-width="5.3" stroke-linejoin="round" stroke-linecap="round" />
+    </g>
+    <g id="motif-31">
+      <path d="M 235,-33 Q 231,-84 204,-97 Q 187,-107 178,-99 Q 169,-91 178,-87 Q 174,-95 184,-95 Q 204,-97 216,-81 Q 202,-90 198,-81 Q 193,-72 202,-71 Q 204,-77 211,-75 Q 224,-72 235,-33 Z" fill="#8b916b" />
+    </g>
+    <g id="motif-32">
+      <path d="M 235,-33 Q 245,-84 269,-88 Q 282,-90 286,-80 Q 288,-72 281,-70 Q 276,-71 279,-76" fill="none" stroke="#8b916b" stroke-width="4.5" stroke-linejoin="round" stroke-linecap="round" />
+    </g>
+    <g id="motif-33">
+      <use xlink:href="#leaflet" transform="translate(241 -55) rotate(39) scale(.67)" />
+    </g>
+    <g id="motif-34">
+      <path d="M -77,122 Q -78,93 -70,75 C -58,53 -42,61 -40,72 Q -39,80 -47,82 Q -54,82 -54,75" fill="none" stroke="#8b916b" stroke-width="5.1" stroke-linejoin="round" stroke-linecap="round" />
+    </g>
+    <g id="motif-35">
+      <path d="M -76,108 C -76,82 -85,62 -99,59 Q -109,58 -111,67 Q -111,74 -105,72" fill="none" stroke="#8b916b" stroke-width="4.8" stroke-linejoin="round" stroke-linecap="round" />
+    </g>
+    <g id="motif-36">
+      <use xlink:href="#button" transform="translate(-41 75) scale(.88)" />
+    </g>
+    <g id="motif-37">
+      <use xlink:href="#button" transform="translate(-110 62) scale(.83)" />
+    </g>
+    <g id="motif-38">
+      <path d="M 235,-35 C 238,-65 253,-92 280,-105 C 310,-119 329,-110 330,-93 Q 331,-81 323,-79 Q 315,-79 316,-86" fill="none" stroke="#8b916b" stroke-width="5.2" stroke-linejoin="round" stroke-linecap="round" />
+    </g>
+    <g id="motif-39">
+      <path d="M 246,-69 Q 266,-103 287,-104 Q 302,-106 305,-95 Q 304,-85 296,-86 Q 292,-88 296,-92 Q 300,-93 297,-97 Q 281,-106 262,-82 Z" fill="#8b916b" />
+    </g>
+    <g id="motif-40">
+      <path d="M 321,-27 C 334,-2 333,27 319,39 Q 307,49 300,42 Q 295,37 301,32" fill="none" stroke="#8b916b" stroke-width="4.7" stroke-linejoin="round" stroke-linecap="round" />
+    </g>
+    <g id="motif-41">
+      <use xlink:href="#leaflet" transform="translate(330 7) rotate(26) scale(.73)" />
+    </g>
+    <g id="motif-42">
+      <path d="M 7,43 C 15,64 35,72 50,66 Q 62,61 60,51 Q 58,43 50,44 Q 44,45 46,50" fill="none" stroke="#8b916b" stroke-width="4.7" stroke-linejoin="round" stroke-linecap="round" />
+    </g>
+    <g id="motif-43">
+      <use xlink:href="#leaflet" transform="translate(20 61) rotate(140) scale(.72)" />
+    </g>
+    <g id="motif-44">
+      <use xlink:href="#leaflet" transform="translate(31 67) rotate(121) scale(.46)" />
+    </g>
+    <g id="motif-45">
+      <path d="M 80,206 C 85,226 79,250 64,259 Q 48,269 39,259 Q 33,252 40,246 Q 46,242 49,250" fill="none" stroke="#8b916b" stroke-width="5.2" stroke-linejoin="round" stroke-linecap="round" />
+    </g>
+    <g id="motif-46">
+      <path d="M 76,229 Q 77,248 65,257 Q 71,244 65,239 Q 73,242 76,229 Z" fill="#b8ae83" />
+    </g>
+    <g id="motif-47">
+      <path d="M 83,207 Q 100,229 103,245 Q 106,261 117,265 Q 129,268 135,258 Q 140,249 134,245 Q 129,242 127,248" fill="none" stroke="#8b916b" stroke-width="4.5" stroke-linejoin="round" stroke-linecap="round" />
+    </g>
+    <g id="motif-48">
+      <use xlink:href="#leaflet" transform="translate(106 251) rotate(57) scale(.8 .77)" />
+    </g>
+    <g id="motif-49">
+      <path d="M 104,247 Q 111,269 101,279 Q 91,290 85,281" fill="none" stroke="#8b916b" stroke-width="4.2" stroke-linejoin="round" stroke-linecap="round" />
+    </g>
+    <g id="motif-50">
+      <use xlink:href="#button" transform="translate(83 280) scale(.76)" />
+    </g>
+    <g id="motif-51">
+      <use xlink:href="#star-flower" transform="translate(3 2) rotate(-4)" />
+    </g>
+    <g id="motif-52">
+      <use xlink:href="#star-flower" transform="translate(268 166) rotate(6) scale(1.02 .98)" />
+    </g>
+  </defs>
+  <rect width="520" height="328" fill="#244574" />
+  <use xlink:href="#motif-1" transform="translate(-499 -315)" />
+  <use xlink:href="#motif-1" transform="translate(-499 13)" />
+  <use xlink:href="#motif-1" transform="translate(-499 341)" />
+  <use xlink:href="#motif-1" transform="translate(21 -315)" />
+  <use xlink:href="#motif-1" transform="translate(21 13)" />
+  <use xlink:href="#motif-1" transform="translate(21 341)" />
+  <use xlink:href="#motif-1" transform="translate(541 -315)" />
+  <use xlink:href="#motif-1" transform="translate(541 13)" />
+  <use xlink:href="#motif-1" transform="translate(541 341)" />
+  <use xlink:href="#motif-2" transform="translate(-499 -315)" />
+  <use xlink:href="#motif-2" transform="translate(-499 13)" />
+  <use xlink:href="#motif-2" transform="translate(-499 341)" />
+  <use xlink:href="#motif-2" transform="translate(21 -315)" />
+  <use xlink:href="#motif-2" transform="translate(21 13)" />
+  <use xlink:href="#motif-2" transform="translate(21 341)" />
+  <use xlink:href="#motif-2" transform="translate(541 -315)" />
+  <use xlink:href="#motif-2" transform="translate(541 13)" />
+  <use xlink:href="#motif-2" transform="translate(541 341)" />
+  <use xlink:href="#motif-3" transform="translate(-499 -315)" />
+  <use xlink:href="#motif-3" transform="translate(-499 13)" />
+  <use xlink:href="#motif-3" transform="translate(-499 341)" />
+  <use xlink:href="#motif-3" transform="translate(21 -315)" />
+  <use xlink:href="#motif-3" transform="translate(21 13)" />
+  <use xlink:href="#motif-3" transform="translate(21 341)" />
+  <use xlink:href="#motif-3" transform="translate(541 -315)" />
+  <use xlink:href="#motif-3" transform="translate(541 13)" />
+  <use xlink:href="#motif-3" transform="translate(541 341)" />
+  <use xlink:href="#motif-4" transform="translate(-499 -315)" />
+  <use xlink:href="#motif-4" transform="translate(-499 13)" />
+  <use xlink:href="#motif-4" transform="translate(-499 341)" />
+  <use xlink:href="#motif-4" transform="translate(21 -315)" />
+  <use xlink:href="#motif-4" transform="translate(21 13)" />
+  <use xlink:href="#motif-4" transform="translate(21 341)" />
+  <use xlink:href="#motif-4" transform="translate(541 -315)" />
+  <use xlink:href="#motif-4" transform="translate(541 13)" />
+  <use xlink:href="#motif-4" transform="translate(541 341)" />
+  <use xlink:href="#motif-5" transform="translate(-499 -315)" />
+  <use xlink:href="#motif-5" transform="translate(-499 13)" />
+  <use xlink:href="#motif-5" transform="translate(-499 341)" />
+  <use xlink:href="#motif-5" transform="translate(21 -315)" />
+  <use xlink:href="#motif-5" transform="translate(21 13)" />
+  <use xlink:href="#motif-5" transform="translate(21 341)" />
+  <use xlink:href="#motif-5" transform="translate(541 -315)" />
+  <use xlink:href="#motif-5" transform="translate(541 13)" />
+  <use xlink:href="#motif-5" transform="translate(541 341)" />
+  <use xlink:href="#motif-6" transform="translate(-499 -315)" />
+  <use xlink:href="#motif-6" transform="translate(-499 13)" />
+  <use xlink:href="#motif-6" transform="translate(-499 341)" />
+  <use xlink:href="#motif-6" transform="translate(21 -315)" />
+  <use xlink:href="#motif-6" transform="translate(21 13)" />
+  <use xlink:href="#motif-6" transform="translate(21 341)" />
+  <use xlink:href="#motif-6" transform="translate(541 -315)" />
+  <use xlink:href="#motif-6" transform="translate(541 13)" />
+  <use xlink:href="#motif-6" transform="translate(541 341)" />
+  <use xlink:href="#motif-7" transform="translate(-499 -315)" />
+  <use xlink:href="#motif-7" transform="translate(-499 13)" />
+  <use xlink:href="#motif-7" transform="translate(-499 341)" />
+  <use xlink:href="#motif-7" transform="translate(21 -315)" />
+  <use xlink:href="#motif-7" transform="translate(21 13)" />
+  <use xlink:href="#motif-7" transform="translate(21 341)" />
+  <use xlink:href="#motif-7" transform="translate(541 -315)" />
+  <use xlink:href="#motif-7" transform="translate(541 13)" />
+  <use xlink:href="#motif-7" transform="translate(541 341)" />
+  <use xlink:href="#motif-8" transform="translate(-499 -315)" />
+  <use xlink:href="#motif-8" transform="translate(-499 13)" />
+  <use xlink:href="#motif-8" transform="translate(-499 341)" />
+  <use xlink:href="#motif-8" transform="translate(21 -315)" />
+  <use xlink:href="#motif-8" transform="translate(21 13)" />
+  <use xlink:href="#motif-8" transform="translate(21 341)" />
+  <use xlink:href="#motif-8" transform="translate(541 -315)" />
+  <use xlink:href="#motif-8" transform="translate(541 13)" />
+  <use xlink:href="#motif-8" transform="translate(541 341)" />
+  <use xlink:href="#motif-9" transform="translate(-499 -315)" />
+  <use xlink:href="#motif-9" transform="translate(-499 13)" />
+  <use xlink:href="#motif-9" transform="translate(-499 341)" />
+  <use xlink:href="#motif-9" transform="translate(21 -315)" />
+  <use xlink:href="#motif-9" transform="translate(21 13)" />
+  <use xlink:href="#motif-9" transform="translate(21 341)" />
+  <use xlink:href="#motif-9" transform="translate(541 -315)" />
+  <use xlink:href="#motif-9" transform="translate(541 13)" />
+  <use xlink:href="#motif-9" transform="translate(541 341)" />
+  <use xlink:href="#motif-10" transform="translate(-499 -315)" />
+  <use xlink:href="#motif-10" transform="translate(-499 13)" />
+  <use xlink:href="#motif-10" transform="translate(-499 341)" />
+  <use xlink:href="#motif-10" transform="translate(21 -315)" />
+  <use xlink:href="#motif-10" transform="translate(21 13)" />
+  <use xlink:href="#motif-10" transform="translate(21 341)" />
+  <use xlink:href="#motif-10" transform="translate(541 -315)" />
+  <use xlink:href="#motif-10" transform="translate(541 13)" />
+  <use xlink:href="#motif-10" transform="translate(541 341)" />
+  <use xlink:href="#motif-11" transform="translate(-499 -315)" />
+  <use xlink:href="#motif-11" transform="translate(-499 13)" />
+  <use xlink:href="#motif-11" transform="translate(-499 341)" />
+  <use xlink:href="#motif-11" transform="translate(21 -315)" />
+  <use xlink:href="#motif-11" transform="translate(21 13)" />
+  <use xlink:href="#motif-11" transform="translate(21 341)" />
+  <use xlink:href="#motif-11" transform="translate(541 -315)" />
+  <use xlink:href="#motif-11" transform="translate(541 13)" />
+  <use xlink:href="#motif-11" transform="translate(541 341)" />
+  <use xlink:href="#motif-12" transform="translate(-499 -315)" />
+  <use xlink:href="#motif-12" transform="translate(-499 13)" />
+  <use xlink:href="#motif-12" transform="translate(-499 341)" />
+  <use xlink:href="#motif-12" transform="translate(21 -315)" />
+  <use xlink:href="#motif-12" transform="translate(21 13)" />
+  <use xlink:href="#motif-12" transform="translate(21 341)" />
+  <use xlink:href="#motif-12" transform="translate(541 -315)" />
+  <use xlink:href="#motif-12" transform="translate(541 13)" />
+  <use xlink:href="#motif-12" transform="translate(541 341)" />
+  <use xlink:href="#motif-13" transform="translate(-499 -315)" />
+  <use xlink:href="#motif-13" transform="translate(-499 13)" />
+  <use xlink:href="#motif-13" transform="translate(-499 341)" />
+  <use xlink:href="#motif-13" transform="translate(21 -315)" />
+  <use xlink:href="#motif-13" transform="translate(21 13)" />
+  <use xlink:href="#motif-13" transform="translate(21 341)" />
+  <use xlink:href="#motif-13" transform="translate(541 -315)" />
+  <use xlink:href="#motif-13" transform="translate(541 13)" />
+  <use xlink:href="#motif-13" transform="translate(541 341)" />
+  <use xlink:href="#motif-14" transform="translate(-499 -315)" />
+  <use xlink:href="#motif-14" transform="translate(-499 13)" />
+  <use xlink:href="#motif-14" transform="translate(-499 341)" />
+  <use xlink:href="#motif-14" transform="translate(21 -315)" />
+  <use xlink:href="#motif-14" transform="translate(21 13)" />
+  <use xlink:href="#motif-14" transform="translate(21 341)" />
+  <use xlink:href="#motif-14" transform="translate(541 -315)" />
+  <use xlink:href="#motif-14" transform="translate(541 13)" />
+  <use xlink:href="#motif-14" transform="translate(541 341)" />
+  <use xlink:href="#motif-15" transform="translate(-499 -315)" />
+  <use xlink:href="#motif-15" transform="translate(-499 13)" />
+  <use xlink:href="#motif-15" transform="translate(-499 341)" />
+  <use xlink:href="#motif-15" transform="translate(21 -315)" />
+  <use xlink:href="#motif-15" transform="translate(21 13)" />
+  <use xlink:href="#motif-15" transform="translate(21 341)" />
+  <use xlink:href="#motif-15" transform="translate(541 -315)" />
+  <use xlink:href="#motif-15" transform="translate(541 13)" />
+  <use xlink:href="#motif-15" transform="translate(541 341)" />
+  <use xlink:href="#motif-16" transform="translate(-499 -315)" />
+  <use xlink:href="#motif-16" transform="translate(-499 13)" />
+  <use xlink:href="#motif-16" transform="translate(-499 341)" />
+  <use xlink:href="#motif-16" transform="translate(21 -315)" />
+  <use xlink:href="#motif-16" transform="translate(21 13)" />
+  <use xlink:href="#motif-16" transform="translate(21 341)" />
+  <use xlink:href="#motif-16" transform="translate(541 -315)" />
+  <use xlink:href="#motif-16" transform="translate(541 13)" />
+  <use xlink:href="#motif-16" transform="translate(541 341)" />
+  <use xlink:href="#motif-17" transform="translate(-499 -315)" />
+  <use xlink:href="#motif-17" transform="translate(-499 13)" />
+  <use xlink:href="#motif-17" transform="translate(-499 341)" />
+  <use xlink:href="#motif-17" transform="translate(21 -315)" />
+  <use xlink:href="#motif-17" transform="translate(21 13)" />
+  <use xlink:href="#motif-17" transform="translate(21 341)" />
+  <use xlink:href="#motif-17" transform="translate(541 -315)" />
+  <use xlink:href="#motif-17" transform="translate(541 13)" />
+  <use xlink:href="#motif-17" transform="translate(541 341)" />
+  <use xlink:href="#motif-18" transform="translate(-499 -315)" />
+  <use xlink:href="#motif-18" transform="translate(-499 13)" />
+  <use xlink:href="#motif-18" transform="translate(-499 341)" />
+  <use xlink:href="#motif-18" transform="translate(21 -315)" />
+  <use xlink:href="#motif-18" transform="translate(21 13)" />
+  <use xlink:href="#motif-18" transform="translate(21 341)" />
+  <use xlink:href="#motif-18" transform="translate(541 -315)" />
+  <use xlink:href="#motif-18" transform="translate(541 13)" />
+  <use xlink:href="#motif-18" transform="translate(541 341)" />
+  <use xlink:href="#motif-19" transform="translate(-499 -315)" />
+  <use xlink:href="#motif-19" transform="translate(-499 13)" />
+  <use xlink:href="#motif-19" transform="translate(-499 341)" />
+  <use xlink:href="#motif-19" transform="translate(21 -315)" />
+  <use xlink:href="#motif-19" transform="translate(21 13)" />
+  <use xlink:href="#motif-19" transform="translate(21 341)" />
+  <use xlink:href="#motif-19" transform="translate(541 -315)" />
+  <use xlink:href="#motif-19" transform="translate(541 13)" />
+  <use xlink:href="#motif-19" transform="translate(541 341)" />
+  <use xlink:href="#motif-20" transform="translate(-499 -315)" />
+  <use xlink:href="#motif-20" transform="translate(-499 13)" />
+  <use xlink:href="#motif-20" transform="translate(-499 341)" />
+  <use xlink:href="#motif-20" transform="translate(21 -315)" />
+  <use xlink:href="#motif-20" transform="translate(21 13)" />
+  <use xlink:href="#motif-20" transform="translate(21 341)" />
+  <use xlink:href="#motif-20" transform="translate(541 -315)" />
+  <use xlink:href="#motif-20" transform="translate(541 13)" />
+  <use xlink:href="#motif-20" transform="translate(541 341)" />
+  <use xlink:href="#motif-21" transform="translate(-499 -315)" />
+  <use xlink:href="#motif-21" transform="translate(-499 13)" />
+  <use xlink:href="#motif-21" transform="translate(-499 341)" />
+  <use xlink:href="#motif-21" transform="translate(21 -315)" />
+  <use xlink:href="#motif-21" transform="translate(21 13)" />
+  <use xlink:href="#motif-21" transform="translate(21 341)" />
+  <use xlink:href="#motif-21" transform="translate(541 -315)" />
+  <use xlink:href="#motif-21" transform="translate(541 13)" />
+  <use xlink:href="#motif-21" transform="translate(541 341)" />
+  <use xlink:href="#motif-22" transform="translate(-499 -315)" />
+  <use xlink:href="#motif-22" transform="translate(-499 13)" />
+  <use xlink:href="#motif-22" transform="translate(-499 341)" />
+  <use xlink:href="#motif-22" transform="translate(21 -315)" />
+  <use xlink:href="#motif-22" transform="translate(21 13)" />
+  <use xlink:href="#motif-22" transform="translate(21 341)" />
+  <use xlink:href="#motif-22" transform="translate(541 -315)" />
+  <use xlink:href="#motif-22" transform="translate(541 13)" />
+  <use xlink:href="#motif-22" transform="translate(541 341)" />
+  <use xlink:href="#motif-23" transform="translate(-499 -315)" />
+  <use xlink:href="#motif-23" transform="translate(-499 13)" />
+  <use xlink:href="#motif-23" transform="translate(-499 341)" />
+  <use xlink:href="#motif-23" transform="translate(21 -315)" />
+  <use xlink:href="#motif-23" transform="translate(21 13)" />
+  <use xlink:href="#motif-23" transform="translate(21 341)" />
+  <use xlink:href="#motif-23" transform="translate(541 -315)" />
+  <use xlink:href="#motif-23" transform="translate(541 13)" />
+  <use xlink:href="#motif-23" transform="translate(541 341)" />
+  <use xlink:href="#motif-24" transform="translate(-499 -315)" />
+  <use xlink:href="#motif-24" transform="translate(-499 13)" />
+  <use xlink:href="#motif-24" transform="translate(-499 341)" />
+  <use xlink:href="#motif-24" transform="translate(21 -315)" />
+  <use xlink:href="#motif-24" transform="translate(21 13)" />
+  <use xlink:href="#motif-24" transform="translate(21 341)" />
+  <use xlink:href="#motif-24" transform="translate(541 -315)" />
+  <use xlink:href="#motif-24" transform="translate(541 13)" />
+  <use xlink:href="#motif-24" transform="translate(541 341)" />
+  <use xlink:href="#motif-25" transform="translate(-499 -315)" />
+  <use xlink:href="#motif-25" transform="translate(-499 13)" />
+  <use xlink:href="#motif-25" transform="translate(-499 341)" />
+  <use xlink:href="#motif-25" transform="translate(21 -315)" />
+  <use xlink:href="#motif-25" transform="translate(21 13)" />
+  <use xlink:href="#motif-25" transform="translate(21 341)" />
+  <use xlink:href="#motif-25" transform="translate(541 -315)" />
+  <use xlink:href="#motif-25" transform="translate(541 13)" />
+  <use xlink:href="#motif-25" transform="translate(541 341)" />
+  <use xlink:href="#motif-26" transform="translate(-499 -315)" />
+  <use xlink:href="#motif-26" transform="translate(-499 13)" />
+  <use xlink:href="#motif-26" transform="translate(-499 341)" />
+  <use xlink:href="#motif-26" transform="translate(21 -315)" />
+  <use xlink:href="#motif-26" transform="translate(21 13)" />
+  <use xlink:href="#motif-26" transform="translate(21 341)" />
+  <use xlink:href="#motif-26" transform="translate(541 -315)" />
+  <use xlink:href="#motif-26" transform="translate(541 13)" />
+  <use xlink:href="#motif-26" transform="translate(541 341)" />
+  <use xlink:href="#motif-27" transform="translate(-499 -315)" />
+  <use xlink:href="#motif-27" transform="translate(-499 13)" />
+  <use xlink:href="#motif-27" transform="translate(-499 341)" />
+  <use xlink:href="#motif-27" transform="translate(21 -315)" />
+  <use xlink:href="#motif-27" transform="translate(21 13)" />
+  <use xlink:href="#motif-27" transform="translate(21 341)" />
+  <use xlink:href="#motif-27" transform="translate(541 -315)" />
+  <use xlink:href="#motif-27" transform="translate(541 13)" />
+  <use xlink:href="#motif-27" transform="translate(541 341)" />
+  <use xlink:href="#motif-28" transform="translate(-499 -315)" />
+  <use xlink:href="#motif-28" transform="translate(-499 13)" />
+  <use xlink:href="#motif-28" transform="translate(-499 341)" />
+  <use xlink:href="#motif-28" transform="translate(21 -315)" />
+  <use xlink:href="#motif-28" transform="translate(21 13)" />
+  <use xlink:href="#motif-28" transform="translate(21 341)" />
+  <use xlink:href="#motif-28" transform="translate(541 -315)" />
+  <use xlink:href="#motif-28" transform="translate(541 13)" />
+  <use xlink:href="#motif-28" transform="translate(541 341)" />
+  <use xlink:href="#motif-29" transform="translate(-499 -315)" />
+  <use xlink:href="#motif-29" transform="translate(-499 13)" />
+  <use xlink:href="#motif-29" transform="translate(-499 341)" />
+  <use xlink:href="#motif-29" transform="translate(21 -315)" />
+  <use xlink:href="#motif-29" transform="translate(21 13)" />
+  <use xlink:href="#motif-29" transform="translate(21 341)" />
+  <use xlink:href="#motif-29" transform="translate(541 -315)" />
+  <use xlink:href="#motif-29" transform="translate(541 13)" />
+  <use xlink:href="#motif-29" transform="translate(541 341)" />
+  <use xlink:href="#motif-30" transform="translate(-499 -315)" />
+  <use xlink:href="#motif-30" transform="translate(-499 13)" />
+  <use xlink:href="#motif-30" transform="translate(-499 341)" />
+  <use xlink:href="#motif-30" transform="translate(21 -315)" />
+  <use xlink:href="#motif-30" transform="translate(21 13)" />
+  <use xlink:href="#motif-30" transform="translate(21 341)" />
+  <use xlink:href="#motif-30" transform="translate(541 -315)" />
+  <use xlink:href="#motif-30" transform="translate(541 13)" />
+  <use xlink:href="#motif-30" transform="translate(541 341)" />
+  <use xlink:href="#motif-31" transform="translate(-499 -315)" />
+  <use xlink:href="#motif-31" transform="translate(-499 13)" />
+  <use xlink:href="#motif-31" transform="translate(-499 341)" />
+  <use xlink:href="#motif-31" transform="translate(21 -315)" />
+  <use xlink:href="#motif-31" transform="translate(21 13)" />
+  <use xlink:href="#motif-31" transform="translate(21 341)" />
+  <use xlink:href="#motif-31" transform="translate(541 -315)" />
+  <use xlink:href="#motif-31" transform="translate(541 13)" />
+  <use xlink:href="#motif-31" transform="translate(541 341)" />
+  <use xlink:href="#motif-32" transform="translate(-499 -315)" />
+  <use xlink:href="#motif-32" transform="translate(-499 13)" />
+  <use xlink:href="#motif-32" transform="translate(-499 341)" />
+  <use xlink:href="#motif-32" transform="translate(21 -315)" />
+  <use xlink:href="#motif-32" transform="translate(21 13)" />
+  <use xlink:href="#motif-32" transform="translate(21 341)" />
+  <use xlink:href="#motif-32" transform="translate(541 -315)" />
+  <use xlink:href="#motif-32" transform="translate(541 13)" />
+  <use xlink:href="#motif-32" transform="translate(541 341)" />
+  <use xlink:href="#motif-33" transform="translate(-499 -315)" />
+  <use xlink:href="#motif-33" transform="translate(-499 13)" />
+  <use xlink:href="#motif-33" transform="translate(-499 341)" />
+  <use xlink:href="#motif-33" transform="translate(21 -315)" />
+  <use xlink:href="#motif-33" transform="translate(21 13)" />
+  <use xlink:href="#motif-33" transform="translate(21 341)" />
+  <use xlink:href="#motif-33" transform="translate(541 -315)" />
+  <use xlink:href="#motif-33" transform="translate(541 13)" />
+  <use xlink:href="#motif-33" transform="translate(541 341)" />
+  <use xlink:href="#motif-34" transform="translate(-499 -315)" />
+  <use xlink:href="#motif-34" transform="translate(-499 13)" />
+  <use xlink:href="#motif-34" transform="translate(-499 341)" />
+  <use xlink:href="#motif-34" transform="translate(21 -315)" />
+  <use xlink:href="#motif-34" transform="translate(21 13)" />
+  <use xlink:href="#motif-34" transform="translate(21 341)" />
+  <use xlink:href="#motif-34" transform="translate(541 -315)" />
+  <use xlink:href="#motif-34" transform="translate(541 13)" />
+  <use xlink:href="#motif-34" transform="translate(541 341)" />
+  <use xlink:href="#motif-35" transform="translate(-499 -315)" />
+  <use xlink:href="#motif-35" transform="translate(-499 13)" />
+  <use xlink:href="#motif-35" transform="translate(-499 341)" />
+  <use xlink:href="#motif-35" transform="translate(21 -315)" />
+  <use xlink:href="#motif-35" transform="translate(21 13)" />
+  <use xlink:href="#motif-35" transform="translate(21 341)" />
+  <use xlink:href="#motif-35" transform="translate(541 -315)" />
+  <use xlink:href="#motif-35" transform="translate(541 13)" />
+  <use xlink:href="#motif-35" transform="translate(541 341)" />
+  <use xlink:href="#motif-36" transform="translate(-499 -315)" />
+  <use xlink:href="#motif-36" transform="translate(-499 13)" />
+  <use xlink:href="#motif-36" transform="translate(-499 341)" />
+  <use xlink:href="#motif-36" transform="translate(21 -315)" />
+  <use xlink:href="#motif-36" transform="translate(21 13)" />
+  <use xlink:href="#motif-36" transform="translate(21 341)" />
+  <use xlink:href="#motif-36" transform="translate(541 -315)" />
+  <use xlink:href="#motif-36" transform="translate(541 13)" />
+  <use xlink:href="#motif-36" transform="translate(541 341)" />
+  <use xlink:href="#motif-37" transform="translate(-499 -315)" />
+  <use xlink:href="#motif-37" transform="translate(-499 13)" />
+  <use xlink:href="#motif-37" transform="translate(-499 341)" />
+  <use xlink:href="#motif-37" transform="translate(21 -315)" />
+  <use xlink:href="#motif-37" transform="translate(21 13)" />
+  <use xlink:href="#motif-37" transform="translate(21 341)" />
+  <use xlink:href="#motif-37" transform="translate(541 -315)" />
+  <use xlink:href="#motif-37" transform="translate(541 13)" />
+  <use xlink:href="#motif-37" transform="translate(541 341)" />
+  <use xlink:href="#motif-38" transform="translate(-499 -315)" />
+  <use xlink:href="#motif-38" transform="translate(-499 13)" />
+  <use xlink:href="#motif-38" transform="translate(-499 341)" />
+  <use xlink:href="#motif-38" transform="translate(21 -315)" />
+  <use xlink:href="#motif-38" transform="translate(21 13)" />
+  <use xlink:href="#motif-38" transform="translate(21 341)" />
+  <use xlink:href="#motif-38" transform="translate(541 -315)" />
+  <use xlink:href="#motif-38" transform="translate(541 13)" />
+  <use xlink:href="#motif-38" transform="translate(541 341)" />
+  <use xlink:href="#motif-39" transform="translate(-499 -315)" />
+  <use xlink:href="#motif-39" transform="translate(-499 13)" />
+  <use xlink:href="#motif-39" transform="translate(-499 341)" />
+  <use xlink:href="#motif-39" transform="translate(21 -315)" />
+  <use xlink:href="#motif-39" transform="translate(21 13)" />
+  <use xlink:href="#motif-39" transform="translate(21 341)" />
+  <use xlink:href="#motif-39" transform="translate(541 -315)" />
+  <use xlink:href="#motif-39" transform="translate(541 13)" />
+  <use xlink:href="#motif-39" transform="translate(541 341)" />
+  <use xlink:href="#motif-40" transform="translate(-499 -315)" />
+  <use xlink:href="#motif-40" transform="translate(-499 13)" />
+  <use xlink:href="#motif-40" transform="translate(-499 341)" />
+  <use xlink:href="#motif-40" transform="translate(21 -315)" />
+  <use xlink:href="#motif-40" transform="translate(21 13)" />
+  <use xlink:href="#motif-40" transform="translate(21 341)" />
+  <use xlink:href="#motif-40" transform="translate(541 -315)" />
+  <use xlink:href="#motif-40" transform="translate(541 13)" />
+  <use xlink:href="#motif-40" transform="translate(541 341)" />
+  <use xlink:href="#motif-41" transform="translate(-499 -315)" />
+  <use xlink:href="#motif-41" transform="translate(-499 13)" />
+  <use xlink:href="#motif-41" transform="translate(-499 341)" />
+  <use xlink:href="#motif-41" transform="translate(21 -315)" />
+  <use xlink:href="#motif-41" transform="translate(21 13)" />
+  <use xlink:href="#motif-41" transform="translate(21 341)" />
+  <use xlink:href="#motif-41" transform="translate(541 -315)" />
+  <use xlink:href="#motif-41" transform="translate(541 13)" />
+  <use xlink:href="#motif-41" transform="translate(541 341)" />
+  <use xlink:href="#motif-42" transform="translate(-499 -315)" />
+  <use xlink:href="#motif-42" transform="translate(-499 13)" />
+  <use xlink:href="#motif-42" transform="translate(-499 341)" />
+  <use xlink:href="#motif-42" transform="translate(21 -315)" />
+  <use xlink:href="#motif-42" transform="translate(21 13)" />
+  <use xlink:href="#motif-42" transform="translate(21 341)" />
+  <use xlink:href="#motif-42" transform="translate(541 -315)" />
+  <use xlink:href="#motif-42" transform="translate(541 13)" />
+  <use xlink:href="#motif-42" transform="translate(541 341)" />
+  <use xlink:href="#motif-43" transform="translate(-499 -315)" />
+  <use xlink:href="#motif-43" transform="translate(-499 13)" />
+  <use xlink:href="#motif-43" transform="translate(-499 341)" />
+  <use xlink:href="#motif-43" transform="translate(21 -315)" />
+  <use xlink:href="#motif-43" transform="translate(21 13)" />
+  <use xlink:href="#motif-43" transform="translate(21 341)" />
+  <use xlink:href="#motif-43" transform="translate(541 -315)" />
+  <use xlink:href="#motif-43" transform="translate(541 13)" />
+  <use xlink:href="#motif-43" transform="translate(541 341)" />
+  <use xlink:href="#motif-44" transform="translate(-499 -315)" />
+  <use xlink:href="#motif-44" transform="translate(-499 13)" />
+  <use xlink:href="#motif-44" transform="translate(-499 341)" />
+  <use xlink:href="#motif-44" transform="translate(21 -315)" />
+  <use xlink:href="#motif-44" transform="translate(21 13)" />
+  <use xlink:href="#motif-44" transform="translate(21 341)" />
+  <use xlink:href="#motif-44" transform="translate(541 -315)" />
+  <use xlink:href="#motif-44" transform="translate(541 13)" />
+  <use xlink:href="#motif-44" transform="translate(541 341)" />
+  <use xlink:href="#motif-45" transform="translate(-499 -315)" />
+  <use xlink:href="#motif-45" transform="translate(-499 13)" />
+  <use xlink:href="#motif-45" transform="translate(-499 341)" />
+  <use xlink:href="#motif-45" transform="translate(21 -315)" />
+  <use xlink:href="#motif-45" transform="translate(21 13)" />
+  <use xlink:href="#motif-45" transform="translate(21 341)" />
+  <use xlink:href="#motif-45" transform="translate(541 -315)" />
+  <use xlink:href="#motif-45" transform="translate(541 13)" />
+  <use xlink:href="#motif-45" transform="translate(541 341)" />
+  <use xlink:href="#motif-46" transform="translate(-499 -315)" />
+  <use xlink:href="#motif-46" transform="translate(-499 13)" />
+  <use xlink:href="#motif-46" transform="translate(-499 341)" />
+  <use xlink:href="#motif-46" transform="translate(21 -315)" />
+  <use xlink:href="#motif-46" transform="translate(21 13)" />
+  <use xlink:href="#motif-46" transform="translate(21 341)" />
+  <use xlink:href="#motif-46" transform="translate(541 -315)" />
+  <use xlink:href="#motif-46" transform="translate(541 13)" />
+  <use xlink:href="#motif-46" transform="translate(541 341)" />
+  <use xlink:href="#motif-47" transform="translate(-499 -315)" />
+  <use xlink:href="#motif-47" transform="translate(-499 13)" />
+  <use xlink:href="#motif-47" transform="translate(-499 341)" />
+  <use xlink:href="#motif-47" transform="translate(21 -315)" />
+  <use xlink:href="#motif-47" transform="translate(21 13)" />
+  <use xlink:href="#motif-47" transform="translate(21 341)" />
+  <use xlink:href="#motif-47" transform="translate(541 -315)" />
+  <use xlink:href="#motif-47" transform="translate(541 13)" />
+  <use xlink:href="#motif-47" transform="translate(541 341)" />
+  <use xlink:href="#motif-48" transform="translate(-499 -315)" />
+  <use xlink:href="#motif-48" transform="translate(-499 13)" />
+  <use xlink:href="#motif-48" transform="translate(-499 341)" />
+  <use xlink:href="#motif-48" transform="translate(21 -315)" />
+  <use xlink:href="#motif-48" transform="translate(21 13)" />
+  <use xlink:href="#motif-48" transform="translate(21 341)" />
+  <use xlink:href="#motif-48" transform="translate(541 -315)" />
+  <use xlink:href="#motif-48" transform="translate(541 13)" />
+  <use xlink:href="#motif-48" transform="translate(541 341)" />
+  <use xlink:href="#motif-49" transform="translate(-499 -315)" />
+  <use xlink:href="#motif-49" transform="translate(-499 13)" />
+  <use xlink:href="#motif-49" transform="translate(-499 341)" />
+  <use xlink:href="#motif-49" transform="translate(21 -315)" />
+  <use xlink:href="#motif-49" transform="translate(21 13)" />
+  <use xlink:href="#motif-49" transform="translate(21 341)" />
+  <use xlink:href="#motif-49" transform="translate(541 -315)" />
+  <use xlink:href="#motif-49" transform="translate(541 13)" />
+  <use xlink:href="#motif-49" transform="translate(541 341)" />
+  <use xlink:href="#motif-50" transform="translate(-499 -315)" />
+  <use xlink:href="#motif-50" transform="translate(-499 13)" />
+  <use xlink:href="#motif-50" transform="translate(-499 341)" />
+  <use xlink:href="#motif-50" transform="translate(21 -315)" />
+  <use xlink:href="#motif-50" transform="translate(21 13)" />
+  <use xlink:href="#motif-50" transform="translate(21 341)" />
+  <use xlink:href="#motif-50" transform="translate(541 -315)" />
+  <use xlink:href="#motif-50" transform="translate(541 13)" />
+  <use xlink:href="#motif-50" transform="translate(541 341)" />
+  <use xlink:href="#motif-51" transform="translate(-499 -315)" />
+  <use xlink:href="#motif-51" transform="translate(-499 13)" />
+  <use xlink:href="#motif-51" transform="translate(-499 341)" />
+  <use xlink:href="#motif-51" transform="translate(21 -315)" />
+  <use xlink:href="#motif-51" transform="translate(21 13)" />
+  <use xlink:href="#motif-51" transform="translate(21 341)" />
+  <use xlink:href="#motif-51" transform="translate(541 -315)" />
+  <use xlink:href="#motif-51" transform="translate(541 13)" />
+  <use xlink:href="#motif-51" transform="translate(541 341)" />
+  <use xlink:href="#motif-52" transform="translate(-499 -315)" />
+  <use xlink:href="#motif-52" transform="translate(-499 13)" />
+  <use xlink:href="#motif-52" transform="translate(-499 341)" />
+  <use xlink:href="#motif-52" transform="translate(21 -315)" />
+  <use xlink:href="#motif-52" transform="translate(21 13)" />
+  <use xlink:href="#motif-52" transform="translate(21 341)" />
+  <use xlink:href="#motif-52" transform="translate(541 -315)" />
+  <use xlink:href="#motif-52" transform="translate(541 13)" />
+  <use xlink:href="#motif-52" transform="translate(541 341)" />
+</svg>

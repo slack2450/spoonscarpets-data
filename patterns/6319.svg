@@ -1,0 +1,93 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="640" height="640" viewBox="0 0 640 640">
+  <title>The Prestwick Pioneer — interlaced gold arrowheads and ivory ogees</title>
+  <desc>The repeat is reconstructed from the close and room views of the patterned carpet. Four inward-pointing gold arrowheads lie between the indented ivory rails. The gold ring at each corner weaves through the rounded lobes.</desc>
+  <defs>
+    <path id="quatrefoil" d="M 133 320 C 75 301 32 246 32 174 C 32 92 94 31 173 31 C 241 31 300 74 320 133 C 339 75 394 32 466 32 C 548 32 609 94 609 173 C 609 241 566 300 507 320 C 565 339 608 394 608 466 C 608 548 546 609 467 609 C 399 609 340 566 320 507 C 301 565 246 608 174 608 C 92 608 31 546 31 467 C 31 399 74 340 133 320 Z M 228 320 Q 215 310 199 307 Q 201 293 182 288 Q 188 304 183 310 C 105 311 51 248 51 175 C 51 103 103 50 176 50 C 249 50 310 107 310 183 Q 304 188 288 182 Q 293 201 307 199 Q 310 214 320 228 Q 330 215 333 199 Q 347 201 352 182 Q 336 188 330 183 C 329 105 392 51 465 51 C 537 51 590 103 590 176 C 590 249 533 310 457 310 Q 452 304 458 288 Q 439 293 441 307 Q 426 310 412 320 Q 425 330 441 333 Q 439 347 458 352 Q 452 336 457 330 C 535 329 589 392 589 465 C 589 537 537 590 464 590 C 391 590 330 533 330 457 Q 336 452 352 458 Q 347 439 333 441 Q 330 426 320 412 Q 310 425 307 441 Q 293 439 288 458 Q 304 452 310 457 C 311 535 248 589 175 589 C 103 589 50 537 50 464 C 50 391 107 330 183 330 Q 188 336 182 352 Q 201 347 199 333 Q 214 330 228 320 Z" fill-rule="evenodd" stroke-linejoin="round" stroke-width="4.3" stroke="#CFB57D" fill="#594F4A" />
+    <g id="ivory-rails" fill="none" stroke-linejoin="miter" stroke-miterlimit="3">
+      <use xlink:href="#continuous-rails" transform="translate(0 0)" />
+      <use xlink:href="#continuous-rails" transform="matrix(0 1 1 0 0 0)" />
+      <use xlink:href="#continuous-rails" transform="translate(0 640)" />
+      <use xlink:href="#continuous-rails" transform="matrix(0 1 1 0 640 0)" />
+    </g>
+    <g id="continuous-rails">
+      <path d="M -640 320 C -624 377 -563 422 -501 433 Q -470 440 -440 440 L -375 440 L -320 379 L -265 440 L -200 440 Q -170 440 -139 433 C -77 422 -16 377 0 320 C 16 263 77 218 139 207 Q 170 200 200 200 L 265 200 L 320 261 L 375 200 L 440 200 Q 470 200 501 207 C 563 218 624 263 640 320 C 656 377 717 422 779 433 Q 810 440 840 440 L 905 440 L 960 379 L 1015 440 L 1080 440 Q 1110 440 1141 433 C 1203 422 1264 377 1280 320 C 1296 263 1357 218 1419 207 Q 1450 200 1480 200 L 1545 200 L 1600 261 L 1655 200 L 1720 200 Q 1750 200 1781 207 C 1843 218 1904 263 1920 320" />
+      <path d="M -640 320 C -624 263 -563 218 -501 207 Q -470 200 -440 200 L -375 200 L -320 261 L -265 200 L -200 200 Q -170 200 -139 207 C -77 218 -16 263 0 320 C 16 377 77 422 139 433 Q 170 440 200 440 L 265 440 L 320 379 L 375 440 L 440 440 Q 470 440 501 433 C 563 422 624 377 640 320 C 656 263 717 218 779 207 Q 810 200 840 200 L 905 200 L 960 261 L 1015 200 L 1080 200 Q 1110 200 1141 207 C 1203 218 1264 263 1280 320 C 1296 377 1357 422 1419 433 Q 1450 440 1480 440 L 1545 440 L 1600 379 L 1655 440 L 1720 440 Q 1750 440 1781 433 C 1843 422 1904 377 1920 320" />
+    </g>
+    <g id="lattice">
+      <use xlink:href="#ivory-rails" stroke="#A88969" stroke-width="28" />
+      <use xlink:href="#ivory-rails" stroke="#594F4A" stroke-width="20" />
+      <use xlink:href="#ivory-rails" stroke="#E6D8C1" stroke-width="12" />
+      <use xlink:href="#rail-crossing" transform="translate(200 200)" />
+      <use xlink:href="#rail-crossing" transform="translate(200 440)" />
+      <use xlink:href="#rail-crossing" transform="translate(200 840)" />
+      <use xlink:href="#rail-crossing" transform="translate(200 1080)" />
+      <use xlink:href="#rail-crossing" transform="translate(440 200)" />
+      <use xlink:href="#rail-crossing" transform="translate(440 440)" />
+      <use xlink:href="#rail-crossing" transform="translate(440 840)" />
+      <use xlink:href="#rail-crossing" transform="translate(440 1080)" />
+      <use xlink:href="#rail-crossing" transform="translate(840 200)" />
+      <use xlink:href="#rail-crossing" transform="translate(840 440)" />
+      <use xlink:href="#rail-crossing" transform="translate(840 840)" />
+      <use xlink:href="#rail-crossing" transform="translate(840 1080)" />
+      <use xlink:href="#rail-crossing" transform="translate(1080 200)" />
+      <use xlink:href="#rail-crossing" transform="translate(1080 440)" />
+      <use xlink:href="#rail-crossing" transform="translate(1080 840)" />
+      <use xlink:href="#rail-crossing" transform="translate(1080 1080)" />
+    </g>
+    <g id="rail-crossing">
+      <g transform="rotate(0)">
+        <path d="M -8 -13 V 13" stroke="#594F4A" stroke-width="4" />
+        <path d="M 8 -13 V 13" stroke="#594F4A" stroke-width="4" />
+      </g>
+      <g transform="rotate(90)">
+        <path d="M -8 -13 V 13" stroke="#594F4A" stroke-width="4" />
+        <path d="M 8 -13 V 13" stroke="#594F4A" stroke-width="4" />
+      </g>
+      <g transform="rotate(0)">
+        <path d="M -12 -14 V 14" stroke="#A88969" stroke-width="4" />
+        <path d="M 12 -14 V 14" stroke="#A88969" stroke-width="4" />
+      </g>
+      <g transform="rotate(90)">
+        <path d="M -12 -14 V 14" stroke="#A88969" stroke-width="4" />
+        <path d="M 12 -14 V 14" stroke="#A88969" stroke-width="4" />
+      </g>
+    </g>
+    <g id="gold-ring" fill="none">
+      <circle cx="0" cy="0" r="152" stroke="#CFB57D" stroke-width="22.4" />
+      <circle cx="0" cy="0" r="152" stroke="#594F4A" stroke-width="14.2" />
+    </g>
+    <clipPath id="ring-overpasses" clipPathUnits="userSpaceOnUse">
+      <rect x="15" y="111" width="66" height="66" transform="rotate(0 320 320)" />
+      <rect x="15" y="111" width="66" height="66" transform="rotate(90 320 320)" />
+      <rect x="15" y="111" width="66" height="66" transform="rotate(180 320 320)" />
+      <rect x="15" y="111" width="66" height="66" transform="rotate(270 320 320)" />
+    </clipPath>
+    <g id="woven-cell">
+      <use xlink:href="#quatrefoil" />
+      <g clip-path="url(#ring-overpasses)">
+        <use xlink:href="#gold-ring" transform="translate(0 0)" />
+        <use xlink:href="#gold-ring" transform="translate(640 0)" />
+        <use xlink:href="#gold-ring" transform="translate(640 640)" />
+        <use xlink:href="#gold-ring" transform="translate(0 640)" />
+      </g>
+    </g>
+  </defs>
+  <rect width="640" height="640" fill="#594F4A" />
+  <g transform="translate(-71 -77)">
+    <use xlink:href="#lattice" />
+    <use xlink:href="#gold-ring" transform="translate(0 0)" />
+    <use xlink:href="#gold-ring" transform="translate(0 640)" />
+    <use xlink:href="#gold-ring" transform="translate(0 1280)" />
+    <use xlink:href="#gold-ring" transform="translate(640 0)" />
+    <use xlink:href="#gold-ring" transform="translate(640 640)" />
+    <use xlink:href="#gold-ring" transform="translate(640 1280)" />
+    <use xlink:href="#gold-ring" transform="translate(1280 0)" />
+    <use xlink:href="#gold-ring" transform="translate(1280 640)" />
+    <use xlink:href="#gold-ring" transform="translate(1280 1280)" />
+    <use xlink:href="#woven-cell" transform="translate(0 0)" />
+    <use xlink:href="#woven-cell" transform="translate(0 640)" />
+    <use xlink:href="#woven-cell" transform="translate(640 0)" />
+    <use xlink:href="#woven-cell" transform="translate(640 640)" />
+  </g>
+</svg>

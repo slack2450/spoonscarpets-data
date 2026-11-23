@@ -1,0 +1,87 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" width="640" height="640" viewBox="0 0 640 640">
+  <title>The Moon Under Water, Wigan — palmette wreaths and eight-point rosettes</title>
+  <desc>A square repeat of antique-gold palmettes alternating with pearl-coloured roundels on a blue ground. An eight-point flower occupies the wreath and the space between neighbouring wreaths.</desc>
+  <defs>
+    <g id="pearl-petal">
+      <path d="M -3,-10 C -7,-13 -10,-18 -9,-23 C -8,-28 -4,-30 0,-32 C 5,-30 9,-27 9,-22 C 9,-17 6,-13 3,-10 Q 0,-12 -3,-10 Z" fill="#B59D95" />
+      <path d="M -6,-23 Q -7,-27 -2,-28 L 0,-30 Q 5,-28 6,-24 Q 7,-20 4,-18 Q 0,-15 -3,-18 Q -6,-19 -6,-23 Z" fill="#DED3C4" />
+    </g>
+    <g id="small-seed">
+      <path d="M 0,-13 C -5,-17 -6,-22 -4,-25 Q -2,-28 0,-29 Q 4,-26 5,-22 Q 5,-18 0,-13 Z" fill="#B59D95" />
+      <path d="M -2,-22 Q -2,-25 0,-26 Q 3,-24 3,-21 L 1,-18 Z" fill="#D1B98F" />
+    </g>
+    <g id="pearl-roundel">
+      <circle cx="0" cy="0" r="40.5" fill="#765644" />
+      <circle cx="0" cy="0" r="38.7" fill="#B59D95" />
+      <circle cx="0" cy="0" r="34.5" fill="#304052" />
+      <circle stroke-width="1.65" cx="0" cy="0" r="36.85" fill="none" stroke="#DED3C4" />
+      <use xlink:href="#pearl-petal" transform="rotate(0)" />
+      <use xlink:href="#small-seed" transform="rotate(45)" />
+      <use xlink:href="#pearl-petal" transform="rotate(90)" />
+      <use xlink:href="#small-seed" transform="rotate(135)" />
+      <use xlink:href="#pearl-petal" transform="rotate(180)" />
+      <use xlink:href="#small-seed" transform="rotate(225)" />
+      <use xlink:href="#pearl-petal" transform="rotate(270)" />
+      <use xlink:href="#small-seed" transform="rotate(315)" />
+      <path d="M -10,-2 Q -10,-7 -5,-9 L 0,-11 L 5,-9 Q 10,-7 10,-2 L 11,2 Q 9,6 5,8 L 1,11 L -4,9 Q -8,9 -10,4 Z" fill="#B59D95" />
+      <path d="M -6,-4 L -2,-7 L 2,-6 Q 7,-6 7,-2 L 7,2 Q 5,6 1,7 Q -5,6 -7,1 Z" fill="#DED3C4" />
+    </g>
+    <g id="corolla-petal">
+      <path d="M -17,-37 Q -24,-46 -27,-57 Q -22,-57 -23,-67 L -25,-77 Q -17,-76 -13,-72 Q -11,-81 -10,-85 L -5,-82 Q -3,-90 0,-95 Q 5,-90 8,-81 L 12,-85 Q 14,-79 14,-74 Q 19,-77 23,-77 L 22,-66 Q 24,-61 27,-60 Q 24,-49 17,-38 Q 8,-41 0,-39 Q -8,-41 -17,-37 Z" fill="#D1B98F" />
+      <path d="M -16,-38 Q -23,-46 -24,-56 Q -19,-54 -18,-51 Q -21,-61 -19,-68 Q -14,-67 -10,-61 Q -11,-73 -8,-78 Q -3,-74 -2,-65 L 1,-84 Q 8,-78 7,-65 Q 11,-71 12,-72 Q 15,-67 12,-60 Q 17,-67 20,-65 Q 20,-59 17,-53 L 23,-55 Q 22,-45 14,-38 Z" fill="#B28E60" />
+      <path d="M -16,-39 L -20,-48 Q -17,-48 -14,-44 Q -16,-53 -15,-57 Q -8,-54 -5,-49 Q -5,-57 -2,-63 Q 3,-61 6,-52 L 10,-59 Q 13,-55 10,-48 Q 14,-51 18,-51 Q 17,-43 12,-39 Z" fill="#765644" />
+      <path d="M -6,-81 Q -3,-82 0,-91 Q 5,-84 5,-77 L 1,-78 L 0,-72 Q -1,-78 -6,-81 Z" fill="#DED3C4" />
+    </g>
+    <g id="eight-point-rosette">
+      <circle cx="0" cy="0" r="55" fill="#765644" />
+      <use xlink:href="#corolla-petal" transform="rotate(0)" />
+      <use xlink:href="#corolla-petal" transform="rotate(45)" />
+      <use xlink:href="#corolla-petal" transform="rotate(90)" />
+      <use xlink:href="#corolla-petal" transform="rotate(135)" />
+      <use xlink:href="#corolla-petal" transform="rotate(180)" />
+      <use xlink:href="#corolla-petal" transform="rotate(225)" />
+      <use xlink:href="#corolla-petal" transform="rotate(270)" />
+      <use xlink:href="#corolla-petal" transform="rotate(315)" />
+      <use xlink:href="#pearl-roundel" transform="scale(1)" />
+    </g>
+    <g id="wreath-palmette">
+      <path d="M 0,-108 Q -3,-114 -7,-116 L -5,-121 Q -10,-126 -8,-129 L -4,-132 L -8,-141 Q -19,-145 -22,-152 L -17,-151 Q -31,-158 -34,-170 Q -27,-167 -23,-169 Q -35,-180 -37,-197 Q -39,-211 -49,-217 Q -37,-219 -29,-213 Q -37,-226 -45,-228 Q -32,-233 -20,-224 Q -25,-235 -33,-239 Q -22,-242 -14,-235 L -17,-246 Q -9,-246 -5,-240 Q -3,-250 2,-255 Q 7,-250 9,-243 L 14,-248 Q 17,-244 16,-237 Q 23,-243 30,-241 Q 22,-232 21,-225 Q 32,-236 43,-230 Q 33,-225 29,-215 Q 42,-222 52,-218 Q 39,-211 37,-200 Q 35,-177 24,-167 L 33,-171 Q 29,-158 17,-152 L 22,-152 Q 18,-144 8,-141 L 5,-132 L 9,-128 L 6,-122 L 7,-117 Q 4,-114 0,-108 Z" fill="#B28E60" />
+      <path d="M -4,-139 Q -13,-148 -15,-161 Q -17,-170 -27,-184 Q -33,-193 -33,-204 Q -37,-213 -44,-216 Q -32,-217 -24,-206 Q -17,-196 -15,-187 Q -12,-176 -7,-171 Q -11,-184 -12,-196 Q -15,-213 -27,-227 Q -13,-224 -6,-211 Q -7,-225 -16,-239 Q -7,-236 -2,-227 Q -3,-239 2,-250 Q 6,-241 6,-233 L 11,-240 Q 13,-232 9,-219 Q 17,-231 23,-233 Q 18,-221 15,-207 Q 11,-187 4,-174 Q 10,-176 15,-187 Q 21,-204 30,-210 Q 35,-215 42,-216 Q 34,-207 33,-197 Q 32,-184 24,-177 Q 18,-170 12,-168 Q 16,-166 22,-169 Q 18,-157 9,-153 Q 6,-150 5,-144 Z" fill="#D1B98F" />
+      <path d="M -5,-144 Q -16,-148 -19,-156 Q -12,-153 -10,-155 Q -20,-162 -22,-174 Q -18,-173 -15,-169 Q -18,-180 -23,-189 Q -16,-186 -11,-175 Q -5,-164 -5,-154 Z" fill="#765644" />
+      <path d="M 3,-151 Q 7,-160 10,-170 Q 10,-177 16,-187 Q 14,-178 14,-173 Q 20,-182 23,-188 Q 22,-178 15,-168 Q 10,-162 9,-158 L 15,-161 Q 14,-155 3,-151 Z" fill="#B28E60" />
+      <path d="M -2,-169 Q -8,-183 -9,-193 Q -9,-207 -16,-216 Q -7,-210 -5,-195 Q -4,-186 -1,-182 Q 3,-197 4,-204 Q 9,-216 13,-220 Q 7,-204 7,-196 Q 5,-182 -2,-169 Z" fill="#B28E60" />
+      <path d="M -22,-216 Q -26,-222 -35,-227 Q -25,-227 -18,-219 Q -13,-213 -12,-207 Z" fill="#D1B98F" />
+      <path d="M 21,-216 Q 27,-228 36,-230 Q 29,-225 23,-215 Z" fill="#D1B98F" />
+      <path d="M -7,-136 L -4,-141 Q 0,-143 6,-140 L 8,-136 L 4,-134 L -3,-134 Z" fill="#D1B98F" />
+      <path d="M 0,-110 L -4,-117 L -2,-121 L 1,-123 L 5,-118 Z" fill="#D1B98F" />
+    </g>
+    <g id="palmette-wreath">
+      <circle stroke-width="3.1" cx="0" cy="0" r="139.5" fill="none" stroke="#B28E60" />
+      <circle stroke-width="1.25" cx="0" cy="0" r="139.3" fill="none" stroke="#D1B98F" />
+      <use xlink:href="#wreath-palmette" transform="rotate(0)" />
+      <use xlink:href="#pearl-roundel" transform="translate(71.562 -172.765)" />
+      <use xlink:href="#wreath-palmette" transform="rotate(45)" />
+      <use xlink:href="#pearl-roundel" transform="translate(172.765 -71.562)" />
+      <use xlink:href="#wreath-palmette" transform="rotate(90)" />
+      <use xlink:href="#pearl-roundel" transform="translate(172.765 71.562)" />
+      <use xlink:href="#wreath-palmette" transform="rotate(135)" />
+      <use xlink:href="#pearl-roundel" transform="translate(71.562 172.765)" />
+      <use xlink:href="#wreath-palmette" transform="rotate(180)" />
+      <use xlink:href="#pearl-roundel" transform="translate(-71.562 172.765)" />
+      <use xlink:href="#wreath-palmette" transform="rotate(225)" />
+      <use xlink:href="#pearl-roundel" transform="translate(-172.765 71.562)" />
+      <use xlink:href="#wreath-palmette" transform="rotate(270)" />
+      <use xlink:href="#pearl-roundel" transform="translate(-172.765 -71.562)" />
+      <use xlink:href="#wreath-palmette" transform="rotate(315)" />
+      <use xlink:href="#pearl-roundel" transform="translate(-71.562 -172.765)" />
+      <use xlink:href="#eight-point-rosette" transform="scale(1)" />
+    </g>
+  </defs>
+  <rect width="640" height="640" fill="#304052" />
+  <use xlink:href="#palmette-wreath" transform="translate(320 320)" />
+  <use xlink:href="#eight-point-rosette" transform="translate(0 0)" />
+  <use xlink:href="#eight-point-rosette" transform="translate(0 640)" />
+  <use xlink:href="#eight-point-rosette" transform="translate(640 0)" />
+  <use xlink:href="#eight-point-rosette" transform="translate(640 640)" />
+</svg>

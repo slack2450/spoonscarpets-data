@@ -1,0 +1,364 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="600" height="600" viewBox="0 0 600 600">
+  <title>The Crystal Palace, Glasgow — palmette and scroll carpet</title>
+  <defs>
+    <g id="border-tooth">
+      <path d="M -6,0 -2,-5.5 2,-5.5 4,-1.2 5.3,2.8 1.8,5.5 -1,3.4 Z" fill="#261317" />
+      <path d="M 2.8,-5.5 5.8,-5.5 7.2,-2.2 5.9,1.4 Z" fill="#e5cdbd" />
+    </g>
+    <g id="scroll">
+      <path d="M 76,70 C 84,77 89,88 88,99 C 87,110 83,117 84,131 C 85,144 78,155 65,157 C 49,161 36,154 34,141 C 31,128 37,117 47,113 C 57,109 69,111 74,120 C 79,129 75,137 68,140 C 61,144 52,140 50,134 C 48,130 50,125 54,124 C 53,130 56,134 61,134 C 68,134 70,128 66,123 C 61,117 50,119 45,127 C 39,138 47,148 58,149 C 70,151 77,144 79,134 C 81,123 83,115 84,106 C 85,94 83,87 78,83 C 75,87 70,87 67,82 C 64,77 63,71 63,67 C 69,72 72,71 76,70 Z" fill="#c48b4e" />
+      <path d="M 63,67 Q 74,70 78,76 L 80,83 Q 76,80 74,83 Q 67,83 63,67 Z M 35,137 C 35,124 44,115 55,115 C 65,114 71,121 71,127 C 68,120 59,117 53,120 C 43,124 41,130 42,140 C 44,150 55,154 65,153 C 51,159 37,151 35,137 Z" fill="#e4b880" />
+      <path d="M 82,132 C 85,140 91,145 100,144 C 110,143 115,135 113,126 C 112,118 106,114 99,114 C 91,113 87,117 87,123 C 87,129 92,133 98,133 C 102,133 105,129 104,125 C 101,128 97,128 95,125 C 92,120 97,118 101,119 C 108,121 110,128 106,134 C 101,140 92,139 87,135 L 84,126 Z" fill="#c48b4e" />
+      <path d="M 84,136 C 83,149 88,160 97,163 C 110,160 119,168 119,179 C 122,192 116,206 107,211 C 97,217 82,215 75,208 C 68,201 70,189 78,185 C 85,180 93,184 94,191 C 90,188 84,189 82,194 C 80,199 84,204 91,205 C 100,207 107,202 108,195 C 111,186 105,181 99,184 C 96,176 89,167 86,159 C 82,151 80,144 81,139 Z" fill="#c48b4e" />
+      <path d="M 88,153 C 95,163 100,162 106,165 C 115,168 118,175 117,180 C 113,176 108,175 103,180 C 100,171 92,168 88,153 Z M 74,204 C 81,211 92,210 99,207 C 105,205 111,201 113,196 C 112,210 91,219 79,212 Z" fill="#e4b880" />
+      <path d="M 93,185 Q 102,183 104,194 Q 102,200 95,201 Q 100,191 93,185 Z" fill="#9c5f41" />
+      <path d="M 88,114 Q 89,103 94,98 Q 99,99 100,108 L 97,116 Z" fill="#e4b880" />
+    </g>
+    <g id="angle-scrolls">
+      <use xlink:href="#scroll" />
+      <use xlink:href="#scroll" transform="matrix(0 0.96 1 0 3 0)" />
+    </g>
+    <g id="little-petal">
+      <path d="M -2.4,-3.4 C -3,-5 -6.3,-6.4 -5.1,-9.5 C -5.6,-11.8 -3.7,-13.2 -1.7,-12.7 C -.5,-14 1.4,-14 2.3,-12.6 C 4.8,-12.8 6.1,-10.6 5,-8.9 C 5,-6 2.7,-5.3 2.2,-3.5 L 0,-2.4 Z" fill="#e4b880" />
+      <path d="M -2.4,-5.2 Q -2.2,-9.3 0,-10.5 Q 2.5,-9.2 2.6,-5.1 L 0,-3.5 Z" fill="#c48b4e" />
+    </g>
+    <g id="floret">
+      <use xlink:href="#little-petal" transform="rotate(22.5)" />
+      <use xlink:href="#little-petal" transform="rotate(67.5)" />
+      <use xlink:href="#little-petal" transform="rotate(112.5)" />
+      <use xlink:href="#little-petal" transform="rotate(157.5)" />
+      <use xlink:href="#little-petal" transform="rotate(202.5)" />
+      <use xlink:href="#little-petal" transform="rotate(247.5)" />
+      <use xlink:href="#little-petal" transform="rotate(292.5)" />
+      <use xlink:href="#little-petal" transform="rotate(337.5)" />
+      <circle cx="0" cy="0" r="4.7" fill="#9c5f41" />
+      <circle cx="0" cy="0" r="2.65" fill="#e4b880" />
+    </g>
+    <g id="four-leaf">
+      <path d="M 0,-9 C 1.4,-6.6 4.5,-5.4 4.6,-2.7 Q 7.3,-3.1 10.1,0 Q 7,4.2 3.5,3 Q 3.7,6 0,9 C -2.8,7 -4.4,5 -3.7,2.8 Q -7.2,3.1 -10.1,0 Q -7.7,-3.5 -4.5,-2.9 Q -4.8,-5.6 0,-9 Z" fill="#e4b880" />
+      <path d="M 0,-5.6 4,0 0,5.4 -4,0 Z" fill="#c48b4e" />
+    </g>
+    <g id="kernel">
+      <path d="M 0,-5.8 Q 1.5,-3 4.6,-1.7 Q 4.1,2.6 0,5.4 Q -3.7,2.3 -4.5,-1.6 Q -2.1,-3 0,-5.8 Z" fill="#e5cdbd" />
+    </g>
+    <g id="inset">
+      <rect x="-43.0" y="-69.5" width="86" height="139" fill="#261317" />
+      <rect x="-40.0" y="-66.5" width="80" height="133" fill="#e5cdbd" />
+      <rect x="-37.0" y="-63.5" width="74" height="127" fill="#9c5f41" />
+      <rect x="-33.5" y="-60.0" width="67" height="120" fill="#e4b880" />
+      <rect x="-29.0" y="-55.5" width="58" height="111" fill="#c48b4e" />
+      <rect x="-25.5" y="-50.0" width="51" height="100" fill="#9c5f41" />
+      <rect x="-22.0" y="-46.0" width="44" height="92" fill="#261317" />
+      <use xlink:href="#four-leaf" transform="scale(1.22)" />
+      <use xlink:href="#kernel" transform="translate(0 -25) scale(.76 1)" />
+      <use xlink:href="#kernel" transform="translate(0 25) rotate(180) scale(.76 1)" />
+    </g>
+    <g id="cartouche">
+      <rect x="-56.0" y="-124.0" width="112" height="248" fill="#261317" />
+      <rect x="-54.0" y="-122.0" width="108" height="244" fill="#9c5f41" />
+      <rect x="-52.0" y="-120.0" width="104" height="240" fill="#e5cdbd" />
+      <rect x="-50.5" y="-118.5" width="101" height="237" fill="#682e33" />
+      <g transform="rotate(0) translate(0 -115)">
+        <path d="M -50,0 H 50" fill="none" stroke="#9c5f41" stroke-width="9" />
+        <use xlink:href="#border-tooth" transform="translate(-42.44 0) scale(0.933 1)" />
+        <use xlink:href="#border-tooth" transform="translate(-30.31 0) scale(0.933 1)" />
+        <use xlink:href="#border-tooth" transform="translate(-18.19 0) scale(0.933 1)" />
+        <use xlink:href="#border-tooth" transform="translate(-6.06 0) scale(0.933 1)" />
+        <use xlink:href="#border-tooth" transform="translate(6.06 0) scale(0.933 1)" />
+        <use xlink:href="#border-tooth" transform="translate(18.19 0) scale(0.933 1)" />
+        <use xlink:href="#border-tooth" transform="translate(30.31 0) scale(0.933 1)" />
+        <use xlink:href="#border-tooth" transform="translate(42.44 0) scale(0.933 1)" />
+      </g>
+      <g transform="rotate(90) translate(0 -47)">
+        <path d="M -118,0 H 118" fill="none" stroke="#9c5f41" stroke-width="9" />
+        <use xlink:href="#border-tooth" transform="translate(-110.03 0) scale(0.996 1)" />
+        <use xlink:href="#border-tooth" transform="translate(-97.08 0) scale(0.996 1)" />
+        <use xlink:href="#border-tooth" transform="translate(-84.14 0) scale(0.996 1)" />
+        <use xlink:href="#border-tooth" transform="translate(-71.19 0) scale(0.996 1)" />
+        <use xlink:href="#border-tooth" transform="translate(-58.25 0) scale(0.996 1)" />
+        <use xlink:href="#border-tooth" transform="translate(-45.31 0) scale(0.996 1)" />
+        <use xlink:href="#border-tooth" transform="translate(-32.36 0) scale(0.996 1)" />
+        <use xlink:href="#border-tooth" transform="translate(-19.42 0) scale(0.996 1)" />
+        <use xlink:href="#border-tooth" transform="translate(-6.47 0) scale(0.996 1)" />
+        <use xlink:href="#border-tooth" transform="translate(6.47 0) scale(0.996 1)" />
+        <use xlink:href="#border-tooth" transform="translate(19.42 0) scale(0.996 1)" />
+        <use xlink:href="#border-tooth" transform="translate(32.36 0) scale(0.996 1)" />
+        <use xlink:href="#border-tooth" transform="translate(45.31 0) scale(0.996 1)" />
+        <use xlink:href="#border-tooth" transform="translate(58.25 0) scale(0.996 1)" />
+        <use xlink:href="#border-tooth" transform="translate(71.19 0) scale(0.996 1)" />
+        <use xlink:href="#border-tooth" transform="translate(84.14 0) scale(0.996 1)" />
+        <use xlink:href="#border-tooth" transform="translate(97.08 0) scale(0.996 1)" />
+        <use xlink:href="#border-tooth" transform="translate(110.03 0) scale(0.996 1)" />
+      </g>
+      <g transform="rotate(180) translate(0 -115)">
+        <path d="M -50,0 H 50" fill="none" stroke="#9c5f41" stroke-width="9" />
+        <use xlink:href="#border-tooth" transform="translate(-42.44 0) scale(0.933 1)" />
+        <use xlink:href="#border-tooth" transform="translate(-30.31 0) scale(0.933 1)" />
+        <use xlink:href="#border-tooth" transform="translate(-18.19 0) scale(0.933 1)" />
+        <use xlink:href="#border-tooth" transform="translate(-6.06 0) scale(0.933 1)" />
+        <use xlink:href="#border-tooth" transform="translate(6.06 0) scale(0.933 1)" />
+        <use xlink:href="#border-tooth" transform="translate(18.19 0) scale(0.933 1)" />
+        <use xlink:href="#border-tooth" transform="translate(30.31 0) scale(0.933 1)" />
+        <use xlink:href="#border-tooth" transform="translate(42.44 0) scale(0.933 1)" />
+      </g>
+      <g transform="rotate(270) translate(0 -47)">
+        <path d="M -118,0 H 118" fill="none" stroke="#9c5f41" stroke-width="9" />
+        <use xlink:href="#border-tooth" transform="translate(-110.03 0) scale(0.996 1)" />
+        <use xlink:href="#border-tooth" transform="translate(-97.08 0) scale(0.996 1)" />
+        <use xlink:href="#border-tooth" transform="translate(-84.14 0) scale(0.996 1)" />
+        <use xlink:href="#border-tooth" transform="translate(-71.19 0) scale(0.996 1)" />
+        <use xlink:href="#border-tooth" transform="translate(-58.25 0) scale(0.996 1)" />
+        <use xlink:href="#border-tooth" transform="translate(-45.31 0) scale(0.996 1)" />
+        <use xlink:href="#border-tooth" transform="translate(-32.36 0) scale(0.996 1)" />
+        <use xlink:href="#border-tooth" transform="translate(-19.42 0) scale(0.996 1)" />
+        <use xlink:href="#border-tooth" transform="translate(-6.47 0) scale(0.996 1)" />
+        <use xlink:href="#border-tooth" transform="translate(6.47 0) scale(0.996 1)" />
+        <use xlink:href="#border-tooth" transform="translate(19.42 0) scale(0.996 1)" />
+        <use xlink:href="#border-tooth" transform="translate(32.36 0) scale(0.996 1)" />
+        <use xlink:href="#border-tooth" transform="translate(45.31 0) scale(0.996 1)" />
+        <use xlink:href="#border-tooth" transform="translate(58.25 0) scale(0.996 1)" />
+        <use xlink:href="#border-tooth" transform="translate(71.19 0) scale(0.996 1)" />
+        <use xlink:href="#border-tooth" transform="translate(84.14 0) scale(0.996 1)" />
+        <use xlink:href="#border-tooth" transform="translate(97.08 0) scale(0.996 1)" />
+        <use xlink:href="#border-tooth" transform="translate(110.03 0) scale(0.996 1)" />
+      </g>
+      <rect x="-42.0" y="-110.0" width="84" height="220" fill="#261317" />
+      <rect x="-40.0" y="-108.0" width="80" height="216" fill="#e5cdbd" />
+      <rect x="-37.4" y="-105.4" width="74.8" height="210.8" fill="#261317" />
+      <use xlink:href="#floret" transform="scale(2.31)" />
+      <use xlink:href="#four-leaf" transform="translate(0 -65) scale(1.55)" />
+      <use xlink:href="#kernel" transform="translate(0 -92) scale(.87 1.02)" />
+      <use xlink:href="#kernel" transform="translate(0 -42) scale(.84 .9)" />
+      <use xlink:href="#four-leaf" transform="translate(0 65) scale(1.55)" />
+      <use xlink:href="#kernel" transform="translate(0 92) scale(.87 1.02)" />
+      <use xlink:href="#kernel" transform="translate(0 42) scale(.84 .9)" />
+    </g>
+    <g id="panel-line">
+      <use xlink:href="#inset" transform="translate(-99 0)" />
+      <use xlink:href="#inset" transform="translate(99 0)" />
+      <use xlink:href="#cartouche" />
+    </g>
+    <g id="corner-buds">
+      <path d="M -138,-138 Q -132,-134 -124,-133 L -122,-129 -127,-123 -132,-124 Z" fill="#e4b880" />
+      <path d="M -132,-132 -124,-132 -125,-127 Z" fill="#e5cdbd" />
+      <path d="M -119,-124 -114,-118 -119,-112 -125,-118 Z M -108,-113 -103,-108 -108,-103 -113,-108 Z" fill="#e5cdbd" />
+      <path d="M -108,-105 Q -98,-96 -90,-89" fill="none" stroke="#9c5f41" stroke-width="3.2" />
+    </g>
+    <g id="palmette">
+      <path d="M -6,-46 C -9,-58 -14,-66 -22,-71 C -28,-74 -32,-74 -36,-74 C -34,-82 -29,-87 -24,-88 C -29,-91 -30,-97 -29,-101 C -24,-100 -20,-100 -17,-104 C -18,-109 -16,-114 -13,-117 C -8,-116 -5,-119 -3,-123 L 0,-126 4,-120 C 7,-117 10,-116 14,-118 C 17,-114 18,-108 17,-104 C 21,-101 25,-100 30,-101 C 31,-96 28,-91 24,-88 C 31,-85 34,-80 36,-74 C 31,-73 26,-75 21,-72 C 12,-67 7,-56 6,-46 Z" fill="#c48b4e" />
+      <path d="M -6,-47 C -7,-62 -12,-72 -23,-79 C -27,-81 -31,-80 -34,-77 C -33,-83 -28,-87 -23,-88 C -18,-87 -13,-84 -10,-81 C -16,-91 -21,-94 -27,-95 L -29,-101 C -21,-99 -18,-101 -16,-105 C -17,-111 -15,-116 -13,-117 C -8,-115 -4,-120 0,-126 C 0,-120 -1,-116 -3,-111 C -8,-106 -9,-99 -7,-89 C -4,-103 2,-106 3,-116 C 8,-114 11,-114 14,-118 C 17,-112 17,-106 15,-102 C 19,-99 24,-98 29,-101 C 29,-96 26,-93 22,-91 C 15,-90 10,-84 7,-76 C 16,-85 22,-87 27,-84 C 22,-84 17,-80 15,-76 C 10,-69 6,-60 5,-49 Z" fill="#e4b880" />
+      <path d="M -3,-48 C -1,-58 -1,-72 -4,-80 C -8,-88 -9,-94 -8,-99 C -5,-91 -1,-88 1,-82 C 2,-88 5,-93 10,-97 C 5,-88 4,-79 4,-71 C 4,-59 2,-52 2,-48 Z" fill="#c48b4e" />
+      <path d="M -30,-75 Q -25,-80 -19,-77 Q -11,-72 -8,-63 Q -16,-72 -22,-73 Z M 12,-69 Q 17,-79 26,-81 Q 32,-79 34,-74 Q 27,-76 22,-73 Z" fill="#9c5f41" />
+    </g>
+    <g id="flower-back">
+      <path d="M -16,-39 Q -13,-49 -7,-56 Q -2,-61 0,-65 Q 4,-59 10,-54 Q 17,-46 18,-39 Q 8,-44 0,-50 Q -7,-44 -16,-39 Z" fill="#9c5f41" />
+      <path d="M -11,-41 Q -5,-52 0,-56 Q 6,-52 12,-42 L 0,-47 Z" fill="#e4b880" />
+    </g>
+    <g id="laurel-leaf">
+      <path d="M -1,-44 Q -13,-44 -16,-53 Q -7,-56 0,-49 L 3,-46 Z" fill="#e4b880" />
+      <path d="M 3,-44 Q 3,-52 11,-56 Q 13,-48 6,-44 Z" fill="#c48b4e" />
+    </g>
+    <g id="centre-square">
+      <rect x="-162.0" y="-162.0" width="324" height="324" fill="#261317" />
+      <rect x="-160.0" y="-160.0" width="320" height="320" fill="#9c5f41" />
+      <rect x="-158.0" y="-158.0" width="316" height="316" fill="#e5cdbd" />
+      <rect x="-156.5" y="-156.5" width="313" height="313" fill="#682e33" />
+      <g transform="rotate(0) translate(0 -153)">
+        <path d="M -156,0 H 156" fill="none" stroke="#9c5f41" stroke-width="9" />
+        <use xlink:href="#border-tooth" transform="translate(-148.06 0) scale(0.990 1)" />
+        <use xlink:href="#border-tooth" transform="translate(-135.19 0) scale(0.990 1)" />
+        <use xlink:href="#border-tooth" transform="translate(-122.31 0) scale(0.990 1)" />
+        <use xlink:href="#border-tooth" transform="translate(-109.44 0) scale(0.990 1)" />
+        <use xlink:href="#border-tooth" transform="translate(-96.56 0) scale(0.990 1)" />
+        <use xlink:href="#border-tooth" transform="translate(-83.69 0) scale(0.990 1)" />
+        <use xlink:href="#border-tooth" transform="translate(-70.81 0) scale(0.990 1)" />
+        <use xlink:href="#border-tooth" transform="translate(-57.94 0) scale(0.990 1)" />
+        <use xlink:href="#border-tooth" transform="translate(-45.06 0) scale(0.990 1)" />
+        <use xlink:href="#border-tooth" transform="translate(-32.19 0) scale(0.990 1)" />
+        <use xlink:href="#border-tooth" transform="translate(-19.31 0) scale(0.990 1)" />
+        <use xlink:href="#border-tooth" transform="translate(-6.44 0) scale(0.990 1)" />
+        <use xlink:href="#border-tooth" transform="translate(6.44 0) scale(0.990 1)" />
+        <use xlink:href="#border-tooth" transform="translate(19.31 0) scale(0.990 1)" />
+        <use xlink:href="#border-tooth" transform="translate(32.19 0) scale(0.990 1)" />
+        <use xlink:href="#border-tooth" transform="translate(45.06 0) scale(0.990 1)" />
+        <use xlink:href="#border-tooth" transform="translate(57.94 0) scale(0.990 1)" />
+        <use xlink:href="#border-tooth" transform="translate(70.81 0) scale(0.990 1)" />
+        <use xlink:href="#border-tooth" transform="translate(83.69 0) scale(0.990 1)" />
+        <use xlink:href="#border-tooth" transform="translate(96.56 0) scale(0.990 1)" />
+        <use xlink:href="#border-tooth" transform="translate(109.44 0) scale(0.990 1)" />
+        <use xlink:href="#border-tooth" transform="translate(122.31 0) scale(0.990 1)" />
+        <use xlink:href="#border-tooth" transform="translate(135.19 0) scale(0.990 1)" />
+        <use xlink:href="#border-tooth" transform="translate(148.06 0) scale(0.990 1)" />
+      </g>
+      <g transform="rotate(90) translate(0 -153)">
+        <path d="M -156,0 H 156" fill="none" stroke="#9c5f41" stroke-width="9" />
+        <use xlink:href="#border-tooth" transform="translate(-148.06 0) scale(0.990 1)" />
+        <use xlink:href="#border-tooth" transform="translate(-135.19 0) scale(0.990 1)" />
+        <use xlink:href="#border-tooth" transform="translate(-122.31 0) scale(0.990 1)" />
+        <use xlink:href="#border-tooth" transform="translate(-109.44 0) scale(0.990 1)" />
+        <use xlink:href="#border-tooth" transform="translate(-96.56 0) scale(0.990 1)" />
+        <use xlink:href="#border-tooth" transform="translate(-83.69 0) scale(0.990 1)" />
+        <use xlink:href="#border-tooth" transform="translate(-70.81 0) scale(0.990 1)" />
+        <use xlink:href="#border-tooth" transform="translate(-57.94 0) scale(0.990 1)" />
+        <use xlink:href="#border-tooth" transform="translate(-45.06 0) scale(0.990 1)" />
+        <use xlink:href="#border-tooth" transform="translate(-32.19 0) scale(0.990 1)" />
+        <use xlink:href="#border-tooth" transform="translate(-19.31 0) scale(0.990 1)" />
+        <use xlink:href="#border-tooth" transform="translate(-6.44 0) scale(0.990 1)" />
+        <use xlink:href="#border-tooth" transform="translate(6.44 0) scale(0.990 1)" />
+        <use xlink:href="#border-tooth" transform="translate(19.31 0) scale(0.990 1)" />
+        <use xlink:href="#border-tooth" transform="translate(32.19 0) scale(0.990 1)" />
+        <use xlink:href="#border-tooth" transform="translate(45.06 0) scale(0.990 1)" />
+        <use xlink:href="#border-tooth" transform="translate(57.94 0) scale(0.990 1)" />
+        <use xlink:href="#border-tooth" transform="translate(70.81 0) scale(0.990 1)" />
+        <use xlink:href="#border-tooth" transform="translate(83.69 0) scale(0.990 1)" />
+        <use xlink:href="#border-tooth" transform="translate(96.56 0) scale(0.990 1)" />
+        <use xlink:href="#border-tooth" transform="translate(109.44 0) scale(0.990 1)" />
+        <use xlink:href="#border-tooth" transform="translate(122.31 0) scale(0.990 1)" />
+        <use xlink:href="#border-tooth" transform="translate(135.19 0) scale(0.990 1)" />
+        <use xlink:href="#border-tooth" transform="translate(148.06 0) scale(0.990 1)" />
+      </g>
+      <g transform="rotate(180) translate(0 -153)">
+        <path d="M -156,0 H 156" fill="none" stroke="#9c5f41" stroke-width="9" />
+        <use xlink:href="#border-tooth" transform="translate(-148.06 0) scale(0.990 1)" />
+        <use xlink:href="#border-tooth" transform="translate(-135.19 0) scale(0.990 1)" />
+        <use xlink:href="#border-tooth" transform="translate(-122.31 0) scale(0.990 1)" />
+        <use xlink:href="#border-tooth" transform="translate(-109.44 0) scale(0.990 1)" />
+        <use xlink:href="#border-tooth" transform="translate(-96.56 0) scale(0.990 1)" />
+        <use xlink:href="#border-tooth" transform="translate(-83.69 0) scale(0.990 1)" />
+        <use xlink:href="#border-tooth" transform="translate(-70.81 0) scale(0.990 1)" />
+        <use xlink:href="#border-tooth" transform="translate(-57.94 0) scale(0.990 1)" />
+        <use xlink:href="#border-tooth" transform="translate(-45.06 0) scale(0.990 1)" />
+        <use xlink:href="#border-tooth" transform="translate(-32.19 0) scale(0.990 1)" />
+        <use xlink:href="#border-tooth" transform="translate(-19.31 0) scale(0.990 1)" />
+        <use xlink:href="#border-tooth" transform="translate(-6.44 0) scale(0.990 1)" />
+        <use xlink:href="#border-tooth" transform="translate(6.44 0) scale(0.990 1)" />
+        <use xlink:href="#border-tooth" transform="translate(19.31 0) scale(0.990 1)" />
+        <use xlink:href="#border-tooth" transform="translate(32.19 0) scale(0.990 1)" />
+        <use xlink:href="#border-tooth" transform="translate(45.06 0) scale(0.990 1)" />
+        <use xlink:href="#border-tooth" transform="translate(57.94 0) scale(0.990 1)" />
+        <use xlink:href="#border-tooth" transform="translate(70.81 0) scale(0.990 1)" />
+        <use xlink:href="#border-tooth" transform="translate(83.69 0) scale(0.990 1)" />
+        <use xlink:href="#border-tooth" transform="translate(96.56 0) scale(0.990 1)" />
+        <use xlink:href="#border-tooth" transform="translate(109.44 0) scale(0.990 1)" />
+        <use xlink:href="#border-tooth" transform="translate(122.31 0) scale(0.990 1)" />
+        <use xlink:href="#border-tooth" transform="translate(135.19 0) scale(0.990 1)" />
+        <use xlink:href="#border-tooth" transform="translate(148.06 0) scale(0.990 1)" />
+      </g>
+      <g transform="rotate(270) translate(0 -153)">
+        <path d="M -156,0 H 156" fill="none" stroke="#9c5f41" stroke-width="9" />
+        <use xlink:href="#border-tooth" transform="translate(-148.06 0) scale(0.990 1)" />
+        <use xlink:href="#border-tooth" transform="translate(-135.19 0) scale(0.990 1)" />
+        <use xlink:href="#border-tooth" transform="translate(-122.31 0) scale(0.990 1)" />
+        <use xlink:href="#border-tooth" transform="translate(-109.44 0) scale(0.990 1)" />
+        <use xlink:href="#border-tooth" transform="translate(-96.56 0) scale(0.990 1)" />
+        <use xlink:href="#border-tooth" transform="translate(-83.69 0) scale(0.990 1)" />
+        <use xlink:href="#border-tooth" transform="translate(-70.81 0) scale(0.990 1)" />
+        <use xlink:href="#border-tooth" transform="translate(-57.94 0) scale(0.990 1)" />
+        <use xlink:href="#border-tooth" transform="translate(-45.06 0) scale(0.990 1)" />
+        <use xlink:href="#border-tooth" transform="translate(-32.19 0) scale(0.990 1)" />
+        <use xlink:href="#border-tooth" transform="translate(-19.31 0) scale(0.990 1)" />
+        <use xlink:href="#border-tooth" transform="translate(-6.44 0) scale(0.990 1)" />
+        <use xlink:href="#border-tooth" transform="translate(6.44 0) scale(0.990 1)" />
+        <use xlink:href="#border-tooth" transform="translate(19.31 0) scale(0.990 1)" />
+        <use xlink:href="#border-tooth" transform="translate(32.19 0) scale(0.990 1)" />
+        <use xlink:href="#border-tooth" transform="translate(45.06 0) scale(0.990 1)" />
+        <use xlink:href="#border-tooth" transform="translate(57.94 0) scale(0.990 1)" />
+        <use xlink:href="#border-tooth" transform="translate(70.81 0) scale(0.990 1)" />
+        <use xlink:href="#border-tooth" transform="translate(83.69 0) scale(0.990 1)" />
+        <use xlink:href="#border-tooth" transform="translate(96.56 0) scale(0.990 1)" />
+        <use xlink:href="#border-tooth" transform="translate(109.44 0) scale(0.990 1)" />
+        <use xlink:href="#border-tooth" transform="translate(122.31 0) scale(0.990 1)" />
+        <use xlink:href="#border-tooth" transform="translate(135.19 0) scale(0.990 1)" />
+        <use xlink:href="#border-tooth" transform="translate(148.06 0) scale(0.990 1)" />
+      </g>
+      <rect x="-148.0" y="-148.0" width="296" height="296" fill="#261317" />
+      <rect x="-146.0" y="-146.0" width="292" height="292" fill="#e5cdbd" />
+      <rect x="-143.4" y="-143.4" width="286.8" height="286.8" fill="#261317" />
+      <use xlink:href="#corner-buds" transform="rotate(0)" />
+      <use xlink:href="#corner-buds" transform="rotate(90)" />
+      <use xlink:href="#corner-buds" transform="rotate(180)" />
+      <use xlink:href="#corner-buds" transform="rotate(270)" />
+      <circle cx="0" cy="0" r="134" fill="#9c5f41" />
+      <circle cx="0" cy="0" r="131.4" fill="#e5cdbd" />
+      <circle cx="0" cy="0" r="128.1" fill="#9c5f41" />
+      <circle cx="0" cy="0" r="125.5" fill="#261317" />
+      <circle cx="0" cy="0" r="57" fill="#682e33" />
+      <use xlink:href="#palmette" transform="rotate(0)" />
+      <use xlink:href="#palmette" transform="rotate(45)" />
+      <use xlink:href="#palmette" transform="rotate(90)" />
+      <use xlink:href="#palmette" transform="rotate(135)" />
+      <use xlink:href="#palmette" transform="rotate(180)" />
+      <use xlink:href="#palmette" transform="rotate(225)" />
+      <use xlink:href="#palmette" transform="rotate(270)" />
+      <use xlink:href="#palmette" transform="rotate(315)" />
+      <use xlink:href="#flower-back" transform="rotate(22.5)" />
+      <use xlink:href="#flower-back" transform="rotate(67.5)" />
+      <use xlink:href="#flower-back" transform="rotate(112.5)" />
+      <use xlink:href="#flower-back" transform="rotate(157.5)" />
+      <use xlink:href="#flower-back" transform="rotate(202.5)" />
+      <use xlink:href="#flower-back" transform="rotate(247.5)" />
+      <use xlink:href="#flower-back" transform="rotate(292.5)" />
+      <use xlink:href="#flower-back" transform="rotate(337.5)" />
+      <circle cx="0" cy="0" r="48" fill="#9c5f41" />
+      <circle cx="0" cy="0" r="44.7" fill="#682e33" />
+      <use xlink:href="#laurel-leaf" transform="rotate(7) scale(.82)" />
+      <use xlink:href="#laurel-leaf" transform="rotate(37) scale(.82)" />
+      <use xlink:href="#laurel-leaf" transform="rotate(67) scale(.82)" />
+      <use xlink:href="#laurel-leaf" transform="rotate(97) scale(.82)" />
+      <use xlink:href="#laurel-leaf" transform="rotate(127) scale(.82)" />
+      <use xlink:href="#laurel-leaf" transform="rotate(157) scale(.82)" />
+      <use xlink:href="#laurel-leaf" transform="rotate(187) scale(.82)" />
+      <use xlink:href="#laurel-leaf" transform="rotate(217) scale(.82)" />
+      <use xlink:href="#laurel-leaf" transform="rotate(247) scale(.82)" />
+      <use xlink:href="#laurel-leaf" transform="rotate(277) scale(.82)" />
+      <use xlink:href="#laurel-leaf" transform="rotate(307) scale(.82)" />
+      <use xlink:href="#laurel-leaf" transform="rotate(337) scale(.82)" />
+      <use xlink:href="#floret" transform="scale(2.33)" />
+    </g>
+    <g id="fleur">
+      <path d="M -2,-56 C -3,-63 -9,-68 -14,-69 C -17,-66 -21,-65 -24,-67 C -25,-73 -22,-78 -17,-79 C -11,-78 -6,-74 -3,-69 C -6,-79 -5,-86 0,-92 C 6,-86 6,-77 3,-69 C 8,-77 14,-80 18,-79 C 23,-77 25,-72 23,-67 C 16,-65 14,-69 12,-70 C 7,-66 3,-61 2,-56 Z" fill="#e4b880" />
+      <path d="M 0,-86 Q 4,-80 0,-71 Q -3,-79 0,-86 Z" fill="#e5cdbd" />
+      <path d="M -22,-68 Q -21,-74 -17,-74 Q -17,-69 -20,-67 Z M 22,-68 Q 21,-74 17,-74 Q 17,-69 20,-67 Z" fill="#e5cdbd" />
+    </g>
+    <g id="cusp-lozenge">
+      <path d="M 0,-179 C 14,-95 94,-16 179,0 C 95,15 15,94 0,179 C -16,94 -95,15 -179,0 C -94,-16 -15,-95 0,-179 Z" fill="#261317" stroke="#261317" stroke-width="16" stroke-linejoin="round" />
+      <path d="M 0,-179 C 14,-95 94,-16 179,0 C 95,15 15,94 0,179 C -16,94 -95,15 -179,0 C -94,-16 -15,-95 0,-179 Z" fill="none" stroke="#e5cdbd" stroke-width="4.6" stroke-linejoin="round" />
+      <path d="M 0,-179 C 14,-95 94,-16 179,0 C 95,15 15,94 0,179 C -16,94 -95,15 -179,0 C -94,-16 -15,-95 0,-179 Z" fill="none" stroke="#9c5f41" stroke-width="1.7" stroke-linejoin="round" />
+      <circle cx="0" cy="0" r="49" fill="#682e33" />
+      <circle cx="0" cy="0" r="46.7" fill="#c48b4e" />
+      <circle cx="0" cy="0" r="44.5" fill="#261317" />
+      <use xlink:href="#laurel-leaf" transform="rotate(6) scale(.846)" />
+      <use xlink:href="#laurel-leaf" transform="rotate(36) scale(.846)" />
+      <use xlink:href="#laurel-leaf" transform="rotate(66) scale(.846)" />
+      <use xlink:href="#laurel-leaf" transform="rotate(96) scale(.846)" />
+      <use xlink:href="#laurel-leaf" transform="rotate(126) scale(.846)" />
+      <use xlink:href="#laurel-leaf" transform="rotate(156) scale(.846)" />
+      <use xlink:href="#laurel-leaf" transform="rotate(186) scale(.846)" />
+      <use xlink:href="#laurel-leaf" transform="rotate(216) scale(.846)" />
+      <use xlink:href="#laurel-leaf" transform="rotate(246) scale(.846)" />
+      <use xlink:href="#laurel-leaf" transform="rotate(276) scale(.846)" />
+      <use xlink:href="#laurel-leaf" transform="rotate(306) scale(.846)" />
+      <use xlink:href="#laurel-leaf" transform="rotate(336) scale(.846)" />
+      <use xlink:href="#floret" transform="scale(2.22)" />
+      <use xlink:href="#fleur" transform="rotate(0)" />
+      <use xlink:href="#fleur" transform="rotate(90)" />
+      <use xlink:href="#fleur" transform="rotate(180)" />
+      <use xlink:href="#fleur" transform="rotate(270)" />
+    </g>
+  </defs>
+  <rect x="0" y="0" width="600" height="600" fill="#682e33" />
+  <use xlink:href="#angle-scrolls" transform="translate(0 0) scale(1 1)" />
+  <use xlink:href="#angle-scrolls" transform="translate(0 600) scale(1 -1)" />
+  <use xlink:href="#angle-scrolls" transform="translate(600 0) scale(-1 1)" />
+  <use xlink:href="#angle-scrolls" transform="translate(600 600) scale(-1 -1)" />
+  <use xlink:href="#cusp-lozenge" transform="translate(0 0)" />
+  <use xlink:href="#cusp-lozenge" transform="translate(0 600)" />
+  <use xlink:href="#cusp-lozenge" transform="translate(600 0)" />
+  <use xlink:href="#cusp-lozenge" transform="translate(600 600)" />
+  <use xlink:href="#panel-line" transform="translate(0 300)" />
+  <use xlink:href="#panel-line" transform="translate(600 300)" />
+  <use xlink:href="#panel-line" transform="translate(300 0) rotate(90)" />
+  <use xlink:href="#panel-line" transform="translate(300 600) rotate(90)" />
+  <use xlink:href="#centre-square" transform="translate(300 300)" />
+</svg>

@@ -1,0 +1,96 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="256" height="256" viewBox="0 0 256 256">
+  <title>The Moon and Cross, Waltham Cross — diagonal floral Axminster repeat</title>
+  <defs>
+    <g id="branch">
+      <path fill="#753f45" d="M 67,57 C 116,73 143,62 175,54 C 211,45 245,47 282,55 C 322,64 370,74 404,81 C 430,86 447,85 458,82 C 435,72 406,48 385,12 C 406,19 425,31 442,50 C 466,78 487,78 514,66 C 536,56 548,48 571,53 L 579,74 C 546,73 530,87 505,97 C 471,111 439,119 403,112 C 347,101 301,84 261,78 C 231,72 205,71 182,77 C 142,88 105,99 66,83 Z" />
+      <path fill="#b7654c" d="M 68,60 C 113,75 143,68 175,60 C 211,52 239,51 279,60 C 320,69 362,78 401,87 C 425,91 443,92 463,88 C 434,70 413,50 394,23 C 418,32 434,52 452,69 C 467,83 484,84 509,74 C 537,62 553,55 572,57 L 577,69 C 552,67 527,83 503,91 C 472,103 447,110 413,105 C 368,98 308,81 267,74 C 228,66 204,64 176,72 C 137,84 106,91 69,78 Z" />
+    </g>
+    <g id="seed">
+      <path fill="#753f45" d="M -37,-36 C -20,-39 -2,-29 12,-16 C 24,-6 35,13 38,32 C 19,37 1,31 -14,20 C -26,10 -34,-10 -37,-36 Z" />
+      <path fill="#b7654c" d="M -32,-31 C -17,-34 0,-24 12,-13 C 22,-2 29,11 32,26 C 14,29 -1,23 -13,11 C -24,0 -27,-15 -32,-31 Z" />
+      <path fill="#edba7e" d="M -30,-29 C -19,-29 -6,-23 2,-15 L -5,-14 C 3,-11 7,-4 9,4 C 13,12 20,17 26,20 C 14,22 2,16 -7,9 C -18,0 -25,-15 -30,-29 Z" />
+      <path fill="#edba7e" d="M 4,-17 C 18,-10 25,3 26,15 C 22,10 17,9 14,2 Z" />
+    </g>
+    <g id="small-buds">
+      <use xlink:href="#seed" transform="translate(112 326) rotate(-2) scale(.93 .90)" />
+      <use xlink:href="#seed" transform="translate(178 471) rotate(5) scale(1.08 1.04)" />
+      <use xlink:href="#seed" transform="translate(319 545) rotate(6) scale(.90 .83)" />
+    </g>
+    <g id="flower">
+      <path fill="#753f45" d="M 131,253 Q 161,274 175,264 Q 181,242 162,208 Q 185,205 205,223 Q 213,185 185,113 C 231,113 260,143 283,163 Q 289,154 281,139 Q 323,153 342,179 Q 337,154 323,131 Q 358,138 379,163 Q 379,147 369,122 Q 392,134 414,164 Q 415,150 406,132 Q 469,150 497,206 L 493,228 Q 482,219 474,221 Q 486,241 507,254 Q 500,266 482,264 Q 491,280 514,310 Q 488,321 464,306 Q 472,336 492,351 Q 483,365 469,365 Q 516,401 536,449 Q 503,465 449,435 Q 449,454 460,478 Q 423,475 393,456 Q 385,487 379,516 Q 349,500 327,477 Q 309,461 275,466 L 284,499 Q 258,495 229,468 Q 205,444 190,411 Q 170,370 155,338 Q 147,309 136,290 Q 129,274 131,253 Z" />
+      <path fill="#ad3f3f" d="M 147,266 Q 170,280 185,269 Q 194,247 173,212 Q 198,216 213,236 Q 218,220 206,190 Q 189,149 196,119 Q 227,127 251,148 Q 270,164 280,177 Q 279,190 264,196 Q 247,200 248,219 Q 251,249 280,266 L 301,283 Q 255,285 235,307 Q 208,336 213,381 Q 191,354 181,329 Q 167,288 147,266 Z" />
+      <path fill="#ad3f3f" d="M 272,444 Q 303,446 326,433 Q 354,418 366,388 Q 372,368 369,348 Q 387,373 410,384 Q 438,397 460,378 Q 476,393 494,405 Q 517,425 526,449 Q 493,455 445,425 Q 441,448 453,470 Q 428,463 402,446 Q 388,447 381,459 L 373,499 Q 353,488 337,470 Q 318,452 283,457 Z" />
+      <path fill="#753f45" d="M 256,414 Q 283,424 315,411 Q 346,398 354,372 Q 363,340 338,310 Q 324,296 310,282 Q 295,271 280,269 Q 297,248 320,246 Q 344,250 366,276 L 395,302 Q 383,321 389,345 Q 378,342 370,331 Q 383,360 371,386 Q 356,422 320,435 Q 289,444 270,436 Z" />
+      <path fill="#414553" d="M 222,411 C 210,388 209,358 218,332 Q 222,317 240,313 Q 246,293 266,289 Q 283,282 303,292 Q 320,273 336,284 Q 354,295 355,321 Q 372,342 361,370 Q 356,397 334,411 Q 302,431 263,428 Q 237,432 224,425 Z" />
+      <path fill="#8897a4" d="M 227,416 Q 218,393 222,373 L 227,367 Q 216,348 227,333 Q 233,323 246,322 Q 244,305 261,298 Q 274,291 289,296 Q 301,302 310,320 Q 308,305 312,293 Q 323,281 334,291 Q 344,302 345,317 Q 339,314 333,318 Q 338,330 351,339 Q 360,354 350,373 Q 346,388 331,397 Q 315,409 301,411 L 293,417 Q 269,423 253,419 Q 240,424 227,416 Z" />
+      <path fill="#753f45" d="M 297,297 Q 305,301 311,315 Q 318,326 331,328 L 335,343 Q 324,341 312,334 Q 301,326 297,315 Z" />
+      <path fill="#414553" d="M 244,317 Q 256,317 268,327 L 273,338 Q 259,330 250,331 Z" />
+      <path fill="#414553" d="M 221,354 Q 231,356 236,365 L 237,374 L 227,368 Z" />
+      <path fill="#ad3f3f" d="M 407,147 Q 452,154 474,184 Q 489,202 493,223 Q 473,218 459,203 Q 432,173 407,147 Z" />
+      <path fill="#414553" d="M 364,159 Q 385,162 404,185 Q 404,167 395,147 Q 421,164 439,198 Q 454,220 487,233 Q 484,246 468,250 Q 481,262 494,274 Q 454,281 426,261 Q 380,235 364,159 Z" />
+      <path fill="#8897a4" d="M 380,166 Q 394,180 400,198 Q 409,222 432,237 Q 419,238 408,234 Q 387,216 380,197 Z" />
+      <path fill="#8897a4" d="M 410,180 Q 423,190 435,209 Q 448,228 473,237 Q 461,245 448,241 Q 427,231 416,210 Z" />
+      <path fill="#8897a4" d="M 366,196 Q 380,210 388,227 Q 397,245 415,257 Q 395,254 382,241 Q 370,226 366,196 Z" />
+      <path fill="#ad3f3f" d="M 421,256 Q 454,268 468,283 Q 487,295 500,310 Q 471,310 453,291 Z" />
+    </g>
+    <g id="curled-petal">
+      <path fill="#753f45" d="M -38,-36 Q -19,-45 -1,-27 Q 9,-39 19,-38 Q 39,-32 40,-10 Q 41,13 26,28 Q 12,45 -5,41 Q -28,36 -40,16 Q -49,-1 -46,-20 Z" />
+      <path fill="#b7654c" d="M -36,-32 Q -22,-39 -5,-23 L 1,-14 Q 4,-26 16,-34 Q 29,-30 34,-16 Q 41,2 27,21 Q 11,39 -3,34 Q -29,26 -39,8 Q -47,-12 -36,-32 Z" />
+      <path fill="#edba7e" d="M -31,-28 Q -15,-31 -6,-17 Q -1,-9 0,-2 Q 9,-12 8,-21 Q 12,-26 18,-29 Q 32,-23 31,-7 Q 32,8 20,18 Q 11,29 -2,28 Q -23,19 -31,7 Q -39,-7 -31,-28 Z" />
+    </g>
+    <g id="diagonal-spray">
+      <use xlink:href="#flower" />
+      <use xlink:href="#curled-petal" transform="translate(310 218) rotate(10)" />
+      <use xlink:href="#curled-petal" transform="translate(427 341) rotate(86) scale(1.02 .99)" />
+    </g>
+    <g id="junction">
+      <path fill="#753f45" d="M -79,-18 Q -83,-41 -64,-48 Q -66,-69 -46,-74 Q -27,-76 -11,-62 Q 4,-71 23,-55 Q 37,-43 36,-25 Q 60,-23 78,-5 Q 98,14 87,29 Q 95,47 77,53 Q 83,75 66,81 Q 45,90 26,73 Q 11,83 -5,65 Q -22,47 -22,30 Q -44,29 -61,12 Q -80,0 -79,-18 Z" />
+      <use xlink:href="#rosette-half" />
+      <use xlink:href="#rosette-half" transform="translate(7 6) rotate(180)" />
+      <path fill="#b7654c" d="M -21,-9 Q -12,-18 0,-12 L 18,1 L 19,14 Q 8,21 -2,13 L -16,7 Z" />
+      <path fill="#753f45" d="M -8,-8 Q 3,-10 10,2 L 9,10 Q 0,11 -8,3 Z" />
+    </g>
+    <g id="rosette-half">
+      <path fill="#b7654c" d="M -3,1 Q -25,-4 -45,-15 Q -70,-21 -73,-42 Q -58,-53 -39,-47 Q -23,-41 -14,-26 Q -24,-49 -18,-62 Q -5,-65 8,-49 Q 19,-31 12,-14 Z" />
+      <path fill="#edba7e" d="M -10,-4 Q -29,-5 -49,-20 Q -66,-31 -66,-40 Q -57,-48 -41,-41 Q -31,-38 -19,-24 L -24,-38 Q -11,-35 -4,-19 Z" />
+      <path fill="#edba7e" d="M -36,-44 Q -53,-49 -49,-65 Q -36,-73 -21,-62 Q -8,-53 -7,-37 Q -11,-32 -17,-31 Z" />
+      <path fill="#edba7e" d="M -9,-51 L -11,-62 Q 0,-69 11,-52 Q 22,-35 15,-20 Q 7,-21 4,-31 Z" />
+      <path fill="#b7654c" d="M -63,-23 Q -45,-22 -34,-5 L -26,10 Q -45,9 -57,-1 Z" />
+    </g>
+    <g id="repeat">
+      <use xlink:href="#branch" />
+      <use xlink:href="#branch" transform="matrix(0 -1 -1 0 640 640)" />
+      <use xlink:href="#small-buds" />
+      <use xlink:href="#diagonal-spray" />
+    </g>
+  </defs>
+  <rect width="256" height="256" fill="#414553" />
+  <g transform="scale(.5) translate(-91 -105)">
+    <use xlink:href="#repeat" transform="translate(-512 -512)" />
+    <use xlink:href="#repeat" transform="translate(-512 0)" />
+    <use xlink:href="#repeat" transform="translate(-512 512)" />
+    <use xlink:href="#repeat" transform="translate(0 -512)" />
+    <use xlink:href="#repeat" transform="translate(0 0)" />
+    <use xlink:href="#repeat" transform="translate(0 512)" />
+    <use xlink:href="#repeat" transform="translate(512 -512)" />
+    <use xlink:href="#repeat" transform="translate(512 0)" />
+    <use xlink:href="#repeat" transform="translate(512 512)" />
+    <use xlink:href="#junction" transform="translate(-448 -448)" />
+    <use xlink:href="#junction" transform="translate(-448 64)" />
+    <use xlink:href="#junction" transform="translate(-448 576)" />
+    <use xlink:href="#junction" transform="translate(-448 1088)" />
+    <use xlink:href="#junction" transform="translate(64 -448)" />
+    <use xlink:href="#junction" transform="translate(64 64)" />
+    <use xlink:href="#junction" transform="translate(64 576)" />
+    <use xlink:href="#junction" transform="translate(64 1088)" />
+    <use xlink:href="#junction" transform="translate(576 -448)" />
+    <use xlink:href="#junction" transform="translate(576 64)" />
+    <use xlink:href="#junction" transform="translate(576 576)" />
+    <use xlink:href="#junction" transform="translate(576 1088)" />
+    <use xlink:href="#junction" transform="translate(1088 -448)" />
+    <use xlink:href="#junction" transform="translate(1088 64)" />
+    <use xlink:href="#junction" transform="translate(1088 576)" />
+    <use xlink:href="#junction" transform="translate(1088 1088)" />
+  </g>
+</svg>

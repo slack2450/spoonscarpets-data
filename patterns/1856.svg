@@ -1,0 +1,196 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="680" height="680" viewBox="0 0 680 680">
+  <title>The Towan Blystra, Newquay — leaf roundel and twelve-point rosette carpet repeat</title>
+  <defs>
+    <g id="upright-leaf">
+      <path d="M -25,-87 C -35,-88 -54,-94 -64,-106 C -75,-119 -77,-141 -73,-159 Q -70,-176 -61,-186 Q -54,-192 -46,-185 C -32,-178 -22,-160 -17,-142 C -12,-123 -16,-102 -25,-87 Z" fill="#DFC69D" stroke="#35415A" stroke-width="6" stroke-linejoin="round" />
+      <path d="M-24.1 -90.6 C-25.2 -94.2 -28.4 -105.1 -30.6 -111.8 C-32.9 -118.5 -35.4 -124 -37.5 -130.7 C-39.5 -137.5 -41.3 -146.1 -42.9 -152.5 C-44.5 -158.9 -44.7 -164.8 -47 -169 C-49.4 -173.3 -55.3 -176.6 -56.9 -178.1 L-59.1 -175.9 C-57.7 -174.4 -53 -171 -51 -167 C-49 -162.9 -48.5 -157.8 -47.1 -151.5 C-45.7 -145.2 -44.5 -136.1 -42.5 -129.3 C-40.6 -122.4 -37.8 -116.8 -35.4 -110.2 C-32.9 -103.5 -29.1 -92.8 -27.9 -89.4 Z M-46.2 -166.6 C-45.6 -167.5 -43.1 -169.7 -42.2 -172.2 C-41.2 -174.7 -40.8 -180.1 -40.5 -181.7 L-43.5 -182.3 C-43.9 -180.9 -44.8 -175.9 -45.8 -173.8 C-46.9 -171.6 -49.1 -170.1 -49.8 -169.4 Z M-41.1 -142.6 C-40.1 -144 -36.9 -147.5 -35.2 -151 C-33.5 -154.5 -31.4 -161.4 -30.6 -163.4 L-33.4 -164.6 C-34.3 -162.6 -36.9 -156.2 -38.8 -153 C-40.7 -149.8 -43.9 -146.7 -44.9 -145.4 Z M-35.8 -123.1 C-35.2 -124.8 -33.7 -129.6 -32.2 -133.1 C-30.7 -136.7 -27.6 -142.4 -26.7 -144.3 L-29.3 -145.7 C-30.4 -143.9 -34 -138.3 -35.8 -134.9 C-37.6 -131.4 -39.5 -126.6 -40.2 -124.9 Z M-28.8 -107.4 C-28.3 -109.2 -27.3 -114.9 -26.1 -118.3 C-25 -121.6 -22.4 -125.8 -21.7 -127.3 L-24.3 -128.7 C-25.2 -127.2 -28.4 -123.1 -29.9 -119.7 C-31.3 -116.4 -32.7 -110.5 -33.2 -108.6 Z M-37.4 -128.9 C-38.7 -130 -42.4 -133.5 -45.7 -135.8 C-49 -138.2 -54.2 -140 -57.2 -142.8 C-60.2 -145.6 -62.6 -151.1 -63.7 -152.7 L-66.3 -151.3 C-65.4 -149.3 -63.8 -142.4 -60.8 -139.2 C-57.8 -136 -51.6 -134.5 -48.3 -132.2 C-44.9 -129.8 -41.9 -126.3 -40.6 -125.1 Z M-46.8 -135.4 C-47.2 -137.3 -49.1 -145.3 -49.5 -147.2 L-52.5 -146.8 C-52.3 -144.7 -51.4 -136.7 -51.2 -134.6 Z M-30.9 -108.1 C-33 -109.2 -40 -112.7 -43.8 -114.9 C-47.7 -117.1 -52.4 -120.2 -54.1 -121.2 L-55.9 -118.8 C-54.2 -117.5 -50 -113.6 -46.2 -111.1 C-42.4 -108.6 -35.3 -105.1 -33.1 -103.9 Z M-44.2 -114.6 C-44.8 -116.1 -47 -122 -47.6 -123.5 L-50.4 -122.5 C-50 -121 -48.2 -114.9 -47.8 -113.4 Z" fill="#80603F" />
+    </g>
+    <g id="side-leaf">
+      <path d="M 86,-31 Q 88,-51 98,-65 C 109,-80 128,-84 142,-85 Q 165,-90 188,-80 Q 194,-77 190,-68 C 187,-54 175,-43 163,-35 Q 145,-24 123,-20 Q 109,-19 98,-25 Z" fill="#DFC69D" stroke="#35415A" stroke-width="6.5" stroke-linejoin="round" />
+      <path d="M90.9 -27.2 C93.9 -28.6 103.3 -32.9 109.1 -35.7 C115 -38.4 119.9 -40.9 126 -43.6 C132.2 -46.3 139.6 -49 146 -51.9 C152.3 -54.7 158.9 -58.7 163.9 -60.9 C168.9 -63.2 172.3 -63.1 176 -65.2 C179.6 -67.4 184.3 -72.4 185.9 -73.8 L184.1 -76.2 C182.4 -74.9 177.7 -70.6 174 -68.8 C170.4 -66.9 167.1 -67.2 162.1 -65.1 C157.1 -63 150.4 -58.9 144 -56.1 C137.7 -53.4 130.2 -51 124 -48.4 C117.8 -45.8 112.7 -43.3 106.9 -40.3 C101.1 -37.4 92.1 -32.4 89.1 -30.8 Z M160.8 -59.9 C162.7 -59.7 168.2 -58.8 171.9 -58.8 C175.6 -58.7 181.1 -59.4 183 -59.5 L183 -62.5 C181.2 -62.6 175.7 -63 172.1 -63.2 C168.5 -63.5 163 -64 161.2 -64.1 Z M153 -56.6 C153.8 -57.9 156.2 -60.6 157.8 -64.1 C159.4 -67.6 161.6 -75.2 162.4 -77.5 L159.6 -78.5 C158.7 -76.4 156 -69.1 154.2 -65.9 C152.5 -62.7 149.9 -60.5 149 -59.4 Z M128.7 -44.5 C130.1 -46 134.6 -49.4 137.1 -53.8 C139.5 -58.1 142.4 -67.6 143.4 -70.4 L140.6 -71.6 C139.3 -69.1 135.5 -60.3 132.9 -56.2 C130.4 -52.2 126.6 -49 125.3 -47.5 Z M108.9 -35.6 C109.9 -36.9 112.2 -39.8 114.8 -43.8 C117.3 -47.7 122.7 -56.6 124.2 -59.2 L121.8 -60.8 C120 -58.4 114 -50 111.2 -46.2 C108.5 -42.5 106.1 -39.7 105.1 -38.4 Z M138.8 -49.5 C140.6 -49.4 145.7 -49.7 149.5 -48.9 C153.2 -48.1 159.4 -45.3 161.4 -44.6 L162.6 -47.4 C160.6 -48.3 154.4 -51.9 150.5 -53.1 C146.7 -54.3 141.1 -54.3 139.2 -54.5 Z M118.7 -40.9 C120.8 -40.6 127.7 -40.3 131.3 -39.1 C134.9 -37.9 138.7 -34.6 140.2 -33.8 L141.8 -36.2 C140.3 -37.4 136.4 -41.4 132.7 -42.9 C128.9 -44.4 121.6 -44.8 119.3 -45.1 Z M101.6 -33.3 C102.7 -32.5 106 -29.6 108 -28.4 C110 -27.3 112.5 -26.9 113.4 -26.6 L114.6 -29.4 C113.8 -29.8 111.7 -30.3 110 -31.6 C108.3 -32.8 105.3 -35.8 104.4 -36.7 Z" fill="#80603F" />
+    </g>
+    <g id="diagonal-petal">
+      <path d="M 15,-34 C 17,-49 22,-67 31,-78 C 41,-89 53,-93 66,-91 Q 82,-90 87,-81 C 96,-66 87,-47 77,-36 Q 64,-23 48,-19 Q 31,-17 15,-25 Z" fill="#DFC69D" stroke="#35415A" stroke-width="6.5" stroke-linejoin="round" />
+      <path d="M23.4 -26.5 C25.8 -28.6 33.3 -35.1 37.7 -39.2 C42.2 -43.3 46.6 -47.3 49.9 -51.4 C53.2 -55.5 55 -60.1 57.7 -63.6 C60.4 -67.2 64.7 -71.4 66.1 -72.9 L63.9 -75.1 C62.3 -73.6 57.3 -69.8 54.3 -66.4 C51.4 -62.9 49.4 -58.5 46.1 -54.6 C42.7 -50.7 38.5 -47 34.3 -42.8 C30 -38.6 22.9 -31.7 20.6 -29.5 Z M48.2 -51.5 C48.7 -53.7 50.2 -60.7 51 -64.6 C51.7 -68.4 52.2 -73 52.5 -74.7 L49.5 -75.3 C49.1 -73.6 48 -69.2 47 -65.4 C46.1 -61.6 44.3 -54.7 43.8 -52.5 Z M52.4 -57.8 C54.1 -58.2 59.5 -58.8 62.7 -60.1 C65.9 -61.4 70.2 -64.8 71.7 -65.7 L70.3 -68.3 C68.8 -67.6 64.4 -64.9 61.3 -63.9 C58.2 -62.9 53.2 -62.4 51.6 -62.2 Z M37.5 -38.8 C39.6 -39.4 45.5 -40.5 49.7 -42.1 C53.9 -43.8 60.5 -47.6 62.6 -48.6 L61.4 -51.4 C59.2 -50.4 52.5 -47.2 48.3 -45.9 C44.2 -44.5 38.4 -43.6 36.5 -43.2 Z M33.3 -35 C33.2 -36.6 32.3 -41.4 32.9 -44.5 C33.6 -47.5 36.6 -51.8 37.3 -53.3 L34.7 -54.7 C33.8 -53.2 30.1 -48.8 29.1 -45.5 C28.1 -42.2 28.8 -36.8 28.7 -35 Z M28 -30 C30 -30 36.6 -29.6 40.2 -30 C43.7 -30.4 47.8 -32.1 49.3 -32.5 L48.7 -35.5 C47.2 -35.2 43.3 -34.2 39.8 -34 C36.4 -33.7 30 -34 28 -34 Z" fill="#80603F" />
+    </g>
+    <g id="north-petal">
+      <path d="M 0,-35 Q -10,-37 -17,-49 Q -26,-65 -23,-83 Q -21,-104 -10,-115 Q -2,-122 7,-116 Q 20,-105 23,-86 Q 27,-65 17,-47 Q 11,-37 0,-35 Z" fill="#DFC69D" stroke="#35415A" stroke-width="5" stroke-linejoin="round" />
+      <path d="M1.8 -40.1 C1.8 -42.9 1.4 -51.2 1.3 -57.1 C1.2 -62.9 1.6 -69.7 1.2 -75.1 C0.9 -80.4 -0.2 -86.8 -0.5 -89.1 L-3.5 -88.9 C-3.5 -86.6 -3.3 -80.3 -3.2 -74.9 C-3.2 -69.6 -3.6 -62.8 -3.3 -56.9 C-3.1 -51.1 -2.1 -42.7 -1.8 -39.9 Z M0.7 -71.5 C-0.5 -72.7 -4.4 -75.8 -6.2 -79 C-8.1 -82.1 -9.9 -88.6 -10.6 -90.5 L-13.4 -89.5 C-12.8 -87.4 -11.5 -80.5 -9.8 -77 C-8 -73.5 -3.9 -69.9 -2.7 -68.5 Z M0.9 -59.9 C2.1 -61.9 5.8 -67.9 7.8 -72 C9.9 -76.1 12.4 -82.3 13.3 -84.3 L10.7 -85.7 C9.6 -83.7 6.4 -77.9 4.2 -74 C1.9 -70.1 -1.7 -64.1 -2.9 -62.1 Z M-8.5 -49.3 C-8.8 -51 -8.8 -56.1 -10.1 -59.7 C-11.5 -63.3 -15.6 -68.9 -16.7 -70.7 L-19.3 -69.3 C-18.4 -67.4 -15.2 -61.7 -13.9 -58.3 C-12.6 -54.9 -11.9 -50.3 -11.5 -48.7 Z M9.4 -48.5 C10 -49.9 11 -53.8 12.8 -57 C14.6 -60.3 19 -66.3 20.2 -68.1 L17.8 -69.9 C16.4 -68.1 11.1 -62.4 9.2 -59 C7.4 -55.6 7 -51.1 6.6 -49.5 Z" fill="#80603F" />
+    </g>
+    <g id="east-petal">
+      <path d="M 38,-2 Q 40,-13 54,-23 Q 69,-32 90,-31 Q 112,-29 122,-18 Q 129,-10 127,1 Q 127,14 113,22 Q 97,32 78,30 Q 58,30 45,18 Q 39,11 38,-2 Z" fill="#DFC69D" stroke="#35415A" stroke-width="5.5" stroke-linejoin="round" />
+      <path d="M43.1 3 C46.1 2.9 55.3 2.7 61.1 2.4 C67 2.1 72 1.3 78 1.3 C84 1.3 91 2.5 97 2.4 C103 2.3 111.2 0.8 114.1 0.5 L113.9 -2.5 C111.1 -2.5 103 -2.3 97 -2.4 C91 -2.5 84 -3.3 78 -3.3 C72 -3.3 66.7 -2.8 60.9 -2.4 C55 -2 45.9 -1.2 42.9 -1 Z M59.3 1.6 C60.5 0.6 63.7 -2.2 66.3 -4.4 C68.9 -6.7 73.5 -10.6 74.9 -11.8 L73.1 -14.2 C71.5 -13.1 66.5 -9.7 63.7 -7.6 C61 -5.4 57.8 -2.6 56.7 -1.6 Z M73.4 0.6 C74.9 -0.7 79.2 -5.3 82.1 -7.3 C85 -9.4 89.2 -10.9 90.6 -11.6 L89.4 -14.4 C87.8 -13.8 83 -12.6 79.9 -10.7 C76.8 -8.7 72.1 -3.9 70.6 -2.6 Z M90 0.8 C91.5 -0 96.6 -2.6 99.1 -4.3 C101.6 -6.1 104 -8.9 105 -9.8 L103 -12.2 C102 -11.4 99.4 -9.2 96.9 -7.7 C94.4 -6.1 89.5 -3.6 88 -2.8 Z M79.6 1.6 C81 2.8 84.4 6.7 87.8 8.8 C91.3 10.9 98.2 13.4 100.3 14.3 L101.7 11.7 C99.8 10.6 93.4 7.4 90.2 5.2 C87 3 83.7 -0.5 82.4 -1.6 Z M56.6 2.4 C57.8 3.6 60.9 7.7 63.8 9.6 C66.8 11.6 72.6 13.6 74.3 14.3 L75.7 11.7 C74.1 10.8 68.9 8.4 66.2 6.4 C63.4 4.3 60.6 0.7 59.4 -0.4 Z" fill="#80603F" />
+    </g>
+    <g id="heart">
+      <circle cx="0" cy="0" r="41" fill="#35415A" />
+      <g transform="scale(1 1)">
+        <path d="M -5,-8 Q -13,-19 -12,-32 Q -12,-41 -5,-44 Q 2,-47 9,-40 Q 14,-31 10,-19 L 5,-7 Z" fill="#CFB481" stroke="#35415A" stroke-width="2.3" />
+        <g transform="scale(1 1)">
+          <path d="M 5,-8 Q 11,-18 13,-29 Q 14,-38 19,-40 Q 26,-40 32,-32 Q 36,-23 30,-17 Q 21,-10 11,-6 Z" fill="#CFB481" stroke="#35415A" stroke-width="2.3" />
+          <path d="M 11,-4 Q 23,-7 32,-17 Q 37,-21 41,-17 Q 44,-12 43,-4 L 40,-2 Q 30,2 21,0 L 12,-1 Z" fill="#CFB481" stroke="#35415A" stroke-width="2.3" />
+        </g>
+        <g transform="scale(-1 1)">
+          <path d="M 5,-8 Q 11,-18 13,-29 Q 14,-38 19,-40 Q 26,-40 32,-32 Q 36,-23 30,-17 Q 21,-10 11,-6 Z" fill="#CFB481" stroke="#35415A" stroke-width="2.3" />
+          <path d="M 11,-4 Q 23,-7 32,-17 Q 37,-21 41,-17 Q 44,-12 43,-4 L 40,-2 Q 30,2 21,0 L 12,-1 Z" fill="#CFB481" stroke="#35415A" stroke-width="2.3" />
+        </g>
+      </g>
+      <g transform="scale(1 -1)">
+        <path d="M -5,-8 Q -13,-19 -12,-32 Q -12,-41 -5,-44 Q 2,-47 9,-40 Q 14,-31 10,-19 L 5,-7 Z" fill="#CFB481" stroke="#35415A" stroke-width="2.3" />
+        <g transform="scale(1 1)">
+          <path d="M 5,-8 Q 11,-18 13,-29 Q 14,-38 19,-40 Q 26,-40 32,-32 Q 36,-23 30,-17 Q 21,-10 11,-6 Z" fill="#CFB481" stroke="#35415A" stroke-width="2.3" />
+          <path d="M 11,-4 Q 23,-7 32,-17 Q 37,-21 41,-17 Q 44,-12 43,-4 L 40,-2 Q 30,2 21,0 L 12,-1 Z" fill="#CFB481" stroke="#35415A" stroke-width="2.3" />
+        </g>
+        <g transform="scale(-1 1)">
+          <path d="M 5,-8 Q 11,-18 13,-29 Q 14,-38 19,-40 Q 26,-40 32,-32 Q 36,-23 30,-17 Q 21,-10 11,-6 Z" fill="#CFB481" stroke="#35415A" stroke-width="2.3" />
+          <path d="M 11,-4 Q 23,-7 32,-17 Q 37,-21 41,-17 Q 44,-12 43,-4 L 40,-2 Q 30,2 21,0 L 12,-1 Z" fill="#CFB481" stroke="#35415A" stroke-width="2.3" />
+        </g>
+      </g>
+      <path d="M -12,-6 L -4,-9 L 2,-6 L 9,-9 L 13,-3 L 8,2 L 10,7 L 0,10 L -5,7 L -11,7 L -14,1 Z" fill="#DFC69D" />
+      <path d="M -5,-4 L 1,-5 L 5,-2 L 5,2 L 1,4 L -4,3 Z" fill="#35415A" />
+    </g>
+    <g id="roundel">
+      <circle cx="0" cy="0" r="215" fill="#CFB481" />
+      <circle cx="0" cy="0" r="204" fill="#35415A" />
+      <g transform="scale(1 -1)">
+        <path d="M -27,-189 Q -1,-194 28,-189 L 24,-185 Q 0,-189 -24,-184 Z" fill="#DFC69D" />
+        <path d="M -24,-173 Q 0,-179 23,-172 Q 11,-153 7,-124 L -6,-124 Q -11,-150 -24,-173 Z" fill="#CFB481" />
+      </g>
+      <g transform="scale(1 1)">
+        <path d="M -27,-189 Q -1,-194 28,-189 L 24,-185 Q 0,-189 -24,-184 Z" fill="#DFC69D" />
+        <path d="M -24,-173 Q 0,-179 23,-172 Q 11,-153 7,-124 L -6,-124 Q -11,-150 -24,-173 Z" fill="#CFB481" />
+      </g>
+      <g transform="scale(-1 1)">
+        <path d="M 185,-43 Q 195,-4 186,43 L 182,39 Q 188,1 181,-37 Z" fill="#DFC69D" />
+        <path d="M 173,-33 Q 184,-2 173,33 Q 153,30 132,12 Q 135,0 131,-11 Q 149,-27 173,-33 Z" fill="#CFB481" />
+        <g transform="scale(1 -1)">
+          <path d="M 79,-173 A 192,192 0 0 1 164,-98 L 158,-98 A 188,188 0 0 0 79,-168 Z" fill="#DFC69D" />
+          <path d="M 78,-153 Q 120,-134 144,-94 Q 125,-94 102,-83 Q 93,-79 85,-78 Q 79,-90 69,-97 Q 81,-123 78,-153 Z" fill="#CFB481" />
+        </g>
+        <g transform="scale(1 1)">
+          <path d="M 79,-173 A 192,192 0 0 1 164,-98 L 158,-98 A 188,188 0 0 0 79,-168 Z" fill="#DFC69D" />
+          <path d="M 78,-153 Q 120,-134 144,-94 Q 125,-94 102,-83 Q 93,-79 85,-78 Q 79,-90 69,-97 Q 81,-123 78,-153 Z" fill="#CFB481" />
+        </g>
+      </g>
+      <g transform="scale(1 1)">
+        <path d="M 185,-43 Q 195,-4 186,43 L 182,39 Q 188,1 181,-37 Z" fill="#DFC69D" />
+        <path d="M 173,-33 Q 184,-2 173,33 Q 153,30 132,12 Q 135,0 131,-11 Q 149,-27 173,-33 Z" fill="#CFB481" />
+        <g transform="scale(1 -1)">
+          <path d="M 79,-173 A 192,192 0 0 1 164,-98 L 158,-98 A 188,188 0 0 0 79,-168 Z" fill="#DFC69D" />
+          <path d="M 78,-153 Q 120,-134 144,-94 Q 125,-94 102,-83 Q 93,-79 85,-78 Q 79,-90 69,-97 Q 81,-123 78,-153 Z" fill="#CFB481" />
+        </g>
+        <g transform="scale(1 1)">
+          <path d="M 79,-173 A 192,192 0 0 1 164,-98 L 158,-98 A 188,188 0 0 0 79,-168 Z" fill="#DFC69D" />
+          <path d="M 78,-153 Q 120,-134 144,-94 Q 125,-94 102,-83 Q 93,-79 85,-78 Q 79,-90 69,-97 Q 81,-123 78,-153 Z" fill="#CFB481" />
+        </g>
+      </g>
+      <g transform="scale(-1 -1)">
+        <use xlink:href="#upright-leaf" />
+        <use xlink:href="#side-leaf" />
+        <use xlink:href="#diagonal-petal" />
+      </g>
+      <g transform="scale(-1 1)">
+        <use xlink:href="#upright-leaf" />
+        <use xlink:href="#side-leaf" />
+        <use xlink:href="#diagonal-petal" />
+      </g>
+      <g transform="scale(1 -1)">
+        <use xlink:href="#upright-leaf" />
+        <use xlink:href="#side-leaf" />
+        <use xlink:href="#diagonal-petal" />
+      </g>
+      <g transform="scale(1 1)">
+        <use xlink:href="#upright-leaf" />
+        <use xlink:href="#side-leaf" />
+        <use xlink:href="#diagonal-petal" />
+      </g>
+      <use xlink:href="#north-petal" transform="scale(1 -1)" />
+      <use xlink:href="#east-petal" transform="scale(-1 1)" />
+      <use xlink:href="#north-petal" transform="scale(1 1)" />
+      <use xlink:href="#east-petal" transform="scale(1 1)" />
+      <use xlink:href="#heart" />
+    </g>
+    <g id="sun">
+      <path d="M 0,-47 L 3,-46 L 10,-28 L 21,-42 L 24,-39 L 19,-22 L 34,-32 L 36,-28 L 30,-14 L 28,-10 L 39,-10 L 45,-6 L 51,-1 L 51,0 L 51,1 L 45,6 L 39,10 L 28,10 L 30,14 L 36,28 L 34,32 L 19,22 L 24,39 L 21,42 L 10,28 L 3,46 L 0,47 L -3,46 L -10,28 L -21,42 L -24,39 L -19,22 L -34,32 L -36,28 L -30,14 L -28,10 L -39,10 L -45,6 L -51,1 L -51,0 L -51,-1 L -45,-6 L -39,-10 L -28,-10 L -30,-14 L -36,-28 L -34,-32 L -19,-22 L -24,-39 L -21,-42 L -10,-28 L -3,-46 Z" fill="#DFC69D" />
+      <path d="M 0,-33 L 6,-27 L 12,-23 L 19,-26 L 18,-19 L 23,-20 L 22,-14 L 28,-13 L 26,-7 L 32,-4 L 31,0 L 32,4 L 26,7 L 28,13 L 22,14 L 23,20 L 18,19 L 19,26 L 12,23 L 6,27 L 0,33 L -6,27 L -12,23 L -19,26 L -18,19 L -23,20 L -22,14 L -28,13 L -26,7 L -32,4 L -31,0 L -32,-4 L -26,-7 L -28,-13 L -22,-14 L -23,-20 L -18,-19 L -19,-26 L -12,-23 L -6,-27 Z" fill="#80603F" />
+      <path d="M 0,-18 L 6,-15 L 10,-9 L 14,-8 L 17,-3 L 17,0 L 17,3 L 14,8 L 10,9 L 6,15 L 0,18 L -6,15 L -10,9 L -14,8 L -17,3 L -17,0 L -17,-3 L -14,-8 L -10,-9 L -6,-15 Z" fill="#CFB481" />
+      <path d="M -4,-2 L -1,-4 L 3,-3 L 4,0 L 2,4 L -3,3 Z" fill="#80603F" />
+    </g>
+    <g id="cross">
+      <path d="M -8,-21 L 8,-21 L 8,-8 L 25,-8 L 25,7 L 8,7 L 8,21 L -8,21 L -8,7 L -25,7 L -25,-8 L -8,-8 Z" fill="#DFC69D" />
+    </g>
+    <g id="small-square">
+      <path d="M -5,-5 L 5,-5 L 6,4 L -5,5 Z" fill="#DFC69D" />
+    </g>
+  </defs>
+  <rect width="680" height="680" fill="#35415A" />
+  <use xlink:href="#roundel" transform="translate(340 340)" />
+  <use xlink:href="#sun" transform="translate(0 0)" />
+  <use xlink:href="#sun" transform="translate(0 680)" />
+  <use xlink:href="#sun" transform="translate(680 0)" />
+  <use xlink:href="#sun" transform="translate(680 680)" />
+  <use xlink:href="#sun" transform="translate(340 0)" />
+  <use xlink:href="#sun" transform="translate(340 680)" />
+  <use xlink:href="#sun" transform="translate(0 227)" />
+  <use xlink:href="#sun" transform="translate(680 227)" />
+  <use xlink:href="#sun" transform="translate(0 453)" />
+  <use xlink:href="#sun" transform="translate(680 453)" />
+  <use xlink:href="#sun" transform="translate(170 113)" />
+  <use xlink:href="#sun" transform="translate(510 113)" />
+  <use xlink:href="#sun" transform="translate(170 567)" />
+  <use xlink:href="#sun" transform="translate(510 567)" />
+  <use xlink:href="#cross" transform="translate(170 0)" />
+  <use xlink:href="#cross" transform="translate(170 680)" />
+  <use xlink:href="#cross" transform="translate(510 0)" />
+  <use xlink:href="#cross" transform="translate(510 680)" />
+  <use xlink:href="#cross" transform="translate(85 57)" />
+  <use xlink:href="#cross" transform="translate(255 57)" />
+  <use xlink:href="#cross" transform="translate(425 57)" />
+  <use xlink:href="#cross" transform="translate(595 57)" />
+  <use xlink:href="#cross" transform="translate(0 113)" />
+  <use xlink:href="#cross" transform="translate(680 113)" />
+  <use xlink:href="#cross" transform="translate(85 170)" />
+  <use xlink:href="#cross" transform="translate(595 170)" />
+  <use xlink:href="#cross" transform="translate(85 283)" />
+  <use xlink:href="#cross" transform="translate(595 283)" />
+  <use xlink:href="#cross" transform="translate(0 340)" />
+  <use xlink:href="#cross" transform="translate(680 340)" />
+  <use xlink:href="#cross" transform="translate(85 397)" />
+  <use xlink:href="#cross" transform="translate(595 397)" />
+  <use xlink:href="#cross" transform="translate(85 510)" />
+  <use xlink:href="#cross" transform="translate(595 510)" />
+  <use xlink:href="#cross" transform="translate(0 567)" />
+  <use xlink:href="#cross" transform="translate(680 567)" />
+  <use xlink:href="#cross" transform="translate(85 623)" />
+  <use xlink:href="#cross" transform="translate(255 623)" />
+  <use xlink:href="#cross" transform="translate(425 623)" />
+  <use xlink:href="#cross" transform="translate(595 623)" />
+  <use xlink:href="#small-square" transform="translate(128 29)" />
+  <use xlink:href="#small-square" transform="translate(212 29)" />
+  <use xlink:href="#small-square" transform="translate(468 29)" />
+  <use xlink:href="#small-square" transform="translate(552 29)" />
+  <use xlink:href="#small-square" transform="translate(128 651)" />
+  <use xlink:href="#small-square" transform="translate(212 651)" />
+  <use xlink:href="#small-square" transform="translate(468 651)" />
+  <use xlink:href="#small-square" transform="translate(552 651)" />
+  <use xlink:href="#small-square" transform="translate(42 85)" />
+  <use xlink:href="#small-square" transform="translate(297 85)" />
+  <use xlink:href="#small-square" transform="translate(383 85)" />
+  <use xlink:href="#small-square" transform="translate(638 85)" />
+  <use xlink:href="#small-square" transform="translate(42 595)" />
+  <use xlink:href="#small-square" transform="translate(297 595)" />
+  <use xlink:href="#small-square" transform="translate(383 595)" />
+  <use xlink:href="#small-square" transform="translate(638 595)" />
+  <use xlink:href="#small-square" transform="translate(42 142)" />
+  <use xlink:href="#small-square" transform="translate(638 142)" />
+  <use xlink:href="#small-square" transform="translate(42 538)" />
+  <use xlink:href="#small-square" transform="translate(638 538)" />
+  <use xlink:href="#small-square" transform="translate(128 198)" />
+  <use xlink:href="#small-square" transform="translate(552 198)" />
+  <use xlink:href="#small-square" transform="translate(128 482)" />
+  <use xlink:href="#small-square" transform="translate(552 482)" />
+  <use xlink:href="#small-square" transform="translate(42 311)" />
+  <use xlink:href="#small-square" transform="translate(638 311)" />
+  <use xlink:href="#small-square" transform="translate(42 369)" />
+  <use xlink:href="#small-square" transform="translate(638 369)" />
+</svg>

@@ -1,0 +1,196 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="800" height="800" viewBox="0 0 800 800">
+<title>The John Fielding, Cwmbran — leaf medallions and mulberry rosettes</title>
+<defs>
+<g id="rosette-vein">
+<path fill="#e6cbbb" d="M-12 -32 L-10 -33 Q-9 -29 -12 -25 L-15 -22 -17 -22 Q-13 -27 -12 -32 Z M-29 -12 Q-25 -12 -21 -16 L-20 -14 Q-23 -10 -29 -9 Z M-5 -15 Q-2 -18 0 -19 L2 -19 0 -16 -3 -14 Z"/>
+</g>
+<g id="rosette">
+<circle cx="0" cy="0" r="37.6" fill="#683540"/>
+<path fill="#e6cbbb" fill-rule="evenodd" d="M-3.483 -52.526 L-1.695 -55.785 Q-1 -57.053 -0.72 -56.969 L0 -56.754 L0.72 -56.538 Q1 -56.455 1.231 -55.691 L1.824 -53.727 L2.417 -51.764 Q2.647 -51 3.117 -50.605 L4.324 -49.591 L5.531 -48.576 Q6 -48.182 6.42 -46.666 L7.5 -42.767 L8.58 -38.869 Q9 -37.353 10.26 -37.768 L13.5 -38.836 L16.74 -39.905 Q18 -40.32 18.84 -40.866 L21 -42.271 L23.16 -43.676 Q24 -44.222 24.7 -44.212 L26.5 -44.185 L28.3 -44.158 Q29 -44.148 29.215 -43.847 L29.768 -43.074 L30.321 -42.301 Q30.536 -42 30.479 -41.44 L30.332 -40 L30.186 -38.56 Q30.129 -38 29.63 -37.44 L28.347 -36 L27.064 -34.56 Q26.565 -34 26.434 -33.16 L26.098 -31 L25.762 -28.84 Q25.632 -28 24.943 -27.3 L23.173 -25.5 L21.403 -23.7 Q20.714 -23 20.334 -22.944 L19.357 -22.8 L18.38 -22.656 Q18 -22.6 17.72 -23.507 L17 -25.838 L16.28 -28.17 Q16 -29.077 15.58 -29.216 L14.5 -29.574 L13.42 -29.932 Q13 -30.071 12.799 -29.501 L12.281 -28.036 L11.764 -26.57 Q11.562 -26 11.589 -24.88 L11.656 -22 L11.724 -19.12 Q11.75 -18 12.765 -17.16 L15.375 -15 L17.985 -12.84 Q19 -12 20.4 -12.076 L24 -12.273 L27.6 -12.469 Q29 -12.545 29.14 -12.945 L29.5 -13.973 L29.86 -15 Q30 -15.4 29.16 -15.764 L27 -16.7 L24.84 -17.636 Q24 -18 23.913 -18.42 L23.688 -19.5 L23.462 -20.58 Q23.375 -21 24.023 -21.73 L25.688 -23.607 L27.352 -25.484 Q28 -26.214 28.7 -26.27 L30.5 -26.415 L32.3 -26.559 Q33 -26.615 33.98 -27.173 L36.5 -28.608 L39.02 -30.042 Q40 -30.6 40.42 -30.522 L41.5 -30.323 L42.58 -30.123 Q43 -30.046 43.22 -29.759 L43.786 -29.023 L44.351 -28.286 Q44.571 -28 44.535 -27.44 L44.442 -26 L44.349 -24.56 Q44.312 -24 43.849 -23.393 L42.656 -21.833 L41.464 -20.273 Q41 -19.667 40.401 -18.173 L38.861 -14.333 L37.321 -10.493 Q36.722 -9 37.041 -8.726 L37.861 -8.021 L38.681 -7.316 Q39 -7.042 40.26 -6.896 L43.5 -6.521 L46.74 -6.146 Q48 -6 49.309 -5.16 L52.676 -3 L56.043 -0.84 Q57.353 0 56.463 0.373 L54.176 1.333 L51.889 2.293 Q51 2.667 50.605 3.133 L49.591 4.333 L48.576 5.533 Q48.182 6 46.666 6.42 L42.767 7.5 L38.869 8.58 Q37.353 9 37.768 10.26 L38.836 13.5 L39.905 16.74 Q40.32 18 40.861 18.84 L42.253 21 L43.644 23.16 Q44.185 24 44.22 24.56 L44.309 26 L44.399 27.44 Q44.433 28 44.093 28.355 L43.217 29.268 L42.341 30.181 Q42 30.536 41.44 30.483 L40 30.349 L38.56 30.214 Q38 30.161 37.44 29.658 L36 28.363 L34.56 27.069 Q34 26.565 33.16 26.434 L31 26.098 L28.84 25.762 Q28 25.632 27.3 24.943 L25.5 23.173 L23.7 21.403 Q23 20.714 23 20.274 L23 19.143 L23 18.011 Q23 17.571 23.84 17.351 L26 16.786 L28.16 16.22 Q29 16 29.14 15.58 L29.5 14.5 L29.86 13.42 Q30 13 29.44 12.794 L28 12.265 L26.56 11.735 Q26 11.529 24.88 11.56 L22 11.64 L19.12 11.719 Q18 11.75 17.16 12.765 L15 15.375 L12.84 17.985 Q12 19 12.073 20.4 L12.261 24 L12.449 27.6 Q12.522 29 12.925 29.14 L13.961 29.5 L14.997 29.86 Q15.4 30 15.757 29.16 L16.675 27 L17.593 24.84 Q17.95 24 18.237 23.86 L18.975 23.5 L19.713 23.14 Q20 23 20.782 23.56 L22.792 25 L24.802 26.44 Q25.583 27 25.776 27.98 L26.273 30.5 L26.77 33.02 Q26.963 34 27.472 34.84 L28.781 37 L30.091 39.16 Q30.6 40 30.516 40.42 L30.3 41.5 L30.084 42.58 Q30 43 29.72 43.22 L29 43.786 L28.28 44.351 Q28 44.571 27.44 44.54 L26 44.458 L24.56 44.376 Q24 44.344 23.382 43.876 L21.792 42.672 L20.202 41.468 Q19.583 41 18.102 40.399 L14.292 38.853 L10.482 37.307 Q9 36.706 8.726 37.027 L8.021 37.853 L7.316 38.679 Q7.042 39 6.891 40.26 L6.504 43.5 L6.116 46.74 Q5.966 48 5.13 49.307 L2.983 52.667 L0.835 56.027 Q0 57.333 -0.371 56.447 L-1.324 54.167 L-2.277 51.887 Q-2.647 51 -3.117 50.605 L-4.324 49.591 L-5.531 48.576 Q-6 48.182 -6.42 46.666 L-7.5 42.767 L-8.58 38.869 Q-9 37.353 -10.26 37.768 L-13.5 38.836 L-16.74 39.905 Q-18 40.32 -18.84 40.866 L-21 42.271 L-23.16 43.676 Q-24 44.222 -24.7 44.212 L-26.5 44.185 L-28.3 44.158 Q-29 44.148 -29.215 43.847 L-29.768 43.074 L-30.321 42.301 Q-30.536 42 -30.479 41.44 L-30.332 40 L-30.186 38.56 Q-30.129 38 -29.63 37.44 L-28.347 36 L-27.064 34.56 Q-26.565 34 -26.434 33.16 L-26.098 31 L-25.762 28.84 Q-25.632 28 -24.943 27.3 L-23.173 25.5 L-21.403 23.7 Q-20.714 23 -20.334 22.944 L-19.357 22.8 L-18.38 22.656 Q-18 22.6 -17.72 23.507 L-17 25.838 L-16.28 28.17 Q-16 29.077 -15.58 29.216 L-14.5 29.574 L-13.42 29.932 Q-13 30.071 -12.799 29.501 L-12.281 28.036 L-11.764 26.57 Q-11.562 26 -11.589 24.88 L-11.656 22 L-11.724 19.12 Q-11.75 18 -12.765 17.16 L-15.375 15 L-17.985 12.84 Q-19 12 -20.4 12.076 L-24 12.273 L-27.6 12.469 Q-29 12.546 -29.14 12.945 L-29.5 13.973 L-29.86 15 Q-30 15.4 -29.16 15.764 L-27 16.7 L-24.84 17.636 Q-24 18 -23.913 18.42 L-23.688 19.5 L-23.462 20.58 Q-23.375 21 -24.023 21.73 L-25.688 23.607 L-27.352 25.484 Q-28 26.214 -28.7 26.27 L-30.5 26.415 L-32.3 26.559 Q-33 26.615 -33.98 27.173 L-36.5 28.608 L-39.02 30.042 Q-40 30.6 -40.42 30.522 L-41.5 30.323 L-42.58 30.123 Q-43 30.046 -43.22 29.759 L-43.786 29.023 L-44.351 28.286 Q-44.571 28 -44.535 27.44 L-44.442 26 L-44.349 24.56 Q-44.312 24 -43.849 23.393 L-42.656 21.833 L-41.464 20.273 Q-41 19.667 -40.401 18.173 L-38.861 14.333 L-37.321 10.493 Q-36.722 9 -37.041 8.726 L-37.861 8.021 L-38.681 7.316 Q-39 7.042 -40.26 6.896 L-43.5 6.521 L-46.74 6.146 Q-48 6 -49.309 5.16 L-52.676 3 L-56.043 0.84 Q-57.353 0 -56.463 -0.373 L-54.176 -1.333 L-51.889 -2.293 Q-51 -2.667 -50.605 -3.133 L-49.591 -4.333 L-48.576 -5.533 Q-48.182 -6 -46.666 -6.42 L-42.767 -7.5 L-38.869 -8.58 Q-37.353 -9 -37.768 -10.26 L-38.836 -13.5 L-39.905 -16.74 Q-40.32 -18 -40.861 -18.84 L-42.253 -21 L-43.644 -23.16 Q-44.185 -24 -44.22 -24.56 L-44.309 -26 L-44.399 -27.44 Q-44.433 -28 -44.093 -28.355 L-43.217 -29.268 L-42.341 -30.181 Q-42 -30.536 -41.44 -30.483 L-40 -30.349 L-38.56 -30.214 Q-38 -30.161 -37.44 -29.658 L-36 -28.363 L-34.56 -27.069 Q-34 -26.565 -33.16 -26.434 L-31 -26.098 L-28.84 -25.762 Q-28 -25.632 -27.3 -24.943 L-25.5 -23.173 L-23.7 -21.403 Q-23 -20.714 -23 -20.274 L-23 -19.143 L-23 -18.011 Q-23 -17.571 -23.84 -17.351 L-26 -16.786 L-28.16 -16.22 Q-29 -16 -29.14 -15.58 L-29.5 -14.5 L-29.86 -13.42 Q-30 -13 -29.44 -12.794 L-28 -12.265 L-26.56 -11.735 Q-26 -11.529 -24.88 -11.56 L-22 -11.64 L-19.12 -11.719 Q-18 -11.75 -17.16 -12.765 L-15 -15.375 L-12.84 -17.985 Q-12 -19 -12.073 -20.4 L-12.261 -24 L-12.449 -27.6 Q-12.522 -29 -12.925 -29.14 L-13.961 -29.5 L-14.997 -29.86 Q-15.4 -30 -15.757 -29.16 L-16.675 -27 L-17.593 -24.84 Q-17.95 -24 -18.237 -23.86 L-18.975 -23.5 L-19.713 -23.14 Q-20 -23 -20.782 -23.56 L-22.792 -25 L-24.802 -26.44 Q-25.583 -27 -25.776 -27.98 L-26.273 -30.5 L-26.77 -33.02 Q-26.963 -34 -27.472 -34.84 L-28.782 -37 L-30.091 -39.16 Q-30.6 -40 -30.516 -40.42 L-30.3 -41.5 L-30.084 -42.58 Q-30 -43 -29.72 -43.22 L-29 -43.786 L-28.28 -44.351 Q-28 -44.571 -27.44 -44.54 L-26 -44.458 L-24.56 -44.376 Q-24 -44.344 -23.382 -43.876 L-21.792 -42.672 L-20.202 -41.468 Q-19.583 -41 -18.102 -40.399 L-14.292 -38.853 L-10.482 -37.307 Q-9 -36.706 -8.726 -37.027 L-8.021 -37.853 L-7.316 -38.679 Q-7.042 -39 -6.891 -40.26 L-6.504 -43.5 L-6.116 -46.74 Q-5.965 -48 -5.27 -49.267 L-3.483 -52.526 Z M-3.545 -32.022 L-0.993 -34.197 Q0 -35.044 1.069 -34.197 L3.818 -32.022 L6.567 -29.846 Q7.636 -29 7.587 -27.74 L7.461 -24.5 L7.335 -21.26 Q7.286 -20 6.766 -19.3 L5.429 -17.5 L4.091 -15.7 Q3.571 -15 3.878 -14.44 L4.667 -13 L5.455 -11.56 Q5.762 -11 6.915 -9.963 L9.881 -7.295 L12.847 -4.628 Q14 -3.591 14.342 -3.648 L15.222 -3.795 L16.102 -3.943 Q16.444 -4 16.802 -4.475 L17.722 -5.696 L18.642 -6.917 Q19 -7.391 20.4 -7.355 L24 -7.261 L27.6 -7.167 Q29 -7.13 29.856 -5.992 L32.056 -3.065 L34.256 -0.138 Q35.111 1 34.256 1.935 L32.056 4.341 L29.856 6.746 Q29 7.682 27.74 7.633 L24.5 7.508 L21.26 7.382 Q20 7.333 19.3 6.801 L17.5 5.433 L15.7 4.065 Q15 3.533 14.44 3.839 L13 4.624 L11.56 5.409 Q11 5.714 9.96 6.874 L7.286 9.857 L4.611 12.84 Q3.571 14 3.631 14.332 L3.786 15.188 L3.94 16.043 Q4 16.375 4.475 16.742 L5.696 17.688 L6.917 18.633 Q7.391 19 7.349 20.4 L7.241 24 L7.133 27.6 Q7.091 29 5.958 29.848 L3.045 32.028 L0.133 34.208 Q-1 35.056 -1.929 34.208 L-4.318 32.028 L-6.707 29.848 Q-7.636 29 -7.587 27.74 L-7.461 24.5 L-7.335 21.26 Q-7.286 20 -6.766 19.3 L-5.429 17.5 L-4.091 15.7 Q-3.571 15 -3.878 14.44 L-4.667 13 L-5.455 11.56 Q-5.762 11 -6.915 9.963 L-9.881 7.295 L-12.847 4.628 Q-14 3.591 -14.342 3.648 L-15.222 3.795 L-16.102 3.943 Q-16.444 4 -16.802 4.475 L-17.722 5.696 L-18.642 6.917 Q-19 7.391 -20.4 7.355 L-24 7.261 L-27.6 7.167 Q-29 7.13 -29.856 5.992 L-32.056 3.065 L-34.256 0.138 Q-35.111 -1 -34.256 -1.935 L-32.056 -4.341 L-29.856 -6.746 Q-29 -7.682 -27.74 -7.633 L-24.5 -7.508 L-21.26 -7.382 Q-20 -7.333 -19.3 -6.801 L-17.5 -5.433 L-15.7 -4.065 Q-15 -3.533 -14.44 -3.839 L-13 -4.624 L-11.56 -5.409 Q-11 -5.714 -9.96 -6.874 L-7.286 -9.857 L-4.611 -12.84 Q-3.571 -14 -3.631 -14.332 L-3.786 -15.188 L-3.94 -16.043 Q-4 -16.375 -4.475 -16.742 L-5.696 -17.688 L-6.917 -18.633 Q-7.391 -19 -7.349 -20.4 L-7.241 -24 L-7.133 -27.6 Q-7.091 -29 -6.098 -29.846 L-3.545 -32.022 Z M-2.526 -2.525 L-0.707 -4.343 Q0 -5.05 0.707 -4.343 L2.526 -2.525 L4.345 -0.707 Q5.053 0 4.345 0.707 L2.526 2.525 L0.707 4.343 Q0 5.05 -0.707 4.343 L-2.526 2.525 L-4.345 0.707 Q-5.053 0 -4.345 -0.707 L-2.526 -2.525 Z"/>
+<use xlink:href="#rosette-vein" transform="rotate(0)"/>
+<use xlink:href="#rosette-vein" transform="rotate(90)"/>
+<use xlink:href="#rosette-vein" transform="rotate(180)"/>
+<use xlink:href="#rosette-vein" transform="rotate(270)"/>
+</g>
+<g id="cross-stitch">
+<path fill="#e6cbbb" d="M-1.7 -16 L1.4 -16 2.5 -10 4 -8 2.6 -4 5 -2.8 9 -3.5 11 -2.1 16 -.9 15.3 1.2 9.1 2 7.4 3.4 3 2.5 1.8 7.3 2.6 10 .4 16 -1.7 14.5 -2.4 8 -3.3 5 -2.6 2 -7 1.8 -9 3.3 -15 1.1 -16 -1 -11 -2 -8.2 -3.3 -3.4 -2.7 -2.3 -6.3 -3.8 -9.5 -1.8 -11 Z"/>
+</g>
+<g id="seed-stitch">
+<path fill="#e6cbbb" d="M-1.3 -6 L1 -6 2.5 -2.5 5 -1.8 4.6 1.1 2 2.1 1.5 5.8 -1.8 5.3 -2.4 2.2 -5.5 1 -5.2 -1.3 -2.7 -2.1 Z"/>
+</g>
+<g id="short-leaf">
+<path fill="#a8907f" d="M-15 -58 Q-22 -64 -27 -77 Q-34 -89 -32 -104 Q-34 -116 -27 -132 Q-24 -140 -15 -145 L-9 -146 -5 -150 0 -148 5 -151 11 -147 Q22 -146 27 -134 Q34 -120 32 -105 Q34 -94 29 -82 Q25 -71 15 -57 Q4 -61 -4 -57 Z"/>
+<path fill="#e9e2cf" d="M-2 -60 Q-2 -73 -12 -81 Q-22 -87 -26 -98 Q-16 -95 -10 -90 L-5 -88 Q-5 -101 -15 -107 Q-21 -111 -24 -119 Q-13 -116 -7 -110 L-4 -109 Q-4 -120 -11 -125 Q-15 -130 -15 -137 Q-8 -134 -4 -127 Q1 -135 0 -145 Q6 -140 5 -133 L4 -126 Q9 -131 15 -135 L18 -136 Q17 -128 11 -124 Q5 -121 3 -111 Q14 -121 25 -122 Q23 -115 15 -111 Q6 -108 4 -98 L4 -93 Q12 -99 16 -105 Q21 -109 29 -111 Q28 -103 20 -97 Q9 -91 5 -84 L3 -78 Q10 -81 15 -86 L23 -89 Q22 -82 16 -79 Q6 -75 2 -68 L1 -61 Z"/>
+</g>
+<g id="long-leaf">
+<path fill="#a8907f" d="M0 -102 Q-4 -113 -12 -121 Q-27 -135 -30 -150 Q-35 -165 -31 -177 Q-29 -192 -18 -204 L-13 -207 -9 -213 -5 -214 0 -221 5 -216 11 -215 13 -209 Q25 -202 29 -187 Q34 -178 32 -167 L34 -163 Q32 -146 25 -136 Q19 -126 9 -118 Q3 -111 0 -102 Z"/>
+<path fill="#e9e2cf" d="M-2 -110 Q-2 -126 -12 -140 Q-19 -145 -26 -145 L-30 -149 -21 -150 -20 -156 Q-15 -156 -13 -151 Q-12 -146 -4 -143 L-2 -158 Q-1 -165 -5 -172 Q-11 -178 -20 -180 L-28 -185 -21 -186 -23 -192 -19 -194 Q-15 -185 -11 -184 L-5 -182 Q-7 -188 -6 -192 L-2 -191 Q-3 -181 1 -179 Q5 -186 4 -199 Q0 -200 -5 -204 L-11 -205 -11 -209 -5 -208 -6 -214 -2 -215 0 -209 4 -208 6 -214 10 -213 9 -206 15 -208 17 -205 Q12 -202 8 -199 L7 -183 Q13 -184 16 -191 L20 -191 18 -185 26 -188 27 -184 Q20 -179 14 -178 Q4 -175 3 -166 L2 -153 Q7 -155 11 -160 L13 -165 17 -165 15 -157 Q24 -158 29 -163 L30 -158 Q25 -151 16 -150 Q8 -148 3 -140 L2 -131 Q9 -135 14 -135 Q12 -130 6 -126 Q1 -121 1 -113 Z"/>
+<path transform="translate(-13 -192) scale(1)" fill="#301b23" d="M-2.7 -1.7 L-.8 -4.1 2.6 -2.8 3.3 .5 1.3 3.7 -2.3 2.8 Z"/>
+<path transform="translate(14 -193) scale(0.95)" fill="#301b23" d="M-2.7 -1.7 L-.8 -4.1 2.6 -2.8 3.3 .5 1.3 3.7 -2.3 2.8 Z"/>
+<path transform="translate(-19 -161) scale(0.85)" fill="#301b23" d="M-2.7 -1.7 L-.8 -4.1 2.6 -2.8 3.3 .5 1.3 3.7 -2.3 2.8 Z"/>
+<path transform="translate(19 -163) scale(1)" fill="#301b23" d="M-2.7 -1.7 L-.8 -4.1 2.6 -2.8 3.3 .5 1.3 3.7 -2.3 2.8 Z"/>
+</g>
+<g id="rim-fragment">
+<path fill="#a8907f" d="M-35 -205 Q-20 -209 -8 -208 L-4 -210 2 -209 6 -210 Q19 -209 35 -206 L34 -202 Q24 -201 15 -204 L9 -203 4 -204 0 -202 -5 -204 -12 -203 -15 -205 -24 -203 -32 -202 Z"/>
+<path fill="#a8907f" d="M-15 -188 Q-10 -189 -8 -195 L-3 -195 -3 -191 Q-4 -185 -10 -181 L-13 -183 Z M3 -193 L7 -195 10 -191 Q12 -187 16 -188 L16 -184 11 -182 Q5 -186 3 -189 Z"/>
+</g>
+<g id="centre-frond">
+<path fill="#a8907f" d="M-2 -11 Q-8 -12 -12 -15 Q-15 -19 -21 -23 Q-28 -28 -29 -33 L-26 -35 Q-23 -31 -20 -30 L-22 -35 -18 -36 Q-15 -31 -15 -27 L-10 -24 Q-10 -30 -14 -34 L-14 -39 -11 -39 Q-6 -35 -6 -28 L-6 -22 -2 -19 Q0 -27 -3 -32 Q-5 -35 -4 -41 L0 -44 2 -41 1 -37 Q6 -42 10 -41 Q8 -37 5 -34 L4 -28 4 -22 Q9 -26 11 -32 Q13 -38 18 -41 L22 -40 Q17 -35 17 -31 L19 -32 22 -34 25 -32 Q21 -28 16 -26 Q11 -23 8 -18 L7 -14 3 -12 Z"/>
+</g>
+<g id="medallion">
+<circle cx="0" cy="0" r="225" fill="#301b23"/>
+<circle cx="0" cy="0" r="224.8" fill="none" stroke="#a8907f" stroke-width="4.8"/>
+<use xlink:href="#rim-fragment" transform="rotate(0)"/>
+<use xlink:href="#rim-fragment" transform="rotate(45)"/>
+<use xlink:href="#rim-fragment" transform="rotate(90)"/>
+<use xlink:href="#rim-fragment" transform="rotate(135)"/>
+<use xlink:href="#rim-fragment" transform="rotate(180)"/>
+<use xlink:href="#rim-fragment" transform="rotate(225)"/>
+<use xlink:href="#rim-fragment" transform="rotate(270)"/>
+<use xlink:href="#rim-fragment" transform="rotate(315)"/>
+<use xlink:href="#short-leaf" transform="rotate(0)"/>
+<use xlink:href="#short-leaf" transform="rotate(45)"/>
+<use xlink:href="#short-leaf" transform="rotate(90)"/>
+<use xlink:href="#short-leaf" transform="rotate(135)"/>
+<use xlink:href="#short-leaf" transform="rotate(180)"/>
+<use xlink:href="#short-leaf" transform="rotate(225)"/>
+<use xlink:href="#short-leaf" transform="rotate(270)"/>
+<use xlink:href="#short-leaf" transform="rotate(315)"/>
+<use xlink:href="#long-leaf" transform="rotate(22.5)"/>
+<use xlink:href="#long-leaf" transform="rotate(67.5)"/>
+<use xlink:href="#long-leaf" transform="rotate(112.5)"/>
+<use xlink:href="#long-leaf" transform="rotate(157.5)"/>
+<use xlink:href="#long-leaf" transform="rotate(202.5)"/>
+<use xlink:href="#long-leaf" transform="rotate(247.5)"/>
+<use xlink:href="#long-leaf" transform="rotate(292.5)"/>
+<use xlink:href="#long-leaf" transform="rotate(337.5)"/>
+<use xlink:href="#centre-frond" transform="rotate(0)"/>
+<use xlink:href="#centre-frond" transform="rotate(90)"/>
+<use xlink:href="#centre-frond" transform="rotate(180)"/>
+<use xlink:href="#centre-frond" transform="rotate(270)"/>
+<path fill="#a8907f" d="M-2 -2 L1.5 -3.5 4 -.2 1.7 2.5 -2 2.8 Z"/>
+</g>
+</defs>
+<rect width="800" height="800" fill="#472c34"/>
+<use xlink:href="#cross-stitch" transform="translate(66.667 66.667) scale(0.94)"/>
+<use xlink:href="#rosette" transform="translate(200 66.667)"/>
+<use xlink:href="#cross-stitch" transform="translate(333.333 66.667) scale(0.94)"/>
+<use xlink:href="#rosette" transform="translate(466.667 66.667)"/>
+<use xlink:href="#cross-stitch" transform="translate(600 66.667) scale(0.94)"/>
+<use xlink:href="#rosette" transform="translate(733.333 66.667)"/>
+<use xlink:href="#rosette" transform="translate(66.667 200)"/>
+<use xlink:href="#rosette" transform="translate(600 200)"/>
+<use xlink:href="#cross-stitch" transform="translate(733.333 200) scale(0.94)"/>
+<use xlink:href="#cross-stitch" transform="translate(66.667 333.333) scale(0.94)"/>
+<use xlink:href="#cross-stitch" transform="translate(600 333.333) scale(0.94)"/>
+<use xlink:href="#rosette" transform="translate(733.333 333.333)"/>
+<use xlink:href="#rosette" transform="translate(66.667 466.667)"/>
+<use xlink:href="#rosette" transform="translate(600 466.667)"/>
+<use xlink:href="#cross-stitch" transform="translate(733.333 466.667) scale(0.94)"/>
+<use xlink:href="#cross-stitch" transform="translate(66.667 600) scale(0.94)"/>
+<use xlink:href="#rosette" transform="translate(200 600)"/>
+<use xlink:href="#cross-stitch" transform="translate(333.333 600) scale(0.94)"/>
+<use xlink:href="#rosette" transform="translate(466.667 600)"/>
+<use xlink:href="#cross-stitch" transform="translate(600 600) scale(0.94)"/>
+<use xlink:href="#rosette" transform="translate(733.333 600)"/>
+<use xlink:href="#rosette" transform="translate(66.667 733.333)"/>
+<use xlink:href="#cross-stitch" transform="translate(200 733.333) scale(0.94)"/>
+<use xlink:href="#rosette" transform="translate(333.333 733.333)"/>
+<use xlink:href="#cross-stitch" transform="translate(466.667 733.333) scale(0.94)"/>
+<use xlink:href="#rosette" transform="translate(600 733.333)"/>
+<use xlink:href="#cross-stitch" transform="translate(733.333 733.333) scale(0.94)"/>
+<use xlink:href="#cross-stitch" transform="translate(-0 -0)"/>
+<use xlink:href="#seed-stitch" transform="translate(33.333 33.333)"/>
+<use xlink:href="#cross-stitch" transform="translate(133.333 -0) rotate(180)"/>
+<use xlink:href="#seed-stitch" transform="translate(100 33.333) rotate(180)"/>
+<use xlink:href="#cross-stitch" transform="translate(266.667 -0)"/>
+<use xlink:href="#seed-stitch" transform="translate(300 33.333)"/>
+<use xlink:href="#cross-stitch" transform="translate(400 -0) rotate(180)"/>
+<use xlink:href="#seed-stitch" transform="translate(366.667 33.333) rotate(180)"/>
+<use xlink:href="#cross-stitch" transform="translate(533.333 -0)"/>
+<use xlink:href="#seed-stitch" transform="translate(566.667 33.333)"/>
+<use xlink:href="#cross-stitch" transform="translate(666.667 -0) rotate(180)"/>
+<use xlink:href="#seed-stitch" transform="translate(633.333 33.333) rotate(180)"/>
+<use xlink:href="#cross-stitch" transform="translate(800 -0)"/>
+<use xlink:href="#cross-stitch" transform="translate(-0 133.333) rotate(180)"/>
+<use xlink:href="#seed-stitch" transform="translate(33.333 100) rotate(180)"/>
+<use xlink:href="#cross-stitch" transform="translate(133.333 133.333)"/>
+<use xlink:href="#seed-stitch" transform="translate(100 100)"/>
+<use xlink:href="#seed-stitch" transform="translate(166.667 166.667)"/>
+<use xlink:href="#seed-stitch" transform="translate(300 100) rotate(180)"/>
+<use xlink:href="#seed-stitch" transform="translate(366.667 100)"/>
+<use xlink:href="#cross-stitch" transform="translate(533.333 133.333) rotate(180)"/>
+<use xlink:href="#seed-stitch" transform="translate(500 166.667) rotate(180)"/>
+<use xlink:href="#seed-stitch" transform="translate(566.667 100) rotate(180)"/>
+<use xlink:href="#cross-stitch" transform="translate(666.667 133.333)"/>
+<use xlink:href="#seed-stitch" transform="translate(633.333 100)"/>
+<use xlink:href="#seed-stitch" transform="translate(700 166.667)"/>
+<use xlink:href="#cross-stitch" transform="translate(800 133.333) rotate(180)"/>
+<use xlink:href="#seed-stitch" transform="translate(766.667 166.667) rotate(180)"/>
+<use xlink:href="#cross-stitch" transform="translate(-0 266.667)"/>
+<use xlink:href="#seed-stitch" transform="translate(33.333 300)"/>
+<use xlink:href="#seed-stitch" transform="translate(100 300) rotate(180)"/>
+<use xlink:href="#seed-stitch" transform="translate(566.667 300)"/>
+<use xlink:href="#cross-stitch" transform="translate(666.667 266.667) rotate(180)"/>
+<use xlink:href="#seed-stitch" transform="translate(633.333 300) rotate(180)"/>
+<use xlink:href="#seed-stitch" transform="translate(700 233.333) rotate(180)"/>
+<use xlink:href="#cross-stitch" transform="translate(800 266.667)"/>
+<use xlink:href="#seed-stitch" transform="translate(766.667 233.333)"/>
+<use xlink:href="#cross-stitch" transform="translate(-0 400) rotate(180)"/>
+<use xlink:href="#seed-stitch" transform="translate(33.333 366.667) rotate(180)"/>
+<use xlink:href="#seed-stitch" transform="translate(100 366.667)"/>
+<use xlink:href="#seed-stitch" transform="translate(566.667 366.667) rotate(180)"/>
+<use xlink:href="#cross-stitch" transform="translate(666.667 400)"/>
+<use xlink:href="#seed-stitch" transform="translate(633.333 366.667)"/>
+<use xlink:href="#seed-stitch" transform="translate(700 433.333)"/>
+<use xlink:href="#cross-stitch" transform="translate(800 400) rotate(180)"/>
+<use xlink:href="#seed-stitch" transform="translate(766.667 433.333) rotate(180)"/>
+<use xlink:href="#cross-stitch" transform="translate(-0 533.333)"/>
+<use xlink:href="#seed-stitch" transform="translate(33.333 566.667)"/>
+<use xlink:href="#cross-stitch" transform="translate(133.333 533.333) rotate(180)"/>
+<use xlink:href="#seed-stitch" transform="translate(100 566.667) rotate(180)"/>
+<use xlink:href="#seed-stitch" transform="translate(166.667 500) rotate(180)"/>
+<use xlink:href="#seed-stitch" transform="translate(300 566.667)"/>
+<use xlink:href="#seed-stitch" transform="translate(366.667 566.667) rotate(180)"/>
+<use xlink:href="#cross-stitch" transform="translate(533.333 533.333)"/>
+<use xlink:href="#seed-stitch" transform="translate(500 500)"/>
+<use xlink:href="#seed-stitch" transform="translate(566.667 566.667)"/>
+<use xlink:href="#cross-stitch" transform="translate(666.667 533.333) rotate(180)"/>
+<use xlink:href="#seed-stitch" transform="translate(633.333 566.667) rotate(180)"/>
+<use xlink:href="#seed-stitch" transform="translate(700 500) rotate(180)"/>
+<use xlink:href="#cross-stitch" transform="translate(800 533.333)"/>
+<use xlink:href="#seed-stitch" transform="translate(766.667 500)"/>
+<use xlink:href="#cross-stitch" transform="translate(-0 666.667) rotate(180)"/>
+<use xlink:href="#seed-stitch" transform="translate(33.333 633.333) rotate(180)"/>
+<use xlink:href="#cross-stitch" transform="translate(133.333 666.667)"/>
+<use xlink:href="#seed-stitch" transform="translate(100 633.333)"/>
+<use xlink:href="#seed-stitch" transform="translate(166.667 700)"/>
+<use xlink:href="#cross-stitch" transform="translate(266.667 666.667) rotate(180)"/>
+<use xlink:href="#seed-stitch" transform="translate(233.333 700) rotate(180)"/>
+<use xlink:href="#seed-stitch" transform="translate(300 633.333) rotate(180)"/>
+<use xlink:href="#cross-stitch" transform="translate(400 666.667)"/>
+<use xlink:href="#seed-stitch" transform="translate(366.667 633.333)"/>
+<use xlink:href="#seed-stitch" transform="translate(433.333 700)"/>
+<use xlink:href="#cross-stitch" transform="translate(533.333 666.667) rotate(180)"/>
+<use xlink:href="#seed-stitch" transform="translate(500 700) rotate(180)"/>
+<use xlink:href="#seed-stitch" transform="translate(566.667 633.333) rotate(180)"/>
+<use xlink:href="#cross-stitch" transform="translate(666.667 666.667)"/>
+<use xlink:href="#seed-stitch" transform="translate(633.333 633.333)"/>
+<use xlink:href="#seed-stitch" transform="translate(700 700)"/>
+<use xlink:href="#cross-stitch" transform="translate(800 666.667) rotate(180)"/>
+<use xlink:href="#seed-stitch" transform="translate(766.667 700) rotate(180)"/>
+<use xlink:href="#cross-stitch" transform="translate(-0 800)"/>
+<use xlink:href="#cross-stitch" transform="translate(133.333 800) rotate(180)"/>
+<use xlink:href="#seed-stitch" transform="translate(166.667 766.667) rotate(180)"/>
+<use xlink:href="#cross-stitch" transform="translate(266.667 800)"/>
+<use xlink:href="#seed-stitch" transform="translate(233.333 766.667)"/>
+<use xlink:href="#cross-stitch" transform="translate(400 800) rotate(180)"/>
+<use xlink:href="#seed-stitch" transform="translate(433.333 766.667) rotate(180)"/>
+<use xlink:href="#cross-stitch" transform="translate(533.333 800)"/>
+<use xlink:href="#seed-stitch" transform="translate(500 766.667)"/>
+<use xlink:href="#cross-stitch" transform="translate(666.667 800) rotate(180)"/>
+<use xlink:href="#seed-stitch" transform="translate(700 766.667) rotate(180)"/>
+<use xlink:href="#cross-stitch" transform="translate(800 800)"/>
+<use xlink:href="#seed-stitch" transform="translate(766.667 766.667)"/>
+<use xlink:href="#medallion" transform="translate(333.333 333.333)"/>
+</svg>

@@ -1,0 +1,164 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="320" height="320" viewBox="0 0 320 320">
+<title>The Central Bar, Shepherd’s Bush — aisle carpet with inset roundels and rose junctions</title>
+<defs>
+<g id="trident">
+<path d="M -3,-76 Q -7,-91 -3,-108 Q -1,-120 1,-125 Q 3,-111 2,-97 L 0,-77 Z" fill="#99a7a3" />
+<path d="M -10,-81 Q -18,-91 -18,-103 Q -12,-100 -9,-90 L -7,-81 Z M 6,-86 Q 8,-101 16,-112 Q 15,-98 10,-89 Z" fill="#99a7a3" />
+<path d="M -9,-116 Q -16,-121 -13,-128 Q -8,-125 -9,-116 Z" fill="#99a7a3" />
+</g>
+<g id="reed">
+<path d="M -2,-78 Q -6,-86 -3,-96 Q -2,-101 0,-105 Q 3,-95 1,-85 Z M -8,-102 Q -15,-109 -16,-118 Q -9,-114 -7,-108 Z M 3,-109 Q 5,-118 11,-123 Q 11,-115 6,-109 Z" fill="#99a7a3" />
+</g>
+<g id="outerseed">
+<path d="M -2,-57 Q -6,-55 -6,-50 Q -6,-45 -3,-46 Q 1,-47 4,-53 Q 6,-58 2,-58 Z" fill="#333a3c" />
+<path d="M 5,-57 Q 8,-57 9,-54 L 6,-51 Q 4,-53 5,-57 Z" fill="#998891" />
+</g>
+<g id="petal">
+<path d="M -1,-12 C -9,-17 -12,-25 -8,-32 Q -3,-39 0,-41 Q 8,-38 10,-31 C 11,-24 6,-17 -1,-12 Z" fill="#998891" />
+<path d="M -2,-16 Q -6,-23 -4,-29 Q -2,-31 1,-33 Q 3,-26 -2,-16 Z" fill="#617171" />
+<path d="M 10,-30 Q 13,-35 17,-34 Q 17,-30 12,-26 Z" fill="#52444d" />
+</g>
+<g id="centre">
+<circle cx="0" cy="0" r="65" fill="#99a7a3"/>
+<circle cx="0" cy="0" r="62" fill="#52444d"/>
+<circle cx="0" cy="0" r="58" fill="#617171"/>
+<circle cx="0" cy="0" r="55" fill="#52444d"/>
+<use xlink:href="#outerseed" transform="rotate(5)"/>
+<use xlink:href="#outerseed" transform="rotate(27.5)"/>
+<use xlink:href="#outerseed" transform="rotate(50)"/>
+<use xlink:href="#outerseed" transform="rotate(72.5)"/>
+<use xlink:href="#outerseed" transform="rotate(95)"/>
+<use xlink:href="#outerseed" transform="rotate(117.5)"/>
+<use xlink:href="#outerseed" transform="rotate(140)"/>
+<use xlink:href="#outerseed" transform="rotate(162.5)"/>
+<use xlink:href="#outerseed" transform="rotate(185)"/>
+<use xlink:href="#outerseed" transform="rotate(207.5)"/>
+<use xlink:href="#outerseed" transform="rotate(230)"/>
+<use xlink:href="#outerseed" transform="rotate(252.5)"/>
+<use xlink:href="#outerseed" transform="rotate(275)"/>
+<use xlink:href="#outerseed" transform="rotate(297.5)"/>
+<use xlink:href="#outerseed" transform="rotate(320)"/>
+<use xlink:href="#outerseed" transform="rotate(342.5)"/>
+<circle cx="0" cy="0" r="44" fill="#617171"/>
+<circle cx="0" cy="0" r="42" fill="#99a7a3"/>
+<circle cx="0" cy="0" r="39" fill="#617171"/>
+<use xlink:href="#petal" transform="rotate(0)"/>
+<use xlink:href="#petal" transform="rotate(45)"/>
+<use xlink:href="#petal" transform="rotate(90)"/>
+<use xlink:href="#petal" transform="rotate(135)"/>
+<use xlink:href="#petal" transform="rotate(180)"/>
+<use xlink:href="#petal" transform="rotate(225)"/>
+<use xlink:href="#petal" transform="rotate(270)"/>
+<use xlink:href="#petal" transform="rotate(315)"/>
+<circle cx="0" cy="0" r="14" fill="#998891"/>
+<path d="M 0,-12 L 5,-6 Q 9,-7 11,-2 L 5,3 Q 5,8 1,11 L -4,6 Q -10,6 -11,1 L -5,-4 Q -5,-9 0,-12 Z" fill="#52444d" />
+<circle cx="0" cy="0" r="4" fill="#333a3c"/>
+</g>
+<g id="bay">
+<path d="M 81,26 H 239 A 85,85 0 0 0 294,81 V 239 A 85,85 0 0 0 239,294 H 81 A 85,85 0 0 0 26,239 V 81 A 85,85 0 0 0 81,26 Z" fill="#b4bfbb" stroke="#333a3c" stroke-width="6" stroke-linejoin="round"/>
+<g transform="translate(160 160)">
+<use xlink:href="#trident" transform="rotate(6)"/>
+<use xlink:href="#trident" transform="rotate(51)"/>
+<use xlink:href="#trident" transform="rotate(96)"/>
+<use xlink:href="#trident" transform="rotate(141)"/>
+<use xlink:href="#trident" transform="rotate(186)"/>
+<use xlink:href="#trident" transform="rotate(231)"/>
+<use xlink:href="#trident" transform="rotate(276)"/>
+<use xlink:href="#trident" transform="rotate(321)"/>
+<use xlink:href="#reed" transform="rotate(28)"/>
+<use xlink:href="#reed" transform="rotate(73)"/>
+<use xlink:href="#reed" transform="rotate(118)"/>
+<use xlink:href="#reed" transform="rotate(163)"/>
+<use xlink:href="#reed" transform="rotate(208)"/>
+<use xlink:href="#reed" transform="rotate(253)"/>
+<use xlink:href="#reed" transform="rotate(298)"/>
+<use xlink:href="#reed" transform="rotate(343)"/>
+<use xlink:href="#centre" transform="rotate(0)"/>
+</g>
+</g>
+<g id="rail-link">
+<path d="M -11,0 Q -5,-6 0,-6 Q 6,-5 10,0 Q 5,5 -1,6 Q -7,4 -11,0 Z" fill="#333a3c" />
+<path d="M -5,0 L 0,-2 L 4,0 L -1,2 Z" fill="#617171" />
+<path d="M -10,-9 Q -4,-14 2,-14 Q 0,-10 -6,-8 Z M 3,11 Q 7,7 13,8 Q 9,13 3,13 Z" fill="#99a7a3" />
+<path d="M 6,-12 L 11,-15 L 14,-12 L 10,-9 Z M -9,12 L -5,10 L -3,14 L -8,16 Z" fill="#333a3c" />
+</g>
+<g id="bridge">
+<path d="M 74,-19 Q 117,-16 159,-18 T 246,-19 M 74,19 Q 113,16 159,18 T 246,19" fill="none" stroke="#617171" stroke-width="4"/>
+<use xlink:href="#rail-link" transform="translate(90 0) scale(1 1)"/>
+<use xlink:href="#rail-link" transform="translate(114 0) scale(1 -1)"/>
+<use xlink:href="#rail-link" transform="translate(138 0) scale(1 1)"/>
+<use xlink:href="#rail-link" transform="translate(162 0) scale(1 -1)"/>
+<use xlink:href="#rail-link" transform="translate(186 0) scale(1 1)"/>
+<use xlink:href="#rail-link" transform="translate(210 0) scale(1 -1)"/>
+<use xlink:href="#rail-link" transform="translate(234 0) scale(1 1)"/>
+</g>
+<g id="leafpair">
+<path d="M -14,-55 C -13,-67 -4,-77 1,-78 Q 1,-66 -7,-58 Z M -2,-51 Q 3,-64 15,-69 Q 13,-56 1,-50 Z" fill="#333a3c" />
+<path d="M 3,-73 Q 7,-80 13,-79 Q 13,-75 8,-71 Z M 2,-57 Q 7,-64 11,-64 Q 9,-59 2,-57 Z" fill="#99a7a3" />
+<path d="M -13,-51 L -7,-55 L -6,-51 L -11,-48 Z" fill="#617171" />
+</g>
+<g id="rose-leaf">
+<path d="M -2,-6 C -7,-11 -16,-14 -16,-21 Q -16,-24 -10,-23 Q -14,-29 -8,-29 Q -4,-29 0,-23 Q 3,-30 8,-28 Q 14,-25 10,-19 Q 16,-21 16,-16 C 15,-11 7,-8 1,-5 Z" fill="#998891" />
+<path d="M -3,-9 Q -8,-15 -7,-19 Q -3,-17 0,-12 Q 3,-16 7,-17 Q 6,-12 1,-9 Z" fill="#99a7a3" />
+</g>
+<g id="junction">
+<use xlink:href="#leafpair" transform="rotate(8)"/>
+<use xlink:href="#leafpair" transform="rotate(38)"/>
+<use xlink:href="#leafpair" transform="rotate(68)"/>
+<use xlink:href="#leafpair" transform="rotate(98)"/>
+<use xlink:href="#leafpair" transform="rotate(128)"/>
+<use xlink:href="#leafpair" transform="rotate(158)"/>
+<use xlink:href="#leafpair" transform="rotate(188)"/>
+<use xlink:href="#leafpair" transform="rotate(218)"/>
+<use xlink:href="#leafpair" transform="rotate(248)"/>
+<use xlink:href="#leafpair" transform="rotate(278)"/>
+<use xlink:href="#leafpair" transform="rotate(308)"/>
+<use xlink:href="#leafpair" transform="rotate(338)"/>
+<path d="M 0,-52 Q 9,-41 21,-41 Q 40,-43 41,-25 Q 39,-12 52,0 Q 40,10 41,23 Q 43,42 25,41 Q 11,39 0,52 Q -11,39 -24,41 Q -43,42 -41,23 Q -40,11 -52,0 Q -40,-11 -41,-24 Q -42,-43 -23,-41 Q -11,-39 0,-52 Z" fill="#333a3c" />
+<path d="M 0,-46 C 8,-35 18,-36 28,-35 Q 36,-35 35,-25 Q 32,-10 46,0 Q 34,10 35,25 Q 37,36 26,35 Q 11,33 0,46 Q -11,33 -25,35 Q -36,37 -35,25 Q -32,11 -46,0 Q -33,-12 -35,-26 Q -36,-37 -25,-35 Q -11,-33 0,-46 Z" fill="#52444d" />
+<use xlink:href="#rose-leaf" transform="rotate(45)"/>
+<use xlink:href="#rose-leaf" transform="rotate(135)"/>
+<use xlink:href="#rose-leaf" transform="rotate(225)"/>
+<use xlink:href="#rose-leaf" transform="rotate(315)"/>
+<path d="M 0,-13 L 5,-5 L 13,0 L 5,5 L 0,13 L -6,5 L -13,0 L -5,-5 Z" fill="#998891" />
+<circle cx="0" cy="0" r="4" fill="#99a7a3"/>
+</g>
+</defs>
+<rect width="320" height="320" fill="#617171"/>
+<use xlink:href="#bay" transform="translate(-307 -309)"/>
+<use xlink:href="#bay" transform="translate(-307 11)"/>
+<use xlink:href="#bay" transform="translate(-307 331)"/>
+<use xlink:href="#bay" transform="translate(13 -309)"/>
+<use xlink:href="#bay" transform="translate(13 11)"/>
+<use xlink:href="#bay" transform="translate(13 331)"/>
+<use xlink:href="#bay" transform="translate(333 -309)"/>
+<use xlink:href="#bay" transform="translate(333 11)"/>
+<use xlink:href="#bay" transform="translate(333 331)"/>
+<use xlink:href="#bridge" transform="translate(-307 -309)"/>
+<use xlink:href="#bridge" transform="translate(-307 -309) rotate(90)"/>
+<use xlink:href="#bridge" transform="translate(-307 11)"/>
+<use xlink:href="#bridge" transform="translate(-307 11) rotate(90)"/>
+<use xlink:href="#bridge" transform="translate(-307 331)"/>
+<use xlink:href="#bridge" transform="translate(-307 331) rotate(90)"/>
+<use xlink:href="#bridge" transform="translate(13 -309)"/>
+<use xlink:href="#bridge" transform="translate(13 -309) rotate(90)"/>
+<use xlink:href="#bridge" transform="translate(13 11)"/>
+<use xlink:href="#bridge" transform="translate(13 11) rotate(90)"/>
+<use xlink:href="#bridge" transform="translate(13 331)"/>
+<use xlink:href="#bridge" transform="translate(13 331) rotate(90)"/>
+<use xlink:href="#bridge" transform="translate(333 -309)"/>
+<use xlink:href="#bridge" transform="translate(333 -309) rotate(90)"/>
+<use xlink:href="#bridge" transform="translate(333 11)"/>
+<use xlink:href="#bridge" transform="translate(333 11) rotate(90)"/>
+<use xlink:href="#bridge" transform="translate(333 331)"/>
+<use xlink:href="#bridge" transform="translate(333 331) rotate(90)"/>
+<use xlink:href="#junction" transform="translate(-307 -309)"/>
+<use xlink:href="#junction" transform="translate(-307 11)"/>
+<use xlink:href="#junction" transform="translate(-307 331)"/>
+<use xlink:href="#junction" transform="translate(13 -309)"/>
+<use xlink:href="#junction" transform="translate(13 11)"/>
+<use xlink:href="#junction" transform="translate(13 331)"/>
+<use xlink:href="#junction" transform="translate(333 -309)"/>
+<use xlink:href="#junction" transform="translate(333 11)"/>
+<use xlink:href="#junction" transform="translate(333 331)"/>
+</svg>

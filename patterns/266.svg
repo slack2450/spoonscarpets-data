@@ -1,0 +1,468 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="800" height="800" viewBox="0 0 800 800">
+<title>The Kings Tun, Kingston upon Thames — acanthus roundels, stepped scrolls and floral tablets</title>
+<defs>
+<g id="daisy-petal">
+<path d="M -2.5 -3.8 C -3.3 -5.7 -4.8 -7.6 -4.3 -10.8 C -4 -12.7 -2.9 -14 -1.7 -14.8 Q -.7 -14.8 0 -15.5 Q 1 -14.8 2 -14.7 C 3.9 -13.3 4.8 -10.8 3.7 -8 Q 2.8 -5.4 2.1 -3.9 Z" fill="#DDBD82"/>
+<path d="M -1.9 -4.9 Q -3.4 -8 -2.3 -11.9 Q -2 -9 .4 -7.6 L .4 -5 Z" fill="#B48B53"/>
+</g>
+<g id="daisy">
+<use xlink:href="#daisy-petal" transform="rotate(0 0 0)"/>
+<use xlink:href="#daisy-petal" transform="rotate(45 0 0)"/>
+<use xlink:href="#daisy-petal" transform="rotate(90 0 0)"/>
+<use xlink:href="#daisy-petal" transform="rotate(135 0 0)"/>
+<use xlink:href="#daisy-petal" transform="rotate(180 0 0)"/>
+<use xlink:href="#daisy-petal" transform="rotate(225 0 0)"/>
+<use xlink:href="#daisy-petal" transform="rotate(270 0 0)"/>
+<use xlink:href="#daisy-petal" transform="rotate(315 0 0)"/>
+<circle cx="0" cy="0" r="5.2" fill="#2D2D39"/>
+<circle cx="0" cy="0" r="3.6" fill="#DDBD82"/>
+<path d="M -2.2 -.2 L -.9 -2.3 L 1 -2.1 L .7 -.7 Z" fill="#EFDEB4"/>
+</g>
+<g id="little-seed">
+<path d="M -2 -4 L 1.8 -4.4 L 4.6 -1 L 4.3 1.9 L 1.2 4.4 L -2.6 3.9 L -4.6 1 L -4.2 -1.7 Z" fill="#DDBD82"/>
+</g>
+<g id="frame-link">
+<path d="M 0 1.6 Q 2.1 3 4.7 1.5 Q 6.9 .2 7.8 -2.9 L 9.9 -2.8 Q 9.6 1.2 6.5 3.9 Q 2.9 6.3 0 4.3 Z" fill="#B48B53"/>
+<path d="M 2 -1 Q 1 -3.7 3.1 -4.5 Q 5.3 -4.6 5.5 -2.3 L 4.4 .3 Z" fill="#2D2D39"/>
+</g>
+<g id="running-scroll">
+<path d="M 147 217 C 145 197 130 183 109 184 C 78 184 59 201 57 231 Q 54 252 62 265 L 52 252 Q 54 280 81 287 L 72 289 Q 94 301 110 296 L 100 305 Q 123 310 143 296 L 140 306 Q 170 303 189 285 Q 209 264 207 240 Q 218 232 240 229 L 232 221 Q 209 225 189 231 C 174 232 161 237 151 248 L 150 259 L 172 250 Q 159 274 135 276 C 110 278 92 264 90 240 C 87 222 95 206 110 202 C 124 198 137 207 137 218 L 135 228 Q 146 226 147 217 Z" fill="#DDBD82"/>
+<path d="M 62 254 Q 65 278 85 280 L 77 281 Q 99 293 119 284 Q 91 282 84 263 L 82 269 Z" fill="#B48B53"/>
+<path d="M 157 249 Q 172 236 192 235 L 184 240 L 195 240 Q 186 251 175 258 L 180 247 Z" fill="#EFDEB4"/>
+<path d="M 243 234 C 213 226 197 201 201 165 Q 203 142 208 132 L 204 135 L 213 116 L 217 119 L 228 99 L 234 100 L 234 114 Q 263 93 293 108 Q 325 125 319 161 Q 315 188 298 198 Q 278 210 258 195 Q 239 181 247 164 Q 255 151 275 151 Q 263 161 265 173 Q 269 186 280 181 C 294 175 297 154 292 142 C 284 122 261 120 244 132 Q 218 149 220 179 C 221 205 234 219 253 223 L 251 230 Z" fill="#DDBD82"/>
+<path d="M 211 128 L 220 111 L 223 120 L 233 108 L 229 122 Q 214 141 212 156 Q 208 145 211 128 Z" fill="#EFDEB4"/>
+<path d="M 266 184 Q 285 197 301 180 Q 288 207 268 192 Z" fill="#B48B53"/>
+<path d="M 337 178 C 332 162 342 149 355 145 C 378 138 399 151 401 173 C 407 207 384 231 354 234 C 321 238 283 230 258 237 C 238 242 230 255 232 273 Q 234 296 253 302 Q 275 309 291 291 Q 303 277 292 260 Q 283 249 270 256 Q 255 264 261 276 Q 265 284 274 280 Q 282 277 278 270 Q 294 277 279 289 Q 263 300 249 286 C 234 270 246 248 265 243 C 290 237 309 254 309 277 C 308 300 291 314 270 316 C 241 320 216 300 216 274 C 214 247 228 231 248 224 Q 272 216 315 223 Q 356 229 378 210 Q 397 191 386 167 Q 379 150 365 154 Q 352 157 353 168 Q 355 179 365 177 Q 372 175 371 168 Q 384 176 376 188 Q 366 201 351 193 Q 341 188 337 178 Z" fill="#DDBD82"/>
+<path d="M 218 267 Q 222 243 242 235 Q 227 247 226 266 Q 226 288 239 299 Q 221 290 218 267 Z" fill="#B48B53"/>
+</g>
+<path id="spandrel-outline" d="M 503 70 H 578 V 10 C 684 31 766 109 789 232 H 731 V 297 H 626 V 185 H 503 Z"/>
+<g id="spandrel">
+<path d="M 503 70 H 578 V 10 C 684 31 766 109 789 232 H 731 V 297 H 626 V 185 H 503 Z" fill="#2D2D39" stroke="#EFDEB4" stroke-width="5" stroke-linejoin="miter"/>
+<g transform="translate(495 0) scale(.5)">
+<use xlink:href="#running-scroll"/>
+<use xlink:href="#running-scroll" transform="matrix(0 -1 -1 0 610 610)"/>
+<path d="M 380 243 Q 360 253 351 282 L 343 267 L 323 261 Q 350 256 380 243 Z" fill="#DDBD82"/>
+<path d="M 333 279 L 345 286 L 339 298 L 326 295 L 322 288 Z M 309 303 L 317 310 L 310 318 L 301 312 Z M 293 322 L 299 327 L 292 336 L 285 330 Z" fill="#DDBD82"/>
+</g>
+</g>
+<g id="tablet-flower">
+<g transform="rotate(0 0 0)">
+<path d="M -2 -4 Q -3 -10 -.4 -15.5 Q 3 -10 2 -5 Z" fill="#2D2D39"/>
+</g>
+<g transform="rotate(45 0 0)">
+<path d="M -2 -4 Q -3 -10 -.4 -15.5 Q 3 -10 2 -5 Z" fill="#2D2D39"/>
+</g>
+<g transform="rotate(90 0 0)">
+<path d="M -2 -4 Q -3 -10 -.4 -15.5 Q 3 -10 2 -5 Z" fill="#2D2D39"/>
+</g>
+<g transform="rotate(135 0 0)">
+<path d="M -2 -4 Q -3 -10 -.4 -15.5 Q 3 -10 2 -5 Z" fill="#2D2D39"/>
+</g>
+<g transform="rotate(180 0 0)">
+<path d="M -2 -4 Q -3 -10 -.4 -15.5 Q 3 -10 2 -5 Z" fill="#2D2D39"/>
+</g>
+<g transform="rotate(225 0 0)">
+<path d="M -2 -4 Q -3 -10 -.4 -15.5 Q 3 -10 2 -5 Z" fill="#2D2D39"/>
+</g>
+<g transform="rotate(270 0 0)">
+<path d="M -2 -4 Q -3 -10 -.4 -15.5 Q 3 -10 2 -5 Z" fill="#2D2D39"/>
+</g>
+<g transform="rotate(315 0 0)">
+<path d="M -2 -4 Q -3 -10 -.4 -15.5 Q 3 -10 2 -5 Z" fill="#2D2D39"/>
+</g>
+<use xlink:href="#daisy" transform="rotate(22.5 0 0)"/>
+</g>
+<g id="long-tablet">
+<rect x="-177" y="-65" width="354" height="130" fill="#7D3942"/>
+<rect x="-173" y="-61" width="346" height="122" fill="#7D3942"/>
+<rect x="-158" y="-50" width="316" height="100" fill="#DDBD82"/>
+<rect x="-156" y="-48" width="312" height="96" fill="#2D2D39"/>
+<rect x="-153.5" y="-45.5" width="307" height="91" fill="#64788D"/>
+<g transform="translate(-166 -56) rotate(0 0 0)">
+<use xlink:href="#frame-link" transform="translate(0.0 0)"/>
+<use xlink:href="#frame-link" transform="translate(15.75 0)"/>
+<use xlink:href="#frame-link" transform="translate(31.5 0)"/>
+<use xlink:href="#frame-link" transform="translate(47.25 0)"/>
+<use xlink:href="#frame-link" transform="translate(63.0 0)"/>
+<use xlink:href="#frame-link" transform="translate(78.75 0)"/>
+<use xlink:href="#frame-link" transform="translate(94.5 0)"/>
+<use xlink:href="#frame-link" transform="translate(110.25 0)"/>
+<use xlink:href="#frame-link" transform="translate(126.0 0)"/>
+<use xlink:href="#frame-link" transform="translate(141.75 0)"/>
+<use xlink:href="#frame-link" transform="translate(157.5 0)"/>
+<use xlink:href="#frame-link" transform="translate(173.25 0)"/>
+<use xlink:href="#frame-link" transform="translate(189.0 0)"/>
+<use xlink:href="#frame-link" transform="translate(204.75 0)"/>
+<use xlink:href="#frame-link" transform="translate(220.5 0)"/>
+<use xlink:href="#frame-link" transform="translate(236.25 0)"/>
+<use xlink:href="#frame-link" transform="translate(252.0 0)"/>
+<use xlink:href="#frame-link" transform="translate(267.75 0)"/>
+<use xlink:href="#frame-link" transform="translate(283.5 0)"/>
+<use xlink:href="#frame-link" transform="translate(299.25 0)"/>
+<use xlink:href="#frame-link" transform="translate(315.0 0)"/>
+</g>
+<g transform="translate(166 56) rotate(180 0 0)">
+<use xlink:href="#frame-link" transform="translate(0.0 0)"/>
+<use xlink:href="#frame-link" transform="translate(15.75 0)"/>
+<use xlink:href="#frame-link" transform="translate(31.5 0)"/>
+<use xlink:href="#frame-link" transform="translate(47.25 0)"/>
+<use xlink:href="#frame-link" transform="translate(63.0 0)"/>
+<use xlink:href="#frame-link" transform="translate(78.75 0)"/>
+<use xlink:href="#frame-link" transform="translate(94.5 0)"/>
+<use xlink:href="#frame-link" transform="translate(110.25 0)"/>
+<use xlink:href="#frame-link" transform="translate(126.0 0)"/>
+<use xlink:href="#frame-link" transform="translate(141.75 0)"/>
+<use xlink:href="#frame-link" transform="translate(157.5 0)"/>
+<use xlink:href="#frame-link" transform="translate(173.25 0)"/>
+<use xlink:href="#frame-link" transform="translate(189.0 0)"/>
+<use xlink:href="#frame-link" transform="translate(204.75 0)"/>
+<use xlink:href="#frame-link" transform="translate(220.5 0)"/>
+<use xlink:href="#frame-link" transform="translate(236.25 0)"/>
+<use xlink:href="#frame-link" transform="translate(252.0 0)"/>
+<use xlink:href="#frame-link" transform="translate(267.75 0)"/>
+<use xlink:href="#frame-link" transform="translate(283.5 0)"/>
+<use xlink:href="#frame-link" transform="translate(299.25 0)"/>
+<use xlink:href="#frame-link" transform="translate(315.0 0)"/>
+</g>
+<g transform="translate(-166 46) rotate(-90 0 0)">
+<use xlink:href="#frame-link" transform="translate(0 0)"/>
+<use xlink:href="#frame-link" transform="translate(15 0)"/>
+<use xlink:href="#frame-link" transform="translate(30 0)"/>
+<use xlink:href="#frame-link" transform="translate(45 0)"/>
+<use xlink:href="#frame-link" transform="translate(60 0)"/>
+<use xlink:href="#frame-link" transform="translate(75 0)"/>
+</g>
+<g transform="translate(166 -46) rotate(90 0 0)">
+<use xlink:href="#frame-link" transform="translate(0 0)"/>
+<use xlink:href="#frame-link" transform="translate(15 0)"/>
+<use xlink:href="#frame-link" transform="translate(30 0)"/>
+<use xlink:href="#frame-link" transform="translate(45 0)"/>
+<use xlink:href="#frame-link" transform="translate(60 0)"/>
+<use xlink:href="#frame-link" transform="translate(75 0)"/>
+</g>
+<use xlink:href="#tablet-flower" transform="scale(2.15)"/>
+<use xlink:href="#tablet-flower" transform="translate(-93 0) scale(1.18)"/>
+<use xlink:href="#tablet-flower" transform="translate(93 0) scale(1.18)"/>
+<use xlink:href="#little-seed" transform="translate(-131 0) scale(1.36)"/>
+<use xlink:href="#little-seed" transform="translate(-54 0) scale(1.36)"/>
+<use xlink:href="#little-seed" transform="translate(54 0) scale(1.36)"/>
+<use xlink:href="#little-seed" transform="translate(131 0) scale(1.36)"/>
+</g>
+<g id="wine-tablet">
+<rect x="300" y="63" width="200" height="124" fill="#7D3942"/>
+<rect x="305" y="67" width="190" height="116" fill="#DDBD82"/>
+<rect x="308" y="69" width="184" height="112" fill="#7D3942"/>
+<rect x="317" y="77" width="166" height="97" fill="#EFDEB4"/>
+<rect x="322" y="82" width="156" height="87" fill="#2D2D39"/>
+<rect x="335" y="94" width="130" height="63" fill="#B48B53"/>
+<rect x="337.5" y="96.5" width="125" height="58" fill="#7D3942"/>
+<use xlink:href="#daisy" transform="translate(400 126) scale(1.08)"/>
+<use xlink:href="#little-seed" transform="translate(349 126) scale(0.83)"/>
+<use xlink:href="#little-seed" transform="translate(365 126) scale(1.45)"/>
+<use xlink:href="#little-seed" transform="translate(435 126) scale(1.45)"/>
+<use xlink:href="#little-seed" transform="translate(451 126) scale(0.83)"/>
+</g>
+<g id="large-panel">
+<rect x="182" y="182" width="436" height="436" fill="#EFDEB4"/>
+<rect x="185" y="185" width="430" height="430" fill="#7D3942"/>
+<rect x="203" y="203" width="394" height="394" fill="#B48B53"/>
+<rect x="205" y="205" width="390" height="390" fill="#2D2D39"/>
+<rect x="208" y="208" width="384" height="384" fill="#64788D"/>
+<g transform="rotate(0 400 400)">
+<g transform="translate(190 196) rotate(0 0 0)">
+<use xlink:href="#frame-link" transform="translate(0.0 0)"/>
+<use xlink:href="#frame-link" transform="translate(15.45 0)"/>
+<use xlink:href="#frame-link" transform="translate(30.9 0)"/>
+<use xlink:href="#frame-link" transform="translate(46.35 0)"/>
+<use xlink:href="#frame-link" transform="translate(61.8 0)"/>
+<use xlink:href="#frame-link" transform="translate(77.25 0)"/>
+<use xlink:href="#frame-link" transform="translate(92.7 0)"/>
+<use xlink:href="#frame-link" transform="translate(108.15 0)"/>
+<use xlink:href="#frame-link" transform="translate(123.6 0)"/>
+<use xlink:href="#frame-link" transform="translate(139.05 0)"/>
+<use xlink:href="#frame-link" transform="translate(154.5 0)"/>
+<use xlink:href="#frame-link" transform="translate(169.95 0)"/>
+<use xlink:href="#frame-link" transform="translate(185.4 0)"/>
+<use xlink:href="#frame-link" transform="translate(200.85 0)"/>
+<use xlink:href="#frame-link" transform="translate(216.3 0)"/>
+<use xlink:href="#frame-link" transform="translate(231.75 0)"/>
+<use xlink:href="#frame-link" transform="translate(247.2 0)"/>
+<use xlink:href="#frame-link" transform="translate(262.65 0)"/>
+<use xlink:href="#frame-link" transform="translate(278.1 0)"/>
+<use xlink:href="#frame-link" transform="translate(293.55 0)"/>
+<use xlink:href="#frame-link" transform="translate(309.0 0)"/>
+<use xlink:href="#frame-link" transform="translate(324.45 0)"/>
+<use xlink:href="#frame-link" transform="translate(339.9 0)"/>
+<use xlink:href="#frame-link" transform="translate(355.35 0)"/>
+<use xlink:href="#frame-link" transform="translate(370.8 0)"/>
+<use xlink:href="#frame-link" transform="translate(386.25 0)"/>
+<use xlink:href="#frame-link" transform="translate(401.7 0)"/>
+</g>
+</g>
+<g transform="rotate(90 400 400)">
+<g transform="translate(190 196) rotate(0 0 0)">
+<use xlink:href="#frame-link" transform="translate(0.0 0)"/>
+<use xlink:href="#frame-link" transform="translate(15.45 0)"/>
+<use xlink:href="#frame-link" transform="translate(30.9 0)"/>
+<use xlink:href="#frame-link" transform="translate(46.35 0)"/>
+<use xlink:href="#frame-link" transform="translate(61.8 0)"/>
+<use xlink:href="#frame-link" transform="translate(77.25 0)"/>
+<use xlink:href="#frame-link" transform="translate(92.7 0)"/>
+<use xlink:href="#frame-link" transform="translate(108.15 0)"/>
+<use xlink:href="#frame-link" transform="translate(123.6 0)"/>
+<use xlink:href="#frame-link" transform="translate(139.05 0)"/>
+<use xlink:href="#frame-link" transform="translate(154.5 0)"/>
+<use xlink:href="#frame-link" transform="translate(169.95 0)"/>
+<use xlink:href="#frame-link" transform="translate(185.4 0)"/>
+<use xlink:href="#frame-link" transform="translate(200.85 0)"/>
+<use xlink:href="#frame-link" transform="translate(216.3 0)"/>
+<use xlink:href="#frame-link" transform="translate(231.75 0)"/>
+<use xlink:href="#frame-link" transform="translate(247.2 0)"/>
+<use xlink:href="#frame-link" transform="translate(262.65 0)"/>
+<use xlink:href="#frame-link" transform="translate(278.1 0)"/>
+<use xlink:href="#frame-link" transform="translate(293.55 0)"/>
+<use xlink:href="#frame-link" transform="translate(309.0 0)"/>
+<use xlink:href="#frame-link" transform="translate(324.45 0)"/>
+<use xlink:href="#frame-link" transform="translate(339.9 0)"/>
+<use xlink:href="#frame-link" transform="translate(355.35 0)"/>
+<use xlink:href="#frame-link" transform="translate(370.8 0)"/>
+<use xlink:href="#frame-link" transform="translate(386.25 0)"/>
+<use xlink:href="#frame-link" transform="translate(401.7 0)"/>
+</g>
+</g>
+<g transform="rotate(180 400 400)">
+<g transform="translate(190 196) rotate(0 0 0)">
+<use xlink:href="#frame-link" transform="translate(0.0 0)"/>
+<use xlink:href="#frame-link" transform="translate(15.45 0)"/>
+<use xlink:href="#frame-link" transform="translate(30.9 0)"/>
+<use xlink:href="#frame-link" transform="translate(46.35 0)"/>
+<use xlink:href="#frame-link" transform="translate(61.8 0)"/>
+<use xlink:href="#frame-link" transform="translate(77.25 0)"/>
+<use xlink:href="#frame-link" transform="translate(92.7 0)"/>
+<use xlink:href="#frame-link" transform="translate(108.15 0)"/>
+<use xlink:href="#frame-link" transform="translate(123.6 0)"/>
+<use xlink:href="#frame-link" transform="translate(139.05 0)"/>
+<use xlink:href="#frame-link" transform="translate(154.5 0)"/>
+<use xlink:href="#frame-link" transform="translate(169.95 0)"/>
+<use xlink:href="#frame-link" transform="translate(185.4 0)"/>
+<use xlink:href="#frame-link" transform="translate(200.85 0)"/>
+<use xlink:href="#frame-link" transform="translate(216.3 0)"/>
+<use xlink:href="#frame-link" transform="translate(231.75 0)"/>
+<use xlink:href="#frame-link" transform="translate(247.2 0)"/>
+<use xlink:href="#frame-link" transform="translate(262.65 0)"/>
+<use xlink:href="#frame-link" transform="translate(278.1 0)"/>
+<use xlink:href="#frame-link" transform="translate(293.55 0)"/>
+<use xlink:href="#frame-link" transform="translate(309.0 0)"/>
+<use xlink:href="#frame-link" transform="translate(324.45 0)"/>
+<use xlink:href="#frame-link" transform="translate(339.9 0)"/>
+<use xlink:href="#frame-link" transform="translate(355.35 0)"/>
+<use xlink:href="#frame-link" transform="translate(370.8 0)"/>
+<use xlink:href="#frame-link" transform="translate(386.25 0)"/>
+<use xlink:href="#frame-link" transform="translate(401.7 0)"/>
+</g>
+</g>
+<g transform="rotate(270 400 400)">
+<g transform="translate(190 196) rotate(0 0 0)">
+<use xlink:href="#frame-link" transform="translate(0.0 0)"/>
+<use xlink:href="#frame-link" transform="translate(15.45 0)"/>
+<use xlink:href="#frame-link" transform="translate(30.9 0)"/>
+<use xlink:href="#frame-link" transform="translate(46.35 0)"/>
+<use xlink:href="#frame-link" transform="translate(61.8 0)"/>
+<use xlink:href="#frame-link" transform="translate(77.25 0)"/>
+<use xlink:href="#frame-link" transform="translate(92.7 0)"/>
+<use xlink:href="#frame-link" transform="translate(108.15 0)"/>
+<use xlink:href="#frame-link" transform="translate(123.6 0)"/>
+<use xlink:href="#frame-link" transform="translate(139.05 0)"/>
+<use xlink:href="#frame-link" transform="translate(154.5 0)"/>
+<use xlink:href="#frame-link" transform="translate(169.95 0)"/>
+<use xlink:href="#frame-link" transform="translate(185.4 0)"/>
+<use xlink:href="#frame-link" transform="translate(200.85 0)"/>
+<use xlink:href="#frame-link" transform="translate(216.3 0)"/>
+<use xlink:href="#frame-link" transform="translate(231.75 0)"/>
+<use xlink:href="#frame-link" transform="translate(247.2 0)"/>
+<use xlink:href="#frame-link" transform="translate(262.65 0)"/>
+<use xlink:href="#frame-link" transform="translate(278.1 0)"/>
+<use xlink:href="#frame-link" transform="translate(293.55 0)"/>
+<use xlink:href="#frame-link" transform="translate(309.0 0)"/>
+<use xlink:href="#frame-link" transform="translate(324.45 0)"/>
+<use xlink:href="#frame-link" transform="translate(339.9 0)"/>
+<use xlink:href="#frame-link" transform="translate(355.35 0)"/>
+<use xlink:href="#frame-link" transform="translate(370.8 0)"/>
+<use xlink:href="#frame-link" transform="translate(386.25 0)"/>
+<use xlink:href="#frame-link" transform="translate(401.7 0)"/>
+</g>
+</g>
+</g>
+<g id="corner-spear">
+<path d="M 216 216 Q 225 223 236 221 L 232 229 L 230 234 Q 222 229 220 235 Q 221 225 216 216 Z" fill="#DDBD82"/>
+<use xlink:href="#little-seed" transform="translate(240 240) scale(1 .85)"/>
+<use xlink:href="#little-seed" transform="translate(251 251) scale(.72)"/>
+<use xlink:href="#little-seed" transform="translate(261 261) scale(.48)"/>
+</g>
+<g id="acanthus-fold">
+<path d="M 357 142 Q 349 177 336 199 Q 318 229 287 230 Q 254 233 232 215 Q 206 203 187 182 Q 211 196 220 192 L 216 181 Q 226 195 241 201 L 238 193 Q 252 213 271 216 Q 298 224 313 205 Q 326 188 316 164 L 311 146 Q 324 157 329 175 Q 327 152 319 136 Q 333 147 338 161 L 340 147 Q 347 157 347 165 Q 352 151 357 142 Z" fill="#B48B53"/>
+<path d="M 352 53 Q 345 58 346 75 L 349 80 Q 346 67 353 62 L 358 60 L 361 51 Z" fill="#EFDEB4"/>
+<path d="M 218 117 Q 212 122 212 136 Q 211 146 207 151 Q 220 145 219 135 Z M 163 126 Q 157 135 160 145 L 169 155 Q 165 145 167 138 Z" fill="#EFDEB4"/>
+<path d="M 313 84 Q 313 94 321 104 L 326 106 Q 319 96 320 89 Z" fill="#EFDEB4"/>
+<path d="M 272 123 Q 276 133 275 139 L 285 153 L 287 142 Z" fill="#EFDEB4"/>
+</g>
+<g id="laurel-leaf">
+<path d="M 0 0 Q -7 -1 -10 -9 Q -3 -9 1 -3 Z" fill="#DDBD82"/>
+<path d="M 0 -1 Q -4 -3 -7 -7 Q -1 -6 1 -3 Z" fill="#B48B53"/>
+</g>
+<g id="laurels">
+<g transform="scale(-1 1)">
+<path d="M 0 56 C -75 44 -82 -38 -11 -57" fill="none" stroke="#B48B53" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+<use xlink:href="#laurel-leaf" transform="translate(-6.27 55.2) rotate(-34.0 0 0)"/>
+<use xlink:href="#laurel-leaf" transform="translate(-6.18 54.37) rotate(64.0 0 0) scale(.81 .85)"/>
+<use xlink:href="#laurel-leaf" transform="translate(-19.24 52.57) rotate(-21.3 0 0)"/>
+<use xlink:href="#laurel-leaf" transform="translate(-18.95 51.78) rotate(76.7 0 0) scale(.81 .85)"/>
+<use xlink:href="#laurel-leaf" transform="translate(-31.26 47.37) rotate(-8.6 0 0)"/>
+<use xlink:href="#laurel-leaf" transform="translate(-30.79 46.66) rotate(89.4 0 0) scale(.81 .85)"/>
+<use xlink:href="#laurel-leaf" transform="translate(-41.75 39.86) rotate(4.1 0 0)"/>
+<use xlink:href="#laurel-leaf" transform="translate(-41.13 39.26) rotate(102.1 0 0) scale(.81 .85)"/>
+<use xlink:href="#laurel-leaf" transform="translate(-50.21 30.39) rotate(16.8 0 0)"/>
+<use xlink:href="#laurel-leaf" transform="translate(-49.45 29.93) rotate(114.8 0 0) scale(.81 .85)"/>
+<use xlink:href="#laurel-leaf" transform="translate(-56.2 19.44) rotate(29.5 0 0)"/>
+<use xlink:href="#laurel-leaf" transform="translate(-55.36 19.14) rotate(127.5 0 0) scale(.81 .85)"/>
+<use xlink:href="#laurel-leaf" transform="translate(-59.44 7.53) rotate(42.2 0 0)"/>
+<use xlink:href="#laurel-leaf" transform="translate(-58.55 7.42) rotate(140.2 0 0) scale(.81 .85)"/>
+<use xlink:href="#laurel-leaf" transform="translate(-59.78 -4.74) rotate(54.9 0 0)"/>
+<use xlink:href="#laurel-leaf" transform="translate(-58.88 -4.67) rotate(152.9 0 0) scale(.81 .85)"/>
+<use xlink:href="#laurel-leaf" transform="translate(-57.19 -16.78) rotate(67.6 0 0)"/>
+<use xlink:href="#laurel-leaf" transform="translate(-56.33 -16.53) rotate(165.6 0 0) scale(.81 .85)"/>
+<use xlink:href="#laurel-leaf" transform="translate(-51.8 -28.0) rotate(80.3 0 0)"/>
+<use xlink:href="#laurel-leaf" transform="translate(-51.03 -27.58) rotate(178.3 0 0) scale(.81 .85)"/>
+<use xlink:href="#laurel-leaf" transform="translate(-43.88 -37.85) rotate(93.0 0 0)"/>
+<use xlink:href="#laurel-leaf" transform="translate(-43.22 -37.28) rotate(191.0 0 0) scale(.81 .85)"/>
+<use xlink:href="#laurel-leaf" transform="translate(-33.81 -45.85) rotate(105.7 0 0)"/>
+<use xlink:href="#laurel-leaf" transform="translate(-33.3 -45.16) rotate(203.7 0 0) scale(.81 .85)"/>
+<use xlink:href="#laurel-leaf" transform="translate(-22.09 -51.6) rotate(118.4 0 0)"/>
+<use xlink:href="#laurel-leaf" transform="translate(-21.76 -50.83) rotate(216.4 0 0) scale(.81 .85)"/>
+</g>
+<g transform="scale(1 1)">
+<path d="M 0 56 C -75 44 -82 -38 -11 -57" fill="none" stroke="#B48B53" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+<use xlink:href="#laurel-leaf" transform="translate(-6.27 55.2) rotate(-34.0 0 0)"/>
+<use xlink:href="#laurel-leaf" transform="translate(-6.18 54.37) rotate(64.0 0 0) scale(.81 .85)"/>
+<use xlink:href="#laurel-leaf" transform="translate(-19.24 52.57) rotate(-21.3 0 0)"/>
+<use xlink:href="#laurel-leaf" transform="translate(-18.95 51.78) rotate(76.7 0 0) scale(.81 .85)"/>
+<use xlink:href="#laurel-leaf" transform="translate(-31.26 47.37) rotate(-8.6 0 0)"/>
+<use xlink:href="#laurel-leaf" transform="translate(-30.79 46.66) rotate(89.4 0 0) scale(.81 .85)"/>
+<use xlink:href="#laurel-leaf" transform="translate(-41.75 39.86) rotate(4.1 0 0)"/>
+<use xlink:href="#laurel-leaf" transform="translate(-41.13 39.26) rotate(102.1 0 0) scale(.81 .85)"/>
+<use xlink:href="#laurel-leaf" transform="translate(-50.21 30.39) rotate(16.8 0 0)"/>
+<use xlink:href="#laurel-leaf" transform="translate(-49.45 29.93) rotate(114.8 0 0) scale(.81 .85)"/>
+<use xlink:href="#laurel-leaf" transform="translate(-56.2 19.44) rotate(29.5 0 0)"/>
+<use xlink:href="#laurel-leaf" transform="translate(-55.36 19.14) rotate(127.5 0 0) scale(.81 .85)"/>
+<use xlink:href="#laurel-leaf" transform="translate(-59.44 7.53) rotate(42.2 0 0)"/>
+<use xlink:href="#laurel-leaf" transform="translate(-58.55 7.42) rotate(140.2 0 0) scale(.81 .85)"/>
+<use xlink:href="#laurel-leaf" transform="translate(-59.78 -4.74) rotate(54.9 0 0)"/>
+<use xlink:href="#laurel-leaf" transform="translate(-58.88 -4.67) rotate(152.9 0 0) scale(.81 .85)"/>
+<use xlink:href="#laurel-leaf" transform="translate(-57.19 -16.78) rotate(67.6 0 0)"/>
+<use xlink:href="#laurel-leaf" transform="translate(-56.33 -16.53) rotate(165.6 0 0) scale(.81 .85)"/>
+<use xlink:href="#laurel-leaf" transform="translate(-51.8 -28.0) rotate(80.3 0 0)"/>
+<use xlink:href="#laurel-leaf" transform="translate(-51.03 -27.58) rotate(178.3 0 0) scale(.81 .85)"/>
+<use xlink:href="#laurel-leaf" transform="translate(-43.88 -37.85) rotate(93.0 0 0)"/>
+<use xlink:href="#laurel-leaf" transform="translate(-43.22 -37.28) rotate(191.0 0 0) scale(.81 .85)"/>
+<use xlink:href="#laurel-leaf" transform="translate(-33.81 -45.85) rotate(105.7 0 0)"/>
+<use xlink:href="#laurel-leaf" transform="translate(-33.3 -45.16) rotate(203.7 0 0) scale(.81 .85)"/>
+<use xlink:href="#laurel-leaf" transform="translate(-22.09 -51.6) rotate(118.4 0 0)"/>
+<use xlink:href="#laurel-leaf" transform="translate(-21.76 -50.83) rotate(216.4 0 0) scale(.81 .85)"/>
+</g>
+<path d="M -9 -55 Q -6 -60 0 -58 Q -2 -53 -8 -53 Z M 1 -57 Q 4 -61 8 -57 L 5 -53 Z" fill="#DDBD82"/>
+<path d="M -2 55 Q 1 52 5 54 L 3 58 L -1 58 Z" fill="#DDBD82"/>
+</g>
+<g id="acanthus-roundel">
+<circle cx="400" cy="400" r="177" fill="#B48B53"/>
+<circle cx="400" cy="400" r="175" fill="#2D2D39"/>
+<circle cx="400" cy="400" r="168.5" fill="#DDBD82"/>
+<circle cx="400" cy="400" r="167" fill="#7D3942"/>
+<path d="M 400.00 244.00 C 397.00 245.00 395.00 245.50 394.00 248.50 L 390.00 250.00 Q 388.00 252.50 390.50 260.00 L 391.50 267.00 Q 388.50 265.50 387.50 262.00 L 384.50 265.00 382.00 261.00 376.50 260.50 Q 373.00 262.00 374.00 267.00 Q 373.00 271.50 379.50 280.50 L 377.50 282.00 381.50 287.00 Q 376.00 287.00 371.50 279.00 L 369.00 281.00 366.50 275.00 362.50 275.50 361.00 272.50 356.50 275.50 354.50 280.00 350.50 277.50 349.50 272.50 347.00 275.00 Q 345.50 284.00 352.00 291.50 L 349.00 290.00 352.50 296.00 C 361.00 298.50 364.50 308.50 368.00 315.50 Q 371.50 321.50 365.00 329.00 C 359.00 335.00 348.00 333.00 344.00 326.50 Q 351.50 328.00 353.50 324.50 Q 345.00 324.00 343.50 317.50 Q 351.50 315.50 350.50 308.00 L 347.50 301.00 343.50 300.00 345.00 295.50 341.50 295.00 338.00 298.50 Q 340.00 289.50 337.00 281.50 L 333.50 277.00 332.00 272.50 329.00 275.00 328.00 279.50 325.00 281.50 323.50 291.00 322.50 293.50 320.50 288.50 317.50 296.00 314.50 295.00 Q 316.50 287.00 310.50 283.50 L 307.00 284.00 304.50 280.00 300.50 281.00 Q 295.50 283.00 295.50 291.50 L 293.00 294.50 291.50 289.50 287.50 290.50 Q 285.50 286.00 281.00 281.00 Q 286.00 285.50 290.50 287.50 L 289.50 291.50 294.50 293.00 291.50 295.50 Q 283.00 295.50 281.00 300.50 L 280.00 304.50 284.00 307.00 283.50 310.50 Q 287.00 316.50 295.00 314.50 L 296.00 317.50 288.50 320.50 293.50 322.50 291.00 323.50 281.50 325.00 279.50 328.00 275.00 329.00 272.50 332.00 277.00 333.50 281.50 337.00 Q 289.50 340.00 298.50 338.00 L 295.00 341.50 295.50 345.00 300.00 343.50 301.00 347.50 308.00 350.50 Q 315.50 351.50 317.50 343.50 Q 324.00 345.00 324.50 353.50 Q 328.00 351.50 326.50 344.00 C 333.00 348.00 335.00 359.00 329.00 365.00 Q 321.50 371.50 315.50 368.00 C 308.50 364.50 298.50 361.00 296.00 352.50 L 290.00 349.00 291.50 352.00 Q 284.00 345.50 275.00 347.00 L 272.50 349.50 277.50 350.50 280.00 354.50 275.50 356.50 272.50 361.00 275.50 362.50 275.00 366.50 281.00 369.00 279.00 371.50 Q 287.00 376.00 287.00 381.50 L 282.00 377.50 280.50 379.50 Q 271.50 373.00 267.00 374.00 Q 262.00 373.00 260.50 376.50 L 261.00 382.00 265.00 384.50 262.00 387.50 Q 265.50 388.50 267.00 391.50 L 260.00 390.50 Q 252.50 388.00 250.00 390.00 L 248.50 394.00 C 245.50 395.00 245.00 397.00 244.00 400.00 C 245.00 403.00 245.50 405.00 248.50 406.00 L 250.00 410.00 Q 252.50 412.00 260.00 409.50 L 267.00 408.50 Q 265.50 411.50 262.00 412.50 L 265.00 415.50 261.00 418.00 260.50 423.50 Q 262.00 427.00 267.00 426.00 Q 271.50 427.00 280.50 420.50 L 282.00 422.50 287.00 418.50 Q 287.00 424.00 279.00 428.50 L 281.00 431.00 275.00 433.50 275.50 437.50 272.50 439.00 275.50 443.50 280.00 445.50 277.50 449.50 272.50 450.50 275.00 453.00 Q 284.00 454.50 291.50 448.00 L 290.00 451.00 296.00 447.50 C 298.50 439.00 308.50 435.50 315.50 432.00 Q 321.50 428.50 329.00 435.00 C 335.00 441.00 333.00 452.00 326.50 456.00 Q 328.00 448.50 324.50 446.50 Q 324.00 455.00 317.50 456.50 Q 315.50 448.50 308.00 449.50 L 301.00 452.50 300.00 456.50 295.50 455.00 295.00 458.50 298.50 462.00 Q 289.50 460.00 281.50 463.00 L 277.00 466.50 272.50 468.00 275.00 471.00 279.50 472.00 281.50 475.00 291.00 476.50 293.50 477.50 288.50 479.50 296.00 482.50 295.00 485.50 Q 287.00 483.50 283.50 489.50 L 284.00 493.00 280.00 495.50 281.00 499.50 Q 283.00 504.50 291.50 504.50 L 294.50 507.00 289.50 508.50 290.50 512.50 Q 286.00 514.50 281.00 519.00 Q 285.50 514.00 287.50 509.50 L 291.50 510.50 293.00 505.50 295.50 508.50 Q 295.50 517.00 300.50 519.00 L 304.50 520.00 307.00 516.00 310.50 516.50 Q 316.50 513.00 314.50 505.00 L 317.50 504.00 320.50 511.50 322.50 506.50 323.50 509.00 325.00 518.50 328.00 520.50 329.00 525.00 332.00 527.50 333.50 523.00 337.00 518.50 Q 340.00 510.50 338.00 501.50 L 341.50 505.00 345.00 504.50 343.50 500.00 347.50 499.00 350.50 492.00 Q 351.50 484.50 343.50 482.50 Q 345.00 476.00 353.50 475.50 Q 351.50 472.00 344.00 473.50 C 348.00 467.00 359.00 465.00 365.00 471.00 Q 371.50 478.50 368.00 484.50 C 364.50 491.50 361.00 501.50 352.50 504.00 L 349.00 510.00 352.00 508.50 Q 345.50 516.00 347.00 525.00 L 349.50 527.50 350.50 522.50 354.50 520.00 356.50 524.50 361.00 527.50 362.50 524.50 366.50 525.00 369.00 519.00 371.50 521.00 Q 376.00 513.00 381.50 513.00 L 377.50 518.00 379.50 519.50 Q 373.00 528.50 374.00 533.00 Q 373.00 538.00 376.50 539.50 L 382.00 539.00 384.50 535.00 387.50 538.00 Q 388.50 534.50 391.50 533.00 L 390.50 540.00 Q 388.00 547.50 390.00 550.00 L 394.00 551.50 C 395.00 554.50 397.00 555.00 400.00 556.00 C 403.00 555.00 405.00 554.50 406.00 551.50 L 410.00 550.00 Q 412.00 547.50 409.50 540.00 L 408.50 533.00 Q 411.50 534.50 412.50 538.00 L 415.50 535.00 418.00 539.00 423.50 539.50 Q 427.00 538.00 426.00 533.00 Q 427.00 528.50 420.50 519.50 L 422.50 518.00 418.50 513.00 Q 424.00 513.00 428.50 521.00 L 431.00 519.00 433.50 525.00 437.50 524.50 439.00 527.50 443.50 524.50 445.50 520.00 449.50 522.50 450.50 527.50 453.00 525.00 Q 454.50 516.00 448.00 508.50 L 451.00 510.00 447.50 504.00 C 439.00 501.50 435.50 491.50 432.00 484.50 Q 428.50 478.50 435.00 471.00 C 441.00 465.00 452.00 467.00 456.00 473.50 Q 448.50 472.00 446.50 475.50 Q 455.00 476.00 456.50 482.50 Q 448.50 484.50 449.50 492.00 L 452.50 499.00 456.50 500.00 455.00 504.50 458.50 505.00 462.00 501.50 Q 460.00 510.50 463.00 518.50 L 466.50 523.00 468.00 527.50 471.00 525.00 472.00 520.50 475.00 518.50 476.50 509.00 477.50 506.50 479.50 511.50 482.50 504.00 485.50 505.00 Q 483.50 513.00 489.50 516.50 L 493.00 516.00 495.50 520.00 499.50 519.00 Q 504.50 517.00 504.50 508.50 L 507.00 505.50 508.50 510.50 512.50 509.50 Q 514.50 514.00 519.00 519.00 Q 514.00 514.50 509.50 512.50 L 510.50 508.50 505.50 507.00 508.50 504.50 Q 517.00 504.50 519.00 499.50 L 520.00 495.50 516.00 493.00 516.50 489.50 Q 513.00 483.50 505.00 485.50 L 504.00 482.50 511.50 479.50 506.50 477.50 509.00 476.50 518.50 475.00 520.50 472.00 525.00 471.00 527.50 468.00 523.00 466.50 518.50 463.00 Q 510.50 460.00 501.50 462.00 L 505.00 458.50 504.50 455.00 500.00 456.50 499.00 452.50 492.00 449.50 Q 484.50 448.50 482.50 456.50 Q 476.00 455.00 475.50 446.50 Q 472.00 448.50 473.50 456.00 C 467.00 452.00 465.00 441.00 471.00 435.00 Q 478.50 428.50 484.50 432.00 C 491.50 435.50 501.50 439.00 504.00 447.50 L 510.00 451.00 508.50 448.00 Q 516.00 454.50 525.00 453.00 L 527.50 450.50 522.50 449.50 520.00 445.50 524.50 443.50 527.50 439.00 524.50 437.50 525.00 433.50 519.00 431.00 521.00 428.50 Q 513.00 424.00 513.00 418.50 L 518.00 422.50 519.50 420.50 Q 528.50 427.00 533.00 426.00 Q 538.00 427.00 539.50 423.50 L 539.00 418.00 535.00 415.50 538.00 412.50 Q 534.50 411.50 533.00 408.50 L 540.00 409.50 Q 547.50 412.00 550.00 410.00 L 551.50 406.00 C 554.50 405.00 555.00 403.00 556.00 400.00 C 555.00 397.00 554.50 395.00 551.50 394.00 L 550.00 390.00 Q 547.50 388.00 540.00 390.50 L 533.00 391.50 Q 534.50 388.50 538.00 387.50 L 535.00 384.50 539.00 382.00 539.50 376.50 Q 538.00 373.00 533.00 374.00 Q 528.50 373.00 519.50 379.50 L 518.00 377.50 513.00 381.50 Q 513.00 376.00 521.00 371.50 L 519.00 369.00 525.00 366.50 524.50 362.50 527.50 361.00 524.50 356.50 520.00 354.50 522.50 350.50 527.50 349.50 525.00 347.00 Q 516.00 345.50 508.50 352.00 L 510.00 349.00 504.00 352.50 C 501.50 361.00 491.50 364.50 484.50 368.00 Q 478.50 371.50 471.00 365.00 C 465.00 359.00 467.00 348.00 473.50 344.00 Q 472.00 351.50 475.50 353.50 Q 476.00 345.00 482.50 343.50 Q 484.50 351.50 492.00 350.50 L 499.00 347.50 500.00 343.50 504.50 345.00 505.00 341.50 501.50 338.00 Q 510.50 340.00 518.50 337.00 L 523.00 333.50 527.50 332.00 525.00 329.00 520.50 328.00 518.50 325.00 509.00 323.50 506.50 322.50 511.50 320.50 504.00 317.50 505.00 314.50 Q 513.00 316.50 516.50 310.50 L 516.00 307.00 520.00 304.50 519.00 300.50 Q 517.00 295.50 508.50 295.50 L 505.50 293.00 510.50 291.50 509.50 287.50 Q 514.00 285.50 519.00 281.00 Q 514.50 286.00 512.50 290.50 L 508.50 289.50 507.00 294.50 504.50 291.50 Q 504.50 283.00 499.50 281.00 L 495.50 280.00 493.00 284.00 489.50 283.50 Q 483.50 287.00 485.50 295.00 L 482.50 296.00 479.50 288.50 477.50 293.50 476.50 291.00 475.00 281.50 472.00 279.50 471.00 275.00 468.00 272.50 466.50 277.00 463.00 281.50 Q 460.00 289.50 462.00 298.50 L 458.50 295.00 455.00 295.50 456.50 300.00 452.50 301.00 449.50 308.00 Q 448.50 315.50 456.50 317.50 Q 455.00 324.00 446.50 324.50 Q 448.50 328.00 456.00 326.50 C 452.00 333.00 441.00 335.00 435.00 329.00 Q 428.50 321.50 432.00 315.50 C 435.50 308.50 439.00 298.50 447.50 296.00 L 451.00 290.00 448.00 291.50 Q 454.50 284.00 453.00 275.00 L 450.50 272.50 449.50 277.50 445.50 280.00 443.50 275.50 439.00 272.50 437.50 275.50 433.50 275.00 431.00 281.00 428.50 279.00 Q 424.00 287.00 418.50 287.00 L 422.50 282.00 420.50 280.50 Q 427.00 271.50 426.00 267.00 Q 427.00 262.00 423.50 260.50 L 418.00 261.00 415.50 265.00 412.50 262.00 Q 411.50 265.50 408.50 267.00 L 409.50 260.00 Q 412.00 252.50 410.00 250.00 L 406.00 248.50 C 405.00 245.50 403.00 245.00 400.00 244.00 Z" fill="#DDBD82"/>
+<g transform="translate(400 400) rotate(0 0 0) scale(.5) translate(-360 -356)">
+<use xlink:href="#acanthus-fold"/>
+</g>
+<g transform="translate(400 400) rotate(0 0 0) scale(.5) matrix(0 1 1 0 0 0) translate(-360 -356)">
+<use xlink:href="#acanthus-fold"/>
+</g>
+<g transform="translate(400 400) rotate(90 0 0) scale(.5) translate(-360 -356)">
+<use xlink:href="#acanthus-fold"/>
+</g>
+<g transform="translate(400 400) rotate(90 0 0) scale(.5) matrix(0 1 1 0 0 0) translate(-360 -356)">
+<use xlink:href="#acanthus-fold"/>
+</g>
+<g transform="translate(400 400) rotate(180 0 0) scale(.5) translate(-360 -356)">
+<use xlink:href="#acanthus-fold"/>
+</g>
+<g transform="translate(400 400) rotate(180 0 0) scale(.5) matrix(0 1 1 0 0 0) translate(-360 -356)">
+<use xlink:href="#acanthus-fold"/>
+</g>
+<g transform="translate(400 400) rotate(270 0 0) scale(.5) translate(-360 -356)">
+<use xlink:href="#acanthus-fold"/>
+</g>
+<g transform="translate(400 400) rotate(270 0 0) scale(.5) matrix(0 1 1 0 0 0) translate(-360 -356)">
+<use xlink:href="#acanthus-fold"/>
+</g>
+<path d="M 400.00 294.00 C 397.00 310.00 394.50 324.50 383.00 334.00 C 366.00 348.50 346.00 339.50 333.00 331.00 Q 321.00 320.00 309.50 309.50 Q 320.00 321.00 331.00 333.00 C 339.50 346.00 348.50 366.00 334.00 383.00 C 324.50 394.50 310.00 397.00 294.00 400.00 C 310.00 403.00 324.50 405.50 334.00 417.00 C 348.50 434.00 339.50 454.00 331.00 467.00 Q 320.00 479.00 309.50 490.50 Q 321.00 480.00 333.00 469.00 C 346.00 460.50 366.00 451.50 383.00 466.00 C 394.50 475.50 397.00 490.00 400.00 506.00 C 403.00 490.00 405.50 475.50 417.00 466.00 C 434.00 451.50 454.00 460.50 467.00 469.00 Q 479.00 480.00 490.50 490.50 Q 480.00 479.00 469.00 467.00 C 460.50 454.00 451.50 434.00 466.00 417.00 C 475.50 405.50 490.00 403.00 506.00 400.00 C 490.00 397.00 475.50 394.50 466.00 383.00 C 451.50 366.00 460.50 346.00 469.00 333.00 Q 480.00 321.00 490.50 309.50 Q 479.00 320.00 467.00 331.00 C 454.00 339.50 434.00 348.50 417.00 334.00 C 405.50 324.50 403.00 310.00 400.00 294.00 Z" fill="#2D2D39"/>
+<use xlink:href="#laurels" transform="translate(400 400) scale(1.04 .99)"/>
+<use xlink:href="#daisy" transform="translate(400 400) scale(2.94)"/>
+</g>
+<g id="diamond-anthemion">
+<path d="M -38 -80 C -40 -91 -29 -97 -23 -88 Q -21 -83 -26 -82 Q -29 -82 -30 -85 Q -35 -82 -31 -78 Q -27 -73 -19 -77 Q -8 -86 0 -85 Q 6 -85 15 -79 Q 24 -71 30 -75 Q 35 -78 31 -83 Q 28 -86 25 -81 Q 21 -84 23 -88 Q 28 -95 35 -90 Q 43 -85 39 -77 Q 34 -65 24 -67 Q 14 -68 7 -75 Q 0 -81 -7 -75 Q -18 -65 -27 -67 Q -37 -67 -38 -80 Z" fill="#DDBD82"/>
+<path d="M 0 -113 L 6 -105 L 2 -99 L 0 -96 L -6 -103 Z M -1 -89 Q -7 -95 -14 -93 Q -13 -100 -6 -99 Q -1 -98 0 -94 Q 4 -103 11 -100 L 16 -96 Q 6 -95 -1 -89 Z" fill="#DDBD82"/>
+<path d="M 0 -128 L 3 -123 L 0 -118 L -3 -123 Z" fill="#2D2D39"/>
+</g>
+<g id="corner-roundel">
+<use xlink:href="#laurels" transform="scale(1 .99)"/>
+<circle cx="0" cy="0" r="51.5" fill="#B48B53"/>
+<circle cx="0" cy="0" r="49.5" fill="#7D3942"/>
+<use xlink:href="#daisy" transform="scale(2.77)"/>
+<use xlink:href="#diamond-anthemion" transform="rotate(0 0 0)"/>
+<use xlink:href="#diamond-anthemion" transform="rotate(90 0 0)"/>
+<use xlink:href="#diamond-anthemion" transform="rotate(180 0 0)"/>
+<use xlink:href="#diamond-anthemion" transform="rotate(270 0 0)"/>
+</g>
+<g id="four-outlines">
+<use xlink:href="#spandrel-outline" transform="rotate(0 400 400)"/>
+<use xlink:href="#spandrel-outline" transform="rotate(90 400 400)"/>
+<use xlink:href="#spandrel-outline" transform="rotate(180 400 400)"/>
+<use xlink:href="#spandrel-outline" transform="rotate(270 400 400)"/>
+</g>
+<g id="wrapped-outlines">
+<use xlink:href="#four-outlines" transform="translate(-800 -800)"/>
+<use xlink:href="#four-outlines" transform="translate(-800 0)"/>
+<use xlink:href="#four-outlines" transform="translate(-800 800)"/>
+<use xlink:href="#four-outlines" transform="translate(0 -800)"/>
+<use xlink:href="#four-outlines" transform="translate(0 0)"/>
+<use xlink:href="#four-outlines" transform="translate(0 800)"/>
+<use xlink:href="#four-outlines" transform="translate(800 -800)"/>
+<use xlink:href="#four-outlines" transform="translate(800 0)"/>
+<use xlink:href="#four-outlines" transform="translate(800 800)"/>
+</g>
+</defs>
+<rect x="0" y="0" width="800" height="800" fill="#64788D"/>
+<use xlink:href="#wrapped-outlines" fill="#2D2D39" stroke="#2D2D39" stroke-width="39" stroke-linejoin="miter"/>
+<use xlink:href="#wrapped-outlines" fill="#DDBD82" stroke="#DDBD82" stroke-width="35" stroke-linejoin="miter"/>
+<use xlink:href="#wrapped-outlines" fill="#7D3942" stroke="#7D3942" stroke-width="31" stroke-linejoin="miter"/>
+<use xlink:href="#spandrel" transform="rotate(0 400 400)"/>
+<use xlink:href="#spandrel" transform="rotate(90 400 400)"/>
+<use xlink:href="#spandrel" transform="rotate(180 400 400)"/>
+<use xlink:href="#spandrel" transform="rotate(270 400 400)"/>
+<use xlink:href="#long-tablet" transform="translate(400 0) rotate(0 0 0)"/>
+<use xlink:href="#long-tablet" transform="translate(400 800) rotate(0 0 0)"/>
+<use xlink:href="#long-tablet" transform="translate(0 400) rotate(90 0 0)"/>
+<use xlink:href="#long-tablet" transform="translate(800 400) rotate(90 0 0)"/>
+<use xlink:href="#wine-tablet" transform="rotate(0 400 400)"/>
+<use xlink:href="#wine-tablet" transform="rotate(90 400 400)"/>
+<use xlink:href="#wine-tablet" transform="rotate(180 400 400)"/>
+<use xlink:href="#wine-tablet" transform="rotate(270 400 400)"/>
+<use xlink:href="#large-panel"/>
+<use xlink:href="#corner-spear" transform="rotate(0 400 400)"/>
+<use xlink:href="#corner-spear" transform="rotate(90 400 400)"/>
+<use xlink:href="#corner-spear" transform="rotate(180 400 400)"/>
+<use xlink:href="#corner-spear" transform="rotate(270 400 400)"/>
+<use xlink:href="#acanthus-roundel"/>
+<use xlink:href="#corner-roundel" transform="translate(0 0)"/>
+<use xlink:href="#corner-roundel" transform="translate(0 800)"/>
+<use xlink:href="#corner-roundel" transform="translate(800 0)"/>
+<use xlink:href="#corner-roundel" transform="translate(800 800)"/>
+</svg>

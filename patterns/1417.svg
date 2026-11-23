@@ -1,0 +1,102 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" width="240" height="720" viewBox="0 0 240 720">
+  <title>The Three John Scotts, Kingston upon Hull — interlocking diamonds and paired spindle ornaments</title>
+  <defs>
+    <g id="large-diamond">
+      <path d="M -56.5 -78.5 H 56.5 L 79 -55.5 V 55.5 L 57 78.5 H -57 L -79 55.5 V -55.5 Z" fill="#A54C46" />
+      <path d="M 0 -75.8 L 75.8 0 0 75.8 -75.8 0 Z" fill="#192126" stroke="#C9BFA6" stroke-width="2.1" stroke-linejoin="round" />
+      <rect x="-32.8" y="-32.8" width="65.6" height="65.6" fill="#906E58" />
+      <path d="M -32.40 -32.40 L -30.81 -31.60 L -28.51 -32.05 M 32.40 -32.40 L 31.60 -30.81 L 32.05 -28.51 M 32.40 32.40 L 30.81 31.60 L 28.51 32.05 M -32.40 32.40 L -31.60 30.81 L -32.05 28.51 M -26.51 -32.40 L -24.92 -31.60 L -22.62 -32.05 M 32.40 -26.51 L 31.60 -24.92 L 32.05 -22.62 M 26.51 32.40 L 24.92 31.60 L 22.62 32.05 M -32.40 26.51 L -31.60 24.92 L -32.05 22.62 M -20.62 -32.40 L -19.03 -31.60 L -16.73 -32.05 M 32.40 -20.62 L 31.60 -19.03 L 32.05 -16.73 M 20.62 32.40 L 19.03 31.60 L 16.73 32.05 M -32.40 20.62 L -31.60 19.03 L -32.05 16.73 M -14.73 -32.40 L -13.14 -31.60 L -10.84 -32.05 M 32.40 -14.73 L 31.60 -13.14 L 32.05 -10.84 M 14.73 32.40 L 13.14 31.60 L 10.84 32.05 M -32.40 14.73 L -31.60 13.14 L -32.05 10.84 M -8.84 -32.40 L -7.25 -31.60 L -4.95 -32.05 M 32.40 -8.84 L 31.60 -7.25 L 32.05 -4.95 M 8.84 32.40 L 7.25 31.60 L 4.95 32.05 M -32.40 8.84 L -31.60 7.25 L -32.05 4.95 M -2.95 -32.40 L -1.35 -31.60 L 0.94 -32.05 M 32.40 -2.95 L 31.60 -1.35 L 32.05 0.94 M 2.95 32.40 L 1.35 31.60 L -0.94 32.05 M -32.40 2.95 L -31.60 1.35 L -32.05 -0.94 M 2.95 -32.40 L 4.54 -31.60 L 6.83 -32.05 M 32.40 2.95 L 31.60 4.54 L 32.05 6.83 M -2.95 32.40 L -4.54 31.60 L -6.83 32.05 M -32.40 -2.95 L -31.60 -4.54 L -32.05 -6.83 M 8.84 -32.40 L 10.43 -31.60 L 12.72 -32.05 M 32.40 8.84 L 31.60 10.43 L 32.05 12.72 M -8.84 32.40 L -10.43 31.60 L -12.72 32.05 M -32.40 -8.84 L -31.60 -10.43 L -32.05 -12.72 M 14.73 -32.40 L 16.32 -31.60 L 18.62 -32.05 M 32.40 14.73 L 31.60 16.32 L 32.05 18.62 M -14.73 32.40 L -16.32 31.60 L -18.62 32.05 M -32.40 -14.73 L -31.60 -16.32 L -32.05 -18.62 M 20.62 -32.40 L 22.21 -31.60 L 24.51 -32.05 M 32.40 20.62 L 31.60 22.21 L 32.05 24.51 M -20.62 32.40 L -22.21 31.60 L -24.51 32.05 M -32.40 -20.62 L -31.60 -22.21 L -32.05 -24.51 M 26.51 -32.40 L 28.10 -31.60 L 30.40 -32.05 M 32.40 26.51 L 31.60 28.10 L 32.05 30.40 M -26.51 32.40 L -28.10 31.60 L -30.40 32.05 M -32.40 -26.51 L -31.60 -28.10 L -32.05 -30.40" fill="none" stroke="#C9BFA6" stroke-width="1.2" stroke-linecap="square" />
+      <rect x="-22.4" y="-22.4" width="44.8" height="44.8" fill="#ABB2AE" />
+    </g>
+    <g id="corner-inset">
+      <path d="M -54 -36.5 L -36.5 -56.4 Q -35.6 -57.4 -33.8 -57.4 L -9.1 -57.4 -55.1 -12.2 -55.1 -34.8 Q -55.1 -35.4 -54 -36.5 Z" fill="#192126" />
+    </g>
+    <g id="small-diamond">
+      <use xlink:href="#corner-inset" x="0" y="0" transform="rotate(0)" />
+      <use xlink:href="#corner-inset" x="0" y="0" transform="rotate(90)" />
+      <use xlink:href="#corner-inset" x="0" y="0" transform="rotate(180)" />
+      <use xlink:href="#corner-inset" x="0" y="0" transform="rotate(270)" />
+      <path d="M -2.2 -52.1 H 2.2 L 51 -3 V 3 L 2.4 51.6 H -2.4 L -51 3 V -3 Z" fill="#906E58" />
+      <path d="M -21.30 -21.30 L -19.86 -20.50 L -17.79 -20.95 M 21.30 -21.30 L 20.50 -19.86 L 20.95 -17.79 M 21.30 21.30 L 19.86 20.50 L 17.79 20.95 M -21.30 21.30 L -20.50 19.86 L -20.95 17.79 M -15.98 -21.30 L -14.54 -20.50 L -12.46 -20.95 M 21.30 -15.98 L 20.50 -14.54 L 20.95 -12.46 M 15.98 21.30 L 14.54 20.50 L 12.46 20.95 M -21.30 15.98 L -20.50 14.54 L -20.95 12.46 M -10.65 -21.30 L -9.21 -20.50 L -7.14 -20.95 M 21.30 -10.65 L 20.50 -9.21 L 20.95 -7.14 M 10.65 21.30 L 9.21 20.50 L 7.14 20.95 M -21.30 10.65 L -20.50 9.21 L -20.95 7.14 M -5.32 -21.30 L -3.89 -20.50 L -1.81 -20.95 M 21.30 -5.32 L 20.50 -3.89 L 20.95 -1.81 M 5.32 21.30 L 3.89 20.50 L 1.81 20.95 M -21.30 5.32 L -20.50 3.89 L -20.95 1.81 M 0.00 -21.30 L 1.44 -20.50 L 3.51 -20.95 M 21.30 0.00 L 20.50 1.44 L 20.95 3.51 M -0.00 21.30 L -1.44 20.50 L -3.51 20.95 M -21.30 -0.00 L -20.50 -1.44 L -20.95 -3.51 M 5.32 -21.30 L 6.76 -20.50 L 8.84 -20.95 M 21.30 5.32 L 20.50 6.76 L 20.95 8.84 M -5.32 21.30 L -6.76 20.50 L -8.84 20.95 M -21.30 -5.32 L -20.50 -6.76 L -20.95 -8.84 M 10.65 -21.30 L 12.09 -20.50 L 14.16 -20.95 M 21.30 10.65 L 20.50 12.09 L 20.95 14.16 M -10.65 21.30 L -12.09 20.50 L -14.16 20.95 M -21.30 -10.65 L -20.50 -12.09 L -20.95 -14.16 M 15.97 -21.30 L 17.41 -20.50 L 19.49 -20.95 M 21.30 15.97 L 20.50 17.41 L 20.95 19.49 M -15.97 21.30 L -17.41 20.50 L -19.49 20.95 M -21.30 -15.97 L -20.50 -17.41 L -20.95 -19.49" fill="none" stroke="#C9BFA6" stroke-width="1.2" stroke-linecap="square" />
+      <rect x="-18.7" y="-18.7" width="37.4" height="37.4" fill="#ABB2AE" />
+    </g>
+    <g id="octagonal-rail">
+      <path d="M -94 -40.8 L -41.5 -96.7 H 41.5 L 94 -40.8 V 40.8 L 41.5 96.7 H -41.5 L -94 40.8 Z" fill="none" stroke="#906E58" stroke-width="4.9" stroke-linejoin="round" />
+    </g>
+    <g id="upright-spindle">
+      <path d="M 0 -16.4 L 4 -12.3 Q 10.1 -8.3 10.1 -2 L 10.1 2 Q 9.9 8.1 4 12.6 L 0 16.6 -4.1 12.4 Q -10.3 8.6 -10.3 1.6 V -1.7 Q -10.2 -8 -4.3 -12.1 Z" fill="#906E58" />
+    </g>
+    <g id="dark-pair">
+      <rect x="-36.1" y="-56.8" width="29.5" height="113.6" fill="#A54C46" />
+      <rect x="-36.1" y="-23.4" width="29.5" height="46.8" fill="#192126" />
+      <rect x="6.6" y="-56.8" width="29.5" height="113.6" fill="#A54C46" />
+      <rect x="6.6" y="-23.4" width="29.5" height="46.8" fill="#192126" />
+      <use xlink:href="#upright-spindle" x="-20.7" y="0" />
+      <use xlink:href="#upright-spindle" x="20.7" y="0" />
+    </g>
+    <g id="russet-pair">
+      <rect x="-36.1" y="-56.8" width="29.5" height="113.6" fill="#A54C46" />
+      <rect x="6.6" y="-56.8" width="29.5" height="113.6" fill="#A54C46" />
+      <use xlink:href="#upright-spindle" x="-20.7" y="0" />
+      <use xlink:href="#upright-spindle" x="20.7" y="0" />
+    </g>
+    <g id="brown-crossbars">
+      <rect x="-56.8" y="-38.7" width="113.6" height="28.8" fill="#A54C46" />
+      <g transform="translate(0 -24.3)">
+        <path d="M -19.8 0 L -16.8 -3.8 Q -13.2 -7.9 -6 -9.3 L -3.4 -13.8 -2.1 -14.5 H 2.2 L 4.3 -10.5 Q 11.5 -9.1 16.7 -4.7 L 20.0 0 16.4 4.1 Q 11.2 8.4 4.6 9.6 L 2.3 14.5 H -2.2 L -4.8 10.1 Q -12.5 8.4 -16.4 4.1 Z" fill="#906E58" />
+      </g>
+      <rect x="-56.8" y="9.9" width="113.6" height="28.8" fill="#A54C46" />
+      <g transform="translate(0 24.3)">
+        <path d="M -19.8 0 L -16.8 -3.8 Q -13.2 -7.9 -6 -9.3 L -3.4 -13.8 -2.1 -14.5 H 2.2 L 4.3 -10.5 Q 11.5 -9.1 16.7 -4.7 L 20.0 0 16.4 4.1 Q 11.2 8.4 4.6 9.6 L 2.3 14.5 H -2.2 L -4.8 10.1 Q -12.5 8.4 -16.4 4.1 Z" fill="#906E58" />
+      </g>
+    </g>
+    <g id="silver-crossbars">
+      <rect x="-56.8" y="-38.7" width="113.6" height="28.8" fill="#A54C46" />
+      <g transform="translate(0 -24.3)">
+        <path d="M -19.8 0 L -16.8 -3.8 Q -13.2 -7.9 -6 -9.3 L -3.4 -13.8 -2.1 -14.5 H 2.2 L 4.3 -10.5 Q 11.5 -9.1 16.7 -4.7 L 20.0 0 16.4 4.1 Q 11.2 8.4 4.6 9.6 L 2.3 14.5 H -2.2 L -4.8 10.1 Q -12.5 8.4 -16.4 4.1 Z" fill="#ABB2AE" />
+      </g>
+      <rect x="-56.8" y="9.9" width="113.6" height="28.8" fill="#A54C46" />
+      <g transform="translate(0 24.3)">
+        <path d="M -19.8 0 L -16.8 -3.8 Q -13.2 -7.9 -6 -9.3 L -3.4 -13.8 -2.1 -14.5 H 2.2 L 4.3 -10.5 Q 11.5 -9.1 16.7 -4.7 L 20.0 0 16.4 4.1 Q 11.2 8.4 4.6 9.6 L 2.3 14.5 H -2.2 L -4.8 10.1 Q -12.5 8.4 -16.4 4.1 Z" fill="#ABB2AE" />
+      </g>
+    </g>
+  </defs>
+  <rect x="0" y="0" width="240" height="720" fill="#C9BFA6" />
+  <g>
+    <use xlink:href="#large-diamond" x="58" y="51" />
+    <use xlink:href="#large-diamond" x="298" y="51" />
+    <use xlink:href="#large-diamond" x="58" y="291" />
+    <use xlink:href="#large-diamond" x="298" y="291" />
+    <use xlink:href="#large-diamond" x="58" y="531" />
+    <use xlink:href="#large-diamond" x="298" y="531" />
+    <use xlink:href="#large-diamond" x="58" y="771" />
+    <use xlink:href="#large-diamond" x="298" y="771" />
+  </g>
+  <g>
+    <use xlink:href="#small-diamond" x="178" y="171" />
+    <use xlink:href="#small-diamond" x="178" y="411" />
+    <use xlink:href="#small-diamond" x="178" y="651" />
+  </g>
+  <g>
+    <use xlink:href="#dark-pair" x="178" y="51" />
+    <use xlink:href="#russet-pair" x="178" y="291" />
+    <use xlink:href="#dark-pair" x="178" y="531" />
+    <use xlink:href="#dark-pair" x="178" y="771" />
+  </g>
+  <g>
+    <use xlink:href="#brown-crossbars" x="58" y="171" />
+    <use xlink:href="#brown-crossbars" x="58" y="411" />
+    <use xlink:href="#silver-crossbars" x="58" y="651" />
+  </g>
+  <g>
+    <use xlink:href="#octagonal-rail" x="-62" y="-69" />
+    <use xlink:href="#octagonal-rail" x="178" y="-69" />
+    <use xlink:href="#octagonal-rail" x="-62" y="171" />
+    <use xlink:href="#octagonal-rail" x="178" y="171" />
+    <use xlink:href="#octagonal-rail" x="-62" y="411" />
+    <use xlink:href="#octagonal-rail" x="178" y="411" />
+    <use xlink:href="#octagonal-rail" x="-62" y="651" />
+    <use xlink:href="#octagonal-rail" x="178" y="651" />
+  </g>
+</svg>

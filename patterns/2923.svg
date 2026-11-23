@@ -1,0 +1,158 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1024" height="1024" viewBox="0 0 1024 1024">
+  <title>The Wheatsheaf, Ellesmere Port — checked lozenges and paired scrolls</title>
+  <defs>
+    <g id="flax-field">
+      <path fill="#C1B69D" d="M256 129 L282 91 Q287 85 295 85 L318 85 Q324 86 327 93 L436 216 Q446 231 465 244 L482 254 L462 269 Q448 277 438 293 L326 423 Q323 427 316 427 L288 427 L256 384 L225 427 L194 427 Q189 425 185 418 L74 291 Q58 274 33 257 Q58 240 74 220 L187 91 Q191 85 197 85 L224 85 Z" />
+    </g>
+    <path id="side-check" d="M-13 -8 L-5 -14 L6 -14 L14 -6 L14 6 L7 14 L-5 14 L-13 7 Z" />
+    <path id="woven-square" d="M-13 -14 L9 -14 L14 -9 L14 11 L10 14 L-13 14 L-15 9 L-15 -9 Z" />
+    <path id="high-check" d="M-12 -14 L8 -14 L14 -8 L14 12 L9 14 L-13 14 L-14 -8 Z" />
+    <path id="head-check" d="M-10 -12 L8 -12 L15 -4 L15 9 L9 14 L-12 13 L-14 5 Z" />
+    <path id="short-check" d="M-11 -11 L9 -11 L12 -7 L12 9 L7 12 L-11 12 Z" />
+    <g id="coal-quarter">
+      <use xlink:href="#head-check" transform="translate(193 126)" fill="#A79679" />
+      <use xlink:href="#woven-square" transform="translate(155 162)" fill="#A79679" />
+      <use xlink:href="#high-check" transform="translate(120 198)" fill="#A79679" />
+      <use xlink:href="#high-check" transform="translate(155 236)" fill="#A79679" />
+      <use xlink:href="#woven-square" transform="translate(193 200)" fill="#A79679" />
+      <use xlink:href="#short-check" transform="translate(228 164)" fill="#A79679" />
+      <use xlink:href="#woven-square" transform="translate(119 235)" fill="#A29D99" />
+      <use xlink:href="#high-check" transform="translate(155 200)" fill="#A29D99" />
+      <use xlink:href="#woven-square" transform="translate(194 164)" fill="#A29D99" />
+      <use xlink:href="#head-check" transform="translate(227 129)" fill="#A29D99" />
+    </g>
+    <g id="coal-medallion">
+      <use xlink:href="#flax-field" />
+      <use xlink:href="#coal-quarter" />
+      <use xlink:href="#coal-quarter" transform="translate(512 0) scale(-1 1)" />
+      <use xlink:href="#coal-quarter" transform="translate(0 512) scale(1 -1)" />
+      <use xlink:href="#coal-quarter" transform="translate(512 512) scale(-1 -1)" />
+      <use xlink:href="#side-check" transform="translate(77 256)" fill="#A29D99" />
+      <use xlink:href="#side-check" transform="translate(435 256)" fill="#A29D99" />
+      <path fill="#29292C" d="M253 150 Q256 146 260 151 L350 249 Q355 255 350 262 L260 361 Q256 366 252 361 L161 262 Q157 256 161 250 Z" />
+      <path fill="#C4C2B4" d="M253 175 Q256 171 260 176 L323 249 Q328 255 323 262 L260 336 Q256 341 252 336 L188 262 Q184 256 188 250 Z" />
+      <path fill="#A68375" d="M253 202 Q256 198 260 203 L300 249 Q305 255 300 262 L260 309 Q256 314 252 309 L211 262 Q207 256 211 250 Z" />
+      <path fill="#29292C" d="M253 227 Q256 223 260 228 L279 249 Q284 255 279 262 L260 284 Q256 289 252 284 L232 262 Q228 256 232 250 Z" />
+    </g>
+    <g id="rose-quarter">
+      <use xlink:href="#high-check" transform="translate(155 236)" fill="#A29D99" />
+      <use xlink:href="#woven-square" transform="translate(193 200)" fill="#A29D99" />
+      <use xlink:href="#short-check" transform="translate(228 164)" fill="#A29D99" />
+      <use xlink:href="#woven-square" transform="translate(119 235)" fill="#A79679" />
+      <use xlink:href="#high-check" transform="translate(155 200)" fill="#A79679" />
+      <use xlink:href="#woven-square" transform="translate(194 164)" fill="#A79679" />
+      <use xlink:href="#head-check" transform="translate(227 129)" fill="#A79679" />
+    </g>
+    <g id="rose-medallion">
+      <use xlink:href="#rose-quarter" />
+      <use xlink:href="#rose-quarter" transform="translate(512 0) scale(-1 1)" />
+      <use xlink:href="#rose-quarter" transform="translate(0 512) scale(1 -1)" />
+      <use xlink:href="#rose-quarter" transform="translate(512 512) scale(-1 -1)" />
+      <use xlink:href="#side-check" transform="translate(77 256)" fill="#A29D99" />
+      <use xlink:href="#side-check" transform="translate(435 256)" fill="#A29D99" />
+      <path fill="#29292C" d="M253 150 Q256 146 260 151 L350 249 Q355 255 350 262 L260 361 Q256 366 252 361 L161 262 Q157 256 161 250 Z" />
+      <path fill="#A68375" d="M253 175 Q256 171 260 176 L323 249 Q328 255 323 262 L260 336 Q256 341 252 336 L188 262 Q184 256 188 250 Z" />
+      <path fill="#A29D99" d="M253 213 Q256 209 260 214 L289 249 Q294 255 289 262 L260 298 Q256 303 252 298 L222 262 Q218 256 222 250 Z" />
+      <path fill="#A79679" d="M253 242 Q256 238 260 243 L267 249 Q272 255 267 262 L260 269 Q256 274 252 269 L244 262 Q240 256 244 250 Z" />
+    </g>
+    <g id="scroll">
+      <path fill="#A29D99" d="M256 47 C239 38 232 9 210 9 C198 10 191 21 181 28 L76 151 C69 159 68 169 76 186 C83 205 92 214 106 212 C123 211 137 204 137 186 L136 177 C145 173 163 178 178 178 C195 180 201 184 216 184 L256 184 L296 184 C311 184 317 180 334 178 C349 178 367 173 376 177 L375 186 C375 204 389 211 406 212 C420 214 429 205 436 186 C444 169 443 159 436 151 L331 28 C321 21 314 10 302 9 C280 9 273 38 256 47 Z" />
+      <path fill="#29292C" d="M256 49 C243 39 233 10 218 5 Q211 1 205 5 C196 12 192 21 185 24 L174 29 L78 141 Q68 153 58 158 L35 158 Q29 155 24 147 L5 123 Q3 120 0 120 L0 139 Q10 149 18 166 L25 174 L66 174 Q71 173 76 164 L176 47 Q184 36 195 31 C200 29 204 24 209 24 C224 23 234 39 242 53 Q248 63 248 75 L249 96 Q248 109 243 108 C233 95 227 74 213 71 C200 69 187 77 180 86 L119 153 C110 162 105 168 105 178 Q105 185 113 183 Q126 182 134 167 L140 158 L144 168 Q147 175 152 175 L182 175 C175 163 170 153 171 140 C172 123 184 108 200 106 L218 106 C231 107 239 117 240 128 C240 135 233 139 225 138 L212 137 Q205 137 208 145 Q211 157 224 158 L256 158 L288 158 Q301 157 304 145 Q307 137 300 137 L287 138 C279 139 272 135 272 128 C273 117 281 107 294 106 L312 106 C328 108 340 123 341 140 C342 153 337 163 330 175 L360 175 Q365 175 368 168 L372 158 L378 167 Q386 182 399 183 Q407 185 407 178 C407 168 402 162 393 153 L332 86 C325 77 312 69 299 71 C285 74 279 95 269 108 Q264 109 263 96 L264 75 Q264 63 270 53 C278 39 288 23 303 24 C308 24 312 29 317 31 Q328 36 336 47 L436 164 Q441 173 446 174 L487 174 L494 166 Q502 149 512 139 L512 120 Q509 120 507 123 L488 147 Q483 155 477 158 L454 158 Q444 153 434 141 L338 29 L327 24 C320 21 316 12 307 5 Q301 1 294 5 C279 10 269 39 256 49 Z" />
+    </g>
+    <g id="notch">
+      <path fill="#29292C" d="M-14 171 L-5 158 Q-2 153 0 153 Q3 153 6 159 L14 171 Q10 174 5 173 L0 171 L-6 174 L-13 174 Z" />
+      <path fill="#29292C" d="M-23 184 Q-13 180 -2 182 Q10 180 22 184 L22 189 Q14 192 3 190 L-5 191 L-23 190 Z" />
+    </g>
+    <g id="belt-fork">
+      <path fill="#A29D99" d="M256 248 L213 248 Q195 247 185 234 L175 219 Q169 211 160 211 L149 212 Q143 213 138 221 L125 240 L139 238 Q149 232 157 238 L166 249 Q169 255 166 261 L158 271 Q152 277 142 274 L125 270 L138 291 Q144 301 155 301 L163 301 Q173 301 179 289 L188 275 Q195 264 214 264 L256 264 L298 264 Q317 264 324 275 L333 289 Q339 301 349 301 L357 301 Q368 301 374 291 L387 270 L370 274 Q360 277 354 271 L346 261 Q343 255 346 249 L355 238 Q363 232 373 238 L387 240 L374 221 Q369 213 363 212 L352 211 Q343 211 337 219 L327 234 Q317 247 299 248 L256 248 Z" />
+    </g>
+    <g id="berry">
+      <path fill="#29292C" d="M-11 -3 Q-10 -9 -6 -12 L-2 -15 Q3 -17 6 -12 L9 -7 Q14 -4 12 2 L8 9 Q6 14 1 16 Q-4 16 -7 12 L-11 6 Z" />
+    </g>
+    <g id="fork-details">
+      <use xlink:href="#berry" transform="translate(202 226)" />
+      <use xlink:href="#berry" transform="translate(202 286)" />
+      <use xlink:href="#berry" transform="translate(310 226)" />
+      <use xlink:href="#berry" transform="translate(310 286)" />
+      <path fill="#A79679" d="M226 239 L228 225 L237 213 L244 216 L251 210 L257 214 L264 210 L271 214 L280 228 L282 239 L268 241 L241 241 Z" />
+      <path fill="#A79679" d="M226 273 L241 271 L268 271 L282 273 L280 284 L271 298 L264 302 L257 298 L251 302 L244 296 L237 299 L228 287 Z" />
+    </g>
+    <g id="belt-rosette">
+      <use xlink:href="#berry" transform="translate(0 227) scale(1.34 1.19)" />
+      <use xlink:href="#berry" transform="translate(0 285) scale(1.34 1.19)" />
+      <g transform="scale(-1 1)">
+        <path fill="#A79679" d="M7 248 L16 237 Q23 229 29 237 L40 251 Q44 256 40 262 L29 277 Q23 282 17 277 L7 267 Q0 259 7 248 Z" />
+        <path fill="#29292C" d="M57 232 Q63 237 65 244 L73 253 Q76 256 72 260 L65 267 L59 280 L55 277 L56 266 L54 259 L55 247 Z" />
+      </g>
+      <g transform="scale(1 1)">
+        <path fill="#A79679" d="M7 248 L16 237 Q23 229 29 237 L40 251 Q44 256 40 262 L29 277 Q23 282 17 277 L7 267 Q0 259 7 248 Z" />
+        <path fill="#29292C" d="M57 232 Q63 237 65 244 L73 253 Q76 256 72 260 L65 267 L59 280 L55 277 L56 266 L54 259 L55 247 Z" />
+      </g>
+    </g>
+    <g id="join-lozenge">
+      <path fill="#C1B69D" d="M0 -43 Q10 -33 15 -22 L32 0 Q20 13 13 26 L0 42 L-13 26 Q-20 13 -32 0 L-15 -22 Z" />
+      <path fill="#A68375" d="M-2 -28 Q1 -31 5 -25 L19 -5 Q24 0 19 6 L4 26 Q0 31 -4 26 L-20 5 Q-24 0 -20 -6 Z" />
+    </g>
+  </defs>
+  <rect width="1024" height="1024" fill="#C4C2B4" />
+  <use xlink:href="#coal-medallion" transform="translate(-256 -256)" />
+  <use xlink:href="#rose-medallion" transform="translate(256 -256)" />
+  <use xlink:href="#coal-medallion" transform="translate(768 -256)" />
+  <use xlink:href="#rose-medallion" transform="translate(-256 256)" />
+  <use xlink:href="#coal-medallion" transform="translate(256 256)" />
+  <use xlink:href="#rose-medallion" transform="translate(768 256)" />
+  <use xlink:href="#coal-medallion" transform="translate(-256 768)" />
+  <use xlink:href="#rose-medallion" transform="translate(256 768)" />
+  <use xlink:href="#coal-medallion" transform="translate(768 768)" />
+  <use xlink:href="#join-lozenge" transform="translate(256 0)" />
+  <use xlink:href="#scroll" transform="translate(0 0)" />
+  <use xlink:href="#scroll" transform="translate(0 0) scale(1 -1)" />
+  <use xlink:href="#join-lozenge" transform="translate(768 0)" />
+  <use xlink:href="#scroll" transform="translate(512 0)" />
+  <use xlink:href="#scroll" transform="translate(512 0) scale(1 -1)" />
+  <use xlink:href="#notch" transform="translate(0 0)" />
+  <use xlink:href="#notch" transform="translate(0 0) scale(1 -1)" />
+  <use xlink:href="#notch" transform="translate(512 0)" />
+  <use xlink:href="#notch" transform="translate(512 0) scale(1 -1)" />
+  <use xlink:href="#notch" transform="translate(1024 0)" />
+  <use xlink:href="#notch" transform="translate(1024 0) scale(1 -1)" />
+  <use xlink:href="#join-lozenge" transform="translate(256 512)" />
+  <use xlink:href="#scroll" transform="translate(0 512)" />
+  <use xlink:href="#scroll" transform="translate(0 512) scale(1 -1)" />
+  <use xlink:href="#join-lozenge" transform="translate(768 512)" />
+  <use xlink:href="#scroll" transform="translate(512 512)" />
+  <use xlink:href="#scroll" transform="translate(512 512) scale(1 -1)" />
+  <use xlink:href="#notch" transform="translate(0 512)" />
+  <use xlink:href="#notch" transform="translate(0 512) scale(1 -1)" />
+  <use xlink:href="#notch" transform="translate(512 512)" />
+  <use xlink:href="#notch" transform="translate(512 512) scale(1 -1)" />
+  <use xlink:href="#notch" transform="translate(1024 512)" />
+  <use xlink:href="#notch" transform="translate(1024 512) scale(1 -1)" />
+  <use xlink:href="#join-lozenge" transform="translate(256 1024)" />
+  <use xlink:href="#scroll" transform="translate(0 1024)" />
+  <use xlink:href="#scroll" transform="translate(0 1024) scale(1 -1)" />
+  <use xlink:href="#join-lozenge" transform="translate(768 1024)" />
+  <use xlink:href="#scroll" transform="translate(512 1024)" />
+  <use xlink:href="#scroll" transform="translate(512 1024) scale(1 -1)" />
+  <use xlink:href="#notch" transform="translate(0 1024)" />
+  <use xlink:href="#notch" transform="translate(0 1024) scale(1 -1)" />
+  <use xlink:href="#notch" transform="translate(512 1024)" />
+  <use xlink:href="#notch" transform="translate(512 1024) scale(1 -1)" />
+  <use xlink:href="#notch" transform="translate(1024 1024)" />
+  <use xlink:href="#notch" transform="translate(1024 1024) scale(1 -1)" />
+  <use xlink:href="#belt-fork" transform="translate(0 0)" />
+  <use xlink:href="#fork-details" transform="translate(0 0)" />
+  <use xlink:href="#belt-fork" transform="translate(512 0)" />
+  <use xlink:href="#fork-details" transform="translate(512 0)" />
+  <use xlink:href="#belt-rosette" transform="translate(0 0)" />
+  <use xlink:href="#belt-rosette" transform="translate(512 0)" />
+  <use xlink:href="#belt-rosette" transform="translate(1024 0)" />
+  <use xlink:href="#belt-fork" transform="translate(0 512)" />
+  <use xlink:href="#fork-details" transform="translate(0 512)" />
+  <use xlink:href="#belt-fork" transform="translate(512 512)" />
+  <use xlink:href="#fork-details" transform="translate(512 512)" />
+  <use xlink:href="#belt-rosette" transform="translate(0 512)" />
+  <use xlink:href="#belt-rosette" transform="translate(512 512)" />
+  <use xlink:href="#belt-rosette" transform="translate(1024 512)" />
+</svg>

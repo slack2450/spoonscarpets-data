@@ -1,0 +1,100 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="432" height="432" viewBox="0 0 432 432">
+  <title>The Greenwood Hotel, Northolt — stepped carpet mosaic</title>
+  <desc>Walnut and camel blocks interlock with espresso steps, a silver elbow, peach insets and bands of alternating horizontal yarns.</desc>
+  <defs>
+    <g id="repeat">
+      <rect x="0" y="0" width="432" height="432" fill="#9d7e66"/>
+      <rect x="48" y="0" width="96" height="48" fill="#85695d"/>
+      <rect x="96" y="96" width="96" height="96" fill="#85695d"/>
+      <rect x="336" y="96" width="96" height="96" fill="#85695d"/>
+      <rect x="48" y="288" width="96" height="48" fill="#85695d"/>
+      <rect x="192" y="240" width="48" height="96" fill="#85695d"/>
+      <rect x="336" y="240" width="24" height="48" fill="#85695d"/>
+      <rect x="240" y="384" width="96" height="48" fill="#85695d"/>
+      <rect x="336" y="0" width="96" height="96" fill="#85695d"/>
+      <rect x="336" y="2.06" width="96" height="3.43" fill="#dfaf89"/>
+      <rect x="336" y="8.91" width="96" height="3.43" fill="#dfaf89"/>
+      <rect x="336" y="15.77" width="96" height="3.43" fill="#dfaf89"/>
+      <rect x="336" y="22.63" width="96" height="3.43" fill="#dfaf89"/>
+      <rect x="336" y="29.49" width="96" height="3.42" fill="#dfaf89"/>
+      <rect x="336" y="36.34" width="96" height="3.43" fill="#dfaf89"/>
+      <rect x="336" y="43.2" width="96" height="3.43" fill="#dfaf89"/>
+      <rect x="336" y="50.06" width="96" height="3.43" fill="#dfaf89"/>
+      <rect x="336" y="56.91" width="96" height="3.43" fill="#dfaf89"/>
+      <rect x="336" y="63.77" width="96" height="3.43" fill="#dfaf89"/>
+      <rect x="336" y="70.63" width="96" height="3.43" fill="#dfaf89"/>
+      <rect x="336" y="77.49" width="96" height="3.42" fill="#dfaf89"/>
+      <rect x="336" y="84.34" width="96" height="3.43" fill="#dfaf89"/>
+      <rect x="336" y="91.2" width="96" height="3.43" fill="#dfaf89"/>
+      <rect x="96" y="192" width="96" height="48" fill="#85695d"/>
+      <rect x="96" y="194.06" width="96" height="3.43" fill="#dfaf89"/>
+      <rect x="96" y="200.91" width="96" height="3.43" fill="#dfaf89"/>
+      <rect x="96" y="207.77" width="96" height="3.43" fill="#dfaf89"/>
+      <rect x="96" y="214.63" width="96" height="3.43" fill="#dfaf89"/>
+      <rect x="96" y="221.49" width="96" height="3.42" fill="#dfaf89"/>
+      <rect x="96" y="228.34" width="96" height="3.43" fill="#dfaf89"/>
+      <rect x="96" y="235.2" width="96" height="3.43" fill="#dfaf89"/>
+      <rect x="0" y="288" width="48" height="48" fill="#797973"/>
+      <rect x="0" y="290.13" width="48" height="3.29" fill="#cdb9aa"/>
+      <rect x="0" y="296.98" width="48" height="3.29" fill="#cdb9aa"/>
+      <rect x="0" y="303.84" width="48" height="3.29" fill="#cdb9aa"/>
+      <rect x="0" y="310.7" width="48" height="3.29" fill="#cdb9aa"/>
+      <rect x="0" y="317.55" width="48" height="3.3" fill="#cdb9aa"/>
+      <rect x="0" y="324.41" width="48" height="3.29" fill="#cdb9aa"/>
+      <rect x="0" y="331.27" width="48" height="3.29" fill="#cdb9aa"/>
+      <rect x="240" y="288" width="96" height="48" fill="#85695d"/>
+      <rect x="240" y="290.3" width="96" height="2.95" fill="#dfaf89"/>
+      <rect x="240" y="297.15" width="96" height="2.95" fill="#dfaf89"/>
+      <rect x="240" y="304.01" width="96" height="2.95" fill="#dfaf89"/>
+      <rect x="240" y="310.87" width="96" height="2.95" fill="#dfaf89"/>
+      <rect x="240" y="317.73" width="96" height="2.94" fill="#dfaf89"/>
+      <rect x="240" y="324.58" width="96" height="2.95" fill="#dfaf89"/>
+      <rect x="240" y="331.44" width="96" height="2.95" fill="#dfaf89"/>
+      <rect x="240" y="336" width="96" height="48" fill="#9d7e66"/>
+      <rect x="240" y="337.85" width="96" height="3.84" fill="#dfaf89"/>
+      <rect x="240" y="344.71" width="96" height="3.84" fill="#dfaf89"/>
+      <rect x="240" y="351.57" width="96" height="3.84" fill="#dfaf89"/>
+      <rect x="240" y="358.42" width="96" height="3.84" fill="#dfaf89"/>
+      <rect x="240" y="365.28" width="96" height="3.84" fill="#dfaf89"/>
+      <rect x="240" y="372.14" width="96" height="3.84" fill="#dfaf89"/>
+      <rect x="240" y="378.99" width="96" height="3.84" fill="#dfaf89"/>
+      <rect x="96" y="336" width="144" height="96" fill="#85695d"/>
+      <rect x="96" y="338.3" width="144" height="2.95" fill="#dfaf89"/>
+      <rect x="96" y="345.15" width="144" height="2.95" fill="#dfaf89"/>
+      <rect x="96" y="352.01" width="144" height="2.95" fill="#dfaf89"/>
+      <rect x="96" y="358.87" width="144" height="2.95" fill="#dfaf89"/>
+      <rect x="96" y="365.73" width="144" height="2.94" fill="#dfaf89"/>
+      <rect x="96" y="372.58" width="144" height="2.95" fill="#dfaf89"/>
+      <rect x="96" y="379.44" width="144" height="2.95" fill="#dfaf89"/>
+      <rect x="96" y="386.3" width="144" height="2.95" fill="#dfaf89"/>
+      <rect x="96" y="393.15" width="144" height="2.95" fill="#dfaf89"/>
+      <rect x="96" y="400.01" width="144" height="2.95" fill="#dfaf89"/>
+      <rect x="96" y="406.87" width="144" height="2.95" fill="#dfaf89"/>
+      <rect x="96" y="413.73" width="144" height="2.94" fill="#dfaf89"/>
+      <rect x="96" y="420.58" width="144" height="2.95" fill="#dfaf89"/>
+      <rect x="96" y="427.44" width="144" height="2.95" fill="#dfaf89"/>
+      <rect x="96" y="384" width="48" height="48" fill="#9d7e66"/>
+      <rect x="96" y="385.89" width="48" height="3.77" fill="#cdb9aa"/>
+      <rect x="96" y="392.74" width="48" height="3.77" fill="#cdb9aa"/>
+      <rect x="96" y="399.6" width="48" height="3.77" fill="#cdb9aa"/>
+      <rect x="96" y="406.46" width="48" height="3.77" fill="#cdb9aa"/>
+      <rect x="96" y="413.31" width="48" height="3.78" fill="#cdb9aa"/>
+      <rect x="96" y="420.17" width="48" height="3.77" fill="#cdb9aa"/>
+      <rect x="96" y="427.03" width="48" height="3.77" fill="#cdb9aa"/>
+      <rect x="144" y="240" width="48" height="96" fill="#dfaf89"/>
+      <rect x="264" y="240" width="72" height="48" fill="#dfaf89"/>
+      <path d="M192 48h48v48h48v48h-96z" fill="#797973"/>
+      <rect x="240" y="48" width="48" height="48" fill="#cdb9aa"/>
+      <path d="M0 0h48v48h96V0h96v48h-48v48H96v96H0z" fill="#392f2a"/>
+      <path d="M288 96h48v96h-96v48h-48v-96h96z" fill="#392f2a"/>
+      <path d="M336 192h96v96h-72v-48h-24z" fill="#392f2a"/>
+      <rect x="96" y="240" width="48" height="48" fill="#392f2a"/>
+      <rect x="336" y="384" width="96" height="48" fill="#392f2a"/>
+    </g>
+  </defs>
+  <rect x="0" y="0" width="432" height="432" fill="#9d7e66"/>
+  <use x="-23" y="-23" xlink:href="#repeat"/>
+  <use x="409" y="-23" xlink:href="#repeat"/>
+  <use x="-23" y="409" xlink:href="#repeat"/>
+  <use x="409" y="409" xlink:href="#repeat"/>
+</svg>

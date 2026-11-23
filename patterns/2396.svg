@@ -1,0 +1,157 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="400" height="400" viewBox="0 0 400 400">
+  <title>The Spirit Merchant, Newtownards — four square Axminster medallions</title>
+  <defs>
+    <g id="rail">
+      <rect x="14.9" y="-5" width="10.2" height="10" fill="#827775" />
+      <rect x="34.9" y="-5" width="10.2" height="10" fill="#827775" />
+      <rect x="54.9" y="-5" width="10.2" height="10" fill="#827775" />
+      <rect x="74.9" y="-5" width="10.2" height="10" fill="#827775" />
+    </g>
+    <g id="crossing">
+      <rect x="-7.4" y="-7.4" width="14.8" height="14.8" fill="#51484a" />
+      <rect x="-3.6" y="-3.6" width="7.2" height="7.2" fill="#452b2b" />
+      <rect x="-2.3" y="-2.3" width="4.6" height="4.6" fill="#51484a" />
+    </g>
+    <g id="slate-side">
+      <path d="M11 11 H30 L28 15 L24 17 L23 23 L17 26 L16 30 L11 30 Z" fill="#62383b" />
+      <path d="M17 16 L24 17 L25 21 L21 25 L16 23 Z" fill="#805253" />
+      <path d="M22 24 L26 23 L33 31 H66 L72 24 L75 25 L69 34 H32 Z" fill="#452b2b" />
+      <path d="M31 17 L42 17 L45 20 L44 26 L39 29 L33 27 L35 24 L40 24 L40 21 L31 23 Z" fill="#51484a" />
+      <path d="M37 22 H42 V26 H37 Z M57 22 H62 V26 H57 Z" fill="#452b2b" />
+      <path d="M49 13 H52 V28 H49 Z" fill="#62383b" />
+      <path d="M33 29 H44 V31 H34 Z M54 29 H65 V31 H54 Z" fill="#805253" />
+    </g>
+    <g id="slate">
+      <rect x="10" y="10" width="80" height="80" fill="#51484a" />
+      <use xlink:href="#slate-side" transform="rotate(0 50 50)" />
+      <use xlink:href="#slate-side" transform="rotate(90 50 50)" />
+      <use xlink:href="#slate-side" transform="rotate(180 50 50)" />
+      <use xlink:href="#slate-side" transform="rotate(270 50 50)" />
+      <path d="M35.5 34 H64.5 L66 35.5 V64.5 L64.5 66 H35.5 L34 64.5 V35.5 Z" fill="#452b2b" />
+      <path d="M37.5 36 H62.5 L64 37.5 V62.5 L62.5 64 H37.5 L36 62.5 V37.5 Z" fill="#51484a" />
+      <rect x="37" y="37" width="4" height="4" fill="#827775" />
+      <rect x="37" y="59" width="4" height="4" fill="#827775" />
+      <rect x="59" y="37" width="4" height="4" fill="#827775" />
+      <rect x="59" y="59" width="4" height="4" fill="#827775" />
+      <path d="M42.6 41.1 H57.4 L58.9 42.6 V57.4 L57.4 58.9 H42.6 L41.1 57.4 V42.6 Z" fill="#452b2b" />
+      <path d="M44 43 H56 L57 44 V56 L56 57 H44 L43 56 V44 Z" fill="#211c22" />
+      <path d="M48 47 H52 L53 48 V52 L52 53 H48 L47 52 V48 Z" fill="#827775" />
+    </g>
+    <g id="madder-side">
+      <path d="M11 12 H29 L27 16 L21 18 L17 24 L12 28 Z" fill="#805253" />
+      <path d="M15 16 H22 L21 20 L17 23 H15 Z" fill="#805253" />
+      <path d="M26 17 L31 14 L35 16 L42 15 L46 18 L45 25 L42 30 L35 32 L30 29 L31 26 L26 28 L21 33 L18 30 L22 23 Z" fill="#452b2b" />
+      <path d="M55 16 L64 15 L68 19 L68 25 L64 29 L57 30 L54 25 Z" fill="#452b2b" />
+      <path d="M48 14 H52 V28 L50 31 L48 28 Z" fill="#805253" />
+      <path d="M32 33 L43 31 L46 34 L40 36 L36 40 L32 41 Z" fill="#62383b" />
+    </g>
+    <g id="madder">
+      <rect x="10" y="10" width="80" height="80" fill="#62383b" />
+      <use xlink:href="#madder-side" transform="rotate(0 50 50)" />
+      <use xlink:href="#madder-side" transform="rotate(90 50 50)" />
+      <use xlink:href="#madder-side" transform="rotate(180 50 50)" />
+      <use xlink:href="#madder-side" transform="rotate(270 50 50)" />
+      <path d="M36.5 35 H63.5 L65 36.5 V63.5 L63.5 65 H36.5 L35 63.5 V36.5 Z" fill="#452b2b" />
+      <path d="M38.0 36.5 H62.0 L63.5 38.0 V62.0 L62.0 63.5 H38.0 L36.5 62.0 V38.0 Z" fill="#51484a" />
+      <g transform="rotate(0 50 50)">
+        <path d="M38 38 H43 L47 43 L44 46 L40 42 H38 Z" fill="#805253" />
+        <path d="M46 36 H54 L52 40 H48 Z" fill="#62383b" />
+      </g>
+      <g transform="rotate(90 50 50)">
+        <path d="M38 38 H43 L47 43 L44 46 L40 42 H38 Z" fill="#805253" />
+        <path d="M46 36 H54 L52 40 H48 Z" fill="#62383b" />
+      </g>
+      <g transform="rotate(180 50 50)">
+        <path d="M38 38 H43 L47 43 L44 46 L40 42 H38 Z" fill="#805253" />
+        <path d="M46 36 H54 L52 40 H48 Z" fill="#62383b" />
+      </g>
+      <g transform="rotate(270 50 50)">
+        <path d="M38 38 H43 L47 43 L44 46 L40 42 H38 Z" fill="#805253" />
+        <path d="M46 36 H54 L52 40 H48 Z" fill="#62383b" />
+      </g>
+      <path d="M47 46 H53 L54 47 V53 L53 54 H47 L46 53 V47 Z" fill="#452b2b" />
+      <path d="M47.8 47 H52.2 L53 47.8 V52.2 L52.2 53 H47.8 L47 52.2 V47.8 Z" fill="#827775" />
+    </g>
+    <g id="rose-side">
+      <path d="M12 12 H30 L29 16 H22 L17 23 H13 Z" fill="#805253" />
+      <path d="M18 19 L22 18 L29 25 L36 24 L39 20 H44 L46 23 L43 27 L37 29 H28 L23 25 L19 23 Z" fill="#51484a" />
+      <path d="M20 20 H24 V24 H20 Z M39 22 H44 V26 H39 Z M57 22 H62 V26 H57 Z" fill="#452b2b" />
+      <path d="M55 20 H63 L70 24 L66 27 H57 L55 25 Z" fill="#51484a" />
+      <rect x="57" y="22" width="5" height="4" fill="#452b2b" />
+      <path d="M47 15 H53 V29 H47 Z M29 31 L34 29 L39 34 L42 35 L41 39 L37 39 Z" fill="#62383b" />
+      <path d="M35 34 L40 34 L44 38 L40 40 L36 38 Z" fill="#805253" />
+    </g>
+    <g id="rose">
+      <rect x="10" y="10" width="80" height="80" fill="#62383b" />
+      <use xlink:href="#rose-side" transform="rotate(0 50 50)" />
+      <use xlink:href="#rose-side" transform="rotate(90 50 50)" />
+      <use xlink:href="#rose-side" transform="rotate(180 50 50)" />
+      <use xlink:href="#rose-side" transform="rotate(270 50 50)" />
+      <path d="M42.0 40.5 H58.0 L59.5 42.0 V58.0 L58.0 59.5 H42.0 L40.5 58.0 V42.0 Z" fill="#452b2b" />
+      <path d="M44.5 43 H55.5 L57 44.5 V55.5 L55.5 57 H44.5 L43 55.5 V44.5 Z" fill="#452b2b" />
+      <path d="M47.5 46.5 H52.5 L53.5 47.5 V52.5 L52.5 53.5 H47.5 L46.5 52.5 V47.5 Z" fill="#827775" />
+    </g>
+    <g id="heather-side">
+      <path d="M13 14 H24 L28 19 L27 24 L23 22 L20 18 L15 20 Z" fill="#62383b" />
+      <path d="M17 24 L21 20 L32 31 H67 L74 23 L77 24 L69 35 H31 Z" fill="#452b2b" />
+      <path d="M26 17 L30 15 L32 20 L29 23 L27 22 Z" fill="#452b2b" />
+      <path d="M34 18 L40 15 L45 18 L46 24 L43 29 H35 L32 25 Z M55 18 L60 15 L66 18 L67 24 L63 29 H56 L53 25 Z" fill="#62383b" />
+      <path d="M35 18 H42 V21 H35 Z M56 18 H63 V21 H56 Z" fill="#805253" />
+      <path d="M35 23 H43 V27 H35 Z M56 23 H64 V27 H56 Z" fill="#452b2b" />
+      <path d="M47 18 H52 V29 H47 Z" fill="#51484a" />
+    </g>
+    <g id="heather">
+      <rect x="10" y="10" width="80" height="80" fill="#51484a" />
+      <use xlink:href="#heather-side" transform="rotate(0 50 50)" />
+      <use xlink:href="#heather-side" transform="rotate(90 50 50)" />
+      <use xlink:href="#heather-side" transform="rotate(180 50 50)" />
+      <use xlink:href="#heather-side" transform="rotate(270 50 50)" />
+      <path d="M35.5 34 H64.5 L66 35.5 V64.5 L64.5 66 H35.5 L34 64.5 V35.5 Z" fill="#62383b" />
+      <path d="M37.5 36 H62.5 L64 37.5 V62.5 L62.5 64 H37.5 L36 62.5 V37.5 Z" fill="#51484a" />
+      <g transform="rotate(0 50 50)">
+        <path d="M36 36 H44 L49 43 L45 47 L40 41 H36 Z" fill="#62383b" />
+        <path d="M38 37 H42 L45 40 L42 42 Z" fill="#452b2b" />
+      </g>
+      <g transform="rotate(90 50 50)">
+        <path d="M36 36 H44 L49 43 L45 47 L40 41 H36 Z" fill="#62383b" />
+        <path d="M38 37 H42 L45 40 L42 42 Z" fill="#452b2b" />
+      </g>
+      <g transform="rotate(180 50 50)">
+        <path d="M36 36 H44 L49 43 L45 47 L40 41 H36 Z" fill="#62383b" />
+        <path d="M38 37 H42 L45 40 L42 42 Z" fill="#452b2b" />
+      </g>
+      <g transform="rotate(270 50 50)">
+        <path d="M36 36 H44 L49 43 L45 47 L40 41 H36 Z" fill="#62383b" />
+        <path d="M38 37 H42 L45 40 L42 42 Z" fill="#452b2b" />
+      </g>
+      <path d="M47.5 46 H52.5 L54 47.5 V52.5 L52.5 54 H47.5 L46 52.5 V47.5 Z" fill="#452b2b" />
+      <path d="M48 47 H52 L53 48 V52 L52 53 H48 L47 52 V48 Z" fill="#827775" />
+    </g>
+    <g id="repeat">
+      <use xlink:href="#slate" transform="translate(0 0)" />
+      <use xlink:href="#rail" transform="translate(0 0)" />
+      <use xlink:href="#rail" transform="translate(0 0) rotate(90)" />
+      <use xlink:href="#crossing" transform="translate(0 0)" />
+      <use xlink:href="#madder" transform="translate(100 0)" />
+      <use xlink:href="#rail" transform="translate(100 0)" />
+      <use xlink:href="#rail" transform="translate(100 0) rotate(90)" />
+      <use xlink:href="#crossing" transform="translate(100 0)" />
+      <use xlink:href="#rose" transform="translate(0 100)" />
+      <use xlink:href="#rail" transform="translate(0 100)" />
+      <use xlink:href="#rail" transform="translate(0 100) rotate(90)" />
+      <use xlink:href="#crossing" transform="translate(0 100)" />
+      <use xlink:href="#heather" transform="translate(100 100)" />
+      <use xlink:href="#rail" transform="translate(100 100)" />
+      <use xlink:href="#rail" transform="translate(100 100) rotate(90)" />
+      <use xlink:href="#crossing" transform="translate(100 100)" />
+    </g>
+  </defs>
+  <rect x="0" y="0" width="400" height="400" fill="#211c22" />
+  <g transform="scale(2)">
+    <use xlink:href="#repeat" transform="translate(0 0)" />
+    <use xlink:href="#repeat" transform="translate(0 200)" />
+    <use xlink:href="#repeat" transform="translate(200 0)" />
+    <use xlink:href="#repeat" transform="translate(200 200)" />
+  </g>
+</svg>

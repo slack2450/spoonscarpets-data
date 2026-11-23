@@ -1,0 +1,206 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1056" height="480" viewBox="0 0 1056 480">
+  <title>The Turls Green, Bradford — interlocking blocks and broken trellis</title>
+  <defs>
+    <g id="carpet">
+      <g id="trellis" fill="none" stroke="#705e69" stroke-width="3.6" stroke-linejoin="miter" stroke-linecap="butt">
+        <path d="M-8.2 45.4 L39.2 45.4 L39.2 54.2" />
+        <path d="M94.9 86.7 L143.3 86.7 L143.3 -13.5" />
+        <path d="M143.3 51.5 L178.4 51.5 L178.4 86.9" />
+        <path d="M180.5 99.8 L187.7 99.8 L187.7 42.5 L194.9 42.5" />
+        <path d="M146.4 123.3 L146.4 162.3 L116.5 162.3 L116.5 193.7 L56.7 193.7 L56.7 120.4" />
+        <path d="M146.4 137.3 L84.6 137.3 L84.6 193.2" />
+        <path d="M187.7 128.5 L146.4 128.5" />
+        <path d="M225.8 112.7 L254.7 112.7" />
+        <path d="M253.7 146.5 L253.7 192.5" />
+        <path d="M264 32 L276.4 32 L276.4 -22.6" />
+        <path d="M291.8 79.7 L291.8 109.7" />
+        <path d="M301.1 77.3 L301.1 246.3" />
+        <path d="M301.1 147.3 L434.2 147.3" />
+        <path d="M310.4 79.9 L356.8 79.9" />
+        <path d="M331 79 L331 112 L364 112" />
+        <path d="M341.3 14.5 L341.3 -29.5" />
+        <path d="M371.2 14.1 L371.2 -10.9 L423.8 -10.9" />
+        <path d="M408.4 -39.6 L422.8 -39.6" />
+        <path d="M371.2 46.1 L371.2 74.1" />
+        <path d="M499.1 7.3 L567.2 7.3" />
+        <path d="M519.8 -32.6 L519.8 7.4" />
+        <path d="M444.5 73.8 L433.1 73.8" />
+        <path d="M470.2 104.6 L470.2 142.6 L507.4 142.6 L507.4 199.9" />
+        <path d="M496 233.5 L496 252.5 L509.4 252.5 L509.4 263.8" />
+        <path d="M451.7 267.5 L479.5 267.5" />
+        <path d="M480.6 302.2 L480.6 358.2" />
+        <path d="M511.5 301.8 L552.8 301.8" />
+        <path d="M378.5 191.8 L378.5 225.8 L459.9 225.8 L459.9 200.1" />
+        <path d="M422.8 201.8 L422.8 265.8" />
+        <path d="M414.6 266.2 L410.4 266.2 L410.4 261.3 L373.3 261.3" />
+        <path d="M373.3 260 L373.3 325" />
+        <path d="M409.4 358.4 L468.2 358.4" />
+        <path d="M408.4 389.4 L408.4 436.4" />
+        <path d="M339.3 396.6 L339.3 419.6" />
+        <path d="M277.4 392.4 L277.4 541.4 L294.9 541.4" />
+        <path d="M282.6 379.2 L339.3 379.2" />
+        <path d="M240.3 378.1 L205.2 378.1 L205.2 321.7 L310.4 321.7 L310.4 271.9" />
+        <path d="M310.4 298.9 L343.4 298.9 L343.4 357.4" />
+        <path d="M311.4 318.8 L311.4 331.8 L379.5 331.8" />
+        <path d="M266.1 311.9 L266.1 354.9 L239.2 354.9 L239.2 374.1" />
+        <path d="M205.2 322.7 L205.2 310.7" />
+        <path d="M227.9 376.6 L227.9 422.6 L261.9 422.6 L261.9 458.1 L172.2 458.1 L172.2 448.2" />
+        <path d="M178.4 421.9 L227.9 421.9 L227.9 489.6" />
+        <path d="M276.4 476.4 L263 476.4 L263 458" />
+        <path d="M171.2 421.2 L171.2 381.2" />
+        <path d="M157.8 357.8 L126.8 357.8" />
+        <path d="M129.9 307.1 L180.5 307.1" />
+        <path d="M128.9 284.1 L128.9 270.1" />
+        <path d="M104.2 248.3 L67 248.3" />
+        <path d="M66 279 L66 319" />
+        <path d="M36.1 283.4 L1 283.4" />
+        <path d="M36.1 247.4 L36.1 209.3" />
+        <path d="M59.8 191.3 L107.2 191.3 L107.2 234.1" />
+        <path d="M108.3 194.1 L142.3 194.1" />
+        <path d="M142.3 207.5 L142.3 235.5" />
+        <path d="M116.5 162.7 L188.7 162.7" />
+        <path d="M225.8 162.7 L225.8 194.7 L239.2 194.7 L239.2 272.1" />
+        <path d="M71.2 123.8 L18.6 123.8 L18.6 174.2" />
+        <path d="M-14.4 157.7 L17.5 157.7" />
+        <path d="M-15.5 123.7 L-43.3 123.7" />
+        <path d="M23.7 211.9 L23.7 244.9 L36.1 244.9" />
+        <path d="M2.1 324.9 L2.1 365.9 L49.5 365.9 L49.5 393.8 L89.7 393.8" />
+        <path d="M19.6 424.1 L19.6 461.1 L56.7 461.1 L56.7 491.4" />
+        <path d="M68.1 359.9 L68.1 381.9 L121.7 381.9 L121.7 423.5 L143.3 423.5" />
+        <path d="M-15.5 434.7 L19.6 434.7" />
+        <path d="M457.9 104.2 L457.9 117.2 L492.9 117.2 L492.9 145.6" />
+      </g>
+      <g id="blocks">
+        <use transform="translate(39.2 8.2)" xlink:href="#block-1" />
+        <use transform="translate(89.7 6.9)" xlink:href="#block-2" />
+        <use transform="translate(21.7 52)" xlink:href="#block-3" />
+        <use transform="translate(141.3 84.6)" xlink:href="#block-2" />
+        <use transform="translate(188.7 7.4)" xlink:href="#block-4" />
+        <use transform="translate(272.2 43.6)" xlink:href="#block-5" />
+        <use transform="translate(322.8 9.3)" xlink:href="#block-1" />
+        <use transform="translate(369.2 9.2)" xlink:href="#block-2" />
+        <use transform="translate(443.4 33.8)" xlink:href="#block-6" />
+        <use transform="translate(355.8 71.8)" xlink:href="#block-7" />
+        <use transform="translate(-19.6 118.9)" xlink:href="#block-1" />
+        <use transform="translate(-18.6 174.8)" xlink:href="#block-8" />
+        <use transform="translate(188.7 92.4)" xlink:href="#block-9" />
+        <use transform="translate(253.7 109.5)" xlink:href="#block-2" />
+        <use transform="translate(431.1 120.4)" xlink:href="#block-2" />
+        <use transform="translate(297 152.5)" xlink:href="#block-1" />
+        <use transform="translate(339.3 164.6)" xlink:href="#block-2" />
+        <use transform="translate(390.8 164.2)" xlink:href="#block-8" />
+        <use transform="translate(141.3 171.6)" xlink:href="#block-2" />
+        <use transform="translate(187.7 170.5)" xlink:href="#block-1" />
+        <use transform="translate(238.2 192.2)" xlink:href="#block-1" />
+        <use transform="translate(478.5 198.2)" xlink:href="#block-2" />
+        <use transform="translate(35.1 242.4)" xlink:href="#block-5" />
+        <use transform="translate(96.9 230.6)" xlink:href="#block-2" />
+        <use transform="translate(141.3 230.6)" xlink:href="#block-5" />
+        <use transform="translate(178.4 271.9)" xlink:href="#block-10" />
+        <use transform="translate(261.9 238.1)" xlink:href="#block-11" />
+        <use transform="translate(371.2 222.1)" xlink:href="#block-5" />
+        <use transform="translate(371.2 265.1)" xlink:href="#block-2" />
+        <use transform="translate(414.6 265.2)" xlink:href="#block-5" />
+        <use transform="translate(477.5 263.3)" xlink:href="#block-1" />
+        <use transform="translate(2.1 283.9)" xlink:href="#block-1" />
+        <use transform="translate(52.6 282.6)" xlink:href="#block-12" />
+        <use transform="translate(155.7 341.9)" xlink:href="#block-5" />
+        <use transform="translate(244.4 355.9)" xlink:href="#block-2" />
+        <use transform="translate(337.2 320.7)" xlink:href="#block-13" />
+        <use transform="translate(464.1 355.9)" xlink:href="#block-5" />
+        <use transform="translate(140.2 419.6)" xlink:href="#block-1" />
+        <use transform="translate(303.2 418.2)" xlink:href="#block-2" />
+        <use transform="translate(370.2 418.2)" xlink:href="#block-5" />
+        <use transform="translate(421.8 430.8)" xlink:href="#block-14" />
+        <use transform="translate(1 358)" xlink:href="#block-5" />
+        <use transform="translate(55.7 393.5)" xlink:href="#block-15" />
+        <use transform="translate(-2.1 442.1)" xlink:href="#block-1" />
+      </g>
+    </g>
+    <g id="block-1">
+      <rect x="0" y="0" width="38" height="38" fill="#705e69" />
+      <rect x="1.5" y="1.5" width="35" height="35" fill="#c5a653" />
+    </g>
+    <g id="block-2">
+      <rect x="0" y="0" width="39" height="39" fill="#c5a653" />
+      <rect x="3.4" y="3.4" width="32.2" height="32.2" fill="#ae5447" />
+    </g>
+    <g id="block-3">
+      <rect x="0" y="0" width="74" height="73" fill="#c5a653" />
+      <rect x="3.4" y="3.4" width="67.2" height="66.2" fill="#ae5447" />
+    </g>
+    <g id="block-4">
+      <path d="M76 0 0 0 0 38 38 38 38 76 76 76Z" fill="#c5a653" />
+      <path d="M72.6 3.4 3.4 3.4 3.4 34.6 41.4 34.6 41.4 72.6 72.6 72.6Z" fill="#ae5447" />
+    </g>
+    <g id="block-5">
+      <rect x="0" y="0" width="39" height="39" fill="#c5a653" />
+      <rect x="3.4" y="3.4" width="32.2" height="32.2" fill="#705e69" />
+    </g>
+    <g id="block-6">
+      <rect x="0" y="0" width="76" height="75" fill="#c5a653" />
+      <rect x="3.4" y="3.4" width="69.2" height="68.2" fill="#705e69" />
+    </g>
+    <g id="block-7">
+      <rect x="0" y="0" width="78" height="39" fill="#ae5447" />
+      <rect x="3.4" y="3.4" width="71.2" height="32.2" fill="#c5a653" />
+    </g>
+    <g id="block-8">
+      <rect x="0" y="0" width="78" height="39" fill="#c5a653" />
+    </g>
+    <g id="block-9">
+      <rect x="0" y="0" width="38" height="73" fill="#ae5447" />
+      <rect x="3.4" y="3.4" width="31.2" height="66.2" fill="#c5a653" />
+    </g>
+    <g id="block-10">
+      <rect x="0" y="0" width="77" height="39" fill="#c5a653" />
+      <rect x="3.4" y="3.4" width="70.2" height="32.2" fill="#ae5447" />
+    </g>
+    <g id="block-11">
+      <path d="M0 0 76 0 76 38 38 38 38 76 0 76Z" fill="#c5a653" />
+      <path d="M3.4 3.4 72.6 3.4 72.6 34.6 34.6 34.6 34.6 72.6 3.4 72.6Z" fill="#705e69" />
+    </g>
+    <g id="block-12">
+      <path d="M76 76 0 76 0 38 38 38 38 0 76 0Z" fill="#c5a653" />
+      <path d="M72.6 72.6 3.4 72.6 3.4 41.4 41.4 41.4 41.4 3.4 72.6 3.4Z" fill="#ae5447" />
+    </g>
+    <g id="block-13">
+      <path d="M76 76 0 76 0 38 38 38 38 0 76 0Z" fill="#ae5447" />
+      <path d="M72.6 72.6 3.4 72.6 3.4 41.4 41.4 41.4 41.4 3.4 72.6 3.4Z" fill="#c5a653" />
+    </g>
+    <g id="block-14">
+      <path d="M0 76 76 76 76 38 38 38 38 0 0 0Z" fill="#c5a653" />
+      <path d="M3.4 72.6 72.6 72.6 72.6 41.4 34.6 41.4 34.6 3.4 3.4 3.4Z" fill="#ae5447" />
+    </g>
+    <g id="block-15">
+      <rect x="0" y="0" width="76" height="38" fill="#c5a653" />
+      <rect x="3.4" y="3.4" width="69.2" height="31.2" fill="#ae5447" />
+    </g>
+  </defs>
+  <rect width="1056" height="480" fill="#3b3b31" />
+  <g>
+    <use transform="translate(-528 -240)" xlink:href="#trellis" />
+    <use transform="translate(-528 240)" xlink:href="#trellis" />
+    <use transform="translate(0 -480)" xlink:href="#trellis" />
+    <use transform="translate(0 0)" xlink:href="#trellis" />
+    <use transform="translate(0 480)" xlink:href="#trellis" />
+    <use transform="translate(528 -240)" xlink:href="#trellis" />
+    <use transform="translate(528 240)" xlink:href="#trellis" />
+    <use transform="translate(1056 -480)" xlink:href="#trellis" />
+    <use transform="translate(1056 0)" xlink:href="#trellis" />
+    <use transform="translate(1056 480)" xlink:href="#trellis" />
+  </g>
+  <g>
+    <use transform="translate(-528 -240)" xlink:href="#blocks" />
+    <use transform="translate(-528 240)" xlink:href="#blocks" />
+    <use transform="translate(0 -480)" xlink:href="#blocks" />
+    <use transform="translate(0 0)" xlink:href="#blocks" />
+    <use transform="translate(0 480)" xlink:href="#blocks" />
+    <use transform="translate(528 -240)" xlink:href="#blocks" />
+    <use transform="translate(528 240)" xlink:href="#blocks" />
+    <use transform="translate(1056 -480)" xlink:href="#blocks" />
+    <use transform="translate(1056 0)" xlink:href="#blocks" />
+    <use transform="translate(1056 480)" xlink:href="#blocks" />
+  </g>
+</svg>

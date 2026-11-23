@@ -1,0 +1,174 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="360" height="360" viewBox="0 0 360 360">
+<title>The Moon on the Square, Feltham — dining-room roundels and floral cartouches</title>
+<defs>
+<g id="shield-quarter">
+<path d="M0 0 V-105 C7 -96 15 -92 27 -92 C41 -94 47 -87 50 -81 C57 -75 66 -78 72 -73 C76 -67 72 -58 81 -51 C89 -47 94 -41 92 -27 C91 -16 96 -8 105 0 Z" fill="#2D222B"/>
+<path d="M0 0 V-98 C10 -88 18 -87 29 -88 C38 -90 43 -84 47 -78 C54 -71 60 -76 68 -69 C73 -63 69 -56 77 -48 C83 -43 91 -40 87 -28 C84 -15 91 -8 98 0 Z" fill="#695B4C"/>
+<path d="M0 0 V-91 C12 -81 23 -85 31 -83 C41 -82 42 -74 50 -70 C57 -67 64 -71 65 -62 C65 -56 68 -49 72 -45 C81 -39 85 -35 82 -25 C80 -13 86 -5 91 0 Z" fill="#57343A"/>
+</g>
+<g id="curl">
+<path d="M2 -96 C10 -86 24 -95 33 -89 C40 -85 42 -78 49 -77 C42 -76 37 -77 33 -82 C32 -78 34 -76 37 -74 C28 -75 24 -83 27 -87 C21 -90 15 -85 11 -85 C7 -86 4 -89 2 -96Z" fill="#695B4C"/>
+<path d="M19 -88 Q25 -92 32 -88 L34 -85 Q28 -88 25 -85Z" fill="#A46D61"/>
+<path d="M41 -84 Q48 -78 52 -79 Q50 -75 46 -76Z" fill="#A46D61"/>
+<path d="M49 -73 C55 -74 61 -78 66 -74 Q74 -69 70 -61 Q69 -67 65 -69 Q62 -63 58 -65 Q63 -72 56 -71Z" fill="#695B4C"/>
+</g>
+<g id="cusp">
+<use xlink:href="#curl" transform="scale(1 1)"/>
+<use xlink:href="#curl" transform="scale(-1 1)"/>
+<path d="M0 -103 Q3 -96 9 -94 Q8 -88 4 -89 L0 -84 L-4 -89 Q-9 -88 -9 -94 Q-3 -96 0 -103Z" fill="#57343A"/>
+<path d="M0 -100 L3 -94 L0 -89 L-3 -94Z" fill="#A46D61"/>
+</g>
+<g id="shell-leaf">
+<path d="M3 -77 Q14 -77 19 -81 C28 -86 38 -78 41 -70 Q34 -74 30 -72 Q29 -65 23 -65 Q25 -72 21 -71 Q15 -67 9 -70 Q16 -70 18 -76 Q12 -73 3 -73Z" fill="#695B4C"/>
+<path d="M20 -78 Q26 -83 34 -77 Q29 -78 25 -74 L21 -73Z" fill="#814348"/>
+<path d="M43 -68 C49 -71 57 -69 58 -62 C59 -58 55 -54 51 -55 Q56 -59 52 -62 Q49 -64 45 -61 Q49 -65 43 -68Z" fill="#814348"/>
+</g>
+<g id="shell-sprays">
+<use xlink:href="#shell-leaf" transform="scale(1 1)"/>
+<use xlink:href="#shell-leaf" transform="scale(-1 1)"/>
+</g>
+<g id="band-flower">
+<path d="M0 -56 C2 -54 3 -53 5 -52 L8 -51 L5 -49 L3 -49 Q2 -46 0 -44 Q-1 -47 -4 -49 L-7 -50 L-5 -52 L-3 -52Z" fill="#A46D61"/>
+<path d="M0 -54 Q4 -53 3 -50 Q3 -47 0 -46 Q-3 -47 -3 -50 Q-3 -53 0 -54Z" fill="#57343A"/>
+</g>
+<g id="ring-slip">
+<path d="M-5 -51 Q-2 -55 1 -54 L4 -55 L3 -52 Q6 -52 6 -50 Q2 -50 0 -48 Q-2 -51 -5 -51Z" fill="#A46D61"/>
+</g>
+<g id="brocade">
+<path d="M-4 -5 C-13 -12 -13 -24 -7 -29 Q-3 -33 -4 -38 Q2 -34 -2 -29 C-9 -22 -6 -16 0 -13 Q-2 -22 6 -27 C9 -30 12 -28 14 -32 Q17 -24 11 -20 Q18 -20 22 -25 Q22 -16 16 -14 Q16 -10 20 -10 Q12 -6 7 -10 C6 -15 8 -20 10 -22 Q3 -18 4 -11Z" fill="#57343A"/>
+<path d="M-8 -15 Q-12 -22 -7 -27 Q-10 -21 -6 -19Z" fill="#A46D61"/>
+<path d="M14 -12 Q19 -13 22 -17 L18 -11Z" fill="#695B4C"/>
+</g>
+<g id="roundel">
+<use xlink:href="#shield-quarter" transform="rotate(0)"/>
+<use xlink:href="#shield-quarter" transform="rotate(90)"/>
+<use xlink:href="#shield-quarter" transform="rotate(180)"/>
+<use xlink:href="#shield-quarter" transform="rotate(270)"/>
+<use xlink:href="#cusp" transform="rotate(0)"/>
+<use xlink:href="#cusp" transform="rotate(90)"/>
+<use xlink:href="#cusp" transform="rotate(180)"/>
+<use xlink:href="#cusp" transform="rotate(270)"/>
+<use xlink:href="#shell-sprays" transform="rotate(0)"/>
+<use xlink:href="#shell-sprays" transform="rotate(90)"/>
+<use xlink:href="#shell-sprays" transform="rotate(180)"/>
+<use xlink:href="#shell-sprays" transform="rotate(270)"/>
+<circle cx="0" cy="0" r="73" fill="#695B4C"/>
+<circle cx="0" cy="0" r="70" fill="#57343A"/>
+<circle cx="0" cy="0" r="67" fill="#814348"/>
+<circle cx="0" cy="0" r="61" fill="#57343A"/>
+<circle cx="0" cy="0" r="59" fill="#A46D61"/>
+<circle cx="0" cy="0" r="56.5" fill="#C39A86"/>
+<circle cx="0" cy="0" r="43.7" fill="#A46D61"/>
+<circle cx="0" cy="0" r="41.3" fill="#814348"/>
+<use xlink:href="#band-flower" transform="rotate(22.5)"/>
+<use xlink:href="#band-flower" transform="rotate(67.5)"/>
+<use xlink:href="#band-flower" transform="rotate(112.5)"/>
+<use xlink:href="#band-flower" transform="rotate(157.5)"/>
+<use xlink:href="#band-flower" transform="rotate(202.5)"/>
+<use xlink:href="#band-flower" transform="rotate(247.5)"/>
+<use xlink:href="#band-flower" transform="rotate(292.5)"/>
+<use xlink:href="#band-flower" transform="rotate(337.5)"/>
+<use xlink:href="#ring-slip" transform="rotate(0)"/>
+<use xlink:href="#ring-slip" transform="rotate(45)"/>
+<use xlink:href="#ring-slip" transform="rotate(90)"/>
+<use xlink:href="#ring-slip" transform="rotate(135)"/>
+<use xlink:href="#ring-slip" transform="rotate(180)"/>
+<use xlink:href="#ring-slip" transform="rotate(225)"/>
+<use xlink:href="#ring-slip" transform="rotate(270)"/>
+<use xlink:href="#ring-slip" transform="rotate(315)"/>
+<use xlink:href="#brocade" transform="rotate(6) translate(0 -5) scale(.91)"/>
+<use xlink:href="#brocade" transform="rotate(96) translate(0 -5) scale(.91)"/>
+<use xlink:href="#brocade" transform="rotate(186) translate(0 -5) scale(.91)"/>
+<use xlink:href="#brocade" transform="rotate(276) translate(0 -5) scale(.91)"/>
+<path d="M0 -11 Q4 -6 9 -7 Q6 -1 11 2 Q5 4 5 9 Q0 6 -5 11 Q-5 5 -11 3 Q-7 -2 -10 -7 Q-4 -5 0 -11Z" fill="#814348"/>
+</g>
+<g id="corner-fan">
+<path d="M3 -32 C9 -40 14 -43 12 -50 Q20 -48 20 -40 C27 -49 23 -56 20 -59 C28 -61 34 -56 34 -49 Q38 -55 36 -61 Q46 -60 49 -51 Q52 -54 54 -61 C58 -50 55 -39 47 -37 Q53 -35 59 -39 Q56 -27 44 -28 C40 -28 39 -23 42 -19 Q35 -20 32 -16Z" fill="#57343A" stroke="#2D222B" stroke-width="2.2" stroke-linejoin="round"/>
+<path d="M20 -33 Q30 -42 26 -53 Q33 -47 29 -38 C36 -40 43 -48 41 -54 Q50 -46 41 -37 Q46 -38 50 -42 C49 -34 42 -31 35 -32 Q34 -27 38 -24 L30 -22Z" fill="#814348"/>
+<path d="M45 -49 Q49 -48 50 -53 Q52 -46 46 -43Z" fill="#A46D61"/>
+</g>
+<g id="axial-leaf">
+<path d="M0 -39 C-8 -47 -17 -50 -21 -57 Q-14 -60 -8 -56 Q-10 -61 -6 -64 Q-3 -58 0 -59 Q3 -61 5 -64 Q10 -60 8 -56 Q16 -59 20 -55 C17 -47 7 -46 0 -39Z" fill="#695B4C" stroke="#57343A" stroke-width="2.7" stroke-linejoin="round"/>
+<path d="M0 -45 Q-3 -50 -8 -53 Q-3 -54 0 -51 Q3 -57 6 -56 Q5 -49 0 -45Z" fill="#814348"/>
+</g>
+<g id="corner-eye">
+<circle cx="26" cy="-26" r="4.9" fill="#A46D61"/>
+<path d="M23 -27 Q24 -32 29 -30 Q32 -25 28 -23 Q24 -21 23 -27Z" fill="#57343A"/>
+</g>
+<g id="sprig">
+<path d="M7 -43 C15 -46 13 -64 24 -69 Q30 -73 35 -71 C26 -67 23 -60 24 -54 Q29 -59 36 -59 Q32 -52 26 -50 C17 -46 15 -36 11 -34Z" fill="#695B4C"/>
+<path d="M23 -60 C25 -67 31 -68 34 -69 Q32 -64 29 -63 L30 -61Z" fill="#A46D61"/>
+<path d="M34 -59 Q43 -73 55 -68 Q64 -64 66 -68 Q70 -73 65 -74 Q61 -76 61 -71 Q57 -72 58 -77 Q64 -83 70 -78 C79 -68 68 -58 58 -62 C45 -67 40 -60 34 -59Z" fill="#814348"/>
+<path d="M50 -67 Q57 -70 61 -66 L60 -64Z" fill="#A46D61"/>
+</g>
+<g id="small-rim">
+<path d="M7 -74 Q20 -78 29 -75 C38 -75 42 -85 50 -85 Q47 -77 41 -74 C47 -75 54 -76 57 -81 Q58 -74 51 -70 C39 -65 24 -74 15 -65Z" fill="#57343A"/>
+<path d="M57 -90 Q63 -97 66 -99 Q75 -98 69 -91 L65 -88 L66 -83 Q58 -79 54 -77 Q58 -81 57 -90Z" fill="#695B4C"/>
+</g>
+<g id="small">
+<path d="M0 -75C9 -85 22 -79 33 -79 C45 -79 54 -92 67 -88 Q74 -86 84 -84 Q86 -74 88 -67 C92 -54 79 -45 79 -33 C79 -22 85 -9 75 0 C85 9 79 22 79 33 C79 45 92 54 88 67 Q86 74 84 84 Q74 86 67 88 C54 92 45 79 33 79 C22 79 9 85 0 75 C-9 85 -22 79 -33 79 C-45 79 -54 92 -67 88 Q-74 86 -84 84 Q-86 74 -88 67 C-92 54 -79 45 -79 33 C-79 22 -85 9 -75 0 C-85 -9 -79 -22 -79 -33 C-79 -45 -92 -54 -88 -67 Q-86 -74 -84 -84 Q-74 -86 -67 -88 C-54 -92 -45 -79 -33 -79 C-22 -79 -9 -85 0 -75 Z" fill="#57343A" stroke="#695B4C" stroke-width="2" stroke-linejoin="round"/>
+<g transform="scale(.90)">
+<path d="M0 -75C9 -85 22 -79 33 -79 C45 -79 54 -92 67 -88 Q74 -86 84 -84 Q86 -74 88 -67 C92 -54 79 -45 79 -33 C79 -22 85 -9 75 0 C85 9 79 22 79 33 C79 45 92 54 88 67 Q86 74 84 84 Q74 86 67 88 C54 92 45 79 33 79 C22 79 9 85 0 75 C-9 85 -22 79 -33 79 C-45 79 -54 92 -67 88 Q-74 86 -84 84 Q-86 74 -88 67 C-92 54 -79 45 -79 33 C-79 22 -85 9 -75 0 C-85 -9 -79 -22 -79 -33 C-79 -45 -92 -54 -88 -67 Q-86 -74 -84 -84 Q-74 -86 -67 -88 C-54 -92 -45 -79 -33 -79 C-22 -79 -9 -85 0 -75 Z" fill="#814348"/>
+</g>
+<use xlink:href="#small-rim" transform="rotate(0)"/>
+<use xlink:href="#small-rim" transform="rotate(90)"/>
+<use xlink:href="#small-rim" transform="rotate(180)"/>
+<use xlink:href="#small-rim" transform="rotate(270)"/>
+<use xlink:href="#sprig" transform="rotate(0)"/>
+<use xlink:href="#sprig" transform="rotate(0) scale(-1 1)"/>
+<use xlink:href="#sprig" transform="rotate(90)"/>
+<use xlink:href="#sprig" transform="rotate(90) scale(-1 1)"/>
+<use xlink:href="#sprig" transform="rotate(180)"/>
+<use xlink:href="#sprig" transform="rotate(180) scale(-1 1)"/>
+<use xlink:href="#sprig" transform="rotate(270)"/>
+<use xlink:href="#sprig" transform="rotate(270) scale(-1 1)"/>
+<use xlink:href="#axial-leaf" transform="rotate(0)"/>
+<use xlink:href="#corner-fan" transform="rotate(0)"/>
+<use xlink:href="#axial-leaf" transform="rotate(90)"/>
+<use xlink:href="#corner-fan" transform="rotate(90)"/>
+<use xlink:href="#axial-leaf" transform="rotate(180)"/>
+<use xlink:href="#corner-fan" transform="rotate(180)"/>
+<use xlink:href="#axial-leaf" transform="rotate(270)"/>
+<use xlink:href="#corner-fan" transform="rotate(270)"/>
+<path d="M0 -36 Q9 -36 17 -38 Q30 -44 36 -34 Q41 -29 36 -18 Q33 -11 37 0 Q33 11 37 21 Q41 31 33 36 Q28 40 18 36 Q9 33 0 37 Q-9 34 -18 37 Q-32 41 -36 33 Q-40 28 -36 17 Q-33 8 -37 0 Q-33 -10 -37 -19 Q-40 -31 -33 -36 Q-28 -40 -18 -36 Q-9 -33 0 -36Z" fill="#C39A86" stroke="#A46D61" stroke-width="3" stroke-linejoin="round"/>
+<circle cx="0" cy="0" r="29" fill="#695B4C"/>
+<circle cx="0" cy="0" r="26.8" fill="#57343A"/>
+<circle cx="0" cy="0" r="24" fill="#814348"/>
+<use xlink:href="#brocade" transform="scale(.58)"/>
+<use xlink:href="#brocade" transform="rotate(180) scale(.58)"/>
+<use xlink:href="#corner-eye" transform="rotate(0)"/>
+<use xlink:href="#corner-eye" transform="rotate(90)"/>
+<use xlink:href="#corner-eye" transform="rotate(180)"/>
+<use xlink:href="#corner-eye" transform="rotate(270)"/>
+</g>
+<g id="bud">
+<path d="M0 -12 C4 -9 3 -6 2 -4 Q7 -8 11 -6 Q11 -1 7 1 Q4 2 2 2 L1 8 L-2 8 Q-2 3 -5 1 Q-11 -1 -10 -6 Q-5 -8 -2 -4 Q-4 -10 0 -12Z" fill="#695B4C"/>
+<path d="M0 -9 Q2 -7 0 -4 Q-2 -6 0 -9Z" fill="#A46D61"/>
+</g>
+<g id="joint">
+<use xlink:href="#bud" transform="rotate(45) translate(0 -6) scale(.72)"/>
+<use xlink:href="#bud" transform="rotate(135) translate(0 -6) scale(.72)"/>
+<use xlink:href="#bud" transform="rotate(225) translate(0 -6) scale(.72)"/>
+<use xlink:href="#bud" transform="rotate(315) translate(0 -6) scale(.72)"/>
+<circle cx="0" cy="0" r="3.3" fill="#814348"/>
+</g>
+</defs>
+<rect width="360" height="360" fill="#2D222B"/>
+<use xlink:href="#small" transform="translate(-109 71)"/>
+<use xlink:href="#small" transform="translate(-109 431)"/>
+<use xlink:href="#small" transform="translate(251 71)"/>
+<use xlink:href="#small" transform="translate(251 431)"/>
+<use xlink:href="#small" transform="translate(71 -109)"/>
+<use xlink:href="#small" transform="translate(71 251)"/>
+<use xlink:href="#small" transform="translate(431 -109)"/>
+<use xlink:href="#small" transform="translate(431 251)"/>
+<use xlink:href="#joint" transform="translate(161 161)"/>
+<use xlink:href="#joint" transform="translate(341 161)"/>
+<use xlink:href="#joint" transform="translate(161 341)"/>
+<use xlink:href="#joint" transform="translate(341 341)"/>
+<use xlink:href="#roundel" transform="translate(71 71)"/>
+<use xlink:href="#roundel" transform="translate(71 431)"/>
+<use xlink:href="#roundel" transform="translate(431 71)"/>
+<use xlink:href="#roundel" transform="translate(431 431)"/>
+<use xlink:href="#roundel" transform="translate(251 251)"/>
+</svg>

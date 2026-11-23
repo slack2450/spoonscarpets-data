@@ -1,0 +1,346 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="540" height="540" viewBox="0 0 540 540">
+<title>The Five Swans, Newcastle upon Tyne — rosettes and linked diamonds on navy</title>
+<defs>
+<clipPath id="disc"><circle r="155" cx="0" cy="0"/></clipPath>
+<clipPath id="lozenge"><path d="M 0 -124 Q 20 -23 127 0 Q 24 20 0 125 Q -20 23 -127 0 Q -25 -19 0 -124 Z"/></clipPath>
+<g id="ray">
+<path d="M -12.9 -60.7 Q 0 -64.4 12.9 -60.7 L 7.2 -36.1 Q .3 -33.4 -7.4 -36.1 Z" fill="#a26a5b"/>
+<path d="M -12 -60 Q -8 -62 -5 -62 L -3.7 -53.5 Q -8 -53 -10.8 -52.5 Z" fill="#58433e"/>
+<path d="M 8.4 -60.3 L 12.9 -60.7 L 7.4 -36.1 L 5.7 -35.7 Z" fill="#b7a181"/>
+<path d="M -1 -38.2 L 3 -42.2 L 6 -37.4 L 1.8 -35.3 Z" fill="#b7a181"/>
+</g>
+<g id="seed">
+<path d="M 0 -31 Q 3.1 -28.9 4.3 -24 Q 2 -21.7 -.2 -20 Q -4.1 -23.8 -4.0 -26.1 Z" fill="#d2cdbd"/>
+</g>
+<g id="heart">
+<circle cx="0" cy="0" r="65" fill="#58433e"/>
+<circle cx="0" cy="0" r="62" fill="#b7a181"/>
+<use xlink:href="#ray" transform="rotate(0.000)"/>
+<use xlink:href="#ray" transform="rotate(25.714)"/>
+<use xlink:href="#ray" transform="rotate(51.429)"/>
+<use xlink:href="#ray" transform="rotate(77.143)"/>
+<use xlink:href="#ray" transform="rotate(102.857)"/>
+<use xlink:href="#ray" transform="rotate(128.571)"/>
+<use xlink:href="#ray" transform="rotate(154.286)"/>
+<use xlink:href="#ray" transform="rotate(180.000)"/>
+<use xlink:href="#ray" transform="rotate(205.714)"/>
+<use xlink:href="#ray" transform="rotate(231.429)"/>
+<use xlink:href="#ray" transform="rotate(257.143)"/>
+<use xlink:href="#ray" transform="rotate(282.857)"/>
+<use xlink:href="#ray" transform="rotate(308.571)"/>
+<use xlink:href="#ray" transform="rotate(334.286)"/>
+<circle cx="0" cy="0" r="34.2" fill="#6e7c90" stroke="#58433e" stroke-width="1.8" stroke-linejoin="round"/>
+<use xlink:href="#seed" transform="rotate(5.000)"/>
+<use xlink:href="#seed" transform="rotate(35.000)"/>
+<use xlink:href="#seed" transform="rotate(65.000)"/>
+<use xlink:href="#seed" transform="rotate(95.000)"/>
+<use xlink:href="#seed" transform="rotate(125.000)"/>
+<use xlink:href="#seed" transform="rotate(155.000)"/>
+<use xlink:href="#seed" transform="rotate(185.000)"/>
+<use xlink:href="#seed" transform="rotate(215.000)"/>
+<use xlink:href="#seed" transform="rotate(245.000)"/>
+<use xlink:href="#seed" transform="rotate(275.000)"/>
+<use xlink:href="#seed" transform="rotate(305.000)"/>
+<use xlink:href="#seed" transform="rotate(335.000)"/>
+<circle cx="0" cy="0" r="20.0" fill="#58433e" stroke="#b7a181" stroke-width="2.8" stroke-linejoin="round"/>
+<g transform="rotate(0)">
+<path d="M 0 -18 Q 5 -14 3 -9 L 0 -6 Q -4 -10 -3 -13 Z" fill="#a26a5b"/>
+</g>
+<g transform="rotate(45)">
+<path d="M 0 -18 Q 5 -14 3 -9 L 0 -6 Q -4 -10 -3 -13 Z" fill="#a26a5b"/>
+</g>
+<g transform="rotate(90)">
+<path d="M 0 -18 Q 5 -14 3 -9 L 0 -6 Q -4 -10 -3 -13 Z" fill="#a26a5b"/>
+</g>
+<g transform="rotate(135)">
+<path d="M 0 -18 Q 5 -14 3 -9 L 0 -6 Q -4 -10 -3 -13 Z" fill="#a26a5b"/>
+</g>
+<g transform="rotate(180)">
+<path d="M 0 -18 Q 5 -14 3 -9 L 0 -6 Q -4 -10 -3 -13 Z" fill="#a26a5b"/>
+</g>
+<g transform="rotate(225)">
+<path d="M 0 -18 Q 5 -14 3 -9 L 0 -6 Q -4 -10 -3 -13 Z" fill="#a26a5b"/>
+</g>
+<g transform="rotate(270)">
+<path d="M 0 -18 Q 5 -14 3 -9 L 0 -6 Q -4 -10 -3 -13 Z" fill="#a26a5b"/>
+</g>
+<g transform="rotate(315)">
+<path d="M 0 -18 Q 5 -14 3 -9 L 0 -6 Q -4 -10 -3 -13 Z" fill="#a26a5b"/>
+</g>
+<circle cx="0" cy="0" r="10.6" fill="#b7a181"/>
+<path d="M 0 -8 L 3 -3 7.8 -.5 3.5 3 1 7.8 -2.6 3.7 -7.6 1 -4 -2.8 Z" fill="#d2cdbd"/>
+<circle cx="0" cy="0" r="3.6" fill="#58433e"/>
+</g>
+<g id="petal">
+<path d="M -28 -57 C -35 -68 -34 -82 -29 -90 C -22 -100 -10 -102 0 -101 C 14 -102 26 -98 31 -88 C 36 -77 31 -64 26 -56 Q 0 -42 -28 -57 Z" fill="#d2cdbd"/>
+<path d="M -29 -72 C -32 -87 -24 -97 -9 -99 C 4 -101 19 -99 25 -93 C 12 -98 -3 -98 -14 -94 C -23 -91 -28 -83 -29 -72 Z" fill="#b7a181"/>
+</g>
+<g id="spandrel">
+<path d="M -26 -119 Q -14 -120 0 -149 Q 9 -133 26 -118 Q 16 -109 0 -110 Q -17 -109 -26 -119 Z" fill="#b7a181" stroke="#58433e" stroke-width="2" stroke-linejoin="round"/>
+<path d="M -18 -118 Q -6 -125 0 -141 Q -1 -125 5 -119 Q -7 -123 -18 -116 Z" fill="#d2cdbd"/>
+<path d="M 2 -141 Q 7 -129 18 -122 L 12 -120 Q 5 -129 2 -141 Z" fill="#a26a5b"/>
+</g>
+<g id="large">
+<circle cx="0" cy="0" r="157" fill="#d2cdbd"/>
+<circle cx="0" cy="0" r="154.7" fill="#29344d"/>
+<g clip-path="url(#disc)">
+<path d="M -468 -156 l -312 312 M -459 -156 l -312 312 M -450 -156 l -312 312 M -441 -156 l -312 312 M -432 -156 l -312 312 M -423 -156 l -312 312 M -414 -156 l -312 312 M -405 -156 l -312 312 M -396 -156 l -312 312 M -387 -156 l -312 312 M -378 -156 l -312 312 M -369 -156 l -312 312 M -360 -156 l -312 312 M -351 -156 l -312 312 M -342 -156 l -312 312 M -333 -156 l -312 312 M -324 -156 l -312 312 M -315 -156 l -312 312 M -306 -156 l -312 312 M -297 -156 l -312 312 M -288 -156 l -312 312 M -279 -156 l -312 312 M -270 -156 l -312 312 M -261 -156 l -312 312 M -252 -156 l -312 312 M -243 -156 l -312 312 M -234 -156 l -312 312 M -225 -156 l -312 312 M -216 -156 l -312 312 M -207 -156 l -312 312 M -198 -156 l -312 312 M -189 -156 l -312 312 M -180 -156 l -312 312 M -171 -156 l -312 312 M -162 -156 l -312 312 M -153 -156 l -312 312 M -144 -156 l -312 312 M -135 -156 l -312 312 M -126 -156 l -312 312 M -117 -156 l -312 312 M -108 -156 l -312 312 M -99 -156 l -312 312 M -90 -156 l -312 312 M -81 -156 l -312 312 M -72 -156 l -312 312 M -63 -156 l -312 312 M -54 -156 l -312 312 M -45 -156 l -312 312 M -36 -156 l -312 312 M -27 -156 l -312 312 M -18 -156 l -312 312 M -9 -156 l -312 312 M 0 -156 l -312 312 M 9 -156 l -312 312 M 18 -156 l -312 312 M 27 -156 l -312 312 M 36 -156 l -312 312 M 45 -156 l -312 312 M 54 -156 l -312 312 M 63 -156 l -312 312 M 72 -156 l -312 312 M 81 -156 l -312 312 M 90 -156 l -312 312 M 99 -156 l -312 312 M 108 -156 l -312 312 M 117 -156 l -312 312 M 126 -156 l -312 312 M 135 -156 l -312 312 M 144 -156 l -312 312 M 153 -156 l -312 312 M 162 -156 l -312 312 M 171 -156 l -312 312 M 180 -156 l -312 312 M 189 -156 l -312 312 M 198 -156 l -312 312 M 207 -156 l -312 312 M 216 -156 l -312 312 M 225 -156 l -312 312 M 234 -156 l -312 312 M 243 -156 l -312 312 M 252 -156 l -312 312 M 261 -156 l -312 312 M 270 -156 l -312 312 M 279 -156 l -312 312 M 288 -156 l -312 312 M 297 -156 l -312 312 M 306 -156 l -312 312 M 315 -156 l -312 312 M 324 -156 l -312 312 M 333 -156 l -312 312 M 342 -156 l -312 312 M 351 -156 l -312 312 M 360 -156 l -312 312 M 369 -156 l -312 312 M 378 -156 l -312 312 M 387 -156 l -312 312 M 396 -156 l -312 312 M 405 -156 l -312 312 M 414 -156 l -312 312 M 423 -156 l -312 312 M 432 -156 l -312 312 M 441 -156 l -312 312 M 450 -156 l -312 312 M 459 -156 l -312 312 M 468 -156 l -312 312" fill="none" stroke="#6e7c90" stroke-width="2.65" stroke-linejoin="round"/>
+<path d="M -468 -156 l 312 312 M -454 -156 l 312 312 M -440 -156 l 312 312 M -426 -156 l 312 312 M -412 -156 l 312 312 M -398 -156 l 312 312 M -384 -156 l 312 312 M -370 -156 l 312 312 M -356 -156 l 312 312 M -342 -156 l 312 312 M -328 -156 l 312 312 M -314 -156 l 312 312 M -300 -156 l 312 312 M -286 -156 l 312 312 M -272 -156 l 312 312 M -258 -156 l 312 312 M -244 -156 l 312 312 M -230 -156 l 312 312 M -216 -156 l 312 312 M -202 -156 l 312 312 M -188 -156 l 312 312 M -174 -156 l 312 312 M -160 -156 l 312 312 M -146 -156 l 312 312 M -132 -156 l 312 312 M -118 -156 l 312 312 M -104 -156 l 312 312 M -90 -156 l 312 312 M -76 -156 l 312 312 M -62 -156 l 312 312 M -48 -156 l 312 312 M -34 -156 l 312 312 M -20 -156 l 312 312 M -6 -156 l 312 312 M 8 -156 l 312 312 M 22 -156 l 312 312 M 36 -156 l 312 312 M 50 -156 l 312 312 M 64 -156 l 312 312 M 78 -156 l 312 312 M 92 -156 l 312 312 M 106 -156 l 312 312 M 120 -156 l 312 312 M 134 -156 l 312 312 M 148 -156 l 312 312 M 162 -156 l 312 312 M 176 -156 l 312 312 M 190 -156 l 312 312 M 204 -156 l 312 312 M 218 -156 l 312 312 M 232 -156 l 312 312 M 246 -156 l 312 312 M 260 -156 l 312 312 M 274 -156 l 312 312 M 288 -156 l 312 312 M 302 -156 l 312 312 M 316 -156 l 312 312 M 330 -156 l 312 312 M 344 -156 l 312 312 M 358 -156 l 312 312 M 372 -156 l 312 312 M 386 -156 l 312 312 M 400 -156 l 312 312 M 414 -156 l 312 312 M 428 -156 l 312 312 M 442 -156 l 312 312 M 456 -156 l 312 312" fill="none" stroke="#6e7c90" stroke-width="1.65" stroke-linejoin="round"/>
+</g>
+<use xlink:href="#spandrel" transform="rotate(0.000)"/>
+<use xlink:href="#spandrel" transform="rotate(90.000)"/>
+<use xlink:href="#spandrel" transform="rotate(180.000)"/>
+<use xlink:href="#spandrel" transform="rotate(270.000)"/>
+<circle cx="0" cy="0" r="104" fill="#29344d" stroke="#d2cdbd" stroke-width="3.3" stroke-linejoin="round"/>
+<g transform="rotate(22.5)">
+<circle cx="0" cy="-98.2" r="2.8" fill="#b7a181"/>
+</g>
+<g transform="rotate(67.5)">
+<circle cx="0" cy="-98.2" r="2.8" fill="#b7a181"/>
+</g>
+<g transform="rotate(112.5)">
+<circle cx="0" cy="-98.2" r="2.8" fill="#b7a181"/>
+</g>
+<g transform="rotate(157.5)">
+<circle cx="0" cy="-98.2" r="2.8" fill="#b7a181"/>
+</g>
+<g transform="rotate(202.5)">
+<circle cx="0" cy="-98.2" r="2.8" fill="#b7a181"/>
+</g>
+<g transform="rotate(247.5)">
+<circle cx="0" cy="-98.2" r="2.8" fill="#b7a181"/>
+</g>
+<g transform="rotate(292.5)">
+<circle cx="0" cy="-98.2" r="2.8" fill="#b7a181"/>
+</g>
+<g transform="rotate(337.5)">
+<circle cx="0" cy="-98.2" r="2.8" fill="#b7a181"/>
+</g>
+<use xlink:href="#petal" transform="rotate(0.000)"/>
+<use xlink:href="#petal" transform="rotate(45.000)"/>
+<use xlink:href="#petal" transform="rotate(90.000)"/>
+<use xlink:href="#petal" transform="rotate(135.000)"/>
+<use xlink:href="#petal" transform="rotate(180.000)"/>
+<use xlink:href="#petal" transform="rotate(225.000)"/>
+<use xlink:href="#petal" transform="rotate(270.000)"/>
+<use xlink:href="#petal" transform="rotate(315.000)"/>
+<use xlink:href="#heart" transform="scale(1.025)"/>
+</g>
+<g id="small">
+<g transform="scale(.923 1.145)">
+<use xlink:href="#heart" transform="rotate(5)"/>
+</g>
+</g>
+<g id="cushion">
+<path d="M -29 -73 Q -24 -82 -4 -84 Q 13 -84 29 -78 Q 34 -74 30 -66 L 22 -54 Q 5 -62 -19 -57 Q -24 -62 -29 -73 Z" fill="#d2cdbd"/>
+<path d="M -28 -73 Q -24 -82 -5 -83 L 9 -82 Q -12 -81 -19 -75 L -24 -68 Z" fill="#b7a181"/>
+<path d="M 29 -78 L 35 -76 34 -70 29 -68 27 -72 Z" fill="#a26a5b"/>
+<path d="M 22 -60 Q 28 -65 30 -72 L 27 -61 24 -55 Z" fill="#b7a181"/>
+</g>
+<g id="ivorybutton">
+<circle cx="0" cy="0" r="87" fill="#58433e"/>
+<use xlink:href="#cushion" transform="rotate(22.500)"/>
+<use xlink:href="#cushion" transform="rotate(67.500)"/>
+<use xlink:href="#cushion" transform="rotate(112.500)"/>
+<use xlink:href="#cushion" transform="rotate(157.500)"/>
+<use xlink:href="#cushion" transform="rotate(202.500)"/>
+<use xlink:href="#cushion" transform="rotate(247.500)"/>
+<use xlink:href="#cushion" transform="rotate(292.500)"/>
+<use xlink:href="#cushion" transform="rotate(337.500)"/>
+<circle cx="0" cy="0" r="59.5" fill="#b7a181" stroke="#58433e" stroke-width="2.8" stroke-linejoin="round"/>
+<circle cx="0" cy="0" r="54.8" fill="none" stroke="#d2cdbd" stroke-width="2.8" stroke-linejoin="round"/>
+<g transform="rotate(0)">
+<path d="M -4.4 -52.2 Q -1.2 -55 3.9 -52.4 L 3 -45.5 Q .3 -42.7 -4.5 -45.5 Z" fill="#58433e"/>
+</g>
+<g transform="rotate(20)">
+<path d="M -4.4 -52.2 Q -1.2 -55 3.9 -52.4 L 3 -45.5 Q .3 -42.7 -4.5 -45.5 Z" fill="#58433e"/>
+</g>
+<g transform="rotate(40)">
+<path d="M -4.4 -52.2 Q -1.2 -55 3.9 -52.4 L 3 -45.5 Q .3 -42.7 -4.5 -45.5 Z" fill="#58433e"/>
+</g>
+<g transform="rotate(60)">
+<path d="M -4.4 -52.2 Q -1.2 -55 3.9 -52.4 L 3 -45.5 Q .3 -42.7 -4.5 -45.5 Z" fill="#58433e"/>
+</g>
+<g transform="rotate(80)">
+<path d="M -4.4 -52.2 Q -1.2 -55 3.9 -52.4 L 3 -45.5 Q .3 -42.7 -4.5 -45.5 Z" fill="#58433e"/>
+</g>
+<g transform="rotate(100)">
+<path d="M -4.4 -52.2 Q -1.2 -55 3.9 -52.4 L 3 -45.5 Q .3 -42.7 -4.5 -45.5 Z" fill="#58433e"/>
+</g>
+<g transform="rotate(120)">
+<path d="M -4.4 -52.2 Q -1.2 -55 3.9 -52.4 L 3 -45.5 Q .3 -42.7 -4.5 -45.5 Z" fill="#58433e"/>
+</g>
+<g transform="rotate(140)">
+<path d="M -4.4 -52.2 Q -1.2 -55 3.9 -52.4 L 3 -45.5 Q .3 -42.7 -4.5 -45.5 Z" fill="#58433e"/>
+</g>
+<g transform="rotate(160)">
+<path d="M -4.4 -52.2 Q -1.2 -55 3.9 -52.4 L 3 -45.5 Q .3 -42.7 -4.5 -45.5 Z" fill="#58433e"/>
+</g>
+<g transform="rotate(180)">
+<path d="M -4.4 -52.2 Q -1.2 -55 3.9 -52.4 L 3 -45.5 Q .3 -42.7 -4.5 -45.5 Z" fill="#58433e"/>
+</g>
+<g transform="rotate(200)">
+<path d="M -4.4 -52.2 Q -1.2 -55 3.9 -52.4 L 3 -45.5 Q .3 -42.7 -4.5 -45.5 Z" fill="#58433e"/>
+</g>
+<g transform="rotate(220)">
+<path d="M -4.4 -52.2 Q -1.2 -55 3.9 -52.4 L 3 -45.5 Q .3 -42.7 -4.5 -45.5 Z" fill="#58433e"/>
+</g>
+<g transform="rotate(240)">
+<path d="M -4.4 -52.2 Q -1.2 -55 3.9 -52.4 L 3 -45.5 Q .3 -42.7 -4.5 -45.5 Z" fill="#58433e"/>
+</g>
+<g transform="rotate(260)">
+<path d="M -4.4 -52.2 Q -1.2 -55 3.9 -52.4 L 3 -45.5 Q .3 -42.7 -4.5 -45.5 Z" fill="#58433e"/>
+</g>
+<g transform="rotate(280)">
+<path d="M -4.4 -52.2 Q -1.2 -55 3.9 -52.4 L 3 -45.5 Q .3 -42.7 -4.5 -45.5 Z" fill="#58433e"/>
+</g>
+<g transform="rotate(300)">
+<path d="M -4.4 -52.2 Q -1.2 -55 3.9 -52.4 L 3 -45.5 Q .3 -42.7 -4.5 -45.5 Z" fill="#58433e"/>
+</g>
+<g transform="rotate(320)">
+<path d="M -4.4 -52.2 Q -1.2 -55 3.9 -52.4 L 3 -45.5 Q .3 -42.7 -4.5 -45.5 Z" fill="#58433e"/>
+</g>
+<g transform="rotate(340)">
+<path d="M -4.4 -52.2 Q -1.2 -55 3.9 -52.4 L 3 -45.5 Q .3 -42.7 -4.5 -45.5 Z" fill="#58433e"/>
+</g>
+<circle cx="0" cy="0" r="40.3" fill="none" stroke="#58433e" stroke-width="2.6" stroke-linejoin="round"/>
+<circle cx="0" cy="0" r="35.2" fill="none" stroke="#d2cdbd" stroke-width="2.3" stroke-linejoin="round"/>
+<g transform="rotate(0)">
+<path d="M -2 -33 Q 3 -33 4.5 -29 Q 0 -26 -4 -27 Z" fill="#58433e"/>
+<path d="M -2 -25 Q 4 -22.1 5.8 -17 Q 2 -14 -1 -11 Q -5 -15 -5.2 -18 Z" fill="#d2cdbd"/>
+</g>
+<g transform="rotate(40)">
+<path d="M -2 -33 Q 3 -33 4.5 -29 Q 0 -26 -4 -27 Z" fill="#58433e"/>
+<path d="M -2 -25 Q 4 -22.1 5.8 -17 Q 2 -14 -1 -11 Q -5 -15 -5.2 -18 Z" fill="#d2cdbd"/>
+</g>
+<g transform="rotate(80)">
+<path d="M -2 -33 Q 3 -33 4.5 -29 Q 0 -26 -4 -27 Z" fill="#58433e"/>
+<path d="M -2 -25 Q 4 -22.1 5.8 -17 Q 2 -14 -1 -11 Q -5 -15 -5.2 -18 Z" fill="#d2cdbd"/>
+</g>
+<g transform="rotate(120)">
+<path d="M -2 -33 Q 3 -33 4.5 -29 Q 0 -26 -4 -27 Z" fill="#58433e"/>
+<path d="M -2 -25 Q 4 -22.1 5.8 -17 Q 2 -14 -1 -11 Q -5 -15 -5.2 -18 Z" fill="#d2cdbd"/>
+</g>
+<g transform="rotate(160)">
+<path d="M -2 -33 Q 3 -33 4.5 -29 Q 0 -26 -4 -27 Z" fill="#58433e"/>
+<path d="M -2 -25 Q 4 -22.1 5.8 -17 Q 2 -14 -1 -11 Q -5 -15 -5.2 -18 Z" fill="#d2cdbd"/>
+</g>
+<g transform="rotate(200)">
+<path d="M -2 -33 Q 3 -33 4.5 -29 Q 0 -26 -4 -27 Z" fill="#58433e"/>
+<path d="M -2 -25 Q 4 -22.1 5.8 -17 Q 2 -14 -1 -11 Q -5 -15 -5.2 -18 Z" fill="#d2cdbd"/>
+</g>
+<g transform="rotate(240)">
+<path d="M -2 -33 Q 3 -33 4.5 -29 Q 0 -26 -4 -27 Z" fill="#58433e"/>
+<path d="M -2 -25 Q 4 -22.1 5.8 -17 Q 2 -14 -1 -11 Q -5 -15 -5.2 -18 Z" fill="#d2cdbd"/>
+</g>
+<g transform="rotate(280)">
+<path d="M -2 -33 Q 3 -33 4.5 -29 Q 0 -26 -4 -27 Z" fill="#58433e"/>
+<path d="M -2 -25 Q 4 -22.1 5.8 -17 Q 2 -14 -1 -11 Q -5 -15 -5.2 -18 Z" fill="#d2cdbd"/>
+</g>
+<g transform="rotate(320)">
+<path d="M -2 -33 Q 3 -33 4.5 -29 Q 0 -26 -4 -27 Z" fill="#58433e"/>
+<path d="M -2 -25 Q 4 -22.1 5.8 -17 Q 2 -14 -1 -11 Q -5 -15 -5.2 -18 Z" fill="#d2cdbd"/>
+</g>
+<circle cx="0" cy="0" r="13.4" fill="#58433e" stroke="#b7a181" stroke-width="2.6" stroke-linejoin="round"/>
+<path d="M 0 -10 Q 3 -4 8 -2 L 5 3 1 7 -3 4 -8 1 -5 -4 Z" fill="#b7a181"/>
+<circle cx="1" cy="-1" r="3.4" fill="#d2cdbd"/>
+</g>
+<g id="clasp">
+<path d="M 0 -13 C 4 -12 6 -10 6 -6 Q 12 -7 14 -1 Q 12 5 6 6 Q 6 11 0 14 Q -6 12 -6 6 Q -12 6 -14 0 Q -12 -6 -6 -6 Q -6 -11 0 -13 Z" fill="#b7a181" stroke="#58433e" stroke-width="2.3" stroke-linejoin="round"/>
+<path d="M 0 -9 L 3 -3 9 0 3 3 0 9 -3 3 -9 0 -3 -3 Z" fill="#d2cdbd"/>
+<circle cx="0" cy="0" r="3.5" fill="#29344d"/>
+</g>
+<g id="shell">
+<path d="M -10 -3 Q -8 -8 -3 -9 Q -1 -6 3 -6 Q 7 -7 10 -9 Q 12 -1 6 5 Q 0 10 -6 7 Q -11 4 -10 -3 Z" fill="#58433e"/>
+<path d="M -9 -4 Q -9 -8 -5 -9 Q -3 -6 1 -6 Q 5 -6 9 -8 Q 10 -2 6 3 Q 1 8 -4 6 Q -9 4 -9 -4 Z" fill="#a26a5b"/>
+<path d="M -9 -4 Q -7 -6 -5 -7 Q -4 -3 1 -2 Q 4 -1 7 -3 Q 3 6 -2 5 Q -7 4 -9 -4 Z" fill="#b7a181"/>
+</g>
+<g id="link">
+<path d="M 0 0 C 2 -4.3 6 -7.2 12.6 -6.3 C 18 -5.5 24.4 -.8 30 0 C 24 4.8 20.7 6.5 15.5 6.4 C 8.4 6.1 4.4 .6 0 0 Z" fill="none" stroke="#d2cdbd" stroke-width="3.4" stroke-linejoin="round"/>
+</g>
+<g id="floret">
+<g transform="rotate(0)">
+<path d="M -4.5 -6 Q -8 -12 -3.5 -14 L 0 -16 Q 6 -13 5.3 -9.5 L 4 -6 Z" fill="#d2cdbd"/>
+</g>
+<g transform="rotate(45)">
+<path d="M -4.5 -6 Q -8 -12 -3.5 -14 L 0 -16 Q 6 -13 5.3 -9.5 L 4 -6 Z" fill="#d2cdbd"/>
+</g>
+<g transform="rotate(90)">
+<path d="M -4.5 -6 Q -8 -12 -3.5 -14 L 0 -16 Q 6 -13 5.3 -9.5 L 4 -6 Z" fill="#d2cdbd"/>
+</g>
+<g transform="rotate(135)">
+<path d="M -4.5 -6 Q -8 -12 -3.5 -14 L 0 -16 Q 6 -13 5.3 -9.5 L 4 -6 Z" fill="#d2cdbd"/>
+</g>
+<g transform="rotate(180)">
+<path d="M -4.5 -6 Q -8 -12 -3.5 -14 L 0 -16 Q 6 -13 5.3 -9.5 L 4 -6 Z" fill="#d2cdbd"/>
+</g>
+<g transform="rotate(225)">
+<path d="M -4.5 -6 Q -8 -12 -3.5 -14 L 0 -16 Q 6 -13 5.3 -9.5 L 4 -6 Z" fill="#d2cdbd"/>
+</g>
+<g transform="rotate(270)">
+<path d="M -4.5 -6 Q -8 -12 -3.5 -14 L 0 -16 Q 6 -13 5.3 -9.5 L 4 -6 Z" fill="#d2cdbd"/>
+</g>
+<g transform="rotate(315)">
+<path d="M -4.5 -6 Q -8 -12 -3.5 -14 L 0 -16 Q 6 -13 5.3 -9.5 L 4 -6 Z" fill="#d2cdbd"/>
+</g>
+<circle cx="0" cy="0" r="9.2" fill="#b7a181" stroke="#d2cdbd" stroke-width="2" stroke-linejoin="round"/>
+<circle cx="0" cy="0" r="5.8" fill="#58433e"/>
+</g>
+<g id="strand">
+<use xlink:href="#shell" transform="rotate(9) translate(0 -161) rotate(-11) scale(1.06 1.02)"/>
+<use xlink:href="#shell" transform="rotate(18) translate(0 -161) rotate(-11) scale(1.06 1.02)"/>
+<use xlink:href="#shell" transform="rotate(27) translate(0 -161) rotate(-11) scale(1.06 1.02)"/>
+<use xlink:href="#shell" transform="rotate(36) translate(0 -161) rotate(-11) scale(1.06 1.02)"/>
+<use xlink:href="#shell" transform="rotate(45) translate(0 -161) rotate(-11) scale(1.06 1.02)"/>
+<use xlink:href="#shell" transform="rotate(54) translate(0 -161) rotate(-11) scale(1.06 1.02)"/>
+<use xlink:href="#shell" transform="rotate(63) translate(0 -161) rotate(-11) scale(1.06 1.02)"/>
+<use xlink:href="#shell" transform="rotate(72) translate(0 -161) rotate(-11) scale(1.06 1.02)"/>
+<use xlink:href="#shell" transform="rotate(81) translate(0 -161) rotate(-11) scale(1.06 1.02)"/>
+<g transform="translate(12 -146) rotate(45)">
+<use xlink:href="#link" transform="translate(0 0) scale(.94 1)"/>
+<use xlink:href="#link" transform="translate(28 0) scale(.94 1)"/>
+<use xlink:href="#link" transform="translate(56 0) scale(.94 1)"/>
+</g>
+<g transform="translate(147 -12) rotate(225)">
+<use xlink:href="#link" transform="translate(0 0) scale(.94 1)"/>
+<use xlink:href="#link" transform="translate(28 0) scale(.94 1)"/>
+<use xlink:href="#link" transform="translate(56 0) scale(.94 1)"/>
+</g>
+<use xlink:href="#floret" transform="translate(79 -79) rotate(6)"/>
+<use xlink:href="#clasp" transform="translate(0 -160)"/>
+<use xlink:href="#shell" transform="translate(4.70 -121.04) rotate(77.72) scale(.99 1.06)"/>
+<use xlink:href="#shell" transform="translate(7.98 -108.14) rotate(73.69) scale(.99 1.06)"/>
+<use xlink:href="#shell" transform="translate(12.96 -93.56) rotate(68.44) scale(.99 1.06)"/>
+<use xlink:href="#shell" transform="translate(20.32 -77.68) rotate(61.74) scale(.99 1.06)"/>
+<use xlink:href="#shell" transform="translate(30.46 -61.58) rotate(53.74) scale(.99 1.06)"/>
+<use xlink:href="#shell" transform="translate(44.54 -45.36) rotate(44.32) scale(.99 1.06)"/>
+<use xlink:href="#shell" transform="translate(61.28 -31.49) rotate(35.09) scale(.99 1.06)"/>
+<use xlink:href="#shell" transform="translate(79.07 -20.79) rotate(27.15) scale(.99 1.06)"/>
+<use xlink:href="#shell" transform="translate(95.50 -13.44) rotate(21.17) scale(.99 1.06)"/>
+<use xlink:href="#shell" transform="translate(111.36 -8.08) rotate(16.35) scale(.99 1.06)"/>
+<use xlink:href="#shell" transform="translate(124.70 -4.61) rotate(12.88) scale(.99 1.06)"/>
+</g>
+<g id="diamond">
+<path d="M 0 -124 Q 20 -23 127 0 Q 24 20 0 125 Q -20 23 -127 0 Q -25 -19 0 -124 Z" fill="#29344d"/>
+<g clip-path="url(#lozenge)">
+<path d="M -390 -130 l -260 260 M -382 -130 l -260 260 M -374 -130 l -260 260 M -366 -130 l -260 260 M -358 -130 l -260 260 M -350 -130 l -260 260 M -342 -130 l -260 260 M -334 -130 l -260 260 M -326 -130 l -260 260 M -318 -130 l -260 260 M -310 -130 l -260 260 M -302 -130 l -260 260 M -294 -130 l -260 260 M -286 -130 l -260 260 M -278 -130 l -260 260 M -270 -130 l -260 260 M -262 -130 l -260 260 M -254 -130 l -260 260 M -246 -130 l -260 260 M -238 -130 l -260 260 M -230 -130 l -260 260 M -222 -130 l -260 260 M -214 -130 l -260 260 M -206 -130 l -260 260 M -198 -130 l -260 260 M -190 -130 l -260 260 M -182 -130 l -260 260 M -174 -130 l -260 260 M -166 -130 l -260 260 M -158 -130 l -260 260 M -150 -130 l -260 260 M -142 -130 l -260 260 M -134 -130 l -260 260 M -126 -130 l -260 260 M -118 -130 l -260 260 M -110 -130 l -260 260 M -102 -130 l -260 260 M -94 -130 l -260 260 M -86 -130 l -260 260 M -78 -130 l -260 260 M -70 -130 l -260 260 M -62 -130 l -260 260 M -54 -130 l -260 260 M -46 -130 l -260 260 M -38 -130 l -260 260 M -30 -130 l -260 260 M -22 -130 l -260 260 M -14 -130 l -260 260 M -6 -130 l -260 260 M 2 -130 l -260 260 M 10 -130 l -260 260 M 18 -130 l -260 260 M 26 -130 l -260 260 M 34 -130 l -260 260 M 42 -130 l -260 260 M 50 -130 l -260 260 M 58 -130 l -260 260 M 66 -130 l -260 260 M 74 -130 l -260 260 M 82 -130 l -260 260 M 90 -130 l -260 260 M 98 -130 l -260 260 M 106 -130 l -260 260 M 114 -130 l -260 260 M 122 -130 l -260 260 M 130 -130 l -260 260 M 138 -130 l -260 260 M 146 -130 l -260 260 M 154 -130 l -260 260 M 162 -130 l -260 260 M 170 -130 l -260 260 M 178 -130 l -260 260 M 186 -130 l -260 260 M 194 -130 l -260 260 M 202 -130 l -260 260 M 210 -130 l -260 260 M 218 -130 l -260 260 M 226 -130 l -260 260 M 234 -130 l -260 260 M 242 -130 l -260 260 M 250 -130 l -260 260 M 258 -130 l -260 260 M 266 -130 l -260 260 M 274 -130 l -260 260 M 282 -130 l -260 260 M 290 -130 l -260 260 M 298 -130 l -260 260 M 306 -130 l -260 260 M 314 -130 l -260 260 M 322 -130 l -260 260 M 330 -130 l -260 260 M 338 -130 l -260 260 M 346 -130 l -260 260 M 354 -130 l -260 260 M 362 -130 l -260 260 M 370 -130 l -260 260 M 378 -130 l -260 260 M 386 -130 l -260 260" fill="none" stroke="#6e7c90" stroke-width="2.65" stroke-linejoin="round"/>
+<path d="M -390 -130 l 260 260 M -375 -130 l 260 260 M -360 -130 l 260 260 M -345 -130 l 260 260 M -330 -130 l 260 260 M -315 -130 l 260 260 M -300 -130 l 260 260 M -285 -130 l 260 260 M -270 -130 l 260 260 M -255 -130 l 260 260 M -240 -130 l 260 260 M -225 -130 l 260 260 M -210 -130 l 260 260 M -195 -130 l 260 260 M -180 -130 l 260 260 M -165 -130 l 260 260 M -150 -130 l 260 260 M -135 -130 l 260 260 M -120 -130 l 260 260 M -105 -130 l 260 260 M -90 -130 l 260 260 M -75 -130 l 260 260 M -60 -130 l 260 260 M -45 -130 l 260 260 M -30 -130 l 260 260 M -15 -130 l 260 260 M 0 -130 l 260 260 M 15 -130 l 260 260 M 30 -130 l 260 260 M 45 -130 l 260 260 M 60 -130 l 260 260 M 75 -130 l 260 260 M 90 -130 l 260 260 M 105 -130 l 260 260 M 120 -130 l 260 260 M 135 -130 l 260 260 M 150 -130 l 260 260 M 165 -130 l 260 260 M 180 -130 l 260 260 M 195 -130 l 260 260 M 210 -130 l 260 260 M 225 -130 l 260 260 M 240 -130 l 260 260 M 255 -130 l 260 260 M 270 -130 l 260 260 M 285 -130 l 260 260 M 300 -130 l 260 260 M 315 -130 l 260 260 M 330 -130 l 260 260 M 345 -130 l 260 260 M 360 -130 l 260 260 M 375 -130 l 260 260 M 390 -130 l 260 260" fill="none" stroke="#6e7c90" stroke-width="1.65" stroke-linejoin="round"/>
+</g>
+<use xlink:href="#strand" transform="rotate(0.000)"/>
+<use xlink:href="#strand" transform="rotate(90.000)"/>
+<use xlink:href="#strand" transform="rotate(180.000)"/>
+<use xlink:href="#strand" transform="rotate(270.000)"/>
+</g>
+</defs>
+<rect width="540" height="540" fill="#29344d"/>
+<use xlink:href="#large" transform="translate(108 108)"/>
+<use xlink:href="#large" transform="translate(108 648)"/>
+<use xlink:href="#large" transform="translate(648 108)"/>
+<use xlink:href="#large" transform="translate(648 648)"/>
+<use xlink:href="#small" transform="translate(378 108)"/>
+<use xlink:href="#ivorybutton" transform="translate(108 378)"/>
+<use xlink:href="#diamond" transform="translate(-162 -162)"/>
+<use xlink:href="#diamond" transform="translate(-162 378)"/>
+<use xlink:href="#diamond" transform="translate(378 -162)"/>
+<use xlink:href="#diamond" transform="translate(378 378)"/>
+</svg>

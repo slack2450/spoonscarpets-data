@@ -1,0 +1,117 @@
+<?xml version="1.0" ?>
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" width="384" height="384" viewBox="0 0 384 384">
+  <title>The George Inn, Sandbach — woven herringbone carpet repeat</title>
+  <desc>Four courses of mitred ribbons combine walnut and eucalyptus with fine transverse silver and chalk picks. Two panels carry a broader three-bar weave.</desc>
+  <defs>
+    <g id="plain-walnut">
+      <path d="M0 0 H48.35 V96 H0 Z" fill="#785347"/>
+    </g>
+    <g id="plain-green">
+      <path d="M0 0 H48.35 V96 H0 Z" fill="#819e98"/>
+    </g>
+    <g id="walnut-fleck">
+      <path d="M0 0 H48.35 V96 H0 Z" fill="#785347"/>
+      <path d="M0 1 h48.35 v2.9 h-48.35 Z M0 9 h48.35 v2.9 h-48.35 Z M0 17 h48.35 v2.9 h-48.35 Z M0 25 h48.35 v2.9 h-48.35 Z M0 33 h48.35 v2.9 h-48.35 Z M0 41 h48.35 v2.9 h-48.35 Z M0 49 h48.35 v2.9 h-48.35 Z M0 57 h48.35 v2.9 h-48.35 Z M0 65 h48.35 v2.9 h-48.35 Z M0 73 h48.35 v2.9 h-48.35 Z M0 81 h48.35 v2.9 h-48.35 Z M0 89 h48.35 v2.9 h-48.35 Z" fill="#acb5ac"/>
+    </g>
+    <g id="mist-green">
+      <path d="M0 0 H48.35 V96 H0 Z" fill="#acb5ac"/>
+      <path d="M0 1 h48.35 v3.4 h-48.35 Z M0 9 h48.35 v3.4 h-48.35 Z M0 17 h48.35 v3.4 h-48.35 Z M0 25 h48.35 v3.4 h-48.35 Z M0 33 h48.35 v3.4 h-48.35 Z M0 41 h48.35 v3.4 h-48.35 Z M0 49 h48.35 v3.4 h-48.35 Z M0 57 h48.35 v3.4 h-48.35 Z M0 65 h48.35 v3.4 h-48.35 Z M0 73 h48.35 v3.4 h-48.35 Z M0 81 h48.35 v3.4 h-48.35 Z M0 89 h48.35 v3.4 h-48.35 Z" fill="#819e98"/>
+    </g>
+    <g id="chalk-green">
+      <path d="M0 0 H48.35 V96 H0 Z" fill="#e4e3da"/>
+      <path d="M0 1 h48.35 v3.5 h-48.35 Z M0 9 h48.35 v3.5 h-48.35 Z M0 17 h48.35 v3.5 h-48.35 Z M0 25 h48.35 v3.5 h-48.35 Z M0 33 h48.35 v3.5 h-48.35 Z M0 41 h48.35 v3.5 h-48.35 Z M0 49 h48.35 v3.5 h-48.35 Z M0 57 h48.35 v3.5 h-48.35 Z M0 65 h48.35 v3.5 h-48.35 Z M0 73 h48.35 v3.5 h-48.35 Z M0 81 h48.35 v3.5 h-48.35 Z M0 89 h48.35 v3.5 h-48.35 Z" fill="#819e98"/>
+    </g>
+    <g id="silver-thread">
+      <path d="M0 0 H48.35 V96 H0 Z" fill="#acb5ac"/>
+      <path d="M0 1 h48.35 v2.7 h-48.35 Z M0 9 h48.35 v2.7 h-48.35 Z M0 17 h48.35 v2.7 h-48.35 Z M0 25 h48.35 v2.7 h-48.35 Z M0 33 h48.35 v2.7 h-48.35 Z M0 41 h48.35 v2.7 h-48.35 Z M0 49 h48.35 v2.7 h-48.35 Z M0 57 h48.35 v2.7 h-48.35 Z M0 65 h48.35 v2.7 h-48.35 Z M0 73 h48.35 v2.7 h-48.35 Z M0 81 h48.35 v2.7 h-48.35 Z M0 89 h48.35 v2.7 h-48.35 Z" fill="#e4e3da"/>
+    </g>
+    <g id="pale-twill">
+      <path d="M0 0 H48.35 V96 H0 Z" fill="#e4e3da"/>
+      <path d="M0 1 h48.35 v3.2 h-48.35 Z M0 9 h48.35 v3.2 h-48.35 Z M0 17 h48.35 v3.2 h-48.35 Z M0 25 h48.35 v3.2 h-48.35 Z M0 33 h48.35 v3.2 h-48.35 Z M0 41 h48.35 v3.2 h-48.35 Z M0 49 h48.35 v3.2 h-48.35 Z M0 57 h48.35 v3.2 h-48.35 Z M0 65 h48.35 v3.2 h-48.35 Z M0 73 h48.35 v3.2 h-48.35 Z M0 81 h48.35 v3.2 h-48.35 Z M0 89 h48.35 v3.2 h-48.35 Z" fill="#acb5ac"/>
+    </g>
+    <g id="peat-silver">
+      <path d="M0 0 H48.35 V96 H0 Z" fill="#5d5551"/>
+      <path d="M0 1 h48.35 v3.5 h-48.35 Z M0 9 h48.35 v3.5 h-48.35 Z M0 17 h48.35 v3.5 h-48.35 Z M0 25 h48.35 v3.5 h-48.35 Z M0 33 h48.35 v3.5 h-48.35 Z M0 41 h48.35 v3.5 h-48.35 Z M0 49 h48.35 v3.5 h-48.35 Z M0 57 h48.35 v3.5 h-48.35 Z M0 65 h48.35 v3.5 h-48.35 Z M0 73 h48.35 v3.5 h-48.35 Z M0 81 h48.35 v3.5 h-48.35 Z M0 89 h48.35 v3.5 h-48.35 Z" fill="#acb5ac"/>
+    </g>
+    <g id="peat-green">
+      <path d="M0 0 H48.35 V96 H0 Z" fill="#5d5551"/>
+      <path d="M0 1 h48.35 v2.8 h-48.35 Z M0 9 h48.35 v2.8 h-48.35 Z M0 17 h48.35 v2.8 h-48.35 Z M0 25 h48.35 v2.8 h-48.35 Z M0 33 h48.35 v2.8 h-48.35 Z M0 41 h48.35 v2.8 h-48.35 Z M0 49 h48.35 v2.8 h-48.35 Z M0 57 h48.35 v2.8 h-48.35 Z M0 65 h48.35 v2.8 h-48.35 Z M0 73 h48.35 v2.8 h-48.35 Z M0 81 h48.35 v2.8 h-48.35 Z M0 89 h48.35 v2.8 h-48.35 Z" fill="#819e98"/>
+    </g>
+    <g id="dark-mix">
+      <path d="M0 0 H48.35 V96 H0 Z" fill="#5d5551"/>
+      <path d="M0 1 h48.35 v2.8 h-48.35 Z M0 9 h48.35 v2.8 h-48.35 Z M0 17 h48.35 v2.8 h-48.35 Z M0 25 h48.35 v2.8 h-48.35 Z M0 33 h48.35 v2.8 h-48.35 Z M0 41 h48.35 v2.8 h-48.35 Z M0 49 h48.35 v2.8 h-48.35 Z M0 57 h48.35 v2.8 h-48.35 Z M0 65 h48.35 v2.8 h-48.35 Z M0 73 h48.35 v2.8 h-48.35 Z M0 81 h48.35 v2.8 h-48.35 Z M0 89 h48.35 v2.8 h-48.35 Z" fill="#785347"/>
+    </g>
+    <g id="green-tick">
+      <path d="M0 0 H48.35 V96 H0 Z" fill="#819e98"/>
+      <path d="M0 1 h48.35 v2.4 h-48.35 Z M0 9 h48.35 v2.4 h-48.35 Z M0 17 h48.35 v2.4 h-48.35 Z M0 25 h48.35 v2.4 h-48.35 Z M0 33 h48.35 v2.4 h-48.35 Z M0 41 h48.35 v2.4 h-48.35 Z M0 49 h48.35 v2.4 h-48.35 Z M0 57 h48.35 v2.4 h-48.35 Z M0 65 h48.35 v2.4 h-48.35 Z M0 73 h48.35 v2.4 h-48.35 Z M0 81 h48.35 v2.4 h-48.35 Z M0 89 h48.35 v2.4 h-48.35 Z" fill="#acb5ac"/>
+    </g>
+    <g id="chalk-stitch">
+      <path d="M0 0 H48.35 V96 H0 Z" fill="#e4e3da"/>
+      <path d="M0 1 h48.35 v1.9 h-48.35 Z M0 9 h48.35 v1.9 h-48.35 Z M0 17 h48.35 v1.9 h-48.35 Z M0 25 h48.35 v1.9 h-48.35 Z M0 33 h48.35 v1.9 h-48.35 Z M0 41 h48.35 v1.9 h-48.35 Z M0 49 h48.35 v1.9 h-48.35 Z M0 57 h48.35 v1.9 h-48.35 Z M0 65 h48.35 v1.9 h-48.35 Z M0 73 h48.35 v1.9 h-48.35 Z M0 81 h48.35 v1.9 h-48.35 Z M0 89 h48.35 v1.9 h-48.35 Z" fill="#785347"/>
+    </g>
+    <g id="slate-bars">
+      <path d="M0 0 H48.35 V96 H0 Z" fill="#819e98"/>
+      <path d="M0 5 h48.35 v15.5 h-48.35 Z M0 37 h48.35 v15.5 h-48.35 Z M0 69 h48.35 v15.5 h-48.35 Z" fill="#acb5ac"/>
+    </g>
+    <g id="cream-bars">
+      <path d="M0 0 H48.35 V96 H0 Z" fill="#819e98"/>
+      <path d="M0 5 h48.35 v15.5 h-48.35 Z M0 37 h48.35 v15.5 h-48.35 Z M0 69 h48.35 v15.5 h-48.35 Z" fill="#e4e3da"/>
+    </g>
+    <g id="course-1">
+      <use xlink:href="#plain-walnut" x="0"/>
+      <use xlink:href="#walnut-fleck" x="48"/>
+      <use xlink:href="#mist-green" x="96"/>
+      <use xlink:href="#plain-green" x="144"/>
+      <use xlink:href="#plain-walnut" x="192"/>
+      <use xlink:href="#chalk-green" x="240"/>
+      <use xlink:href="#mist-green" x="288"/>
+      <use xlink:href="#pale-twill" x="336"/>
+    </g>
+    <g id="course-2">
+      <use xlink:href="#mist-green" x="0"/>
+      <use xlink:href="#pale-twill" x="48"/>
+      <use xlink:href="#peat-silver" x="96"/>
+      <use xlink:href="#mist-green" x="144"/>
+      <use xlink:href="#plain-walnut" x="192"/>
+      <use xlink:href="#chalk-green" x="240"/>
+      <use xlink:href="#plain-walnut" x="288"/>
+      <use xlink:href="#peat-green" x="336"/>
+    </g>
+    <g id="course-3">
+      <use xlink:href="#plain-green" x="0"/>
+      <use xlink:href="#chalk-stitch" x="48"/>
+      <use xlink:href="#plain-walnut" x="96"/>
+      <use xlink:href="#slate-bars" x="144"/>
+      <use xlink:href="#pale-twill" x="192"/>
+      <use xlink:href="#dark-mix" x="240"/>
+      <use xlink:href="#plain-walnut" x="288"/>
+      <use xlink:href="#dark-mix" x="336"/>
+    </g>
+    <g id="course-4">
+      <use xlink:href="#plain-walnut" x="0"/>
+      <use xlink:href="#plain-green" x="48"/>
+      <use xlink:href="#plain-walnut" x="96"/>
+      <use xlink:href="#peat-silver" x="144"/>
+      <use xlink:href="#chalk-green" x="192"/>
+      <use xlink:href="#green-tick" x="240"/>
+      <use xlink:href="#cream-bars" x="288"/>
+      <use xlink:href="#silver-thread" x="336"/>
+    </g>
+  </defs>
+  <rect x="0" y="0" width="384" height="384" fill="#819e98"/>
+  <use xlink:href="#course-1" transform="matrix(1 0 1 1 -403 -19)"/>
+  <use xlink:href="#course-1" transform="matrix(1 0 1 1 -19 -19)"/>
+  <use xlink:href="#course-1" transform="matrix(1 0 1 1 365 -19)"/>
+  <use xlink:href="#course-2" transform="matrix(1 0 -1 1 -307 77)"/>
+  <use xlink:href="#course-2" transform="matrix(1 0 -1 1 77 77)"/>
+  <use xlink:href="#course-2" transform="matrix(1 0 -1 1 461 77)"/>
+  <use xlink:href="#course-3" transform="matrix(1 0 1 1 -403 173)"/>
+  <use xlink:href="#course-3" transform="matrix(1 0 1 1 -19 173)"/>
+  <use xlink:href="#course-3" transform="matrix(1 0 1 1 365 173)"/>
+  <use xlink:href="#course-4" transform="matrix(1 0 -1 1 -307 269)"/>
+  <use xlink:href="#course-4" transform="matrix(1 0 -1 1 77 269)"/>
+  <use xlink:href="#course-4" transform="matrix(1 0 -1 1 461 269)"/>
+  <use xlink:href="#course-1" transform="matrix(1 0 1 1 -403 365)"/>
+  <use xlink:href="#course-1" transform="matrix(1 0 1 1 -19 365)"/>
+  <use xlink:href="#course-1" transform="matrix(1 0 1 1 365 365)"/>
+</svg>

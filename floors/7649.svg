@@ -1,0 +1,116 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="512" height="288" viewBox="0 0 512 288">
+  <title>Star Light, Heathrow Terminal 4 — honey-coloured wood planks</title>
+  <defs>
+    <path id="grain0" d="M9 24 Q55 23 83 17 T151 13 Q120 13 85 19 T9 24Z M38 27 Q70 25 95 20 T153 16 Q122 16 97 21 T38 27Z M170 8 Q196 6 240 8 Q198 7 170 8Z"/>
+    <path id="grain1" d="M13 11 Q54 8 100 11 T186 10 Q145 14 98 12 T13 11Z M103 24 Q138 24 164 20 T237 18 Q193 18 167 21 T103 24Z"/>
+    <path id="grain2" d="M15 27 C48 27 66 22 89 15 S125 11 141 14 Q111 8 91 16 T15 27Z M62 25 Q87 18 101 15 Q111 12 123 14 Q110 13 101 16 T62 25Z M157 28 Q192 24 239 25 Q195 25 157 28Z"/>
+    <path id="grain3" d="M10 15 Q43 12 96 14 T169 13 Q140 17 95 15 T10 15Z M145 24 Q163 23 190 17 T248 13 Q216 14 192 18 T145 24Z"/>
+    <path id="grain4" d="M17 8 Q53 7 89 9 Q57 9 17 8Z M38 23 Q79 24 122 18 T201 15 Q163 15 124 20 T38 23Z M132 23 Q159 18 181 18 Q157 20 132 23Z"/>
+    <path id="grain5" d="M8 23 C44 23 72 16 98 16 S139 18 175 15 Q143 20 99 17 C72 17 49 24 8 23Z M180 27 Q212 23 245 24 Q210 24 180 27Z"/>
+    <path id="grain6" d="M20 13 Q48 13 72 10 T139 9 Q100 8 74 11 T20 13Z M81 27 Q123 26 155 21 T238 17 Q196 17 157 22 T81 27Z"/>
+    <path id="grain7" d="M10 24 Q41 24 72 21 T128 21 Q103 19 73 22 T10 24Z M124 11 Q149 12 179 9 T242 8 Q209 7 181 10 T124 11Z"/>
+    <g id="row0">
+      <g transform="translate(0 0)">
+        <rect x="0.5" y="0.5" width="237.5" height="35.5" fill="#C08B4D"/>
+        <use xlink:href="#grain0" transform="scale(0.92969 1)" fill="#B78145"/>
+      </g>
+      <g transform="translate(238 0)">
+        <rect x="0.5" y="0.5" width="273.5" height="35.5" fill="#CA9454"/>
+        <use xlink:href="#grain3" transform="scale(1.07031 1)" fill="#C08B4D"/>
+      </g>
+    </g>
+    <g id="row1">
+      <g transform="translate(0 0)">
+        <rect x="0.5" y="0.5" width="297.5" height="35.5" fill="#B78145"/>
+        <use xlink:href="#grain1" transform="scale(1.16406 1)" fill="#AA753C"/>
+        <path transform="translate(71 15)" fill="#916136" d="M-4 0Q-1 -2.1 2 -1.1L5 -0.6Q1 1.7 -1 1Z"/>
+      </g>
+      <g transform="translate(298 0)">
+        <rect x="0.5" y="0.5" width="213.5" height="35.5" fill="#C08B4D"/>
+        <use xlink:href="#grain4" transform="scale(0.83594 1)" fill="#B78145"/>
+      </g>
+    </g>
+    <g id="row2">
+      <g transform="translate(0 0)">
+        <rect x="0.5" y="0.5" width="216.5" height="35.5" fill="#CA9454"/>
+        <use xlink:href="#grain2" transform="scale(0.84766 1)" fill="#C08B4D"/>
+      </g>
+      <g transform="translate(217 0)">
+        <rect x="0.5" y="0.5" width="294.5" height="35.5" fill="#AA753C"/>
+        <use xlink:href="#grain5" transform="scale(1.15234 1)" fill="#916136"/>
+        <path transform="translate(110 22)" fill="#916136" d="M-4 0Q-1 -2.1 2 -1.1L5 -0.6Q1 1.7 -1 1Z"/>
+      </g>
+    </g>
+    <g id="row3">
+      <g transform="translate(0 0)">
+        <rect x="0.5" y="0.5" width="272.5" height="35.5" fill="#D29D5E"/>
+        <use xlink:href="#grain3" transform="scale(1.06641 1)" fill="#CA9454"/>
+      </g>
+      <g transform="translate(273 0)">
+        <rect x="0.5" y="0.5" width="238.5" height="35.5" fill="#C08B4D"/>
+        <use xlink:href="#grain6" transform="scale(0.93359 1)" fill="#B78145"/>
+      </g>
+    </g>
+    <g id="row4">
+      <g transform="translate(0 0)">
+        <rect x="0.5" y="0.5" width="187.5" height="35.5" fill="#C08B4D"/>
+        <use xlink:href="#grain4" transform="scale(0.73438 1)" fill="#B78145"/>
+      </g>
+      <g transform="translate(188 0)">
+        <rect x="0.5" y="0.5" width="323.5" height="35.5" fill="#B78145"/>
+        <use xlink:href="#grain7" transform="scale(1.26562 1)" fill="#AA753C"/>
+        <path transform="translate(188 18)" fill="#916136" d="M-4 0Q-1 -2.1 2 -1.1L5 -0.6Q1 1.7 -1 1Z"/>
+      </g>
+    </g>
+    <g id="row5">
+      <g transform="translate(0 0)">
+        <rect x="0.5" y="0.5" width="264.5" height="35.5" fill="#CA9454"/>
+        <use xlink:href="#grain5" transform="scale(1.03516 1)" fill="#C08B4D"/>
+      </g>
+      <g transform="translate(265 0)">
+        <rect x="0.5" y="0.5" width="246.5" height="35.5" fill="#C08B4D"/>
+        <use xlink:href="#grain0" transform="scale(0.96484 1)" fill="#B78145"/>
+      </g>
+    </g>
+    <g id="row6">
+      <g transform="translate(0 0)">
+        <rect x="0.5" y="0.5" width="308.5" height="35.5" fill="#B78145"/>
+        <use xlink:href="#grain6" transform="scale(1.20703 1)" fill="#AA753C"/>
+      </g>
+      <g transform="translate(309 0)">
+        <rect x="0.5" y="0.5" width="202.5" height="35.5" fill="#CA9454"/>
+        <use xlink:href="#grain1" transform="scale(0.79297 1)" fill="#C08B4D"/>
+      </g>
+    </g>
+    <g id="row7">
+      <g transform="translate(0 0)">
+        <rect x="0.5" y="0.5" width="228.5" height="35.5" fill="#C08B4D"/>
+        <use xlink:href="#grain7" transform="scale(0.89453 1)" fill="#B78145"/>
+        <path transform="translate(134 21)" fill="#916136" d="M-4 0Q-1 -2.1 2 -1.1L5 -0.6Q1 1.7 -1 1Z"/>
+      </g>
+      <g transform="translate(229 0)">
+        <rect x="0.5" y="0.5" width="282.5" height="35.5" fill="#D29D5E"/>
+        <use xlink:href="#grain2" transform="scale(1.10547 1)" fill="#CA9454"/>
+      </g>
+    </g>
+  </defs>
+  <rect width="512" height="288" fill="#916136"/>
+  <use xlink:href="#row0" x="-91" y="-5"/>
+  <use xlink:href="#row0" x="421" y="-5"/>
+  <use xlink:href="#row0" x="-91" y="283"/>
+  <use xlink:href="#row0" x="421" y="283"/>
+  <use xlink:href="#row1" x="-192" y="31"/>
+  <use xlink:href="#row1" x="320" y="31"/>
+  <use xlink:href="#row2" x="-43" y="67"/>
+  <use xlink:href="#row2" x="469" y="67"/>
+  <use xlink:href="#row3" x="-145" y="103"/>
+  <use xlink:href="#row3" x="367" y="103"/>
+  <use xlink:href="#row4" x="-116" y="139"/>
+  <use xlink:href="#row4" x="396" y="139"/>
+  <use xlink:href="#row5" x="-32" y="175"/>
+  <use xlink:href="#row5" x="480" y="175"/>
+  <use xlink:href="#row6" x="-222" y="211"/>
+  <use xlink:href="#row6" x="290" y="211"/>
+  <use xlink:href="#row7" x="-161" y="247"/>
+  <use xlink:href="#row7" x="351" y="247"/>
+</svg>

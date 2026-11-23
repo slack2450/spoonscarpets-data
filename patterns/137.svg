@@ -1,0 +1,83 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="800" height="800" viewBox="0 0 800 800">
+  <title>The Playhouse, Colchester — comedy and tragedy masks on a claret scroll ground</title>
+  <defs>
+    <g id="damask" transform="scale(.5) translate(-80 -80)">
+      <path d="M -47 410 C 11 394 69 347 100 295 C 116 267 122 238 119 203 M 119 203 C 129 152 119 121 91 91 C 74 74 49 69 22 68" stroke="#743a39" fill="none" stroke-linejoin="round" stroke-linecap="round" stroke-width="8.5" />
+      <path d="M 101 96 C 140 128 187 144 230 137 C 276 132 303 120 327 100 M 161 104 C 218 147 283 129 328 93 C 345 77 362 51 377 32 M 331 164 C 342 124 365 96 397 89 C 434 82 466 91 496 106 C 475 89 471 75 471 56" stroke="#743a39" fill="none" stroke-linejoin="round" stroke-linecap="round" stroke-width="8" />
+      <path d="M 335 129 C 345 110 346 95 351 87 M 10 411 C 41 370 89 327 149 310 M 42 438 C 78 381 118 351 173 330 C 226 308 277 307 300 322" stroke="#743a39" fill="none" stroke-linejoin="round" stroke-linecap="round" stroke-width="10" />
+      <path d="M 91 452 C 111 458 128 472 141 491 M 113 446 C 139 452 150 467 159 481 M 161 492 C 173 504 180 521 185 537 L 158 551" stroke="#743a39" fill="none" stroke-linejoin="round" stroke-linecap="round" stroke-width="8.5" />
+      <path d="M 160 524 C 165 547 159 569 141 582 C 117 600 78 597 60 576 C 40 553 44 518 62 510 C 75 503 90 507 98 518 C 101 526 94 535 86 540 C 76 547 79 552 89 558 C 100 567 117 568 128 562" stroke="#743a39" fill="none" stroke-linejoin="round" stroke-linecap="round" stroke-width="8.5" />
+      <path d="M 183 307 C 203 302 227 297 246 297 C 275 294 304 303 333 320 C 351 330 371 344 389 365 M 177 332 C 205 324 226 320 247 321 C 305 319 371 355 394 401 C 421 449 414 510 389 548 C 374 570 358 577 341 581 C 316 588 289 573 283 553 C 277 538 282 520 295 511 C 309 503 324 503 331 513 C 326 518 324 526 328 535 C 335 550 351 539 354 520 C 359 499 348 482 330 477 C 298 466 270 480 263 511 C 256 532 260 553 269 569" stroke="#743a39" fill="none" stroke-linejoin="round" stroke-linecap="round" stroke-width="9" />
+      <path d="M 354 602 C 390 579 408 550 421 519 C 435 482 436 452 422 414 C 442 422 456 447 480 464 M 430 433 C 445 449 450 464 453 483 M 449 405 C 468 426 481 450 510 469" stroke="#743a39" fill="none" stroke-linejoin="round" stroke-linecap="round" stroke-width="8" />
+      <path d="M 352 269 C 371 319 393 349 420 354 C 449 358 476 343 487 324 M 480 347 C 502 334 515 308 527 259 M 504 349 C 526 340 539 315 552 276 M 450 237 C 423 270 425 302 438 317 C 449 330 468 324 470 306" stroke="#743a39" fill="none" stroke-linejoin="round" stroke-linecap="round" stroke-width="9.5" />
+      <path d="M 479 462 C 499 483 514 517 523 550 M 503 493 C 573 522 642 535 714 489" stroke="#743a39" fill="none" stroke-linejoin="round" stroke-linecap="round" stroke-width="7" />
+      <path d="M 704 259 C 745 250 779 266 792 294 C 809 330 795 368 805 406 M 678 317 C 704 280 736 273 755 287 C 775 303 775 338 773 365 C 771 383 776 403 783 414" stroke="#743a39" fill="none" stroke-linejoin="round" stroke-linecap="round" stroke-width="9" />
+      <path d="M 671 319 C 685 350 702 362 716 364 C 734 366 744 348 741 327 M 712 397 C 748 374 757 357 754 335 C 753 323 744 317 735 321" stroke="#743a39" fill="none" stroke-linejoin="round" stroke-linecap="round" stroke-width="8" />
+      <path d="M 742 507 C 760 474 770 466 784 459 M 746 530 C 768 488 785 476 802 467" stroke="#743a39" fill="none" stroke-linejoin="round" stroke-linecap="round" stroke-width="7.5" />
+      <path d="M 612 730 C 557 741 526 758 501 784 C 481 803 466 816 458 836 M 613 709 C 572 701 540 716 519 738 M 339 639 C 324 670 308 689 282 702" stroke="#743a39" fill="none" stroke-linejoin="round" stroke-linecap="round" stroke-width="9" />
+      <path d="M 270 743 C 290 782 321 808 349 821 M 308 736 C 319 778 357 810 396 815 C 447 822 490 786 521 730 L 537 697 M 319 719 C 343 769 366 793 397 790 C 442 791 464 756 491 710 L 500 693" stroke="#743a39" fill="none" stroke-linejoin="round" stroke-linecap="round" stroke-width="9" />
+      <path d="M 359 660 C 382 662 402 679 404 699 C 408 717 397 726 382 738 C 369 752 355 734 364 713 M 358 675 C 378 681 386 693 383 705" stroke="#743a39" fill="none" stroke-linejoin="round" stroke-linecap="round" stroke-width="9" />
+      <path d="M 646 742 C 678 752 702 778 730 804 C 753 825 765 856 763 879 C 757 904 749 918 736 933 M 675 710 C 708 736 742 763 762 786 M 714 658 C 752 695 767 724 788 742 C 818 764 856 762 884 744 L 912 729 Q 895 753 899 771" stroke="#743a39" fill="none" stroke-linejoin="round" stroke-linecap="round" stroke-width="8" />
+    </g>
+    <g id="tracery" transform="scale(.5) translate(-80 -80)">
+      <path d="M 209 754 C 250 771 296 834 318 879 C 331 910 324 955 325 995 C 326 1032 308 1065 277 1085 C 250 1103 217 1106 183 1106" stroke="#ad9783" fill="none" stroke-linejoin="round" stroke-linecap="round" stroke-width="6.5" />
+      <path d="M 183 307 C 185 271 177 236 161 219 C 145 201 116 198 94 195 C 89 224 95 255 110 277 C 127 301 155 310 180 316" stroke="#ad9783" fill="none" stroke-linejoin="round" stroke-linecap="round" stroke-width="8" />
+      <path d="M -95 250 C -117 277 -140 310 -129 344 C -118 383 -75 413 -35 427 C 19 447 76 440 119 407 C 149 385 169 355 183 317 Q 186 309 183 302" stroke="#ad9783" fill="none" stroke-linejoin="round" stroke-linecap="round" stroke-width="7.5" />
+      <path d="M -122 373 C -68 426 -18 454 27 457 C 97 464 148 426 188 371" stroke="#ad9783" fill="none" stroke-linejoin="round" stroke-linecap="round" stroke-width="8" />
+      <path d="M 606 317 C 580 271 522 233 474 219 C 421 203 379 210 348 233 C 315 257 299 290 299 329 C 298 370 309 408 323 433 C 282 403 235 393 202 417 C 167 445 142 494 134 539 C 124 596 141 654 171 698 C 192 728 232 738 274 733 C 316 728 347 704 360 669 C 373 631 363 596 331 582 C 301 568 276 567 260 586 C 247 603 246 627 256 643 C 263 655 281 662 299 658 C 309 643 296 627 281 617 C 295 597 318 598 332 612 C 348 630 344 655 329 678 C 314 702 287 712 256 708 C 221 706 193 689 180 660 C 162 619 158 580 156 546" stroke="#ad9783" fill="none" stroke-linejoin="round" stroke-linecap="round" stroke-width="8" />
+      <path d="M 326 291 C 348 258 371 239 403 233 C 444 225 493 239 527 259 C 551 275 574 296 587 317" stroke="#ad9783" fill="none" stroke-linejoin="round" stroke-linecap="round" stroke-width="8" />
+      <path d="M 706 250 C 668 275 626 280 595 265 C 560 249 542 215 542 178 C 540 125 550 87 573 49 C 593 14 612 2 636 3 C 679 3 712 29 724 71 C 734 102 726 118 709 125 C 692 135 670 121 651 111 C 634 101 632 81 636 64 C 638 45 650 33 661 37 C 670 40 675 53 676 65" stroke="#ad9783" fill="none" stroke-linejoin="round" stroke-linecap="round" stroke-width="7" />
+      <path d="M 708 12 C 740 35 755 66 751 104 C 748 135 727 153 699 152 C 676 152 665 141 646 130" stroke="#ad9783" fill="none" stroke-linejoin="round" stroke-linecap="round" stroke-width="7.5" />
+      <path d="M 716 490 C 700 447 680 409 650 384 C 620 360 588 364 565 377 C 539 391 523 418 525 447 C 527 477 546 482 578 481 C 588 478 592 466 593 455 C 587 448 574 445 566 435 C 571 418 581 415 592 425 C 616 442 620 462 609 482 C 596 506 577 507 551 501 C 523 499 508 487 505 461 C 498 420 515 386 550 360 C 581 336 619 339 652 360 C 694 389 721 433 738 489 C 764 557 737 632 696 692 C 677 719 654 734 632 742 C 643 691 637 640 615 604 C 593 568 555 549 521 557 C 481 562 456 591 461 631 C 461 665 480 687 508 689 C 535 691 554 683 562 664 C 570 641 555 621 538 620 C 529 629 533 645 525 659 C 499 665 481 646 483 621 C 486 593 505 579 529 576 C 555 571 577 590 591 615 C 608 646 615 686 610 728 C 602 778 552 809 501 827 C 448 843 383 833 342 812 C 307 793 284 766 274 736" stroke="#ad9783" fill="none" stroke-linejoin="round" stroke-linecap="round" stroke-width="8" />
+      <path d="M 238 739 C 266 778 301 815 351 836 C 394 856 439 865 475 856 C 528 846 560 817 595 792" stroke="#ad9783" fill="none" stroke-linejoin="round" stroke-linecap="round" stroke-width="7" />
+      <path d="M -148 756 C -122 719 -85 681 -42 663 C 5 642 57 650 97 674 C 149 703 185 739 190 776 C 195 802 192 828 188 843 C 184 859 169 873 152 876 C 126 880 109 867 103 847 C 96 827 104 811 122 800 C 138 791 150 811 155 833 C 160 843 169 842 174 833 C 177 809 166 783 148 776 C 119 765 94 780 82 806 C 65 841 78 870 100 887 C 128 909 169 904 190 887 C 214 868 218 843 214 813 C 213 793 211 771 209 754" stroke="#ad9783" fill="none" stroke-linejoin="round" stroke-linecap="round" stroke-width="7" />
+      <path d="M 155 539 C 162 562 167 599 174 626 C 180 646 185 659 193 673 C 185 669 177 661 173 651 C 164 628 153 582 151 553 Z M 714 494 C 701 480 686 442 676 426 C 693 443 704 464 719 490 Z M 549 361 C 529 381 514 403 509 433 C 509 448 510 456 511 464 L 502 462 C 498 420 516 384 549 361 Z M 346 606 C 354 614 361 627 364 648 L 366 634 C 365 618 359 605 349 596 Z" fill="#ad9783" fill-rule="evenodd" />
+      <path d="M 380 126 q 5 -3 10 2 l -1 4 -7 -1 z M 458 135 l 8 4 -2 3 -6 -4 z M 373 160 q 7 -2 11 4 l -3 4 -7 -3 z M 415 178 l 8 -6 4 8 -6 2 z M 481 188 l 6 -3 4 7 -6 1 z" fill="#ad9783" fill-rule="evenodd" />
+    </g>
+    <g id="theatre-ribbons" transform="scale(.5) translate(-80 -80)">
+      <path d="M 261 419 C 288 369 321 327 370 298 C 418 269 471 260 518 280 C 562 297 590 328 629 339 C 650 346 666 344 672 339 C 674 313 685 283 698 253 C 686 254 676 259 665 261 C 652 263 646 255 649 245 C 654 219 672 208 695 211 C 727 215 744 239 744 271 C 747 313 730 342 702 360 C 720 370 738 369 747 362 L 747 386 L 679 396 C 667 383 647 376 631 375 C 607 372 598 378 589 391 L 564 388 C 577 371 575 355 556 343 C 523 315 481 296 444 296 C 425 296 406 301 391 310 C 408 320 426 332 430 350 C 436 371 418 388 397 393 C 379 397 362 392 353 377 C 369 379 381 380 393 374 C 406 367 412 359 404 349 C 395 337 373 330 357 336 C 343 342 328 356 319 369 C 315 387 319 405 330 419 L 316 425 C 303 411 302 400 303 390 L 282 425 Z M 705 278 C 703 291 701 311 695 319 C 690 324 685 327 683 325 C 686 307 696 286 705 278 Z" fill="#ada583" fill-rule="evenodd" />
+      <path d="M 259 567 C 264 591 270 617 266 641 C 278 656 296 662 321 660 L 324 666 C 293 671 268 662 251 644 C 255 618 259 593 259 567 Z M 477 614 C 492 612 505 619 517 629 C 508 651 506 668 509 682 C 522 688 535 685 545 678 L 557 692 C 540 700 523 700 507 695 C 504 731 507 760 530 781 C 540 790 552 797 562 787 C 571 779 577 767 569 760 C 562 753 552 757 544 762 C 551 744 565 736 580 740 C 599 742 607 759 602 775 C 598 785 603 792 610 801 C 628 816 638 817 656 818 C 692 820 724 818 752 795 C 779 773 788 742 780 714 C 776 700 770 686 757 684 C 747 684 740 691 732 700 L 716 708 C 729 682 744 661 761 658 C 783 655 799 674 802 700 C 811 744 796 786 764 811 C 731 835 689 847 635 845 C 596 845 552 838 523 819 C 487 794 476 760 475 721 C 474 683 484 657 470 634 Z M 633 813 C 650 791 673 796 701 819 L 683 822 C 660 806 648 806 641 818 Z" fill="#ada583" fill-rule="evenodd" />
+    </g>
+    <g id="masks" transform="scale(.5) translate(-80 -80)">
+      <path d="M 218 380 C 253 387 285 407 328 415 C 370 423 419 417 464 403 C 467 461 474 528 490 579 C 488 597 481 619 463 639 C 450 658 433 682 416 696 C 402 707 389 716 374 721 C 347 709 321 687 300 658 C 267 614 244 559 230 505 C 222 469 215 420 218 380 Z" fill="#afb49e" fill-rule="evenodd" />
+      <path d="M 280 503 C 296 509 308 510 320 506 C 335 501 341 495 354 496 C 361 506 361 525 354 534 C 347 543 331 545 319 538 C 315 534 313 528 312 524 C 301 520 289 513 280 503 Z M 386 504 C 391 498 394 496 400 496 C 412 503 423 509 436 510 C 443 510 450 507 456 503 C 451 516 441 523 432 526 C 425 537 412 541 401 541 C 389 540 383 533 383 522 C 383 515 384 508 386 504 Z M 319 614 C 332 614 342 602 354 597 C 371 590 387 593 400 604 C 410 612 420 616 427 619 L 422 625 C 407 620 395 608 378 607 C 356 605 344 617 327 621 Q 325 616 319 614 Z" fill="#5c2930" fill-rule="evenodd" />
+      <path d="M 465 373 C 459 422 463 512 482 572 L 492 580 C 482 510 474 428 478 368 Z" fill="#5c2930" fill-rule="evenodd" />
+      <path d="M 469 357 C 513 370 556 385 607 389 C 657 394 707 382 754 357 C 758 405 756 479 748 533 C 737 604 713 660 677 699 C 659 720 638 733 617 738 C 588 726 562 703 539 674 C 503 630 488 582 478 528 C 471 483 466 408 469 357 Z" fill="#afb49e" fill-rule="evenodd" />
+      <path d="M 520 487 C 535 496 546 500 558 494 C 568 489 574 484 581 486 C 588 487 594 490 599 494 C 597 505 600 517 594 525 C 582 530 567 528 557 523 C 544 519 533 507 527 501 C 521 501 518 496 520 487 Z M 639 492 C 646 488 654 485 663 486 C 672 496 683 500 693 499 C 700 499 705 495 712 493 C 710 501 705 506 697 510 C 689 524 678 529 665 529 C 657 528 650 523 642 522 C 637 516 634 503 639 492 Z M 562 596 C 581 611 605 617 627 614 C 641 613 651 607 663 601 C 652 615 635 622 616 623 C 594 625 573 616 564 607 Z" fill="#5c2930" fill-rule="evenodd" />
+    </g>
+  </defs>
+  <rect width="800" height="800" fill="#5c2930" />
+  <use xlink:href="#damask" x="-400" y="-400" />
+  <use xlink:href="#damask" x="0" y="-400" />
+  <use xlink:href="#damask" x="400" y="-400" />
+  <use xlink:href="#damask" x="800" y="-400" />
+  <use xlink:href="#damask" x="-400" y="0" />
+  <use xlink:href="#damask" x="0" y="0" />
+  <use xlink:href="#damask" x="400" y="0" />
+  <use xlink:href="#damask" x="800" y="0" />
+  <use xlink:href="#damask" x="-400" y="400" />
+  <use xlink:href="#damask" x="0" y="400" />
+  <use xlink:href="#damask" x="400" y="400" />
+  <use xlink:href="#damask" x="800" y="400" />
+  <use xlink:href="#damask" x="-400" y="800" />
+  <use xlink:href="#damask" x="0" y="800" />
+  <use xlink:href="#damask" x="400" y="800" />
+  <use xlink:href="#damask" x="800" y="800" />
+  <use xlink:href="#tracery" x="0" y="-400" />
+  <use xlink:href="#tracery" x="400" y="-400" />
+  <use xlink:href="#tracery" x="800" y="-400" />
+  <use xlink:href="#tracery" x="0" y="0" />
+  <use xlink:href="#tracery" x="400" y="0" />
+  <use xlink:href="#tracery" x="800" y="0" />
+  <use xlink:href="#tracery" x="0" y="400" />
+  <use xlink:href="#tracery" x="400" y="400" />
+  <use xlink:href="#tracery" x="800" y="400" />
+  <use xlink:href="#tracery" x="0" y="800" />
+  <use xlink:href="#tracery" x="400" y="800" />
+  <use xlink:href="#tracery" x="800" y="800" />
+  <use xlink:href="#theatre-ribbons" x="0" y="0" />
+  <use xlink:href="#theatre-ribbons" x="400" y="400" />
+  <use xlink:href="#masks" x="0" y="0" />
+  <use xlink:href="#masks" x="400" y="400" />
+</svg>

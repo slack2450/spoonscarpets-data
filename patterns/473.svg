@@ -1,0 +1,122 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="600" height="600" viewBox="0 0 600 600">
+<title>The Crown, Berkhamsted — alternating ring and quartered medallions</title>
+<desc>Axminster carpet repeat with paired ivory bars, gold buds and blue leaf crosses on a navy field.</desc>
+<defs>
+  <clipPath id="well"><circle r="111.7"/></clipPath>
+  <g id="bud-a">
+    <path fill="#E5D9C6" d="M 117 -15.8 L 94 -15.8 Q 84 -15.8 78.4 -9.7 L 73.89999999999999 -4 Q 72.1 -1.4 73.1 1.8 Q 75.89999999999999 9.2 83.6 13.2 Q 87.7 16.1 94.6 15.8 L 117 15.8 Z"/>
+    <path fill="#C6B48C" d="M 117 -12.0 L 96 -11.700000000000001 Q 89 -11.700000000000001 86.8 -7.2 L 83.5 -2.7 Q 82.3 .4 84.7 3.9 Q 88.6 10.1 95 10.9 L 117 12.4 Z"/>
+  </g>
+  <g id="bud-b">
+    <path fill="#E5D9C6" d="M 117 -16.1 L 94 -16.1 Q 84 -16.1 78.4 -9.7 L 74.6 -4 Q 72.8 -1.4 73.8 1.8 Q 76.6 9.2 83.6 13.2 Q 87.7 16.400000000000002 94.6 16.1 L 117 16.1 Z"/>
+    <path fill="#C6B48C" d="M 117 -12.3 L 96 -12.000000000000002 Q 89 -12.000000000000002 86.8 -7.2 L 83.5 -2.7 Q 82.3 .4 84.7 3.9 Q 88.6 10.1 95 10.9 L 117 13.3 Z"/>
+  </g>
+  <g id="bud-c">
+    <path fill="#E5D9C6" d="M 117 -15.7 L 94 -15.7 Q 84 -15.7 78.4 -9.7 L 75.1 -4 Q 73.3 -1.4 74.3 1.8 Q 77.1 9.2 83.6 13.2 Q 87.7 16.0 94.6 15.7 L 117 15.7 Z"/>
+    <path fill="#C6B48C" d="M 117 -11.899999999999999 L 96 -11.6 Q 89 -11.6 86.8 -7.2 L 83.5 -2.7 Q 82.3 .4 84.7 3.9 Q 88.6 10.1 95 10.9 L 117 11.799999999999999 Z"/>
+  </g>
+  <g id="bud-d">
+    <path fill="#E5D9C6" d="M 117 -16.2 L 94 -16.2 Q 84 -16.2 78.4 -9.7 L 73.7 -4 Q 71.9 -1.4 72.9 1.8 Q 75.7 9.2 83.6 13.2 Q 87.7 16.5 94.6 16.2 L 117 16.2 Z"/>
+    <path fill="#C6B48C" d="M 117 -12.399999999999999 L 96 -12.1 Q 89 -12.1 86.8 -7.2 L 83.5 -2.7 Q 82.3 .4 84.7 3.9 Q 88.6 10.1 95 10.9 L 117 12.999999999999998 Z"/>
+  </g>
+  <g id="medallion">
+    <circle r="151.3" fill="#A05265"/><circle r="139.7" fill="#7586B4"/><circle r="123.3" fill="#A05265"/><circle r="111.7" fill="#46557E"/>
+    <g clip-path="url(#well)">
+    <use xlink:href="#bud-a" transform="rotate(45)"/>
+    <use xlink:href="#bud-b" transform="rotate(135)"/>
+    <use xlink:href="#bud-c" transform="rotate(225)"/>
+    <use xlink:href="#bud-d" transform="rotate(315)"/>
+    </g>
+  </g>
+  <g id="hub">
+    <path fill="#7586B4" d="M -17.6 -17.5 L 17.5 -17.5 17.5 17.3 -17.6 17.3 Z"/>
+    <path fill="#A05265" d="M -8.5 -8.4 H 8.5 V 8.6 H -8.5 Z"/>
+  </g>
+  <g id="enclosed">
+    <use xlink:href="#medallion"/>
+    <g transform="rotate(0)">
+    <path fill="#A05265" d="M 0 -25.7 H 107 Q 111 -25.7 115.9 -24 L 117 24.6 Q 112.2 25.3 107 25.4 H 0 Z"/>
+    <path fill="#E5D9C6" d="M 27.6 -14.4 L 32.300000000000004 -15.1 L 107.3 -15.1 111.0 -14.1 111.0 -8.2 107.4 -7.6 H 31.3 L 27.6 -8.1 Z"/>
+    <path fill="#E5D9C6" d="M 28.0 8.1 L 31.6 7.7 H 106.19999999999999 L 110.6 8.5 V 14.5 L 107.1 15.1 H 31.900000000000002 L 28.0 14.4 Z"/>
+    </g>
+    <g transform="rotate(90)">
+    <path fill="#A05265" d="M 0 -25.7 H 107 Q 111 -25.7 115.9 -24 L 117 24.6 Q 112.2 25.3 107 25.4 H 0 Z"/>
+    <path fill="#E5D9C6" d="M 28.3 -14.4 L 33.0 -15.1 L 105.89999999999999 -15.1 109.6 -14.1 109.6 -8.2 106.0 -7.6 H 32.0 L 28.3 -8.1 Z"/>
+    <path fill="#E5D9C6" d="M 28.7 8.1 L 32.3 7.7 H 105.8 L 110.2 8.5 V 14.5 L 106.7 15.1 H 32.6 L 28.7 14.4 Z"/>
+    </g>
+    <g transform="rotate(180)">
+    <path fill="#A05265" d="M 0 -25.7 H 107 Q 111 -25.7 115.9 -24 L 117 24.6 Q 112.2 25.3 107 25.4 H 0 Z"/>
+    <path fill="#E5D9C6" d="M 27.6 -14.4 L 32.300000000000004 -15.1 L 107.89999999999999 -15.1 111.6 -14.1 111.6 -8.2 108.0 -7.6 H 31.3 L 27.6 -8.1 Z"/>
+    <path fill="#E5D9C6" d="M 28.0 8.1 L 31.6 7.7 H 105.8 L 110.2 8.5 V 14.5 L 106.7 15.1 H 31.900000000000002 L 28.0 14.4 Z"/>
+    </g>
+    <g transform="rotate(270)">
+    <path fill="#A05265" d="M 0 -25.7 H 107 Q 111 -25.7 115.9 -24 L 117 24.6 Q 112.2 25.3 107 25.4 H 0 Z"/>
+    <path fill="#E5D9C6" d="M 28.3 -14.4 L 33.0 -15.1 L 107.1 -15.1 110.8 -14.1 110.8 -8.2 107.2 -7.6 H 32.0 L 28.3 -8.1 Z"/>
+    <path fill="#E5D9C6" d="M 28.7 8.1 L 32.3 7.7 H 106.8 L 111.2 8.5 V 14.5 L 107.7 15.1 H 32.6 L 28.7 14.4 Z"/>
+    </g>
+    <use xlink:href="#hub"/>
+  </g>
+  <g id="through">
+    <use xlink:href="#medallion"/>
+    <g transform="rotate(0)">
+    <path fill="#A05265" d="M 0 -25.7 H 148.2 L 152.1 -23.9 V 23.9 L 148.2 25.7 H 0 Z"/>
+    <path fill="#E5D9C6" d="M 27.6 -14.4 L 32.300000000000004 -15.1 L 144.4 -15.1 148.1 -14.1 148.1 -8.2 144.5 -7.6 H 31.3 L 27.6 -8.1 Z"/>
+    <path fill="#E5D9C6" d="M 28.0 8.1 L 31.6 7.7 H 143.29999999999998 L 147.7 8.5 V 14.5 L 144.2 15.1 H 31.900000000000002 L 28.0 14.4 Z"/>
+    </g>
+    <g transform="rotate(90)">
+    <path fill="#A05265" d="M 0 -25.7 H 148.2 L 152.1 -23.9 V 23.9 L 148.2 25.7 H 0 Z"/>
+    <path fill="#E5D9C6" d="M 28.3 -14.4 L 33.0 -15.1 L 143.70000000000002 -15.1 147.4 -14.1 147.4 -8.2 143.8 -7.6 H 32.0 L 28.3 -8.1 Z"/>
+    <path fill="#E5D9C6" d="M 28.7 8.1 L 32.3 7.7 H 143.5 L 147.9 8.5 V 14.5 L 144.4 15.1 H 32.6 L 28.7 14.4 Z"/>
+    </g>
+    <g transform="rotate(180)">
+    <path fill="#A05265" d="M 0 -25.7 H 148.2 L 152.1 -23.9 V 23.9 L 148.2 25.7 H 0 Z"/>
+    <path fill="#E5D9C6" d="M 27.6 -14.4 L 32.300000000000004 -15.1 L 144.5 -15.1 148.2 -14.1 148.2 -8.2 144.6 -7.6 H 31.3 L 27.6 -8.1 Z"/>
+    <path fill="#E5D9C6" d="M 28.0 8.1 L 31.6 7.7 H 144.1 L 148.5 8.5 V 14.5 L 145.0 15.1 H 31.900000000000002 L 28.0 14.4 Z"/>
+    </g>
+    <g transform="rotate(270)">
+    <path fill="#A05265" d="M 0 -25.7 H 148.2 L 152.1 -23.9 V 23.9 L 148.2 25.7 H 0 Z"/>
+    <path fill="#E5D9C6" d="M 28.3 -14.4 L 33.0 -15.1 L 143.9 -15.1 147.6 -14.1 147.6 -8.2 144.0 -7.6 H 32.0 L 28.3 -8.1 Z"/>
+    <path fill="#E5D9C6" d="M 28.7 8.1 L 32.3 7.7 H 143.29999999999998 L 147.7 8.5 V 14.5 L 144.2 15.1 H 32.6 L 28.7 14.4 Z"/>
+    </g>
+    <use xlink:href="#hub"/>
+  </g>
+  <g id="leaf">
+    <path fill="#7586B4" d="M -6.3 -18.9 L -8.5 -25.6 -18.4 -35.4 -27.9 -46.5 -30.1 -50.5 -23.3 -47.7 -14.4 -42.8 -8.2 -40.2 Q -12.1 -46.6 -12.0 -51.1 Q -11.6 -56.0 -7.9 -60.8 L -2.1 -67.8 -.5 -70.4 4.1 -66.3 Q 12.5 -57.8 12.3 -52.6 Q 12.2 -47.6 8.9 -40.8 L 15.8 -43.6 25.5 -48.5 30 -50.1 26.4 -44.3 17.8 -34.9 9.5 -26.6 6.4 -18.8 Z"/>
+  </g>
+  <g id="leaf-cross">
+    <path fill="#7586B4" d="M 0 -30.4 L 30.4 0 0 30.4 -30.4 0 Z"/>
+    <use xlink:href="#leaf" transform="rotate(0)"/>
+    <use xlink:href="#leaf" transform="rotate(90)"/>
+    <use xlink:href="#leaf" transform="rotate(180)"/>
+    <use xlink:href="#leaf" transform="rotate(270)"/>
+    <path fill="#46557E" d="M 0 -15 L 15 0 0 15.1 -15 0 Z"/>
+    <path fill="#7586B4" d="M 0 -7.8 L 7.9 0 0 7.9 -7.8 0 Z"/>
+  </g>
+</defs>
+<rect width="600" height="600" fill="#46557E"/>
+    <use xlink:href="#leaf-cross" transform="translate(0 0)"/>
+    <use xlink:href="#leaf-cross" transform="translate(300 0)"/>
+    <use xlink:href="#leaf-cross" transform="translate(600 0)"/>
+    <use xlink:href="#leaf-cross" transform="translate(0 300)"/>
+    <use xlink:href="#leaf-cross" transform="translate(300 300)"/>
+    <use xlink:href="#leaf-cross" transform="translate(600 300)"/>
+    <use xlink:href="#leaf-cross" transform="translate(0 600)"/>
+    <use xlink:href="#leaf-cross" transform="translate(300 600)"/>
+    <use xlink:href="#leaf-cross" transform="translate(600 600)"/>
+    <use xlink:href="#through" transform="translate(150 -150)"/>
+    <use xlink:href="#through" transform="translate(750 -150)"/>
+    <use xlink:href="#through" transform="translate(-150 150)"/>
+    <use xlink:href="#through" transform="translate(450 150)"/>
+    <use xlink:href="#through" transform="translate(150 450)"/>
+    <use xlink:href="#through" transform="translate(750 450)"/>
+    <use xlink:href="#through" transform="translate(-150 750)"/>
+    <use xlink:href="#through" transform="translate(450 750)"/>
+    <use xlink:href="#enclosed" transform="translate(-150 -150)"/>
+    <use xlink:href="#enclosed" transform="translate(450 -150)"/>
+    <use xlink:href="#enclosed" transform="translate(150 150)"/>
+    <use xlink:href="#enclosed" transform="translate(750 150)"/>
+    <use xlink:href="#enclosed" transform="translate(-150 450)"/>
+    <use xlink:href="#enclosed" transform="translate(450 450)"/>
+    <use xlink:href="#enclosed" transform="translate(150 750)"/>
+    <use xlink:href="#enclosed" transform="translate(750 750)"/>
+</svg>

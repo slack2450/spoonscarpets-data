@@ -1,0 +1,31 @@
+name: Validate Carpets
+
+on:
+  pull_request:
+  push:
+    branches: [main]
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: |
+          sudo apt-get update && sudo apt-get install -y librsvg2-bin
+          pip install pillow numpy
+
+      - name: Validate catalog & changed SVGs
+        run: |
+          python3 scripts/verify_seams.py --catalog-only
+          CHANGED=$(git diff --name-only --diff-filter=AM origin/main...HEAD -- 'patterns/*.svg' || true)
+          if [ -n "$CHANGED" ]; then
+            python3 scripts/verify_seams.py $CHANGED
+          fi

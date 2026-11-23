@@ -1,0 +1,170 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="768" height="768" viewBox="0 0 768 768">
+  <title>Golden Cross Hotel, Bromsgrove — four-square staggered Axminster repeat</title>
+  <defs>
+    <g id="brocade-frame">
+      <path fill="#e8bd80" d="M-91 -89 Q-90 -93 -85 -93 H85 Q93 -93 94 -85 V85 Q94 93 85 93 H-86 Q-94 93 -94 85 V-84 Z" />
+      <use xlink:href="#brocade-side" transform="rotate(0)" />
+      <use xlink:href="#brocade-side" transform="rotate(90)" />
+      <use xlink:href="#brocade-side" transform="rotate(180)" />
+      <use xlink:href="#brocade-side" transform="rotate(270)" />
+      <use xlink:href="#brocade-corner" transform="rotate(0)" />
+      <use xlink:href="#brocade-corner" transform="rotate(90)" />
+      <use xlink:href="#brocade-corner" transform="rotate(180)" />
+      <use xlink:href="#brocade-corner" transform="rotate(270)" />
+    </g>
+    <g id="brocade-side">
+      <path fill="#503b29" d="M-84 -89 L-77 -92 L-66 -91 L-61 -94 L-52 -90 L-42 -91 L-36 -93 L-30 -91 L-19 -92 L-13 -94 L-5 -91 L6 -91 L11 -93 L19 -91 L31 -92 L38 -94 L45 -91 L58 -92 L64 -93 L71 -90 L82 -92 L88 -85 L84 -75 L77 -70 L67 -68 L62 -65 L55 -68 L47 -67 L41 -65 L34 -68 L22 -68 L16 -65 L9 -68 L-2 -67 L-9 -65 L-15 -68 L-28 -68 L-34 -65 L-40 -68 L-52 -67 L-60 -65 L-66 -68 L-77 -68 L-85 -73 Z" />
+      <use xlink:href="#brocade-stitches" transform="translate(-63 0)" />
+      <use xlink:href="#brocade-stitches" transform="translate(-38 0)" />
+      <use xlink:href="#brocade-stitches" transform="translate(-13 0)" />
+      <use xlink:href="#brocade-stitches" transform="translate(12 0)" />
+      <use xlink:href="#brocade-stitches" transform="translate(37 0)" />
+      <use xlink:href="#brocade-stitches" transform="translate(62 0)" />
+    </g>
+    <g id="brocade-stitches">
+      <path fill="#cda46b" d="M-11 -83 L-8 -86 L-3 -86 L-4 -82 L-8 -79 L-11 -80 Z M-4 -76 L1 -81 L5 -80 L4 -76 L1 -73 L-2 -72 Z" />
+      <path fill="#cda46b" d="M5 -88 L9 -90 L12 -90 L11 -86 L7 -84 L5 -85 Z" />
+      <path fill="#e8bd80" d="M-8 -71 L-5 -72 L-6 -69 L-10 -67 Z" />
+    </g>
+    <g id="brocade-corner">
+      <path fill="#503b29" d="M-93 -90 L-86 -94 L-79 -92 L-74 -89 L-74 -82 L-69 -79 L-69 -71 L-73 -66 L-81 -69 L-86 -71 L-93 -75 L-92 -82 Z" />
+      <path fill="#cda46b" d="M-89 -87 L-84 -89 L-82 -86 L-83 -82 L-87 -81 Z M-80 -79 L-76 -81 L-73 -77 L-75 -73 L-80 -74 Z" />
+    </g>
+    <g id="barbed-stitch">
+      <path fill="#503b29" d="M-7 -1 L-4 -4 L-3 -7 L1 -7 L2 -4 L5 -3 L6 1 L3 4 L1 10 L-2 8 L-3 4 L-7 3 Z" />
+      <path fill="#503b29" d="M-3 14 L1 14 L2 18 L-2 18 Z" />
+    </g>
+    <g id="barbed-side">
+      <path fill="#503b29" d="M-84 -86 Q-71 -84 -59 -86 Q-48 -83 -34 -85 Q-20 -83 -9 -85 Q5 -83 17 -85 Q32 -83 44 -85 Q58 -83 72 -85 L84 -86 L85 -82 Q70 -80 56 -82 Q45 -80 32 -82 Q20 -81 8 -82 Q-8 -80 -20 -82 Q-35 -80 -47 -82 Q-60 -80 -72 -82 L-84 -81 Z" />
+      <use xlink:href="#barbed-stitch" transform="translate(-79 -83)" />
+      <use xlink:href="#barbed-stitch" transform="translate(-53 -83)" />
+      <use xlink:href="#barbed-stitch" transform="translate(-28 -83)" />
+      <use xlink:href="#barbed-stitch" transform="translate(-3 -83)" />
+      <use xlink:href="#barbed-stitch" transform="translate(23 -83)" />
+      <use xlink:href="#barbed-stitch" transform="translate(49 -83)" />
+      <use xlink:href="#barbed-stitch" transform="translate(74 -83)" />
+    </g>
+    <g id="knotted-frame">
+      <use xlink:href="#barbed-side" transform="rotate(0)" />
+      <use xlink:href="#barbed-side" transform="rotate(90)" />
+      <use xlink:href="#barbed-side" transform="rotate(180)" />
+      <use xlink:href="#barbed-side" transform="rotate(270)" />
+    </g>
+    <g id="flared-cross">
+      <path fill="#b05435" d="M-58 -54 Q-53 -61 -42 -61 L-16 -60 L-3 -63 L8 -60 L38 -60 Q55 -60 60 -52 L61 -42 L58 -22 L60 -6 L58 11 L61 37 L60 52 Q58 61 47 61 L18 60 L4 62 L-12 60 L-40 61 L-56 59 Q-60 54 -60 46 L-58 20 L-60 2 L-58 -17 L-60 -38 Z M-51 -46 L-52 -21 L-54 0 L-52 18 L-53 43 Q-54 52 -44 52 L-16 53 L0 51 L15 53 L41 52 Q53 53 53 43 L51 19 L53 2 L51 -20 L52 -42 Q53 -52 43 -52 L14 -53 L0 -51 L-17 -53 L-42 -52 Q-50 -52 -51 -46 Z" fill-rule="evenodd" />
+      <path fill="#503b29" d="M-49 -36 Q-45 -41 -44 -46 L-37 -51 L-30 -48 L-28 -42 L-29 -36 Q-24 -28 -14 -22 L-10 -25 L-6 -19 L1 -18 L4 -22 L8 -20 Q17 -22 28 -37 L26 -45 L31 -50 L38 -49 L44 -44 L48 -38 L44 -33 L38 -32 Q27 -26 21 -14 L18 -9 L20 -5 L17 0 L19 8 L17 14 Q23 23 34 30 L40 30 L49 34 L46 40 L41 44 L36 50 L29 47 L28 40 Q24 30 12 23 L5 18 L-1 21 L-6 18 L-14 20 Q-26 28 -31 39 L-30 45 L-35 48 L-45 44 L-50 36 L-46 32 L-38 30 Q-26 23 -20 13 L-19 5 L-21 2 L-17 -5 L-19 -14 Q-26 -25 -38 -31 L-43 -31 Z" />
+    </g>
+    <g id="diagonal-fret">
+      <path fill="#503b29" d="M-65 -46 Q-55 -50 -51 -58 L-45 -67 Q-48 -55 -46 -51 L-3 -9 L1 -4 L-4 -6 L-51 -46 Q-58 -49 -65 -42 Z" />
+      <path fill="#503b29" d="M25 -59 L31 -64 L34 -56 L43 -49 L33 -49 Q29 -49 26 -45 L-42 23 L-47 25 L-44 19 L23 -50 Q27 -55 25 -59 Z" />
+      <path fill="#503b29" d="M-16 -62 L-12 -61 L29 -21 Q35 -19 40 -23 L42 -20 L34 -14 L25 -7 L28 -16 Q27 -19 24 -22 L-14 -56 Z" />
+      <path fill="#503b29" d="M-64 0 L-58 -7 L-52 -8 L-46 -16 L-44 -15 L-47 -4 L-44 0 L7 49 L11 56 L5 54 L-48 5 Q-53 1 -64 4 Z" />
+      <path fill="#503b29" d="M-52 48 L-40 49 Q-36 49 -32 45 L9 4 L12 4 L10 9 L-30 52 Q-33 56 -31 65 L-35 64 L-40 57 L-50 54 Z" />
+      <path fill="#503b29" d="M48 -30 Q53 -28 56 -21 L64 -16 L62 -13 L55 -14 Q51 -14 47 -10 L11 26 L4 29 L8 23 L46 -16 Q50 -20 48 -30 Z" />
+      <path fill="#503b29" d="M12 13 L17 13 L53 48 Q58 51 70 45 L72 47 L62 54 L56 66 L51 67 L52 56 Q53 54 46 49 L14 20 Z" />
+    </g>
+    <g id="octagonal-ground">
+      <path fill="#503b29" d="M-22 -51 Q-17 -56 -9 -55 L11 -56 L24 -53 Q31 -49 35 -43 L47 -32 Q56 -24 55 -13 L57 1 L54 19 Q54 29 44 34 L29 49 Q23 55 12 55 L-8 56 L-21 54 L-35 43 L-47 31 Q-55 26 -55 15 L-57 3 L-55 -14 Q-56 -24 -48 -31 L-34 -43 Z" />
+    </g>
+    <g id="four-florets">
+      <use xlink:href="#octagonal-ground" />
+      <use xlink:href="#rust-floret" transform="rotate(0)" />
+      <use xlink:href="#rust-floret" transform="rotate(90)" />
+      <use xlink:href="#rust-floret" transform="rotate(180)" />
+      <use xlink:href="#rust-floret" transform="rotate(270)" />
+      <path fill="#c18b69" d="M-6 -2 L-2 -7 L2 -5 L6 -2 L4 2 L0 5 L-5 4 Z" />
+    </g>
+    <g id="rust-floret">
+      <path fill="#793c29" d="M-44 -18 Q-43 -32 -32 -38 Q-23 -43 -14 -39 Q-3 -39 -2 -27 L0 -18 Q-2 -6 -12 -2 L-27 1 Q-40 -2 -43 -9 Z" />
+      <path fill="#b05435" d="M-37 -27 L-30 -33 L-21 -35 Q-14 -36 -9 -31 Q-5 -27 -7 -22 L-5 -18 Q-7 -12 -12 -10 L-17 -5 L-26 -6 L-33 -9 L-37 -12 L-38 -20 Z" />
+      <path fill="#793c29" d="M-24 -21 L-20 -23 L-17 -20 L-19 -16 L-23 -15 L-25 -17 Z" />
+      <path fill="#c18b69" d="M-25 -23 L-21 -25 L-20 -22 L-23 -20 Z" />
+    </g>
+    <g id="quatrefoil">
+      <use xlink:href="#octagonal-ground" />
+      <path fill="#c18b69" d="M-39 -22 Q-37 -34 -27 -38 Q-15 -44 -4 -38 L1 -37 Q13 -43 24 -39 Q35 -38 39 -27 Q46 -19 41 -8 L37 0 Q43 8 41 17 Q43 30 33 35 Q27 43 15 40 L3 37 Q-8 41 -16 40 Q-30 43 -36 32 Q-45 25 -43 15 L-38 2 Q-43 -9 -39 -22 Z" />
+      <use xlink:href="#quatrefoil-bud" transform="rotate(0) translate(2.5 2.5) scale(1.115)" />
+      <use xlink:href="#quatrefoil-bud" transform="rotate(90) translate(2.5 2.5) scale(1.115)" />
+      <use xlink:href="#quatrefoil-bud" transform="rotate(180) translate(2.5 2.5) scale(1.115)" />
+      <use xlink:href="#quatrefoil-bud" transform="rotate(270) translate(2.5 2.5) scale(1.115)" />
+      <path fill="#b05435" d="M-12 -6 L-7 -12 L-1 -11 L3 -13 L9 -8 L13 -3 L10 6 L4 7 L-1 12 L-9 9 L-12 4 Z" />
+      <path fill="#793c29" d="M-8 -2 L-5 -7 L-1 -5 L2 -6 L7 -2 L6 2 L2 3 L1 0 L-2 1 L-3 5 L-7 4 Z" />
+    </g>
+    <g id="quatrefoil-bud">
+      <path fill="#793c29" d="M-36 -18 L-35 -25 L-30 -26 L-28 -32 L-21 -34 L-17 -32 L-12 -35 L-6 -31 L-5 -25 L0 -22 L-2 -17 L-9 -16 L-12 -11 L-11 -7 L-20 -7 L-24 -4 L-30 -6 L-33 -11 L-37 -12 Z" />
+      <path fill="#c18b69" d="M-25 -20 L-21 -23 L-17 -21 L-18 -16 L-22 -13 L-26 -15 Z" />
+      <path fill="#b05435" d="M-37 -17 L-33 -17 L-31 -11 L-25 -9 L-24 -5 L-31 -6 L-36 -11 Z" />
+      <path fill="#b05435" d="M-33 -28 L-29 -31 L-24 -31 L-22 -29 L-26 -27 L-29 -27 L-30 -24 L-34 -22 Z M-14 -29 Q-8 -28 -8 -23 L-12 -22 L-15 -25 Z M-31 -14 L-29 -12 L-29 -9 L-33 -9 Z" />
+      <path fill="#793c29" d="M-22 -19 L-18 -21 L-15 -18 L-18 -15 L-20 -17 Z" />
+      <path fill="#c18b69" d="M-32 -23 L-29 -24 L-28 -21 L-31 -19 Z" />
+    </g>
+    <g id="pointed-medallion">
+      <path fill="#793c29" d="M-51 -51 L-40 -50 L-28 -51 L-17 -57 L-13 -55 L-5 -59 L4 -65 L10 -58 L19 -52 L29 -50 L48 -53 L47 -45 L49 -29 L50 -18 L57 -7 L63 -1 L56 6 L53 18 L48 22 L49 43 L47 52 L32 51 L21 50 L11 57 L7 55 L-2 61 L-10 64 L-20 55 L-26 51 L-46 52 L-54 54 L-51 38 L-51 23 L-58 16 L-62 9 L-68 8 L-62 0 L-58 -5 L-60 -13 L-53 -18 L-51 -27 Z" />
+      <path fill="#503b29" d="M-48 -46 L-34 -45 L-25 -50 L-15 -47 L-5 -49 L7 -45 L18 -48 L29 -44 L44 -47 L44 -36 L48 -26 L45 -13 L48 0 L45 17 L47 28 L44 44 L29 46 L16 44 L7 48 L-6 45 L-18 48 L-30 44 L-48 47 L-45 32 L-48 23 L-46 9 L-49 0 L-45 -15 L-48 -29 Z" />
+      <path fill="#cda46b" d="M-37 -19 Q-31 -23 -28 -29 L-20 -31 L-16 -35 Q-10 -35 -7 -31 L-1 -34 L6 -29 L12 -30 L18 -35 L24 -35 L28 -29 L35 -26 L37 -19 L42 -14 L40 -9 L35 -8 L34 -2 L39 3 L38 11 L34 15 L35 23 L29 29 L22 32 L17 36 L10 35 L4 31 L-2 32 L-9 35 L-16 33 L-23 36 L-27 30 L-33 28 L-36 23 L-41 18 L-38 11 L-40 6 L-35 0 L-37 -6 L-41 -8 L-41 -14 Z" />
+      <use xlink:href="#ochre-bud" transform="rotate(0)" />
+      <use xlink:href="#ochre-bud" transform="rotate(90)" />
+      <use xlink:href="#ochre-bud" transform="rotate(180)" />
+      <use xlink:href="#ochre-bud" transform="rotate(270)" />
+      <path fill="#e8bd80" d="M-7 -19 L0 -17 L4 -20 L7 -13 L6 -8 L14 -6 L23 -3 L24 1 L18 4 L10 5 L7 11 L4 16 L1 23 L-4 17 L-7 7 L-14 5 L-21 8 L-24 4 L-19 0 L-11 -2 L-7 -7 Z" />
+      <path fill="#c18b69" d="M-6 -3 L-2 -7 L4 -6 L8 -2 L5 4 L0 6 L-6 3 Z" />
+    </g>
+    <g id="ochre-bud">
+      <path fill="#503b29" d="M-34 -17 L-30 -21 L-26 -22 L-23 -28 L-16 -30 L-11 -27 L-6 -28 L-3 -23 L-5 -15 L-7 -12 L-7 -7 L-14 -6 L-20 -2 L-26 -5 L-28 -9 L-34 -10 Z" />
+      <path fill="#793c29" d="M-27 -18 L-22 -23 L-16 -24 L-12 -23 L-7 -20 L-9 -14 L-11 -9 L-17 -8 L-20 -5 L-25 -9 L-28 -12 Z" />
+      <path fill="#c18b69" d="M-24 -16 L-20 -20 L-15 -19 L-12 -16 L-14 -11 L-18 -9 L-23 -11 Z" />
+    </g>
+  </defs>
+  <rect width="768" height="768" fill="#cda46b" />
+  <use xlink:href="#brocade-frame" transform="translate(-89 94)" />
+  <use xlink:href="#four-florets" transform="translate(-89 94)" />
+  <use xlink:href="#knotted-frame" transform="translate(103 94)" />
+  <use xlink:href="#flared-cross" transform="translate(103 94)" />
+  <use xlink:href="#brocade-frame" transform="translate(295 94)" />
+  <use xlink:href="#four-florets" transform="translate(295 94)" />
+  <use xlink:href="#knotted-frame" transform="translate(487 94)" />
+  <use xlink:href="#diagonal-fret" transform="translate(487 94)" />
+  <use xlink:href="#brocade-frame" transform="translate(679 94)" />
+  <use xlink:href="#four-florets" transform="translate(679 94)" />
+  <use xlink:href="#knotted-frame" transform="translate(-89 286)" />
+  <use xlink:href="#pointed-medallion" transform="translate(-89 286)" />
+  <use xlink:href="#brocade-frame" transform="translate(103 286)" />
+  <use xlink:href="#quatrefoil" transform="translate(103 286)" />
+  <use xlink:href="#knotted-frame" transform="translate(295 286)" />
+  <use xlink:href="#pointed-medallion" transform="translate(295 286)" />
+  <use xlink:href="#brocade-frame" transform="translate(487 286)" />
+  <use xlink:href="#quatrefoil" transform="translate(487 286)" />
+  <use xlink:href="#knotted-frame" transform="translate(679 286)" />
+  <use xlink:href="#pointed-medallion" transform="translate(679 286)" />
+  <use xlink:href="#brocade-frame" transform="translate(-89 478)" />
+  <use xlink:href="#four-florets" transform="translate(-89 478)" />
+  <use xlink:href="#knotted-frame" transform="translate(103 478)" />
+  <use xlink:href="#diagonal-fret" transform="translate(103 478)" />
+  <use xlink:href="#brocade-frame" transform="translate(295 478)" />
+  <use xlink:href="#four-florets" transform="translate(295 478)" />
+  <use xlink:href="#knotted-frame" transform="translate(487 478)" />
+  <use xlink:href="#flared-cross" transform="translate(487 478)" />
+  <use xlink:href="#brocade-frame" transform="translate(679 478)" />
+  <use xlink:href="#four-florets" transform="translate(679 478)" />
+  <use xlink:href="#knotted-frame" transform="translate(-89 670)" />
+  <use xlink:href="#pointed-medallion" transform="translate(-89 670)" />
+  <use xlink:href="#brocade-frame" transform="translate(103 670)" />
+  <use xlink:href="#quatrefoil" transform="translate(103 670)" />
+  <use xlink:href="#knotted-frame" transform="translate(295 670)" />
+  <use xlink:href="#pointed-medallion" transform="translate(295 670)" />
+  <use xlink:href="#brocade-frame" transform="translate(487 670)" />
+  <use xlink:href="#quatrefoil" transform="translate(487 670)" />
+  <use xlink:href="#knotted-frame" transform="translate(679 670)" />
+  <use xlink:href="#pointed-medallion" transform="translate(679 670)" />
+  <use xlink:href="#brocade-frame" transform="translate(-89 862)" />
+  <use xlink:href="#four-florets" transform="translate(-89 862)" />
+  <use xlink:href="#knotted-frame" transform="translate(103 862)" />
+  <use xlink:href="#flared-cross" transform="translate(103 862)" />
+  <use xlink:href="#brocade-frame" transform="translate(295 862)" />
+  <use xlink:href="#four-florets" transform="translate(295 862)" />
+  <use xlink:href="#knotted-frame" transform="translate(487 862)" />
+  <use xlink:href="#diagonal-fret" transform="translate(487 862)" />
+  <use xlink:href="#brocade-frame" transform="translate(679 862)" />
+  <use xlink:href="#four-florets" transform="translate(679 862)" />
+</svg>

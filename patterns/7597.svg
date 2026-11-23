@@ -1,0 +1,124 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="512" height="512" viewBox="0 0 512 512">
+<title>The Scribbling Mill, Leeds — interlaced Axminster carpet repeat</title>
+<desc>Fawn and slate rings interlace on an espresso ground. Successive four-way crossings turn in opposite directions.</desc>
+<defs>
+<g id="slate-ring" fill="none">
+  <circle cx="0" cy="0" r="162" stroke="#bba28f" stroke-width="38"/>
+  <circle cx="0" cy="0" r="162" stroke="#655f70" stroke-width="26.5"/>
+</g>
+<g id="slate-over" fill="none">
+  <path d="M 13.4686962 -13.4287102 A 162 162 0 0 1 -28.4799839 -86.0713147" stroke="#bba28f" stroke-width="38"/>
+  <path d="M 13.4686962 -13.4287102 A 162 162 0 0 1 -28.4799839 -86.0713147" stroke="#655f70" stroke-width="26.5"/>
+</g>
+<g id="fawn-ring" fill="none">
+  <circle cx="0" cy="0" r="162" stroke="#494047" stroke-width="38"/>
+  <circle cx="0" cy="0" r="162" stroke="#bc9579" stroke-width="25.5"/>
+</g>
+<g id="fawn-over" fill="none">
+  <path d="M 13.4686962 -13.4287102 A 162 162 0 0 1 -28.4799839 -86.0713147" stroke="#494047" stroke-width="38"/>
+  <path d="M 13.4686962 -13.4287102 A 162 162 0 0 1 -28.4799839 -86.0713147" stroke="#bc9579" stroke-width="25.5"/>
+</g>
+</defs>
+<rect width="512" height="512" fill="#493830"/>
+<g>
+  <use xlink:href="#slate-ring" transform="translate(42 37)"/>
+  <use xlink:href="#slate-ring" transform="translate(42 293)"/>
+  <use xlink:href="#slate-ring" transform="translate(42 549)"/>
+  <use xlink:href="#slate-ring" transform="translate(298 37)"/>
+  <use xlink:href="#slate-ring" transform="translate(298 293)"/>
+  <use xlink:href="#slate-ring" transform="translate(298 549)"/>
+  <use xlink:href="#slate-ring" transform="translate(554 37)"/>
+  <use xlink:href="#slate-ring" transform="translate(554 293)"/>
+  <use xlink:href="#slate-ring" transform="translate(554 549)"/>
+  <use xlink:href="#slate-over" transform="translate(-86 -91) rotate(0) scale(-1 1)"/>
+  <use xlink:href="#slate-over" transform="translate(-86 -91) rotate(90) scale(-1 1)"/>
+  <use xlink:href="#slate-over" transform="translate(-86 -91) rotate(180) scale(-1 1)"/>
+  <use xlink:href="#slate-over" transform="translate(-86 -91) rotate(270) scale(-1 1)"/>
+  <use xlink:href="#slate-over" transform="translate(-86 165) rotate(0)"/>
+  <use xlink:href="#slate-over" transform="translate(-86 165) rotate(90)"/>
+  <use xlink:href="#slate-over" transform="translate(-86 165) rotate(180)"/>
+  <use xlink:href="#slate-over" transform="translate(-86 165) rotate(270)"/>
+  <use xlink:href="#slate-over" transform="translate(-86 421) rotate(0) scale(-1 1)"/>
+  <use xlink:href="#slate-over" transform="translate(-86 421) rotate(90) scale(-1 1)"/>
+  <use xlink:href="#slate-over" transform="translate(-86 421) rotate(180) scale(-1 1)"/>
+  <use xlink:href="#slate-over" transform="translate(-86 421) rotate(270) scale(-1 1)"/>
+  <use xlink:href="#slate-over" transform="translate(170 -91) rotate(0)"/>
+  <use xlink:href="#slate-over" transform="translate(170 -91) rotate(90)"/>
+  <use xlink:href="#slate-over" transform="translate(170 -91) rotate(180)"/>
+  <use xlink:href="#slate-over" transform="translate(170 -91) rotate(270)"/>
+  <use xlink:href="#slate-over" transform="translate(170 165) rotate(0) scale(-1 1)"/>
+  <use xlink:href="#slate-over" transform="translate(170 165) rotate(90) scale(-1 1)"/>
+  <use xlink:href="#slate-over" transform="translate(170 165) rotate(180) scale(-1 1)"/>
+  <use xlink:href="#slate-over" transform="translate(170 165) rotate(270) scale(-1 1)"/>
+  <use xlink:href="#slate-over" transform="translate(170 421) rotate(0)"/>
+  <use xlink:href="#slate-over" transform="translate(170 421) rotate(90)"/>
+  <use xlink:href="#slate-over" transform="translate(170 421) rotate(180)"/>
+  <use xlink:href="#slate-over" transform="translate(170 421) rotate(270)"/>
+  <use xlink:href="#slate-over" transform="translate(426 -91) rotate(0) scale(-1 1)"/>
+  <use xlink:href="#slate-over" transform="translate(426 -91) rotate(90) scale(-1 1)"/>
+  <use xlink:href="#slate-over" transform="translate(426 -91) rotate(180) scale(-1 1)"/>
+  <use xlink:href="#slate-over" transform="translate(426 -91) rotate(270) scale(-1 1)"/>
+  <use xlink:href="#slate-over" transform="translate(426 165) rotate(0)"/>
+  <use xlink:href="#slate-over" transform="translate(426 165) rotate(90)"/>
+  <use xlink:href="#slate-over" transform="translate(426 165) rotate(180)"/>
+  <use xlink:href="#slate-over" transform="translate(426 165) rotate(270)"/>
+  <use xlink:href="#slate-over" transform="translate(426 421) rotate(0) scale(-1 1)"/>
+  <use xlink:href="#slate-over" transform="translate(426 421) rotate(90) scale(-1 1)"/>
+  <use xlink:href="#slate-over" transform="translate(426 421) rotate(180) scale(-1 1)"/>
+  <use xlink:href="#slate-over" transform="translate(426 421) rotate(270) scale(-1 1)"/>
+</g>
+<g>
+  <use xlink:href="#fawn-ring" transform="translate(-86 -91)"/>
+  <use xlink:href="#fawn-ring" transform="translate(-86 165)"/>
+  <use xlink:href="#fawn-ring" transform="translate(-86 421)"/>
+  <use xlink:href="#fawn-ring" transform="translate(-86 677)"/>
+  <use xlink:href="#fawn-ring" transform="translate(170 -91)"/>
+  <use xlink:href="#fawn-ring" transform="translate(170 165)"/>
+  <use xlink:href="#fawn-ring" transform="translate(170 421)"/>
+  <use xlink:href="#fawn-ring" transform="translate(170 677)"/>
+  <use xlink:href="#fawn-ring" transform="translate(426 -91)"/>
+  <use xlink:href="#fawn-ring" transform="translate(426 165)"/>
+  <use xlink:href="#fawn-ring" transform="translate(426 421)"/>
+  <use xlink:href="#fawn-ring" transform="translate(426 677)"/>
+  <use xlink:href="#fawn-ring" transform="translate(682 -91)"/>
+  <use xlink:href="#fawn-ring" transform="translate(682 165)"/>
+  <use xlink:href="#fawn-ring" transform="translate(682 421)"/>
+  <use xlink:href="#fawn-ring" transform="translate(682 677)"/>
+  <use xlink:href="#fawn-over" transform="translate(42 37) rotate(0)"/>
+  <use xlink:href="#fawn-over" transform="translate(42 37) rotate(90)"/>
+  <use xlink:href="#fawn-over" transform="translate(42 37) rotate(180)"/>
+  <use xlink:href="#fawn-over" transform="translate(42 37) rotate(270)"/>
+  <use xlink:href="#fawn-over" transform="translate(42 293) rotate(0) scale(-1 1)"/>
+  <use xlink:href="#fawn-over" transform="translate(42 293) rotate(90) scale(-1 1)"/>
+  <use xlink:href="#fawn-over" transform="translate(42 293) rotate(180) scale(-1 1)"/>
+  <use xlink:href="#fawn-over" transform="translate(42 293) rotate(270) scale(-1 1)"/>
+  <use xlink:href="#fawn-over" transform="translate(42 549) rotate(0)"/>
+  <use xlink:href="#fawn-over" transform="translate(42 549) rotate(90)"/>
+  <use xlink:href="#fawn-over" transform="translate(42 549) rotate(180)"/>
+  <use xlink:href="#fawn-over" transform="translate(42 549) rotate(270)"/>
+  <use xlink:href="#fawn-over" transform="translate(298 37) rotate(0) scale(-1 1)"/>
+  <use xlink:href="#fawn-over" transform="translate(298 37) rotate(90) scale(-1 1)"/>
+  <use xlink:href="#fawn-over" transform="translate(298 37) rotate(180) scale(-1 1)"/>
+  <use xlink:href="#fawn-over" transform="translate(298 37) rotate(270) scale(-1 1)"/>
+  <use xlink:href="#fawn-over" transform="translate(298 293) rotate(0)"/>
+  <use xlink:href="#fawn-over" transform="translate(298 293) rotate(90)"/>
+  <use xlink:href="#fawn-over" transform="translate(298 293) rotate(180)"/>
+  <use xlink:href="#fawn-over" transform="translate(298 293) rotate(270)"/>
+  <use xlink:href="#fawn-over" transform="translate(298 549) rotate(0) scale(-1 1)"/>
+  <use xlink:href="#fawn-over" transform="translate(298 549) rotate(90) scale(-1 1)"/>
+  <use xlink:href="#fawn-over" transform="translate(298 549) rotate(180) scale(-1 1)"/>
+  <use xlink:href="#fawn-over" transform="translate(298 549) rotate(270) scale(-1 1)"/>
+  <use xlink:href="#fawn-over" transform="translate(554 37) rotate(0)"/>
+  <use xlink:href="#fawn-over" transform="translate(554 37) rotate(90)"/>
+  <use xlink:href="#fawn-over" transform="translate(554 37) rotate(180)"/>
+  <use xlink:href="#fawn-over" transform="translate(554 37) rotate(270)"/>
+  <use xlink:href="#fawn-over" transform="translate(554 293) rotate(0) scale(-1 1)"/>
+  <use xlink:href="#fawn-over" transform="translate(554 293) rotate(90) scale(-1 1)"/>
+  <use xlink:href="#fawn-over" transform="translate(554 293) rotate(180) scale(-1 1)"/>
+  <use xlink:href="#fawn-over" transform="translate(554 293) rotate(270) scale(-1 1)"/>
+  <use xlink:href="#fawn-over" transform="translate(554 549) rotate(0)"/>
+  <use xlink:href="#fawn-over" transform="translate(554 549) rotate(90)"/>
+  <use xlink:href="#fawn-over" transform="translate(554 549) rotate(180)"/>
+  <use xlink:href="#fawn-over" transform="translate(554 549) rotate(270)"/>
+</g>
+</svg>

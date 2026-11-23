@@ -1,0 +1,277 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="512" height="848" viewBox="0 0 512 848">
+ <title>The Moon Under Water, Croydon — four-flower clusters and garnet cartouches</title>
+ <defs>
+  <g id="eyelet">
+   <path fill="#A17F63" d="M-18 -3 Q-21 -11 -13 -13 Q-11 -20 -4 -18 Q1 -23 8 -17 Q16 -18 17 -11 Q24 -7 19 0 Q22 7 15 11 Q14 18 7 17 Q1 22 -5 16 Q-13 20 -16 11 Q-22 8 -18 3Z" />
+   <path fill="#C2A68C" d="M-15 -4 Q-18 -9 -11 -11 Q-9 -17 -3 -15 Q3 -20 7 -13 Q14 -15 14 -8 Q19 -6 15 -1 Q19 4 13 7 Q12 14 6 12 Q1 18 -3 12 Q-10 15 -12 9 Q-19 6 -14 2Z" />
+   <path fill="#A17F63" d="M-8 -7 Q-3 -11 3 -9 Q9 -9 9 -2 Q12 3 6 7 Q2 12 -4 7 Q-10 6 -8 1Z" />
+   <path fill="#60454A" d="M-6 -5 Q-2 -9 3 -6 Q8 -4 6 1 Q6 6 1 7 Q-5 7 -6 2Z" />
+  </g>
+  <g id="bouquet">
+   <path fill="#60454A" d="M-37 -20 Q-54 -22 -51 -32 L-34 -29 Q-41 -40 -28 -43 L-15 -37 Q-12 -54 1 -51 L8 -45 Q20 -51 27 -40 L27 -30 Q42 -38 47 -23 L43 -16 Q63 -14 58 -3 Q63 5 48 10 L58 18 Q56 28 42 27 L38 40 L30 34 Q22 50 11 45 L4 53 L-3 42 Q-15 48 -23 40 L-29 50 Q-38 45 -35 33 L-46 34 Q-53 28 -48 18 Q-65 15 -56 3 L-50 -4 Q-55 -18 -43 -19Z" />
+   <path fill="#A17F63" d="M-49 -28 Q-38 -26 -30 -31 L-30 -39 L-18 -33 Q-8 -37 -4 -47 L4 -42 Q18 -49 22 -37 L18 -25 Q30 -29 38 -30 L40 -19 Q57 -18 52 -8 L46 0 L53 4 L40 13 Q41 21 50 22 L40 23 L30 32 L28 27 Q18 42 9 38 L4 47 L-2 36 L-17 39 L-25 33 L-30 44 L-32 29 L-44 30 L-40 15 Q-57 14 -50 4 L-44 -2 Q-49 -13 -37 -16 L-29 -21Z" />
+   <path fill="#60454A" d="M-20 -19 Q-7 -27 5 -19 Q10 -15 16 -22 Q14 -11 24 -6 L15 4 Q17 18 4 26 Q1 17 -11 22 L-11 10 Q-26 8 -25 -3 Q-14 -8 -20 -19Z" />
+   <path fill="#C2A68C" d="M-30 -26 L-43 -29 L-38 -22 L-26 -21Z M23 -31 Q29 -41 31 -37 L30 -28 L23 -23Z M38 15 Q47 11 52 16 L48 21 L40 21Z M-21 26 L-26 39 L-20 35 L-16 25Z M-7 31 L-4 40 L0 35 L1 29Z" />
+   <use xlink:href="#eyelet" transform="translate(-7 -27) rotate(12) scale(.9 .9)" />
+   <use xlink:href="#eyelet" transform="translate(31 -8) rotate(48) scale(.93 .96)" />
+   <use xlink:href="#eyelet" transform="translate(11 23) rotate(-8) scale(1.02 .86)" />
+   <use xlink:href="#eyelet" transform="translate(-27 4) rotate(28) scale(.95 1.02)" />
+   <path fill="#745F60" d="M-6 4 Q0 -3 5 -3 L1 5 L-4 10Z" />
+  </g>
+  <g id="shield">
+   <path fill="#402730" d="M-27 -49 Q-14 -46 -6 -51 Q2 -56 9 -50 Q16 -43 29 -44 Q43 -45 45 -34 Q43 -27 35 -21 Q30 -15 37 -5 Q46 8 38 22 Q29 40 10 44 Q0 47 -4 53 Q-7 47 -21 44 Q-42 39 -47 23 Q-53 10 -46 -4 L-39 -18 Q-33 -27 -43 -33 Q-48 -39 -42 -43 Q-36 -46 -27 -49Z" />
+   <path fill="#874D50" d="M-26 -43 Q-13 -40 -4 -47 Q2 -50 7 -45 Q13 -38 28 -39 Q37 -40 39 -34 Q38 -30 32 -24 Q24 -15 32 -2 Q39 10 33 21 Q26 33 11 38 L-3 45 Q-11 39 -21 38 Q-37 34 -41 22 Q-47 11 -40 -3 L-34 -16 Q-27 -29 -38 -35 Q-41 -38 -38 -39Z" />
+   <path fill="#60454A" d="M-32 -38 Q-20 -43 -10 -41 L-4 -42 Q-10 -34 -22 -32 L-20 -26 L-29 -24 Q-26 -32 -32 -38Z M9 -39 L15 -35 L29 -34 Q21 -29 14 -30 L12 -22 L6 -26Z M-33 30 Q-20 39 -8 39 L-2 44 L6 40 Q-12 37 -14 32 L-23 32Z" />
+  </g>
+  <g id="spotted">
+   <use xlink:href="#shield" transform="translate(0 0)" />
+   <path fill="#60454A" d="M-15 30 Q-10 18 -12 10 Q-19 1 -17 -11 L-10 -7 Q-7 2 -3 7 Q3 -3 12 -10 L11 -20 L20 -15 Q20 -6 10 -1 L4 9 Q11 9 19 4 L24 9 Q17 18 4 15 Q-3 20 -7 30Z" />
+   <path fill="#A17F63" d="M-25 -8 Q-25 -19 -16 -21 Q-10 -18 -10 -10 L-13 -1 L-19 3 Q-24 1 -25 -8Z M4 -13 Q6 -23 15 -21 L21 -16 L18 -8 L9 -5Z M10 13 Q14 5 24 5 L27 11 L22 17 L12 19Z M-15 17 Q-12 8 -4 8 L1 15 L-3 25 L-11 28Z" />
+   <path fill="#C2A68C" d="M-22 -10 Q-19 -16 -16 -15 L-13 -10 L-16 -4 L-20 -3Z M9 -15 L14 -17 L17 -14 L15 -10 L10 -9Z M15 11 L21 8 L23 12 L19 15 L14 15Z M-11 18 L-7 13 L-3 16 L-6 22 L-10 23Z" />
+  </g>
+  <g id="pillow">
+   <path fill="#402730" d="M-40 -30 Q-25 -29 -17 -37 Q-8 -43 1 -36 Q8 -32 20 -36 Q32 -39 39 -31 Q44 -25 39 -17 Q35 -10 44 1 Q50 10 44 21 L34 37 Q16 41 -5 40 L-32 39 Q-40 34 -42 23 L-47 12 Q-49 3 -41 -7 L-37 -14 Q-35 -20 -42 -23Z" />
+   <path fill="#874D50" d="M-35 -26 Q-22 -25 -13 -33 Q-7 -38 0 -32 Q9 -26 21 -31 Q32 -34 35 -28 Q39 -24 34 -17 Q29 -7 38 3 Q44 11 38 20 L30 32 Q4 37 -28 34 Q-34 31 -36 20 L-41 10 Q-43 3 -35 -7 Q-26 -19 -35 -26Z" />
+   <path fill="#60454A" d="M-30 -19 Q-21 -25 -13 -25 L-8 -30 Q-7 -19 -15 -14 L-22 -12Z M23 -25 Q18 -16 22 -8 L29 -4 L29 -13Z M-20 25 Q-12 29 -7 25 L-8 19 Q1 21 4 16 L8 17 Q8 25 3 29 L-11 31Z" />
+   <path fill="#745F60" d="M-19 -13 Q-15 -17 -12 -15 L-14 -8 L-21 -4Z M3 -21 L9 -22 L10 -17 L5 -15Z" />
+   <path fill="#745F60" d="M-30 2 Q-25 -6 -17 -11 Q-17 -4 -23 0 L-20 6 L-24 11Z M-5 14 Q-2 4 4 2 Q2 10 -1 13 L-1 18Z M17 20 Q21 12 30 12 L28 16 L24 19 L22 24Z" />
+   <path fill="#A17F63" d="M-30 4 L-26 0 L-26 4 L-28 7Z M22 18 L27 15 L26 18 L23 20Z" />
+  </g>
+  <g id="plaque">
+   <path fill="#402730" d="M-40 -34 L32 -38 Q37 -37 38 -31 L44 28 L40 35 L-37 38 L-42 33 L-45 -27Z" />
+   <path fill="#A17F63" d="M-37 -30 L32 -34 L39 29 L-36 34 L-40 -25Z" />
+   <path fill="#60454A" d="M-31 -25 L27 -28 L32 23 L-30 28Z" />
+   <path fill="#A17F63" d="M-26 -20 L23 -24 L27 19 L-25 24Z" />
+   <path fill="#60454A" d="M-15 2 L0 -15 L16 0 L1 16Z" />
+   <path fill="#745F60" d="M-8 1 L0 -8 L8 0 L1 8Z" />
+   <path fill="#A17F63" d="M-2 -11 L4 -4 L2 0 L-3 -6Z M-20 -18 L-15 -19 L-13 -14 L-18 -12Z M18 15 L23 12 L24 17 L19 18Z" />
+   <path fill="#C2A68C" d="M-34 -29 L-21 -30 L-24 -27 L-34 -26Z M26 26 L35 25 L33 29 L26 30Z" />
+  </g>
+  <g id="brocade">
+   <path fill="#402730" d="M-41 -33 L31 -38 L38 -35 L44 28 L40 35 L-37 39 L-43 34 L-46 -27Z" />
+   <path fill="#C2A68C" d="M-38 -30 L32 -34 L39 30 L-37 35 L-41 -25Z" />
+   <path fill="#A17F63" d="M-32 -25 L26 -29 L33 24 L-31 29Z" />
+   <path fill="#C2A68C" d="M-28 -22 L-22 -22 L-15 23 L-21 24Z M-15 -25 L-10 -25 L-7 -11 L-10 -1 L-5 22 L-11 22 L-16 1 L-13 -10Z M0 -25 L7 -26 L12 -11 L9 -3 L16 19 L10 20 L2 -3 L5 -12Z M17 -26 L21 -26 L28 20 L24 20Z" />
+   <path fill="#60454A" d="M-6 -5 L0 -14 L5 -2 L0 11Z" />
+   <path fill="#C2A68C" d="M-36 -30 l6 -1 l1 5 l-5 1Z M-32 24 l5 -1 l1 6 l-5 1Z M26 -32 l5 -1 l1 5 l-5 1Z M30 22 l6 -1 l1 6 l-5 1Z" />
+  </g>
+  <g id="urn">
+   <path fill="#402730" d="M-22 -38 Q-9 -36 -4 -42 L3 -40 Q10 -34 24 -36 Q28 -30 20 -24 L13 -14 Q9 -8 15 -2 L19 3 L16 10 Q25 15 24 25 L17 38 Q4 42 -18 39 Q-25 34 -25 26 Q-24 19 -17 12 L-12 6 L-16 -1 Q-12 -11 -18 -17 L-26 -27 Q-28 -34 -22 -38Z" />
+   <path fill="#745F60" d="M-21 -32 Q-9 -30 -3 -36 Q7 -31 20 -31 Q17 -25 10 -19 L5 -11 L-3 -8 Q-9 -15 -14 -20Z" />
+   <path fill="#A17F63" d="M-18 -29 Q-8 -27 -1 -31 L11 -28 L7 -24 L-13 -23Z" />
+   <path fill="#60454A" d="M-7 -10 L5 -12 L12 0 L8 6 L-9 7 L-13 1Z" />
+   <path fill="#745F60" d="M-6 9 L8 8 Q12 16 17 18 Q23 25 13 33 Q0 37 -16 34 Q-22 29 -18 24Z" />
+   <path fill="#A17F63" d="M-10 23 L-5 16 L3 15 L7 20 L4 27 L-2 30 L-8 28Z" />
+   <path fill="#C2A68C" d="M-5 22 L-1 19 L2 21 L0 25 L-4 26Z" />
+   <path fill="#A17F63" d="M-15 31 Q-6 33 1 31 L9 32 L3 35 L-12 35Z M5 -28 L15 -29 L12 -26 L7 -25Z" />
+  </g>
+  <g id="sprig">
+   <path fill="#60454A" d="M-20 20 Q-14 5 -4 -3 Q-13 -5 -19 -13 Q-9 -14 -3 -9 Q-5 -21 1 -29 Q8 -19 4 -9 Q11 -16 21 -15 Q20 -7 10 -1 L3 1 Q4 13 -4 21 L-5 9 Q-12 16 -16 23Z" />
+   <path fill="#745F60" d="M-18 -11 Q-10 -11 -6 -7 L-2 -3 Q-11 -3 -18 -11Z M3 -23 Q5 -17 1 -10 L-1 -9Z M9 -4 Q12 -11 18 -11 L16 -7Z M-4 7 L0 5 L-2 14Z" />
+  </g>
+  <g id="field">
+   <path fill="#745F60" d="M-3 7 Q13 -8 34 5 Q49 15 46 35 Q42 54 27 61 Q14 58 -4 47 Q-20 34 -17 24Z M80 4 Q92 -6 113 1 L128 13 Q114 23 105 44 Q99 55 90 54 L77 42 Q65 27 80 4Z M160 33 Q180 38 194 20 L210 9 Q231 20 218 42 Q211 59 186 68 Q170 67 163 55Z M93 104 Q115 115 115 141 L106 158 L86 155 Q69 146 72 130Z M179 99 Q202 116 199 133 Q184 152 158 150 L151 129Z M45 106 Q55 124 77 134 Q67 146 46 146 L26 137 Q35 126 35 112Z M-13 156 Q6 148 19 161 Q30 176 22 198 Q15 209 -1 209 Q-14 204 -18 184Z M227 182 Q243 175 265 184 L269 197 L248 211 Q233 208 222 201Z" />
+   <path fill="#745F60" d="M76 36 Q86 40 88 49 L84 60 L75 53Z M184 47 Q198 39 205 42 Q199 53 185 60Z M32 122 Q44 128 44 135 Q33 134 26 131Z M99 127 L108 131 L108 142 L101 148 L95 139Z M185 131 Q192 128 196 132 L186 142 L178 142Z M224 192 Q232 184 244 185 L236 193 L225 198Z M15 175 Q19 177 19 186 L15 193 L11 188Z" />
+   <path fill="#60454A" d="M6 11 Q18 7 30 13 L26 17 Q18 13 11 17Z M28 21 Q39 23 38 34 L33 39 Q34 31 28 29Z M92 12 Q102 7 112 11 L108 16 L101 15 L96 20Z M82 27 Q86 20 91 21 L91 28 L86 33Z M167 44 Q175 48 181 46 L176 52 L169 53Z M150 137 Q158 142 166 137 L162 144 L156 146Z M10 187 Q15 191 16 199 L12 202 L7 198Z" />
+   <path fill="#402730" d="M42 4 Q51 8 58 5 Q68 3 68 -1 Q76 4 70 10 Q61 17 51 13Z M51 18 Q60 20 67 15 L65 22 L55 26Z M99 45 Q109 34 113 33 Q110 41 103 47 L100 55 L96 55Z M202 97 Q196 104 194 113 L188 114 Q190 104 198 97Z M83 144 Q91 140 98 143 L104 148 L100 153 L97 149 L87 148Z M181 150 L194 140 Q196 153 190 157 L185 155Z M16 153 Q23 147 32 149 L31 154 L23 157 L18 156Z M240 195 Q249 191 255 194 L251 198 L243 200Z" />
+   <path fill="#745F60" d="M46 12 L56 15 L50 18 L43 16Z M71 19 L76 14 L79 17 L73 23Z M196 110 L201 104 L204 106 L199 114Z M34 147 L40 144 L43 148 L39 152Z M105 148 L112 146 L116 150 L110 155Z M188 158 L194 155 L196 160 L189 164Z" />
+   <use xlink:href="#sprig" transform="translate(67 66) rotate(-22) scale(.66)" />
+   <use xlink:href="#sprig" transform="translate(194 61) rotate(14) scale(.70)" />
+   <use xlink:href="#sprig" transform="translate(92 138) rotate(27) scale(.65)" />
+   <use xlink:href="#sprig" transform="translate(180 131) rotate(-47) scale(.65)" />
+  </g>
+ </defs>
+ <rect width="512" height="848" fill="#60454A" />
+ <use xlink:href="#field" transform="translate(-128 -212)" />
+ <use xlink:href="#field" transform="translate(128 -212)" />
+ <use xlink:href="#field" transform="translate(384 -212)" />
+ <use xlink:href="#field" transform="translate(-256 0)" />
+ <use xlink:href="#field" transform="translate(0 0)" />
+ <use xlink:href="#field" transform="translate(256 0)" />
+ <use xlink:href="#field" transform="translate(512 0)" />
+ <use xlink:href="#field" transform="translate(-128 212)" />
+ <use xlink:href="#field" transform="translate(128 212)" />
+ <use xlink:href="#field" transform="translate(384 212)" />
+ <use xlink:href="#field" transform="translate(-256 424)" />
+ <use xlink:href="#field" transform="translate(0 424)" />
+ <use xlink:href="#field" transform="translate(256 424)" />
+ <use xlink:href="#field" transform="translate(512 424)" />
+ <use xlink:href="#field" transform="translate(-128 636)" />
+ <use xlink:href="#field" transform="translate(128 636)" />
+ <use xlink:href="#field" transform="translate(384 636)" />
+ <use xlink:href="#field" transform="translate(-256 848)" />
+ <use xlink:href="#field" transform="translate(0 848)" />
+ <use xlink:href="#field" transform="translate(256 848)" />
+ <use xlink:href="#field" transform="translate(512 848)" />
+ <use xlink:href="#urn" transform="translate(90 -62) rotate(8) scale(.89 1.08)" />
+ <use xlink:href="#urn" transform="translate(-42 -179) rotate(11) scale(.65 .63)" />
+ <use xlink:href="#bouquet" transform="translate(7 -125) rotate(1)" />
+ <use xlink:href="#spotted" transform="translate(-111 -116) rotate(-7) scale(.89 1.03)" />
+ <use xlink:href="#plaque" transform="translate(-54 -19) rotate(-2) scale(.91 .93)" />
+ <use xlink:href="#pillow" transform="translate(36 -22) rotate(1) scale(1.04 1.0)" />
+ <path fill="#A17F63" d="M17 -25 q3 -4 7 -2 q3 4 -1 8 q-5 2 -7 -2Z" />
+ <path fill="#A17F63" d="M37 -38 q3 -4 7 -2 q3 4 -1 8 q-5 2 -7 -2Z" />
+ <path fill="#A17F63" d="M50 -19 q3 -4 7 -2 q3 4 -1 8 q-5 2 -7 -2Z" />
+ <path fill="#A17F63" d="M32 -8 q3 -4 7 -2 q3 4 -1 8 q-5 2 -7 -2Z" />
+ <use xlink:href="#urn" transform="translate(346 -62) rotate(8) scale(.89 1.08)" />
+ <use xlink:href="#urn" transform="translate(214 -179) rotate(11) scale(.65 .63)" />
+ <use xlink:href="#bouquet" transform="translate(263 -125) rotate(1)" />
+ <use xlink:href="#spotted" transform="translate(145 -116) rotate(-7) scale(.89 1.03)" />
+ <use xlink:href="#brocade" transform="translate(202 -19) rotate(-2) scale(.91 .93)" />
+ <use xlink:href="#pillow" transform="translate(292 -22) rotate(1) scale(1.04 1.0)" />
+ <use xlink:href="#urn" transform="translate(602 -62) rotate(8) scale(.89 1.08)" />
+ <use xlink:href="#urn" transform="translate(470 -179) rotate(11) scale(.65 .63)" />
+ <use xlink:href="#bouquet" transform="translate(519 -125) rotate(1)" />
+ <use xlink:href="#spotted" transform="translate(401 -116) rotate(-7) scale(.89 1.03)" />
+ <use xlink:href="#plaque" transform="translate(458 -19) rotate(-2) scale(.91 .93)" />
+ <use xlink:href="#pillow" transform="translate(548 -22) rotate(1) scale(1.04 1.0)" />
+ <path fill="#A17F63" d="M529 -25 q3 -4 7 -2 q3 4 -1 8 q-5 2 -7 -2Z" />
+ <path fill="#A17F63" d="M549 -38 q3 -4 7 -2 q3 4 -1 8 q-5 2 -7 -2Z" />
+ <path fill="#A17F63" d="M562 -19 q3 -4 7 -2 q3 4 -1 8 q-5 2 -7 -2Z" />
+ <path fill="#A17F63" d="M544 -8 q3 -4 7 -2 q3 4 -1 8 q-5 2 -7 -2Z" />
+ <use xlink:href="#urn" transform="translate(-38 150) rotate(8) scale(.89 1.08)" />
+ <use xlink:href="#urn" transform="translate(-170 33) rotate(11) scale(.65 .63)" />
+ <use xlink:href="#bouquet" transform="translate(-121 87) rotate(1)" />
+ <use xlink:href="#spotted" transform="translate(-239 96) rotate(-7) scale(.89 1.03)" />
+ <use xlink:href="#plaque" transform="translate(-182 193) rotate(-2) scale(.91 .93)" />
+ <use xlink:href="#pillow" transform="translate(-92 190) rotate(1) scale(1.04 1.0)" />
+ <path fill="#A17F63" d="M-111 187 q3 -4 7 -2 q3 4 -1 8 q-5 2 -7 -2Z" />
+ <path fill="#A17F63" d="M-91 174 q3 -4 7 -2 q3 4 -1 8 q-5 2 -7 -2Z" />
+ <path fill="#A17F63" d="M-78 193 q3 -4 7 -2 q3 4 -1 8 q-5 2 -7 -2Z" />
+ <path fill="#A17F63" d="M-96 204 q3 -4 7 -2 q3 4 -1 8 q-5 2 -7 -2Z" />
+ <use xlink:href="#urn" transform="translate(218 150) rotate(8) scale(.89 1.08)" />
+ <use xlink:href="#urn" transform="translate(86 33) rotate(11) scale(.65 .63)" />
+ <use xlink:href="#bouquet" transform="translate(135 87) rotate(1)" />
+ <use xlink:href="#spotted" transform="translate(17 96) rotate(-7) scale(.89 1.03)" />
+ <use xlink:href="#brocade" transform="translate(74 193) rotate(-2) scale(.91 .93)" />
+ <use xlink:href="#pillow" transform="translate(164 190) rotate(1) scale(1.04 1.0)" />
+ <use xlink:href="#urn" transform="translate(474 150) rotate(8) scale(.89 1.08)" />
+ <use xlink:href="#urn" transform="translate(342 33) rotate(11) scale(.65 .63)" />
+ <use xlink:href="#bouquet" transform="translate(391 87) rotate(1)" />
+ <use xlink:href="#spotted" transform="translate(273 96) rotate(-7) scale(.89 1.03)" />
+ <use xlink:href="#plaque" transform="translate(330 193) rotate(-2) scale(.91 .93)" />
+ <use xlink:href="#pillow" transform="translate(420 190) rotate(1) scale(1.04 1.0)" />
+ <path fill="#A17F63" d="M401 187 q3 -4 7 -2 q3 4 -1 8 q-5 2 -7 -2Z" />
+ <path fill="#A17F63" d="M421 174 q3 -4 7 -2 q3 4 -1 8 q-5 2 -7 -2Z" />
+ <path fill="#A17F63" d="M434 193 q3 -4 7 -2 q3 4 -1 8 q-5 2 -7 -2Z" />
+ <path fill="#A17F63" d="M416 204 q3 -4 7 -2 q3 4 -1 8 q-5 2 -7 -2Z" />
+ <use xlink:href="#urn" transform="translate(730 150) rotate(8) scale(.89 1.08)" />
+ <use xlink:href="#urn" transform="translate(598 33) rotate(11) scale(.65 .63)" />
+ <use xlink:href="#bouquet" transform="translate(647 87) rotate(1)" />
+ <use xlink:href="#spotted" transform="translate(529 96) rotate(-7) scale(.89 1.03)" />
+ <use xlink:href="#brocade" transform="translate(586 193) rotate(-2) scale(.91 .93)" />
+ <use xlink:href="#pillow" transform="translate(676 190) rotate(1) scale(1.04 1.0)" />
+ <use xlink:href="#urn" transform="translate(90 362) rotate(8) scale(.89 1.08)" />
+ <use xlink:href="#urn" transform="translate(-42 245) rotate(11) scale(.65 .63)" />
+ <use xlink:href="#bouquet" transform="translate(7 299) rotate(1)" />
+ <use xlink:href="#spotted" transform="translate(-111 308) rotate(-7) scale(.89 1.03)" />
+ <use xlink:href="#brocade" transform="translate(-54 405) rotate(-2) scale(.91 .93)" />
+ <use xlink:href="#pillow" transform="translate(36 402) rotate(1) scale(1.04 1.0)" />
+ <use xlink:href="#urn" transform="translate(346 362) rotate(8) scale(.89 1.08)" />
+ <use xlink:href="#urn" transform="translate(214 245) rotate(11) scale(.65 .63)" />
+ <use xlink:href="#bouquet" transform="translate(263 299) rotate(1)" />
+ <use xlink:href="#spotted" transform="translate(145 308) rotate(-7) scale(.89 1.03)" />
+ <use xlink:href="#plaque" transform="translate(202 405) rotate(-2) scale(.91 .93)" />
+ <use xlink:href="#pillow" transform="translate(292 402) rotate(1) scale(1.04 1.0)" />
+ <path fill="#A17F63" d="M273 399 q3 -4 7 -2 q3 4 -1 8 q-5 2 -7 -2Z" />
+ <path fill="#A17F63" d="M293 386 q3 -4 7 -2 q3 4 -1 8 q-5 2 -7 -2Z" />
+ <path fill="#A17F63" d="M306 405 q3 -4 7 -2 q3 4 -1 8 q-5 2 -7 -2Z" />
+ <path fill="#A17F63" d="M288 416 q3 -4 7 -2 q3 4 -1 8 q-5 2 -7 -2Z" />
+ <use xlink:href="#urn" transform="translate(602 362) rotate(8) scale(.89 1.08)" />
+ <use xlink:href="#urn" transform="translate(470 245) rotate(11) scale(.65 .63)" />
+ <use xlink:href="#bouquet" transform="translate(519 299) rotate(1)" />
+ <use xlink:href="#spotted" transform="translate(401 308) rotate(-7) scale(.89 1.03)" />
+ <use xlink:href="#brocade" transform="translate(458 405) rotate(-2) scale(.91 .93)" />
+ <use xlink:href="#pillow" transform="translate(548 402) rotate(1) scale(1.04 1.0)" />
+ <use xlink:href="#urn" transform="translate(-38 574) rotate(8) scale(.89 1.08)" />
+ <use xlink:href="#urn" transform="translate(-170 457) rotate(11) scale(.65 .63)" />
+ <use xlink:href="#bouquet" transform="translate(-121 511) rotate(1)" />
+ <use xlink:href="#spotted" transform="translate(-239 520) rotate(-7) scale(.89 1.03)" />
+ <use xlink:href="#brocade" transform="translate(-182 617) rotate(-2) scale(.91 .93)" />
+ <use xlink:href="#pillow" transform="translate(-92 614) rotate(1) scale(1.04 1.0)" />
+ <use xlink:href="#urn" transform="translate(218 574) rotate(8) scale(.89 1.08)" />
+ <use xlink:href="#urn" transform="translate(86 457) rotate(11) scale(.65 .63)" />
+ <use xlink:href="#bouquet" transform="translate(135 511) rotate(1)" />
+ <use xlink:href="#spotted" transform="translate(17 520) rotate(-7) scale(.89 1.03)" />
+ <use xlink:href="#plaque" transform="translate(74 617) rotate(-2) scale(.91 .93)" />
+ <use xlink:href="#pillow" transform="translate(164 614) rotate(1) scale(1.04 1.0)" />
+ <path fill="#A17F63" d="M145 611 q3 -4 7 -2 q3 4 -1 8 q-5 2 -7 -2Z" />
+ <path fill="#A17F63" d="M165 598 q3 -4 7 -2 q3 4 -1 8 q-5 2 -7 -2Z" />
+ <path fill="#A17F63" d="M178 617 q3 -4 7 -2 q3 4 -1 8 q-5 2 -7 -2Z" />
+ <path fill="#A17F63" d="M160 628 q3 -4 7 -2 q3 4 -1 8 q-5 2 -7 -2Z" />
+ <use xlink:href="#urn" transform="translate(474 574) rotate(8) scale(.89 1.08)" />
+ <use xlink:href="#urn" transform="translate(342 457) rotate(11) scale(.65 .63)" />
+ <use xlink:href="#bouquet" transform="translate(391 511) rotate(1)" />
+ <use xlink:href="#spotted" transform="translate(273 520) rotate(-7) scale(.89 1.03)" />
+ <use xlink:href="#brocade" transform="translate(330 617) rotate(-2) scale(.91 .93)" />
+ <use xlink:href="#pillow" transform="translate(420 614) rotate(1) scale(1.04 1.0)" />
+ <use xlink:href="#urn" transform="translate(730 574) rotate(8) scale(.89 1.08)" />
+ <use xlink:href="#urn" transform="translate(598 457) rotate(11) scale(.65 .63)" />
+ <use xlink:href="#bouquet" transform="translate(647 511) rotate(1)" />
+ <use xlink:href="#spotted" transform="translate(529 520) rotate(-7) scale(.89 1.03)" />
+ <use xlink:href="#plaque" transform="translate(586 617) rotate(-2) scale(.91 .93)" />
+ <use xlink:href="#pillow" transform="translate(676 614) rotate(1) scale(1.04 1.0)" />
+ <path fill="#A17F63" d="M657 611 q3 -4 7 -2 q3 4 -1 8 q-5 2 -7 -2Z" />
+ <path fill="#A17F63" d="M677 598 q3 -4 7 -2 q3 4 -1 8 q-5 2 -7 -2Z" />
+ <path fill="#A17F63" d="M690 617 q3 -4 7 -2 q3 4 -1 8 q-5 2 -7 -2Z" />
+ <path fill="#A17F63" d="M672 628 q3 -4 7 -2 q3 4 -1 8 q-5 2 -7 -2Z" />
+ <use xlink:href="#urn" transform="translate(90 786) rotate(8) scale(.89 1.08)" />
+ <use xlink:href="#urn" transform="translate(-42 669) rotate(11) scale(.65 .63)" />
+ <use xlink:href="#bouquet" transform="translate(7 723) rotate(1)" />
+ <use xlink:href="#spotted" transform="translate(-111 732) rotate(-7) scale(.89 1.03)" />
+ <use xlink:href="#plaque" transform="translate(-54 829) rotate(-2) scale(.91 .93)" />
+ <use xlink:href="#pillow" transform="translate(36 826) rotate(1) scale(1.04 1.0)" />
+ <path fill="#A17F63" d="M17 823 q3 -4 7 -2 q3 4 -1 8 q-5 2 -7 -2Z" />
+ <path fill="#A17F63" d="M37 810 q3 -4 7 -2 q3 4 -1 8 q-5 2 -7 -2Z" />
+ <path fill="#A17F63" d="M50 829 q3 -4 7 -2 q3 4 -1 8 q-5 2 -7 -2Z" />
+ <path fill="#A17F63" d="M32 840 q3 -4 7 -2 q3 4 -1 8 q-5 2 -7 -2Z" />
+ <use xlink:href="#urn" transform="translate(346 786) rotate(8) scale(.89 1.08)" />
+ <use xlink:href="#urn" transform="translate(214 669) rotate(11) scale(.65 .63)" />
+ <use xlink:href="#bouquet" transform="translate(263 723) rotate(1)" />
+ <use xlink:href="#spotted" transform="translate(145 732) rotate(-7) scale(.89 1.03)" />
+ <use xlink:href="#brocade" transform="translate(202 829) rotate(-2) scale(.91 .93)" />
+ <use xlink:href="#pillow" transform="translate(292 826) rotate(1) scale(1.04 1.0)" />
+ <use xlink:href="#urn" transform="translate(602 786) rotate(8) scale(.89 1.08)" />
+ <use xlink:href="#urn" transform="translate(470 669) rotate(11) scale(.65 .63)" />
+ <use xlink:href="#bouquet" transform="translate(519 723) rotate(1)" />
+ <use xlink:href="#spotted" transform="translate(401 732) rotate(-7) scale(.89 1.03)" />
+ <use xlink:href="#plaque" transform="translate(458 829) rotate(-2) scale(.91 .93)" />
+ <use xlink:href="#pillow" transform="translate(548 826) rotate(1) scale(1.04 1.0)" />
+ <path fill="#A17F63" d="M529 823 q3 -4 7 -2 q3 4 -1 8 q-5 2 -7 -2Z" />
+ <path fill="#A17F63" d="M549 810 q3 -4 7 -2 q3 4 -1 8 q-5 2 -7 -2Z" />
+ <path fill="#A17F63" d="M562 829 q3 -4 7 -2 q3 4 -1 8 q-5 2 -7 -2Z" />
+ <path fill="#A17F63" d="M544 840 q3 -4 7 -2 q3 4 -1 8 q-5 2 -7 -2Z" />
+ <use xlink:href="#urn" transform="translate(-38 998) rotate(8) scale(.89 1.08)" />
+ <use xlink:href="#urn" transform="translate(-170 881) rotate(11) scale(.65 .63)" />
+ <use xlink:href="#bouquet" transform="translate(-121 935) rotate(1)" />
+ <use xlink:href="#spotted" transform="translate(-239 944) rotate(-7) scale(.89 1.03)" />
+ <use xlink:href="#plaque" transform="translate(-182 1041) rotate(-2) scale(.91 .93)" />
+ <use xlink:href="#pillow" transform="translate(-92 1038) rotate(1) scale(1.04 1.0)" />
+ <path fill="#A17F63" d="M-111 1035 q3 -4 7 -2 q3 4 -1 8 q-5 2 -7 -2Z" />
+ <path fill="#A17F63" d="M-91 1022 q3 -4 7 -2 q3 4 -1 8 q-5 2 -7 -2Z" />
+ <path fill="#A17F63" d="M-78 1041 q3 -4 7 -2 q3 4 -1 8 q-5 2 -7 -2Z" />
+ <path fill="#A17F63" d="M-96 1052 q3 -4 7 -2 q3 4 -1 8 q-5 2 -7 -2Z" />
+ <use xlink:href="#urn" transform="translate(218 998) rotate(8) scale(.89 1.08)" />
+ <use xlink:href="#urn" transform="translate(86 881) rotate(11) scale(.65 .63)" />
+ <use xlink:href="#bouquet" transform="translate(135 935) rotate(1)" />
+ <use xlink:href="#spotted" transform="translate(17 944) rotate(-7) scale(.89 1.03)" />
+ <use xlink:href="#brocade" transform="translate(74 1041) rotate(-2) scale(.91 .93)" />
+ <use xlink:href="#pillow" transform="translate(164 1038) rotate(1) scale(1.04 1.0)" />
+ <use xlink:href="#urn" transform="translate(474 998) rotate(8) scale(.89 1.08)" />
+ <use xlink:href="#urn" transform="translate(342 881) rotate(11) scale(.65 .63)" />
+ <use xlink:href="#bouquet" transform="translate(391 935) rotate(1)" />
+ <use xlink:href="#spotted" transform="translate(273 944) rotate(-7) scale(.89 1.03)" />
+ <use xlink:href="#plaque" transform="translate(330 1041) rotate(-2) scale(.91 .93)" />
+ <use xlink:href="#pillow" transform="translate(420 1038) rotate(1) scale(1.04 1.0)" />
+ <path fill="#A17F63" d="M401 1035 q3 -4 7 -2 q3 4 -1 8 q-5 2 -7 -2Z" />
+ <path fill="#A17F63" d="M421 1022 q3 -4 7 -2 q3 4 -1 8 q-5 2 -7 -2Z" />
+ <path fill="#A17F63" d="M434 1041 q3 -4 7 -2 q3 4 -1 8 q-5 2 -7 -2Z" />
+ <path fill="#A17F63" d="M416 1052 q3 -4 7 -2 q3 4 -1 8 q-5 2 -7 -2Z" />
+ <use xlink:href="#urn" transform="translate(730 998) rotate(8) scale(.89 1.08)" />
+ <use xlink:href="#urn" transform="translate(598 881) rotate(11) scale(.65 .63)" />
+ <use xlink:href="#bouquet" transform="translate(647 935) rotate(1)" />
+ <use xlink:href="#spotted" transform="translate(529 944) rotate(-7) scale(.89 1.03)" />
+ <use xlink:href="#brocade" transform="translate(586 1041) rotate(-2) scale(.91 .93)" />
+ <use xlink:href="#pillow" transform="translate(676 1038) rotate(1) scale(1.04 1.0)" />
+</svg>

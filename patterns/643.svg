@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="320" height="320" viewBox="0 0 320 320">
+  <title>Wetherspoons, Leeds — linked ivory rings on slate blue</title>
+  <defs>
+    <circle id="link" r="20.5" fill="#ddd9cf"/>
+  </defs>
+  <rect width="320" height="320" fill="#566e90"/>
+  <circle cx="160" cy="160" r="131.1" fill="none" stroke="#ddd9cf" stroke-width="32.4"/>
+  <path d="M160 -21 V341" fill="none" stroke="#ddd9cf" stroke-width="34.8"/>
+  <use xlink:href="#link" x="0" y="160"/>
+  <use xlink:href="#link" x="320" y="160"/>
+  <use xlink:href="#link" x="160" y="0"/>
+  <use xlink:href="#link" x="160" y="320"/>
+</svg>

@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="256" height="256" viewBox="0 0 256 256">
+  <title>The Old Manor, Bracknell — crimson carpet with paired pale brackets and seed motifs</title>
+  <defs>
+    <path id="fleck" fill="#c4374d" d="M-3 -2 L0 -5 L3 -3 L3 2 L0 5 L-3 3 Z"/>
+    <g id="small-seed">
+      <path fill="#84172c" d="M-14 -4 L-11 -9 Q-7 -12 -2 -9 L0 -7 Q4 -11 9 -10 L14 -7 L13 1 Q12 7 7 10 L2 9 L0 7 L-5 10 L-12 8 Q-15 3 -14 -4Z"/>
+      <use xlink:href="#fleck"/>
+    </g>
+    <g id="bracket">
+      <path fill="#674032" d="M-38 -40 Q-37 -46 -31 -46 L-26 -42 Q-20 -47 -15 -46 L-12 -40 Q-12 -32 -18 -23 Q-25 -12 -25 0 Q-25 13 -19 23 Q-13 32 -15 39 L-19 45 L-26 41 L-31 45 L-37 43 Q-39 40 -37 29 Q-45 14 -45 1 Q-46 -13 -39 -28 Z"/>
+      <path fill="#dda39a" d="M-36 -38 L-31 -41 L-26 -38 L-19 -42 L-16 -38 Q-16 -32 -22 -25 Q-30 -13 -30 -1 Q-31 10 -25 20 L-19 29 Q-16 33 -18 39 L-24 37 L-30 42 L-35 40 L-34 31 Q-34 27 -37 22 Q-44 10 -43 -2 Q-43 -15 -37 -25 Q-34 -30 -36 -38 Z"/>
+    </g>
+    <g id="cap">
+      <path fill="#674032" d="M-9 -32 Q-10 -40 -5 -47 L0 -51 L5 -48 Q10 -39 8 -30 L4 -23 L-5 -22Z"/>
+      <path fill="#dda39a" d="M-6 -32 Q-7 -40 0 -47 Q6 -44 6 -36 Q7 -30 1 -24 L-6 -22Z"/>
+    </g>
+    <g id="medallion">
+      <path fill="#674032" d="M-28 -22 Q-22 -33 -12 -34 Q-5 -34 0 -28 Q6 -34 14 -32 Q26 -29 31 -15 Q36 -1 30 15 Q25 30 14 34 Q6 35 0 29 Q-8 36 -15 32 Q-28 28 -32 13 Q-36 -4 -28 -22 Z"/>
+      <use xlink:href="#bracket"/>
+      <use xlink:href="#bracket" transform="rotate(180)"/>
+      <use xlink:href="#cap"/>
+      <use xlink:href="#cap" transform="rotate(180)"/>
+      <path id="petal" fill="#c59383" d="M-1 -31 Q4 -30 3 -22 Q2 -14 -3 -5 Q-7 2 -7 9 Q-8 16 -14 19 Q-19 14 -19 7 Q-19 -4 -13 -14 Q-9 -24 -1 -31Z"/>
+      <use xlink:href="#petal" transform="rotate(180)"/>
+    </g>
+  </defs>
+  <rect width="256" height="256" fill="#ae122f"/>
+  <use xlink:href="#medallion" transform="translate(128 128)"/>
+  <use xlink:href="#small-seed" transform="translate(0 0)"/>
+  <use xlink:href="#fleck" transform="translate(0 64)"/>
+  <use xlink:href="#fleck" transform="translate(0 128)"/>
+  <use xlink:href="#fleck" transform="translate(0 192)"/>
+  <use xlink:href="#small-seed" transform="translate(0 256)"/>
+  <use xlink:href="#fleck" transform="translate(64 0)"/>
+  <use xlink:href="#fleck" transform="translate(64 64)"/>
+  <use xlink:href="#fleck" transform="translate(64 192)"/>
+  <use xlink:href="#fleck" transform="translate(64 256)"/>
+  <use xlink:href="#fleck" transform="translate(128 0)"/>
+  <use xlink:href="#fleck" transform="translate(128 256)"/>
+  <use xlink:href="#fleck" transform="translate(192 0)"/>
+  <use xlink:href="#fleck" transform="translate(192 64)"/>
+  <use xlink:href="#fleck" transform="translate(192 192)"/>
+  <use xlink:href="#fleck" transform="translate(192 256)"/>
+  <use xlink:href="#small-seed" transform="translate(256 0)"/>
+  <use xlink:href="#fleck" transform="translate(256 64)"/>
+  <use xlink:href="#fleck" transform="translate(256 128)"/>
+  <use xlink:href="#fleck" transform="translate(256 192)"/>
+  <use xlink:href="#small-seed" transform="translate(256 256)"/>
+</svg>

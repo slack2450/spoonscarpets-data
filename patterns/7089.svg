@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+     width="128" height="128" viewBox="0 0 128 128">
+  <title>The Bath Arms, Warminster — nested-square Axminster carpet repeat</title>
+  <defs>
+    <g id="square" fill="none" stroke="#a4a094" stroke-width="8">
+      <rect x="0" y="0" width="128" height="128"/>
+      <rect x="23" y="23" width="82" height="82" rx="1.25"/>
+      <rect x="46" y="46" width="36" height="36" rx="1.25"/>
+    </g>
+  </defs>
+  <rect width="128" height="128" fill="#454134"/>
+  <use xlink:href="#square" x="-116" y="-116"/>
+  <use xlink:href="#square" x="12" y="-116"/>
+  <use xlink:href="#square" x="-116" y="12"/>
+  <use xlink:href="#square" x="12" y="12"/>
+</svg>

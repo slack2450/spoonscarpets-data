@@ -1,0 +1,197 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="640" height="640" viewBox="0 0 640 640">
+  <title>The Sawyer’s Arms, Maesteg — looped diamond and four-petal Axminster repeat</title>
+  <desc>Terracotta flower diamonds alternate across an olive field. Slate-blue ribbons curl around open diamonds, opposite clusters of ochre lozenges.</desc>
+
+  <defs>
+    <!-- The corner trumpet narrows into a pointed spur just short of the centre. -->
+    <path id="trumpet" d="
+      M 153,207
+      Q 164,194 178,180
+      L 206,153
+      Q 214,155 219,169
+      C 225,179 230,194 236,207
+      C 245,228 259,250 278,270
+      L 282,278
+      Q 276,280 268,273
+      C 252,257 238,244 225,236
+      C 206,224 185,216 168,213
+      Q 158,214 153,207 Z"/>
+
+    <!-- The top and bottom petals are upright cups, each with a two-lobed finial. -->
+    <g id="cup">
+      <path d="
+        M 245,114 L 258,96
+        Q 265,95 272,105
+        L 283,115
+        Q 287,121 285,134
+        L 282,155
+        Q 287,176 286,194
+        L 283,215
+        Q 283,225 292,230
+        L 310,239
+        Q 322,235 333,224
+        Q 341,219 339,208
+        L 336,194
+        Q 338,179 339,159
+        L 336,132
+        Q 334,116 344,110
+        L 361,97
+        Q 371,100 379,116
+        L 368,132
+        L 368,156
+        Q 366,167 360,180
+        L 357,209
+        Q 360,219 354,230
+        L 333,240
+        Q 323,247 313,260
+        L 306,260
+        Q 298,249 286,242
+        L 266,232
+        Q 260,228 264,213
+        L 267,190
+        Q 267,178 257,164
+        L 252,155 L 255,131
+        Q 247,123 245,114 Z"/>
+      <path d="
+        M 298,158 Q 306,147 308,133
+        Q 313,128 317,143
+        L 327,164 L 326,178
+        Q 320,194 310,202
+        Q 300,199 297,188
+        L 298,175 Q 293,167 298,158 Z"/>
+      <path d="
+        M 278,78 L 288,68 L 296,60
+        Q 304,63 310,72
+        L 322,63 Q 327,61 333,67
+        L 341,79 L 343,86
+        L 334,96 L 324,88
+        Q 319,87 313,98
+        L 307,102 L 299,90
+        Q 296,86 288,94
+        L 279,97 Z"/>
+    </g>
+
+    <!-- The side petals end in pointed leaves and a single seed. -->
+    <g id="side-petal">
+      <path d="
+        M 112,258 L 122,245 Q 129,237 139,243
+        L 151,249 L 171,249
+        Q 178,249 189,258 L 208,263
+        Q 225,262 240,258
+        Q 245,260 248,270
+        L 255,281 Q 266,294 266,306
+        Q 266,321 253,336 L 244,350
+        Q 241,356 230,352
+        L 212,349 Q 194,345 181,355
+        L 169,362 L 147,362
+        Q 139,365 127,372
+        L 115,369 L 116,354
+        Q 120,344 135,338
+        L 146,329 Q 156,334 171,334
+        L 190,331 Q 204,327 217,331
+        Q 232,336 242,325
+        L 252,311 Q 254,306 247,298
+        L 237,286 Q 231,278 220,279
+        L 197,282 Q 187,284 177,277
+        L 155,276 L 142,285
+        Q 131,281 121,271 Z"/>
+      <path d="
+        M 143,308 Q 152,306 162,300
+        L 175,296 L 184,298 L 199,290
+        Q 207,290 212,299
+        L 207,311 Q 202,322 189,325
+        L 176,323 L 161,325 L 154,317
+        L 142,313 Z"/>
+      <path d="
+        M 66,306 L 74,293 L 85,280
+        Q 94,281 102,289
+        L 110,304 L 110,314 L 100,329
+        L 90,340 Q 81,337 76,327
+        L 70,320 Z"/>
+    </g>
+
+    <g id="flower" fill="#575A63">
+      <use xlink:href="#trumpet"/>
+      <use xlink:href="#trumpet" transform="rotate(90 308 308)"/>
+      <use xlink:href="#trumpet" transform="rotate(180 308 308)"/>
+      <use xlink:href="#trumpet" transform="rotate(270 308 308)"/>
+      <use xlink:href="#cup"/>
+      <use xlink:href="#cup" transform="rotate(180 309 310)"/>
+      <use xlink:href="#side-petal"/>
+      <use xlink:href="#side-petal" transform="rotate(180 310 309)"/>
+      <path d="
+        M 286,307 L 299,293 L 309,286
+        L 319,293 L 334,306 L 328,318
+        L 313,334 L 303,329 L 292,317 Z"/>
+    </g>
+
+    <g id="medallion">
+      <path fill="#575A63" d="M 0,-191 L 190,0 L 0,191 L -190,0 Z"/>
+      <path fill="#C3806B" d="M 0,-146 L 145,0 L 0,146 L -145,0 Z"/>
+      <use xlink:href="#flower" transform="translate(-154 -154) scale(.5)"/>
+    </g>
+
+    <!-- One loop. A shallow diagonal break in the rail appears at the crown. -->
+    <g id="loop" fill="#575A63">
+      <path d="
+        M 143,-1 L 191,-1 L 247,56
+        Q 250,60 251,66
+        C 239,62 225,60 210,64
+        L 165,20 Z"/>
+      <path fill-rule="evenodd" d="
+        M 321,130 L 321,175
+        L 268,126
+        C 263,140 259,153 253,164
+        C 241,185 222,198 201,203
+        C 179,209 156,201 144,183
+        C 132,168 129,149 134,129
+        C 138,110 146,96 159,86
+        C 172,76 191,68 209,65
+        C 227,62 247,66 261,75
+        C 276,84 290,100 302,112 Z
+        M 236,98
+        C 221,96 201,103 188,113
+        C 177,122 169,134 166,145
+        C 162,154 165,162 174,165
+        C 181,169 194,163 204,155
+        C 221,142 233,123 238,109
+        Q 241,102 236,98 Z"/>
+    </g>
+
+    <g id="ribbons">
+      <use xlink:href="#loop"/>
+      <use xlink:href="#loop" transform="translate(640 0) scale(-1 1)"/>
+      <use xlink:href="#loop" transform="translate(0 640) scale(1 -1)"/>
+      <use xlink:href="#loop" transform="translate(640 640) scale(-1 -1)"/>
+    </g>
+
+    <g id="seeds" fill="#D6A375">
+      <path d="M 100,218 L 105,213 L 109,206 L 114,205 L 117,211 L 122,217 L 121,222 L 115,225 L 111,231 L 105,226 L 99,222 Z"/>
+      <path d="M 70,249 L 73,242 L 78,239 L 81,233 L 87,238 L 93,246 L 90,251 L 85,255 L 81,261 L 76,257 L 71,255 Z"/>
+      <path d="M 39,280 L 44,274 L 49,268 L 53,269 L 57,275 L 63,280 L 59,286 L 54,288 L 50,293 L 45,289 L 40,286 Z"/>
+    </g>
+    <g id="all-seeds">
+      <use xlink:href="#seeds"/>
+      <use xlink:href="#seeds" transform="translate(640 0) scale(-1 1)"/>
+      <use xlink:href="#seeds" transform="translate(0 640) scale(1 -1)"/>
+      <use xlink:href="#seeds" transform="translate(640 640) scale(-1 -1)"/>
+    </g>
+    <g id="setting">
+      <use xlink:href="#ribbons"/>
+      <use xlink:href="#all-seeds"/>
+      <use xlink:href="#medallion" transform="translate(320 320)"/>
+      <use xlink:href="#medallion"/>
+    </g>
+  </defs>
+
+  <rect width="640" height="640" fill="#716A4C"/>
+  <use xlink:href="#setting" x="-640" y="-640"/>
+  <use xlink:href="#setting" y="-640"/>
+  <use xlink:href="#setting" x="640" y="-640"/>
+  <use xlink:href="#setting" x="-640"/>
+  <use xlink:href="#setting"/>
+  <use xlink:href="#setting" x="640"/>
+  <use xlink:href="#setting" x="-640" y="640"/>
+  <use xlink:href="#setting" y="640"/>
+  <use xlink:href="#setting" x="640" y="640"/>
+</svg>

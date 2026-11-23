@@ -1,0 +1,94 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="512" height="512" viewBox="0 0 512 512">
+  <title>The Queen’s Picture House, Liverpool — claret and silver woven check</title>
+  <defs>
+    <g id="silver-check">
+    <path fill="#949fa8" d="M-3,-64 H3 V-48 H5 V48 H3 V64 H-3 V48 H-5 V-48 H-3Z"/>
+    <path fill="#a36477" d="M-64,-5 H-49 V-9 H-38 V8 H-52 V5 H-64Z M64,5 H49 V9 H38 V-8 H52 V-5 H64Z"/>
+    <path fill="#949fa8" d="M -49,-7 -42,-7 -42,-12 -36,-12 -36,-17 -23,-17 -23,-24 -18,-24 -18,-35 -13,-35 -13,-48 -8,-48 -8,-56 6,-56 6,-50 11,-50 11,-43 15,-43 15,-29 20,-29 20,-21 29,-21 29,-18 39,-18 39,-11 47,-11 47,-6 50,-6 50,5 43,5 43,12 36,12 36,17 23,17 23,24 18,24 18,35 13,35 13,48 8,48 8,56 -6,56 -6,50 -11,50 -11,43 -15,43 -15,29 -20,29 -20,21 -29,21 -29,18 -39,18 -39,11 -47,11 -47,6 -50,6 -50,-5 -49,-5 Z"/>
+    <path fill="#d7d8d6" d="M-2,-64 H2 V64 H-2Z"/>
+    <path fill="#d7d8d6" d="M-3,-56 H3 V-40 H5 V-22 H3 V-6 H4 V12 H3 V27 H4 V44 H2 V56 H-3 V40 H-4 V22 H-3 V6 H-4 V-12 H-3 V-28 H-4 V-43 H-3Z"/>
+    <g id="light-picks">
+    <path fill="#d7d8d6" d="M7,-18 h6 l11,8 h-7z"/>
+    <path fill="#d7d8d6" d="M24,-13 h7 l8,6 h-6z"/>
+    <path fill="#d7d8d6" d="M6,-8 h7 l13,9 h-7z"/>
+    <path fill="#d7d8d6" d="M21,1 h8 l12,9 h-7z"/>
+    <path fill="#d7d8d6" d="M8,6 h6 l13,9 h-7z"/>
+    <path fill="#d7d8d6" d="M7,19 h5 l4,3 h-5z"/>
+    <path fill="#d7d8d6" d="M6,-37 h5 l-2,9 H5z"/>
+    <path fill="#d7d8d6" d="M8,-23 h4 l-2,8 H6z"/>
+    <path fill="#d7d8d6" d="M7,27 h4 l-2,10 H5z"/>
+    <path fill="#d7d8d6" d="M10,16 h4 l-2,7 H8z"/>
+    <path fill="#533646" d="M31,-16 h5 l6,5 h-5z M13,24 h4 l-2,8 h-4z M9,-47 h4 l-2,8 H7z"/>
+    </g>
+    <use xlink:href="#light-picks" transform="rotate(180)"/>
+    </g>
+    <g id="wine-check">
+    <path fill="#533646" d="M-18,-64 H18 V64 H-18Z"/>
+    <path fill="#533646" d="M-64,-9 H64 V10 H-64Z"/>
+    <path fill="#813e55" d="M-10,-64 H10 V64 H-10Z"/>
+    <path fill="#a36477" d="M-12,-64 H13 V-60 H7 V-56 H-5 V-60 H-12Z M-13,64 H12 V60 H5 V56 H-7 V60 H-13Z"/>
+    <g id="wine-picks">
+    <path fill="#813e55" d="M-13,-53 h5 l5,4 h-7z M-12,-41 h6 l6,4 h-8z M-12,-18 h5 l5,4 h-7z"/>
+    <path fill="#a36477" d="M-7,-50 h5 l7,5 h-6z M-6,-29 h5 l6,4 h-6z M-6,-6 h6 l11,7 h-6z"/>
+    <path fill="#813e55" d="M13,-7 h8 l8,6 h-8z M32,-3 h7 l6,4 h-6z M44,-6 h7 l7,5 h-7z"/>
+    <path fill="#533646" d="M17,-42 h6 l8,6 h-6z M30,-29 h6 l8,6 h-6z M18,-18 h7 l7,5 h-7z M-37,-34 h7 l9,6 h-7z M-40,-17 h6 l7,5 h-6z"/>
+    </g>
+    <use xlink:href="#wine-picks" transform="rotate(180)"/>
+    </g>
+  </defs>
+    <rect width="512" height="512" fill="#271c2a"/>
+    <g>
+      <use xlink:href="#wine-check" transform="translate(-31.5 -30.5)"/>
+      <use xlink:href="#wine-check" transform="translate(96.5 -30.5)"/>
+      <use xlink:href="#wine-check" transform="translate(224.5 -30.5)"/>
+      <use xlink:href="#wine-check" transform="translate(352.5 -30.5)"/>
+      <use xlink:href="#wine-check" transform="translate(480.5 -30.5)"/>
+      <use xlink:href="#wine-check" transform="translate(-31.5 97.5)"/>
+      <use xlink:href="#wine-check" transform="translate(96.5 97.5)"/>
+      <use xlink:href="#wine-check" transform="translate(224.5 97.5)"/>
+      <use xlink:href="#wine-check" transform="translate(352.5 97.5)"/>
+      <use xlink:href="#wine-check" transform="translate(480.5 97.5)"/>
+      <use xlink:href="#wine-check" transform="translate(-31.5 225.5)"/>
+      <use xlink:href="#wine-check" transform="translate(96.5 225.5)"/>
+      <use xlink:href="#wine-check" transform="translate(224.5 225.5)"/>
+      <use xlink:href="#wine-check" transform="translate(352.5 225.5)"/>
+      <use xlink:href="#wine-check" transform="translate(480.5 225.5)"/>
+      <use xlink:href="#wine-check" transform="translate(-31.5 353.5)"/>
+      <use xlink:href="#wine-check" transform="translate(96.5 353.5)"/>
+      <use xlink:href="#wine-check" transform="translate(224.5 353.5)"/>
+      <use xlink:href="#wine-check" transform="translate(352.5 353.5)"/>
+      <use xlink:href="#wine-check" transform="translate(480.5 353.5)"/>
+      <use xlink:href="#wine-check" transform="translate(-31.5 481.5)"/>
+      <use xlink:href="#wine-check" transform="translate(96.5 481.5)"/>
+      <use xlink:href="#wine-check" transform="translate(224.5 481.5)"/>
+      <use xlink:href="#wine-check" transform="translate(352.5 481.5)"/>
+      <use xlink:href="#wine-check" transform="translate(480.5 481.5)"/>
+    </g>
+    <g>
+      <use xlink:href="#silver-check" transform="translate(32.5 33.5)"/>
+      <use xlink:href="#silver-check" transform="translate(160.5 33.5)"/>
+      <use xlink:href="#silver-check" transform="translate(288.5 33.5)"/>
+      <use xlink:href="#silver-check" transform="translate(416.5 33.5)"/>
+      <use xlink:href="#silver-check" transform="translate(544.5 33.5)"/>
+      <use xlink:href="#silver-check" transform="translate(32.5 161.5)"/>
+      <use xlink:href="#silver-check" transform="translate(160.5 161.5)"/>
+      <use xlink:href="#silver-check" transform="translate(288.5 161.5)"/>
+      <use xlink:href="#silver-check" transform="translate(416.5 161.5)"/>
+      <use xlink:href="#silver-check" transform="translate(544.5 161.5)"/>
+      <use xlink:href="#silver-check" transform="translate(32.5 289.5)"/>
+      <use xlink:href="#silver-check" transform="translate(160.5 289.5)"/>
+      <use xlink:href="#silver-check" transform="translate(288.5 289.5)"/>
+      <use xlink:href="#silver-check" transform="translate(416.5 289.5)"/>
+      <use xlink:href="#silver-check" transform="translate(544.5 289.5)"/>
+      <use xlink:href="#silver-check" transform="translate(32.5 417.5)"/>
+      <use xlink:href="#silver-check" transform="translate(160.5 417.5)"/>
+      <use xlink:href="#silver-check" transform="translate(288.5 417.5)"/>
+      <use xlink:href="#silver-check" transform="translate(416.5 417.5)"/>
+      <use xlink:href="#silver-check" transform="translate(544.5 417.5)"/>
+      <use xlink:href="#silver-check" transform="translate(32.5 545.5)"/>
+      <use xlink:href="#silver-check" transform="translate(160.5 545.5)"/>
+      <use xlink:href="#silver-check" transform="translate(288.5 545.5)"/>
+      <use xlink:href="#silver-check" transform="translate(416.5 545.5)"/>
+      <use xlink:href="#silver-check" transform="translate(544.5 545.5)"/>
+    </g>
+</svg>

@@ -1,0 +1,203 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="384" height="384" viewBox="0 0 384 384">
+  <title>The Limes, Fakenham — heathered pinstripe Axminster repeat</title>
+  <desc>Fine lengthwise ribs on an espresso ground, with interspersed port, russet and straw-coloured yarns.</desc>
+  <defs>
+    <rect id="field-rib" x="-1.8" y="0" width="3.6" height="384"/>
+    <rect id="wine-rib" x="-2.05" y="0" width="4.1" height="384"/>
+    <rect id="copper-rib" x="-1.95" y="0" width="3.9" height="384"/>
+    <rect id="straw-rib" x="-1.9" y="0" width="3.8" height="384"/>
+  </defs>
+  <rect width="384" height="384" fill="#1c1512"/>
+  <g transform="translate(4 0)">
+    <use xlink:href="#straw-rib" fill="#4b4340"/>
+    <path fill="#7d785d" d="M-1.9 2h3.8v140h-3.8Z M-1.9 158h3.8v56h-3.8Z M-1.9 226h3.8v104h-3.8Z M-1.9 334h3.8v16h-3.8Z"/>
+  </g>
+  <g transform="translate(12 0)">
+    <use xlink:href="#field-rib" fill="#38302d"/>
+    <path fill="#4b4340" d="M-1.8 6h3.6v4h-3.6Z M-1.8 22h3.6v24h-3.6Z M-1.8 90h3.6v4h-3.6Z M-1.8 122h3.6v24h-3.6Z M-1.8 166h3.6v20h-3.6Z M-1.8 194h3.6v8h-3.6Z M-1.8 254h3.6v8h-3.6Z M-1.8 266h3.6v12h-3.6Z M-1.8 286h3.6v8h-3.6Z M-1.8 310h3.6v12h-3.6Z M-1.8 338h3.6v8h-3.6Z"/>
+  </g>
+  <g transform="translate(20 0)">
+    <use xlink:href="#field-rib" fill="#38302d"/>
+    <path fill="#4b4340" d="M-1.8 10h3.6v32h-3.6Z M-1.8 46h3.6v8h-3.6Z M-1.8 94h3.6v32h-3.6Z M-1.8 162h3.6v20h-3.6Z M-1.8 202h3.6v16h-3.6Z M-1.8 266h3.6v4h-3.6Z M-1.8 282h3.6v8h-3.6Z M-1.8 342h3.6v8h-3.6Z M-1.8 378h3.6v4h-3.6Z"/>
+  </g>
+  <g transform="translate(28 0)">
+    <use xlink:href="#field-rib" fill="#38302d"/>
+    <path fill="#4b4340" d="M-1.8 26h3.6v28h-3.6Z M-1.8 78h3.6v36h-3.6Z M-1.8 166h3.6v12h-3.6Z M-1.8 202h3.6v4h-3.6Z M-1.8 254h3.6v4h-3.6Z M-1.8 262h3.6v12h-3.6Z M-1.8 318h3.6v8h-3.6Z M-1.8 342h3.6v20h-3.6Z M-1.8 378h3.6v8h-3.6Z M-1.8 -6h3.6v8h-3.6Z"/>
+  </g>
+  <g transform="translate(36 0)">
+    <use xlink:href="#field-rib" fill="#38302d"/>
+    <path fill="#4b4340" d="M-1.8 14h3.6v56h-3.6Z M-1.8 90h3.6v8h-3.6Z M-1.8 110h3.6v4h-3.6Z M-1.8 138h3.6v12h-3.6Z M-1.8 162h3.6v24h-3.6Z M-1.8 238h3.6v4h-3.6Z M-1.8 262h3.6v4h-3.6Z M-1.8 306h3.6v20h-3.6Z"/>
+  </g>
+  <g transform="translate(44 0)">
+    <use xlink:href="#field-rib" fill="#38302d"/>
+    <path fill="#4b4340" d="M-1.8 2h3.6v24h-3.6Z M-1.8 42h3.6v8h-3.6Z M-1.8 74h3.6v32h-3.6Z M-1.8 122h3.6v20h-3.6Z M-1.8 170h3.6v4h-3.6Z M-1.8 258h3.6v12h-3.6Z M-1.8 278h3.6v8h-3.6Z M-1.8 326h3.6v24h-3.6Z"/>
+  </g>
+  <g transform="translate(52 0)">
+    <use xlink:href="#wine-rib" fill="#1c1512"/>
+    <path fill="#392526" d="M-2.05 194h4.1v20h-4.1Z M-2.05 246h4.1v68h-4.1Z M-2.05 318h4.1v40h-4.1Z M-2.05 370h4.1v204h-4.1Z M-2.05 -14h4.1v204h-4.1Z"/>
+  </g>
+  <g transform="translate(60 0)">
+    <use xlink:href="#field-rib" fill="#38302d"/>
+    <path fill="#4b4340" d="M-1.8 54h3.6v4h-3.6Z M-1.8 78h3.6v8h-3.6Z M-1.8 114h3.6v36h-3.6Z M-1.8 170h3.6v16h-3.6Z M-1.8 266h3.6v16h-3.6Z M-1.8 298h3.6v16h-3.6Z M-1.8 378h3.6v36h-3.6Z M-1.8 -6h3.6v36h-3.6Z"/>
+  </g>
+  <g transform="translate(68 0)">
+    <use xlink:href="#field-rib" fill="#38302d"/>
+    <path fill="#4b4340" d="M-1.8 38h3.6v4h-3.6Z M-1.8 102h3.6v48h-3.6Z M-1.8 174h3.6v8h-3.6Z M-1.8 254h3.6v20h-3.6Z M-1.8 278h3.6v12h-3.6Z M-1.8 298h3.6v20h-3.6Z M-1.8 322h3.6v8h-3.6Z M-1.8 382h3.6v12h-3.6Z M-1.8 -2h3.6v12h-3.6Z"/>
+  </g>
+  <g transform="translate(76 0)">
+    <use xlink:href="#field-rib" fill="#38302d"/>
+    <path fill="#4b4340" d="M-1.8 2h3.6v4h-3.6Z M-1.8 42h3.6v4h-3.6Z M-1.8 78h3.6v16h-3.6Z M-1.8 106h3.6v12h-3.6Z M-1.8 130h3.6v16h-3.6Z M-1.8 254h3.6v80h-3.6Z"/>
+  </g>
+  <g transform="translate(84 0)">
+    <use xlink:href="#copper-rib" fill="#38302d"/>
+    <path fill="#694d3e" d="M-1.95 14h3.9v20h-3.9Z M-1.95 50h3.9v40h-3.9Z M-1.95 106h3.9v68h-3.9Z M-1.95 190h3.9v104h-3.9Z M-1.95 302h3.9v44h-3.9Z M-1.95 362h3.9v24h-3.9Z M-1.95 -22h3.9v24h-3.9Z"/>
+  </g>
+  <g transform="translate(92 0)">
+    <use xlink:href="#field-rib" fill="#38302d"/>
+    <path fill="#4b4340" d="M-1.8 46h3.6v8h-3.6Z M-1.8 74h3.6v8h-3.6Z M-1.8 90h3.6v28h-3.6Z M-1.8 162h3.6v8h-3.6Z M-1.8 174h3.6v8h-3.6Z M-1.8 254h3.6v8h-3.6Z M-1.8 278h3.6v20h-3.6Z M-1.8 306h3.6v28h-3.6Z M-1.8 366h3.6v16h-3.6Z"/>
+  </g>
+  <g transform="translate(100 0)">
+    <use xlink:href="#field-rib" fill="#38302d"/>
+    <path fill="#4b4340" d="M-1.8 30h3.6v16h-3.6Z M-1.8 66h3.6v8h-3.6Z M-1.8 82h3.6v16h-3.6Z M-1.8 166h3.6v24h-3.6Z M-1.8 242h3.6v28h-3.6Z M-1.8 286h3.6v8h-3.6Z M-1.8 302h3.6v32h-3.6Z"/>
+  </g>
+  <g transform="translate(108 0)">
+    <use xlink:href="#field-rib" fill="#38302d"/>
+    <path fill="#4b4340" d="M-1.8 34h3.6v16h-3.6Z M-1.8 78h3.6v20h-3.6Z M-1.8 110h3.6v24h-3.6Z M-1.8 154h3.6v4h-3.6Z M-1.8 206h3.6v8h-3.6Z M-1.8 230h3.6v20h-3.6Z M-1.8 262h3.6v8h-3.6Z M-1.8 282h3.6v12h-3.6Z M-1.8 338h3.6v12h-3.6Z M-1.8 358h3.6v8h-3.6Z"/>
+  </g>
+  <g transform="translate(116 0)">
+    <use xlink:href="#field-rib" fill="#38302d"/>
+    <path fill="#4b4340" d="M-1.8 18h3.6v12h-3.6Z M-1.8 34h3.6v28h-3.6Z M-1.8 86h3.6v4h-3.6Z M-1.8 94h3.6v8h-3.6Z M-1.8 114h3.6v8h-3.6Z M-1.8 182h3.6v20h-3.6Z M-1.8 262h3.6v40h-3.6Z M-1.8 350h3.6v12h-3.6Z"/>
+  </g>
+  <g transform="translate(124 0)">
+    <use xlink:href="#field-rib" fill="#38302d"/>
+    <path fill="#4b4340" d="M-1.8 18h3.6v20h-3.6Z M-1.8 74h3.6v32h-3.6Z M-1.8 154h3.6v16h-3.6Z M-1.8 254h3.6v20h-3.6Z M-1.8 278h3.6v24h-3.6Z M-1.8 338h3.6v12h-3.6Z M-1.8 354h3.6v8h-3.6Z"/>
+  </g>
+  <g transform="translate(132 0)">
+    <use xlink:href="#wine-rib" fill="#1c1512"/>
+    <path fill="#392526" d="M-2.05 130h4.1v76h-4.1Z M-2.05 210h4.1v4h-4.1Z M-2.05 226h4.1v4h-4.1Z M-2.05 246h4.1v248h-4.1Z M-2.05 -138h4.1v248h-4.1Z"/>
+  </g>
+  <g transform="translate(140 0)">
+    <use xlink:href="#field-rib" fill="#38302d"/>
+    <path fill="#4b4340" d="M-1.8 50h3.6v8h-3.6Z M-1.8 74h3.6v12h-3.6Z M-1.8 122h3.6v36h-3.6Z M-1.8 290h3.6v4h-3.6Z M-1.8 330h3.6v16h-3.6Z M-1.8 354h3.6v56h-3.6Z M-1.8 -30h3.6v56h-3.6Z"/>
+  </g>
+  <g transform="translate(148 0)">
+    <use xlink:href="#field-rib" fill="#38302d"/>
+    <path fill="#4b4340" d="M-1.8 2h3.6v16h-3.6Z M-1.8 26h3.6v20h-3.6Z M-1.8 50h3.6v4h-3.6Z M-1.8 82h3.6v8h-3.6Z M-1.8 142h3.6v24h-3.6Z M-1.8 178h3.6v20h-3.6Z M-1.8 250h3.6v12h-3.6Z M-1.8 266h3.6v4h-3.6Z M-1.8 330h3.6v8h-3.6Z M-1.8 342h3.6v16h-3.6Z"/>
+  </g>
+  <g transform="translate(156 0)">
+    <use xlink:href="#field-rib" fill="#38302d"/>
+    <path fill="#4b4340" d="M-1.8 2h3.6v12h-3.6Z M-1.8 38h3.6v16h-3.6Z M-1.8 74h3.6v20h-3.6Z M-1.8 134h3.6v16h-3.6Z M-1.8 162h3.6v12h-3.6Z M-1.8 254h3.6v4h-3.6Z M-1.8 274h3.6v16h-3.6Z M-1.8 294h3.6v20h-3.6Z M-1.8 326h3.6v4h-3.6Z M-1.8 346h3.6v12h-3.6Z"/>
+  </g>
+  <g transform="translate(164 0)">
+    <use xlink:href="#field-rib" fill="#38302d"/>
+    <path fill="#4b4340" d="M-1.8 10h3.6v4h-3.6Z M-1.8 26h3.6v36h-3.6Z M-1.8 70h3.6v8h-3.6Z M-1.8 114h3.6v36h-3.6Z M-1.8 254h3.6v8h-3.6Z M-1.8 270h3.6v20h-3.6Z M-1.8 310h3.6v4h-3.6Z M-1.8 318h3.6v16h-3.6Z"/>
+  </g>
+  <g transform="translate(172 0)">
+    <use xlink:href="#straw-rib" fill="#4b4340"/>
+    <path fill="#7d785d" d="M-1.9 154h3.8v8h-3.8Z M-1.9 170h3.8v24h-3.8Z M-1.9 234h3.8v108h-3.8Z M-1.9 358h3.8v176h-3.8Z M-1.9 -26h3.8v176h-3.8Z"/>
+  </g>
+  <g transform="translate(180 0)">
+    <use xlink:href="#field-rib" fill="#38302d"/>
+    <path fill="#4b4340" d="M-1.8 2h3.6v28h-3.6Z M-1.8 58h3.6v32h-3.6Z M-1.8 94h3.6v32h-3.6Z M-1.8 274h3.6v20h-3.6Z M-1.8 298h3.6v12h-3.6Z M-1.8 322h3.6v8h-3.6Z"/>
+  </g>
+  <g transform="translate(188 0)">
+    <use xlink:href="#field-rib" fill="#38302d"/>
+    <path fill="#4b4340" d="M-1.8 6h3.6v24h-3.6Z M-1.8 58h3.6v12h-3.6Z M-1.8 102h3.6v8h-3.6Z M-1.8 134h3.6v20h-3.6Z M-1.8 198h3.6v20h-3.6Z M-1.8 274h3.6v8h-3.6Z M-1.8 290h3.6v28h-3.6Z M-1.8 330h3.6v12h-3.6Z"/>
+  </g>
+  <g transform="translate(196 0)">
+    <use xlink:href="#field-rib" fill="#38302d"/>
+    <path fill="#4b4340" d="M-1.8 22h3.6v40h-3.6Z M-1.8 102h3.6v20h-3.6Z M-1.8 274h3.6v8h-3.6Z M-1.8 306h3.6v64h-3.6Z"/>
+  </g>
+  <g transform="translate(204 0)">
+    <use xlink:href="#field-rib" fill="#38302d"/>
+    <path fill="#4b4340" d="M-1.8 2h3.6v12h-3.6Z M-1.8 26h3.6v8h-3.6Z M-1.8 242h3.6v52h-3.6Z M-1.8 314h3.6v4h-3.6Z M-1.8 322h3.6v56h-3.6Z"/>
+  </g>
+  <g transform="translate(212 0)">
+    <use xlink:href="#copper-rib" fill="#38302d"/>
+    <path fill="#694d3e" d="M-1.95 50h3.9v8h-3.9Z M-1.95 86h3.9v80h-3.9Z M-1.95 198h3.9v212h-3.9Z M-1.95 -186h3.9v212h-3.9Z"/>
+  </g>
+  <g transform="translate(220 0)">
+    <use xlink:href="#field-rib" fill="#38302d"/>
+    <path fill="#4b4340" d="M-1.8 142h3.6v8h-3.6Z M-1.8 178h3.6v16h-3.6Z M-1.8 202h3.6v40h-3.6Z M-1.8 250h3.6v8h-3.6Z M-1.8 270h3.6v4h-3.6Z M-1.8 286h3.6v16h-3.6Z M-1.8 318h3.6v8h-3.6Z M-1.8 350h3.6v32h-3.6Z"/>
+  </g>
+  <g transform="translate(228 0)">
+    <use xlink:href="#field-rib" fill="#38302d"/>
+    <path fill="#4b4340" d="M-1.8 142h3.6v16h-3.6Z M-1.8 182h3.6v12h-3.6Z M-1.8 206h3.6v48h-3.6Z M-1.8 290h3.6v8h-3.6Z M-1.8 310h3.6v20h-3.6Z M-1.8 358h3.6v28h-3.6Z M-1.8 -26h3.6v28h-3.6Z"/>
+  </g>
+  <g transform="translate(236 0)">
+    <use xlink:href="#field-rib" fill="#38302d"/>
+    <path fill="#4b4340" d="M-1.8 194h3.6v64h-3.6Z M-1.8 266h3.6v12h-3.6Z M-1.8 286h3.6v4h-3.6Z M-1.8 302h3.6v16h-3.6Z M-1.8 326h3.6v8h-3.6Z M-1.8 354h3.6v28h-3.6Z"/>
+  </g>
+  <g transform="translate(244 0)">
+    <use xlink:href="#field-rib" fill="#38302d"/>
+    <path fill="#4b4340" d="M-1.8 42h3.6v4h-3.6Z M-1.8 126h3.6v8h-3.6Z M-1.8 198h3.6v60h-3.6Z M-1.8 262h3.6v4h-3.6Z M-1.8 282h3.6v16h-3.6Z M-1.8 302h3.6v16h-3.6Z M-1.8 350h3.6v24h-3.6Z"/>
+  </g>
+  <g transform="translate(252 0)">
+    <use xlink:href="#field-rib" fill="#38302d"/>
+    <path fill="#4b4340" d="M-1.8 42h3.6v12h-3.6Z M-1.8 142h3.6v8h-3.6Z M-1.8 198h3.6v12h-3.6Z M-1.8 226h3.6v44h-3.6Z M-1.8 278h3.6v24h-3.6Z M-1.8 306h3.6v24h-3.6Z M-1.8 370h3.6v8h-3.6Z"/>
+  </g>
+  <g transform="translate(260 0)">
+    <use xlink:href="#wine-rib" fill="#1c1512"/>
+    <path fill="#392526" d="M-2.05 18h4.1v8h-4.1Z M-2.05 30h4.1v60h-4.1Z M-2.05 98h4.1v36h-4.1Z M-2.05 138h4.1v28h-4.1Z M-2.05 186h4.1v200h-4.1Z M-2.05 -198h4.1v200h-4.1Z"/>
+  </g>
+  <g transform="translate(268 0)">
+    <use xlink:href="#field-rib" fill="#38302d"/>
+    <path fill="#4b4340" d="M-1.8 38h3.6v8h-3.6Z M-1.8 58h3.6v16h-3.6Z M-1.8 102h3.6v4h-3.6Z M-1.8 198h3.6v24h-3.6Z M-1.8 234h3.6v20h-3.6Z M-1.8 262h3.6v4h-3.6Z M-1.8 278h3.6v16h-3.6Z M-1.8 298h3.6v40h-3.6Z"/>
+  </g>
+  <g transform="translate(276 0)">
+    <use xlink:href="#field-rib" fill="#38302d"/>
+    <path fill="#4b4340" d="M-1.8 58h3.6v4h-3.6Z M-1.8 118h3.6v8h-3.6Z M-1.8 142h3.6v12h-3.6Z M-1.8 166h3.6v8h-3.6Z M-1.8 210h3.6v8h-3.6Z M-1.8 226h3.6v24h-3.6Z M-1.8 262h3.6v8h-3.6Z M-1.8 278h3.6v60h-3.6Z"/>
+  </g>
+  <g transform="translate(284 0)">
+    <use xlink:href="#field-rib" fill="#38302d"/>
+    <path fill="#4b4340" d="M-1.8 130h3.6v4h-3.6Z M-1.8 190h3.6v12h-3.6Z M-1.8 214h3.6v24h-3.6Z M-1.8 258h3.6v8h-3.6Z M-1.8 270h3.6v44h-3.6Z M-1.8 322h3.6v40h-3.6Z"/>
+  </g>
+  <g transform="translate(292 0)">
+    <use xlink:href="#field-rib" fill="#38302d"/>
+    <path fill="#4b4340" d="M-1.8 146h3.6v8h-3.6Z M-1.8 190h3.6v20h-3.6Z M-1.8 218h3.6v8h-3.6Z M-1.8 270h3.6v96h-3.6Z"/>
+  </g>
+  <g transform="translate(300 0)">
+    <use xlink:href="#straw-rib" fill="#4b4340"/>
+    <path fill="#7d785d" d="M-1.9 70h3.8v316h-3.8Z M-1.9 -314h3.8v316h-3.8Z"/>
+  </g>
+  <g transform="translate(308 0)">
+    <use xlink:href="#field-rib" fill="#38302d"/>
+    <path fill="#4b4340" d="M-1.8 74h3.6v4h-3.6Z M-1.8 98h3.6v8h-3.6Z M-1.8 110h3.6v24h-3.6Z M-1.8 162h3.6v8h-3.6Z M-1.8 198h3.6v16h-3.6Z M-1.8 218h3.6v12h-3.6Z M-1.8 254h3.6v16h-3.6Z M-1.8 282h3.6v16h-3.6Z M-1.8 302h3.6v28h-3.6Z"/>
+  </g>
+  <g transform="translate(316 0)">
+    <use xlink:href="#field-rib" fill="#38302d"/>
+    <path fill="#4b4340" d="M-1.8 90h3.6v4h-3.6Z M-1.8 218h3.6v92h-3.6Z M-1.8 314h3.6v32h-3.6Z M-1.8 362h3.6v4h-3.6Z"/>
+  </g>
+  <g transform="translate(324 0)">
+    <use xlink:href="#field-rib" fill="#38302d"/>
+    <path fill="#4b4340" d="M-1.8 86h3.6v8h-3.6Z M-1.8 130h3.6v4h-3.6Z M-1.8 162h3.6v4h-3.6Z M-1.8 222h3.6v20h-3.6Z M-1.8 246h3.6v52h-3.6Z M-1.8 302h3.6v4h-3.6Z M-1.8 314h3.6v32h-3.6Z M-1.8 354h3.6v4h-3.6Z M-1.8 382h3.6v4h-3.6Z M-1.8 -2h3.6v4h-3.6Z"/>
+  </g>
+  <g transform="translate(332 0)">
+    <use xlink:href="#field-rib" fill="#38302d"/>
+    <path fill="#4b4340" d="M-1.8 86h3.6v8h-3.6Z M-1.8 106h3.6v20h-3.6Z M-1.8 222h3.6v32h-3.6Z M-1.8 266h3.6v4h-3.6Z M-1.8 306h3.6v60h-3.6Z M-1.8 378h3.6v8h-3.6Z M-1.8 -6h3.6v8h-3.6Z"/>
+  </g>
+  <g transform="translate(340 0)">
+    <use xlink:href="#copper-rib" fill="#38302d"/>
+    <path fill="#694d3e" d="M-1.95 10h3.9v20h-3.9Z M-1.95 62h3.9v120h-3.9Z M-1.95 190h3.9v20h-3.9Z M-1.95 214h3.9v44h-3.9Z M-1.95 262h3.9v28h-3.9Z M-1.95 302h3.9v12h-3.9Z M-1.95 322h3.9v20h-3.9Z M-1.95 350h3.9v36h-3.9Z M-1.95 -34h3.9v36h-3.9Z"/>
+  </g>
+  <g transform="translate(348 0)">
+    <use xlink:href="#field-rib" fill="#38302d"/>
+    <path fill="#4b4340" d="M-1.8 22h3.6v4h-3.6Z M-1.8 82h3.6v12h-3.6Z M-1.8 118h3.6v4h-3.6Z M-1.8 126h3.6v20h-3.6Z M-1.8 158h3.6v8h-3.6Z M-1.8 174h3.6v4h-3.6Z M-1.8 186h3.6v8h-3.6Z M-1.8 262h3.6v12h-3.6Z M-1.8 290h3.6v12h-3.6Z M-1.8 306h3.6v12h-3.6Z M-1.8 330h3.6v12h-3.6Z M-1.8 346h3.6v24h-3.6Z"/>
+  </g>
+  <g transform="translate(356 0)">
+    <use xlink:href="#field-rib" fill="#38302d"/>
+    <path fill="#4b4340" d="M-1.8 70h3.6v16h-3.6Z M-1.8 122h3.6v4h-3.6Z M-1.8 138h3.6v12h-3.6Z M-1.8 210h3.6v12h-3.6Z M-1.8 226h3.6v12h-3.6Z M-1.8 290h3.6v16h-3.6Z M-1.8 326h3.6v60h-3.6Z M-1.8 -58h3.6v60h-3.6Z"/>
+  </g>
+  <g transform="translate(364 0)">
+    <use xlink:href="#field-rib" fill="#38302d"/>
+    <path fill="#4b4340" d="M-1.8 18h3.6v16h-3.6Z M-1.8 74h3.6v8h-3.6Z M-1.8 102h3.6v12h-3.6Z M-1.8 206h3.6v8h-3.6Z M-1.8 258h3.6v8h-3.6Z M-1.8 282h3.6v28h-3.6Z M-1.8 330h3.6v4h-3.6Z M-1.8 342h3.6v48h-3.6Z M-1.8 -42h3.6v48h-3.6Z"/>
+  </g>
+  <g transform="translate(372 0)">
+    <use xlink:href="#field-rib" fill="#38302d"/>
+    <path fill="#4b4340" d="M-1.8 26h3.6v4h-3.6Z M-1.8 66h3.6v36h-3.6Z M-1.8 114h3.6v16h-3.6Z M-1.8 190h3.6v24h-3.6Z M-1.8 242h3.6v20h-3.6Z M-1.8 286h3.6v12h-3.6Z M-1.8 326h3.6v8h-3.6Z M-1.8 370h3.6v12h-3.6Z"/>
+  </g>
+  <g transform="translate(380 0)">
+    <use xlink:href="#field-rib" fill="#38302d"/>
+    <path fill="#4b4340" d="M-1.8 22h3.6v8h-3.6Z M-1.8 74h3.6v12h-3.6Z M-1.8 90h3.6v44h-3.6Z M-1.8 190h3.6v20h-3.6Z M-1.8 242h3.6v20h-3.6Z M-1.8 298h3.6v8h-3.6Z M-1.8 314h3.6v20h-3.6Z"/>
+  </g>
+</svg>

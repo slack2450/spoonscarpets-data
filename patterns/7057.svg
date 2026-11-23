@@ -1,0 +1,143 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="768" height="768" viewBox="0 0 768 768">
+  <title>The Captain James Lang, Dumbarton — interlaced rosettes and eight-pointed star medallions</title>
+  <defs>
+    <g id="star-inset" stroke-linejoin="round" stroke-linecap="round">
+      <path d="M0,-158 46,-112 112,-112 112,-46 158,0 112,46 112,112 46,112 0,158 -46,112 -112,112 -112,46 -158,0 -112,-46 -112,-112 -46,-112Z" fill="#AB5427" stroke="#CC884C" stroke-width="11"/>
+      <path d="M0,-109 30,-79 79,-79 79,-30 109,0 79,30 79,79 30,79 0,109 -30,79 -79,79 -79,30 -109,0 -79,-30 -79,-79 -30,-79Z" fill="#824B2F" stroke="#E2AA70" stroke-width="6.4"/>
+      <path d="M-79 -79H79V79H-79Z M0 -110L110 0 0 110 -110 0Z" fill="none" stroke="#E2AA70" stroke-width="5.1"/>
+      <circle cx="0" cy="0" r="77" fill="none" stroke="#CC884C" stroke-width="5.6"/>
+    </g>
+    <g id="seed" stroke-linejoin="round" stroke-linecap="round">
+      <path d="M0 -79 Q11 -77 17 -65 Q24 -57 21 -47 L15 -34 Q6 -34 0 -29 Q-7 -34 -15 -34 L-21 -47 Q-24 -57 -17 -65 Q-11 -77 0 -79Z" fill="#824B2F" stroke="#E2AA70" stroke-width="5.5"/>
+      <path d="M0 -62 Q6 -60 7 -55 Q6 -50 0 -46 Q-6 -49 -7 -55 Q-7 -59 0 -62Z" fill="#CC884C"/>
+    </g>
+    <g id="little-medallion" stroke-linejoin="round" stroke-linecap="round">
+      <use xlink:href="#star-inset"/>
+      <use xlink:href="#seed" transform="rotate(0)"/>
+      <use xlink:href="#seed" transform="rotate(45)"/>
+      <use xlink:href="#seed" transform="rotate(90)"/>
+      <use xlink:href="#seed" transform="rotate(135)"/>
+      <use xlink:href="#seed" transform="rotate(180)"/>
+      <use xlink:href="#seed" transform="rotate(225)"/>
+      <use xlink:href="#seed" transform="rotate(270)"/>
+      <use xlink:href="#seed" transform="rotate(315)"/>
+      <path d="M0,-29 9,-20 20,-20 20,-9 29,0 20,9 20,20 9,20 0,29 -9,20 -20,20 -20,9 -29,0 -20,-9 -20,-20 -9,-20Z" fill="#8B2925" stroke="#CC884C" stroke-width="3.8"/>
+      <path d="M0 -17 Q3 -5 14 -10 Q7 -2 14 6 Q5 4 0 16 Q-3 6 -13 9 Q-8 1 -14 -6 Q-4 -4 0 -17Z" fill="#E2AA70"/>
+    </g>
+    <g id="shoulder" stroke-linejoin="round" stroke-linecap="round">
+      <path d="M157 0 L192 35 C222 62 229 94 210 130 C204 142 197 154 192 166" fill="none" stroke="#CC884C" stroke-width="9.6"/>
+    </g>
+    <g id="folded-rail" stroke-linejoin="round" stroke-linecap="round">
+      <path d="M79 0 L62 22 Q60 24 60 30 V151 Q60 162 54 169 L0 227" fill="none" stroke="#CC884C" stroke-width="10.4"/>
+    </g>
+    <g id="squared-rail" stroke-linejoin="round" stroke-linecap="round">
+      <path d="M112.5 125.2 V337" fill="none" stroke="#CC884C" stroke-width="10.6"/>
+    </g>
+    <g id="sprig" stroke-linejoin="round" stroke-linecap="round">
+      <path d="M-17 -18 Q-27 -25 -37 -36 M-36 -35 Q-47 -39 -53 -55 M-34 -34 Q-45 -28 -52 -17 M-34 -34 Q-29 -47 -15 -55" fill="none" stroke="#CC884C" stroke-width="4.5"/>
+      <path d="M-37 -32 Q-45 -34 -46 -43 Q-38 -47 -33 -39 Q-30 -33 -37 -32Z" fill="#E2AA70"/>
+      <path d="M-55 -63 Q-48 -62 -48 -52 Q-49 -48 -52 -46 Q-60 -52 -59 -58 Q-59 -61 -55 -63Z" fill="#CC884C"/>
+      <path d="M-61 -22 Q-60 -30 -52 -33 L-47 -30 Q-46 -23 -53 -16 Q-59 -15 -61 -22Z" fill="#CC884C"/>
+      <path d="M-22 -61 Q-30 -60 -33 -52 L-30 -47 Q-23 -46 -16 -53 Q-15 -59 -22 -61Z" fill="#CC884C"/>
+    </g>
+    <g id="eyelet" stroke-linejoin="round" stroke-linecap="round">
+      <use xlink:href="#sprig"/>
+      <use xlink:href="#sprig" transform="rotate(180)"/>
+      <circle cx="0" cy="0" r="26.4" fill="#AB5427" stroke="#CC884C" stroke-width="9.4"/>
+    </g>
+    <g id="large-frame" stroke-linejoin="round" stroke-linecap="round">
+      <use xlink:href="#squared-rail" transform="rotate(0)"/>
+      <use xlink:href="#squared-rail" transform="rotate(0) scale(1 -1)"/>
+      <use xlink:href="#squared-rail" transform="rotate(90)"/>
+      <use xlink:href="#squared-rail" transform="rotate(90) scale(1 -1)"/>
+      <use xlink:href="#squared-rail" transform="rotate(180)"/>
+      <use xlink:href="#squared-rail" transform="rotate(180) scale(1 -1)"/>
+      <use xlink:href="#squared-rail" transform="rotate(270)"/>
+      <use xlink:href="#squared-rail" transform="rotate(270) scale(1 -1)"/>
+      <use xlink:href="#shoulder" transform="rotate(0)"/>
+      <use xlink:href="#shoulder" transform="rotate(0) scale(1 -1)"/>
+      <use xlink:href="#shoulder" transform="rotate(90)"/>
+      <use xlink:href="#shoulder" transform="rotate(90) scale(1 -1)"/>
+      <use xlink:href="#shoulder" transform="rotate(180)"/>
+      <use xlink:href="#shoulder" transform="rotate(180) scale(1 -1)"/>
+      <use xlink:href="#shoulder" transform="rotate(270)"/>
+      <use xlink:href="#shoulder" transform="rotate(270) scale(1 -1)"/>
+      <path d="M157 0 L135 27 C163 98 98 163 27 135 L0 157 L-27 135 C-98 163 -163 98 -135 27 L-157 0 L-135 -27 C-163 -98 -98 -163 -27 -135 L0 -157 L27 -135 C98 -163 163 -98 135 -27 L157 0 Z" fill="none" stroke="#CC884C" stroke-width="15"/>
+      <path d="M116 0 L99 25 C125 85 85 125 25 99 L0 116 L-25 99 C-85 125 -125 85 -99 25 L-116 0 L-99 -25 C-125 -85 -85 -125 -25 -99 L0 -116 L25 -99 C85 -125 125 -85 99 -25 L116 0 Z" fill="none" stroke="#E2AA70" stroke-width="12"/>
+      <use xlink:href="#folded-rail" transform="rotate(0)"/>
+      <use xlink:href="#folded-rail" transform="rotate(0) scale(1 -1)"/>
+      <use xlink:href="#folded-rail" transform="rotate(90)"/>
+      <use xlink:href="#folded-rail" transform="rotate(90) scale(1 -1)"/>
+      <use xlink:href="#folded-rail" transform="rotate(180)"/>
+      <use xlink:href="#folded-rail" transform="rotate(180) scale(1 -1)"/>
+      <use xlink:href="#folded-rail" transform="rotate(270)"/>
+      <use xlink:href="#folded-rail" transform="rotate(270) scale(1 -1)"/>
+    </g>
+    <g id="middle-flower" stroke-linejoin="round" stroke-linecap="round">
+      <g transform="rotate(0)">
+        <path d="M0 -60 L6 -54 0 -47 -6 -54Z" fill="#AB5427"/>
+        <path d="M-36 -40 L-32 -39 -32 -32 -39 -32 -40 -36Z" fill="#AB5427"/>
+      </g>
+      <g transform="rotate(90)">
+        <path d="M0 -60 L6 -54 0 -47 -6 -54Z" fill="#AB5427"/>
+        <path d="M-36 -40 L-32 -39 -32 -32 -39 -32 -40 -36Z" fill="#AB5427"/>
+      </g>
+      <g transform="rotate(180)">
+        <path d="M0 -60 L6 -54 0 -47 -6 -54Z" fill="#AB5427"/>
+        <path d="M-36 -40 L-32 -39 -32 -32 -39 -32 -40 -36Z" fill="#AB5427"/>
+      </g>
+      <g transform="rotate(270)">
+        <path d="M0 -60 L6 -54 0 -47 -6 -54Z" fill="#AB5427"/>
+        <path d="M-36 -40 L-32 -39 -32 -32 -39 -32 -40 -36Z" fill="#AB5427"/>
+      </g>
+      <g transform="rotate(22.5)">
+        <path d="M-4 9 Q-12 16 -10 26 Q-8 35 0 45 Q8 36 10 26 Q12 16 4 9Z" fill="#F1C38C"/>
+      </g>
+      <g transform="rotate(67.5)">
+        <path d="M-4 9 Q-12 16 -10 26 Q-8 35 0 45 Q8 36 10 26 Q12 16 4 9Z" fill="#F1C38C"/>
+      </g>
+      <g transform="rotate(112.5)">
+        <path d="M-4 9 Q-12 16 -10 26 Q-8 35 0 45 Q8 36 10 26 Q12 16 4 9Z" fill="#F1C38C"/>
+      </g>
+      <g transform="rotate(157.5)">
+        <path d="M-4 9 Q-12 16 -10 26 Q-8 35 0 45 Q8 36 10 26 Q12 16 4 9Z" fill="#F1C38C"/>
+      </g>
+      <g transform="rotate(202.5)">
+        <path d="M-4 9 Q-12 16 -10 26 Q-8 35 0 45 Q8 36 10 26 Q12 16 4 9Z" fill="#F1C38C"/>
+      </g>
+      <g transform="rotate(247.5)">
+        <path d="M-4 9 Q-12 16 -10 26 Q-8 35 0 45 Q8 36 10 26 Q12 16 4 9Z" fill="#F1C38C"/>
+      </g>
+      <g transform="rotate(292.5)">
+        <path d="M-4 9 Q-12 16 -10 26 Q-8 35 0 45 Q8 36 10 26 Q12 16 4 9Z" fill="#F1C38C"/>
+      </g>
+      <g transform="rotate(337.5)">
+        <path d="M-4 9 Q-12 16 -10 26 Q-8 35 0 45 Q8 36 10 26 Q12 16 4 9Z" fill="#F1C38C"/>
+      </g>
+      <circle cx="0" cy="0" r="13.8" fill="#CC884C"/>
+      <circle cx="0" cy="0" r="8.7" fill="#AB5427"/>
+    </g>
+  </defs>
+  <rect width="768" height="768" fill="#8B2925"/>
+  <use xlink:href="#little-medallion" transform="translate(557 173)"/>
+  <use xlink:href="#little-medallion" transform="translate(173 557)"/>
+  <use xlink:href="#large-frame" transform="translate(173 173)"/>
+  <use xlink:href="#large-frame" transform="translate(941 173)"/>
+  <use xlink:href="#large-frame" transform="translate(173 941)"/>
+  <use xlink:href="#large-frame" transform="translate(941 941)"/>
+  <use xlink:href="#large-frame" transform="translate(-211 -211)"/>
+  <use xlink:href="#large-frame" transform="translate(557 -211)"/>
+  <use xlink:href="#large-frame" transform="translate(-211 557)"/>
+  <use xlink:href="#large-frame" transform="translate(557 557)"/>
+  <use xlink:href="#eyelet" transform="translate(365 365)"/>
+  <use xlink:href="#eyelet" transform="translate(-19 -19)"/>
+  <use xlink:href="#eyelet" transform="translate(749 -19)"/>
+  <use xlink:href="#eyelet" transform="translate(-19 749)"/>
+  <use xlink:href="#eyelet" transform="translate(749 749)"/>
+  <use xlink:href="#eyelet" transform="translate(-19 365) rotate(90)"/>
+  <use xlink:href="#eyelet" transform="translate(749 365) rotate(90)"/>
+  <use xlink:href="#eyelet" transform="translate(365 -19) rotate(90)"/>
+  <use xlink:href="#eyelet" transform="translate(365 749) rotate(90)"/>
+  <use xlink:href="#middle-flower" transform="translate(173 173)"/>
+  <use xlink:href="#middle-flower" transform="translate(557 557)"/>
+</svg>

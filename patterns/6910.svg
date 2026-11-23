@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="320" height="310" viewBox="0 0 320 310">
+  <title>The Frank Hornby, Liverpool — biscuit and dark brown Axminster chevrons</title>
+  <defs>
+    <path id="chevron" fill="#AE907D" d="M-6.625 -62 L15.2798 -31.82 Q15.875 -31 15.2798 -30.18 L-6.0298 -0.82 Q-6.625 0 -6.0298 0.82 L15.2798 30.18 Q15.875 31 15.2798 31.82 L-6.0298 61.18 Q-6.625 62 -6.0298 62.82 L15.2798 92.18 Q15.875 93 15.2798 93.82 L-6.0298 123.18 Q-6.625 124 -6.0298 124.82 L15.2798 154.18 Q15.875 155 15.2798 155.82 L-6.0298 185.18 Q-6.625 186 -6.0298 186.82 L15.2798 216.18 Q15.875 217 15.2798 217.82 L-6.0298 247.18 Q-6.625 248 -6.0298 248.82 L15.2798 278.18 Q15.875 279 15.2798 279.82 L-6.0298 309.18 Q-6.625 310 -6.0298 310.82 L15.2798 340.18 Q15.875 341 15.2798 341.82 L-6.625 372 L-15.875 372 L6.0298 341.82 Q6.625 341 6.0298 340.18 L-15.2798 310.82 Q-15.875 310 -15.2798 309.18 L6.0298 279.82 Q6.625 279 6.0298 278.18 L-15.2798 248.82 Q-15.875 248 -15.2798 247.18 L6.0298 217.82 Q6.625 217 6.0298 216.18 L-15.2798 186.82 Q-15.875 186 -15.2798 185.18 L6.0298 155.82 Q6.625 155 6.0298 154.18 L-15.2798 124.82 Q-15.875 124 -15.2798 123.18 L6.0298 93.82 Q6.625 93 6.0298 92.18 L-15.2798 62.82 Q-15.875 62 -15.2798 61.18 L6.0298 31.82 Q6.625 31 6.0298 30.18 L-15.2798 0.82 Q-15.875 0 -15.2798 -0.82 L6.0298 -30.18 Q6.625 -31 6.0298 -31.82 L-15.875 -62 Z"/>
+    <g id="field">
+      <use xlink:href="#chevron" x="0"/>
+      <use xlink:href="#chevron" x="20"/>
+      <use xlink:href="#chevron" x="40"/>
+      <use xlink:href="#chevron" x="60"/>
+      <use xlink:href="#chevron" x="80"/>
+      <use xlink:href="#chevron" x="100"/>
+      <use xlink:href="#chevron" x="120"/>
+      <use xlink:href="#chevron" x="140"/>
+      <use xlink:href="#chevron" x="160"/>
+      <use xlink:href="#chevron" x="180"/>
+      <use xlink:href="#chevron" x="200"/>
+      <use xlink:href="#chevron" x="220"/>
+      <use xlink:href="#chevron" x="240"/>
+      <use xlink:href="#chevron" x="260"/>
+      <use xlink:href="#chevron" x="280"/>
+      <use xlink:href="#chevron" x="300"/>
+    </g>
+  </defs>
+  <rect width="320" height="310" fill="#452919"/>
+  <use xlink:href="#field"/>
+  <use xlink:href="#field" x="320"/>
+</svg>

@@ -1,0 +1,255 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="600" height="600" viewBox="0 0 600 600">
+  <title>Hoylake Lights, Hoylake — interlocking cream rings, olive panels and diagonal hatching</title>
+  <defs>
+    <path id="panel" d="M0 0 C28 24.8 72 24.8 100 0 C75.2 28 75.2 72 100 100 C72 75.2 28 75.2 0 100 C24.8 72 24.8 28 0 0Z"/>
+    <clipPath id="clip-panel"><use xlink:href="#panel"/></clipPath>
+    <path id="across" d="M0 0 C28 -24.8 72 -24.8 100 0 C72 24.8 28 24.8 0 0Z"/>
+    <clipPath id="clip-across"><use xlink:href="#across"/></clipPath>
+    <path id="down" d="M0 0 C-24.8 28 -24.8 72 0 100 C24.8 72 24.8 28 0 0Z"/>
+    <clipPath id="clip-down"><use xlink:href="#down"/></clipPath>
+    <path id="charcoal-twill" fill="none" stroke="#797870" stroke-width="1.75" d="M-30 -276.000l160 160 M-30 -259.333l160 160 M-30 -242.667l160 160 M-30 -226.000l160 160 M-30 -209.333l160 160 M-30 -192.667l160 160 M-30 -176.000l160 160 M-30 -159.333l160 160 M-30 -142.667l160 160 M-30 -126.000l160 160 M-30 -109.333l160 160 M-30 -92.667l160 160 M-30 -76.000l160 160 M-30 -59.333l160 160 M-30 -42.667l160 160 M-30 -26.000l160 160 M-30 -9.333l160 160 M-30 7.333l160 160 M-30 24.000l160 160 M-30 40.667l160 160 M-30 57.333l160 160 M-30 74.000l160 160 M-30 90.667l160 160 M-30 107.333l160 160 M-30 124.000l160 160 M-30 140.667l160 160 M-30 157.333l160 160 M-30 174.000l160 160 M-30 190.667l160 160 M-30 207.333l160 160 M-30 224.000l160 160 M-30 240.667l160 160"/>
+    <path id="slate-twill" fill="none" stroke="#393537" stroke-width="2.15" d="M-30 -276.000l160 160 M-30 -259.333l160 160 M-30 -242.667l160 160 M-30 -226.000l160 160 M-30 -209.333l160 160 M-30 -192.667l160 160 M-30 -176.000l160 160 M-30 -159.333l160 160 M-30 -142.667l160 160 M-30 -126.000l160 160 M-30 -109.333l160 160 M-30 -92.667l160 160 M-30 -76.000l160 160 M-30 -59.333l160 160 M-30 -42.667l160 160 M-30 -26.000l160 160 M-30 -9.333l160 160 M-30 7.333l160 160 M-30 24.000l160 160 M-30 40.667l160 160 M-30 57.333l160 160 M-30 74.000l160 160 M-30 90.667l160 160 M-30 107.333l160 160 M-30 124.000l160 160 M-30 140.667l160 160 M-30 157.333l160 160 M-30 174.000l160 160 M-30 190.667l160 160 M-30 207.333l160 160 M-30 224.000l160 160 M-30 240.667l160 160"/>
+    <path id="fine-fawn-twill" fill="none" stroke="#958365" stroke-width="2.15" d="M-30 -225.368l160 160 M-30 -212.211l160 160 M-30 -199.053l160 160 M-30 -185.895l160 160 M-30 -172.737l160 160 M-30 -159.579l160 160 M-30 -146.421l160 160 M-30 -133.263l160 160 M-30 -120.105l160 160 M-30 -106.947l160 160 M-30 -93.789l160 160 M-30 -80.632l160 160 M-30 -67.474l160 160 M-30 -54.316l160 160 M-30 -41.158l160 160 M-30 -28.000l160 160 M-30 -14.842l160 160 M-30 -1.684l160 160 M-30 11.474l160 160 M-30 24.632l160 160 M-30 37.789l160 160 M-30 50.947l160 160 M-30 64.105l160 160 M-30 77.263l160 160 M-30 90.421l160 160 M-30 103.579l160 160 M-30 116.737l160 160 M-30 129.895l160 160 M-30 143.053l160 160 M-30 156.211l160 160 M-30 169.368l160 160 M-30 182.526l160 160"/>
+    <path id="sand-twill" fill="none" stroke="#958365" stroke-width="2.6" d="M-30 -156.873l160 -160 M-30 -144.215l160 -160 M-30 -131.557l160 -160 M-30 -118.899l160 -160 M-30 -106.241l160 -160 M-30 -93.582l160 -160 M-30 -80.924l160 -160 M-30 -68.266l160 -160 M-30 -55.608l160 -160 M-30 -42.949l160 -160 M-30 -30.291l160 -160 M-30 -17.633l160 -160 M-30 -4.975l160 -160 M-30 7.684l160 -160 M-30 20.342l160 -160 M-30 33.000l160 -160 M-30 45.658l160 -160 M-30 58.316l160 -160 M-30 70.975l160 -160 M-30 83.633l160 -160 M-30 96.291l160 -160 M-30 108.949l160 -160 M-30 121.608l160 -160 M-30 134.266l160 -160 M-30 146.924l160 -160 M-30 159.582l160 -160 M-30 172.241l160 -160 M-30 184.899l160 -160 M-30 197.557l160 -160 M-30 210.215l160 -160 M-30 222.873l160 -160 M-30 235.532l160 -160"/>
+    <path id="chalk-twill" fill="none" stroke="#958365" stroke-width="2.15" d="M-30 -155.500l160 -160 M-30 -143.000l160 -160 M-30 -130.500l160 -160 M-30 -118.000l160 -160 M-30 -105.500l160 -160 M-30 -93.000l160 -160 M-30 -80.500l160 -160 M-30 -68.000l160 -160 M-30 -55.500l160 -160 M-30 -43.000l160 -160 M-30 -30.500l160 -160 M-30 -18.000l160 -160 M-30 -5.500l160 -160 M-30 7.000l160 -160 M-30 19.500l160 -160 M-30 32.000l160 -160 M-30 44.500l160 -160 M-30 57.000l160 -160 M-30 69.500l160 -160 M-30 82.000l160 -160 M-30 94.500l160 -160 M-30 107.000l160 -160 M-30 119.500l160 -160 M-30 132.000l160 -160 M-30 144.500l160 -160 M-30 157.000l160 -160 M-30 169.500l160 -160 M-30 182.000l160 -160 M-30 194.500l160 -160 M-30 207.000l160 -160 M-30 219.500l160 -160 M-30 232.000l160 -160"/>
+    <path id="olive-twill" fill="none" stroke="#afa96b" stroke-width="2.5" d="M-30 -241.286l160 160 M-30 -227.000l160 160 M-30 -212.714l160 160 M-30 -198.429l160 160 M-30 -184.143l160 160 M-30 -169.857l160 160 M-30 -155.571l160 160 M-30 -141.286l160 160 M-30 -127.000l160 160 M-30 -112.714l160 160 M-30 -98.429l160 160 M-30 -84.143l160 160 M-30 -69.857l160 160 M-30 -55.571l160 160 M-30 -41.286l160 160 M-30 -27.000l160 160 M-30 -12.714l160 160 M-30 1.571l160 160 M-30 15.857l160 160 M-30 30.143l160 160 M-30 44.429l160 160 M-30 58.714l160 160 M-30 73.000l160 160 M-30 87.286l160 160 M-30 101.571l160 160 M-30 115.857l160 160 M-30 130.143l160 160 M-30 144.429l160 160 M-30 158.714l160 160 M-30 173.000l160 160 M-30 187.286l160 160 M-30 201.571l160 160"/>
+    <path id="olive-shadow" fill="none" stroke="#797870" stroke-width="1.25" d="M-30 -238.286l160 160 M-30 -224.000l160 160 M-30 -209.714l160 160 M-30 -195.429l160 160 M-30 -181.143l160 160 M-30 -166.857l160 160 M-30 -152.571l160 160 M-30 -138.286l160 160 M-30 -124.000l160 160 M-30 -109.714l160 160 M-30 -95.429l160 160 M-30 -81.143l160 160 M-30 -66.857l160 160 M-30 -52.571l160 160 M-30 -38.286l160 160 M-30 -24.000l160 160 M-30 -9.714l160 160 M-30 4.571l160 160 M-30 18.857l160 160 M-30 33.143l160 160 M-30 47.429l160 160 M-30 61.714l160 160 M-30 76.000l160 160 M-30 90.286l160 160 M-30 104.571l160 160 M-30 118.857l160 160 M-30 133.143l160 160 M-30 147.429l160 160 M-30 161.714l160 160 M-30 176.000l160 160 M-30 190.286l160 160 M-30 204.571l160 160"/>
+    <path id="fawn-stitches" fill="#beac89" d="M0 0.5h1.65v1.65h-1.65Z M7 0.5h1.65v1.65h-1.65Z M14 0.5h1.65v1.65h-1.65Z M21 0.5h1.65v1.65h-1.65Z M28 0.5h1.65v1.65h-1.65Z M35 0.5h1.65v1.65h-1.65Z M42 0.5h1.65v1.65h-1.65Z M49 0.5h1.65v1.65h-1.65Z M56 0.5h1.65v1.65h-1.65Z M63 0.5h1.65v1.65h-1.65Z M70 0.5h1.65v1.65h-1.65Z M77 0.5h1.65v1.65h-1.65Z M84 0.5h1.65v1.65h-1.65Z M91 0.5h1.65v1.65h-1.65Z M98 0.5h1.65v1.65h-1.65Z M3.5 4.5h1.65v1.65h-1.65Z M10.5 4.5h1.65v1.65h-1.65Z M17.5 4.5h1.65v1.65h-1.65Z M24.5 4.5h1.65v1.65h-1.65Z M31.5 4.5h1.65v1.65h-1.65Z M38.5 4.5h1.65v1.65h-1.65Z M45.5 4.5h1.65v1.65h-1.65Z M52.5 4.5h1.65v1.65h-1.65Z M59.5 4.5h1.65v1.65h-1.65Z M66.5 4.5h1.65v1.65h-1.65Z M73.5 4.5h1.65v1.65h-1.65Z M80.5 4.5h1.65v1.65h-1.65Z M87.5 4.5h1.65v1.65h-1.65Z M94.5 4.5h1.65v1.65h-1.65Z M101.5 4.5h1.65v1.65h-1.65Z M0 8.5h1.65v1.65h-1.65Z M7 8.5h1.65v1.65h-1.65Z M14 8.5h1.65v1.65h-1.65Z M21 8.5h1.65v1.65h-1.65Z M28 8.5h1.65v1.65h-1.65Z M35 8.5h1.65v1.65h-1.65Z M42 8.5h1.65v1.65h-1.65Z M49 8.5h1.65v1.65h-1.65Z M56 8.5h1.65v1.65h-1.65Z M63 8.5h1.65v1.65h-1.65Z M70 8.5h1.65v1.65h-1.65Z M77 8.5h1.65v1.65h-1.65Z M84 8.5h1.65v1.65h-1.65Z M91 8.5h1.65v1.65h-1.65Z M98 8.5h1.65v1.65h-1.65Z M3.5 12.5h1.65v1.65h-1.65Z M10.5 12.5h1.65v1.65h-1.65Z M17.5 12.5h1.65v1.65h-1.65Z M24.5 12.5h1.65v1.65h-1.65Z M31.5 12.5h1.65v1.65h-1.65Z M38.5 12.5h1.65v1.65h-1.65Z M45.5 12.5h1.65v1.65h-1.65Z M52.5 12.5h1.65v1.65h-1.65Z M59.5 12.5h1.65v1.65h-1.65Z M66.5 12.5h1.65v1.65h-1.65Z M73.5 12.5h1.65v1.65h-1.65Z M80.5 12.5h1.65v1.65h-1.65Z M87.5 12.5h1.65v1.65h-1.65Z M94.5 12.5h1.65v1.65h-1.65Z M101.5 12.5h1.65v1.65h-1.65Z M0 16.5h1.65v1.65h-1.65Z M7 16.5h1.65v1.65h-1.65Z M14 16.5h1.65v1.65h-1.65Z M21 16.5h1.65v1.65h-1.65Z M28 16.5h1.65v1.65h-1.65Z M35 16.5h1.65v1.65h-1.65Z M42 16.5h1.65v1.65h-1.65Z M49 16.5h1.65v1.65h-1.65Z M56 16.5h1.65v1.65h-1.65Z M63 16.5h1.65v1.65h-1.65Z M70 16.5h1.65v1.65h-1.65Z M77 16.5h1.65v1.65h-1.65Z M84 16.5h1.65v1.65h-1.65Z M91 16.5h1.65v1.65h-1.65Z M98 16.5h1.65v1.65h-1.65Z M3.5 20.5h1.65v1.65h-1.65Z M10.5 20.5h1.65v1.65h-1.65Z M17.5 20.5h1.65v1.65h-1.65Z M24.5 20.5h1.65v1.65h-1.65Z M31.5 20.5h1.65v1.65h-1.65Z M38.5 20.5h1.65v1.65h-1.65Z M45.5 20.5h1.65v1.65h-1.65Z M52.5 20.5h1.65v1.65h-1.65Z M59.5 20.5h1.65v1.65h-1.65Z M66.5 20.5h1.65v1.65h-1.65Z M73.5 20.5h1.65v1.65h-1.65Z M80.5 20.5h1.65v1.65h-1.65Z M87.5 20.5h1.65v1.65h-1.65Z M94.5 20.5h1.65v1.65h-1.65Z M101.5 20.5h1.65v1.65h-1.65Z M0 24.5h1.65v1.65h-1.65Z M7 24.5h1.65v1.65h-1.65Z M14 24.5h1.65v1.65h-1.65Z M21 24.5h1.65v1.65h-1.65Z M28 24.5h1.65v1.65h-1.65Z M35 24.5h1.65v1.65h-1.65Z M42 24.5h1.65v1.65h-1.65Z M49 24.5h1.65v1.65h-1.65Z M56 24.5h1.65v1.65h-1.65Z M63 24.5h1.65v1.65h-1.65Z M70 24.5h1.65v1.65h-1.65Z M77 24.5h1.65v1.65h-1.65Z M84 24.5h1.65v1.65h-1.65Z M91 24.5h1.65v1.65h-1.65Z M98 24.5h1.65v1.65h-1.65Z M3.5 28.5h1.65v1.65h-1.65Z M10.5 28.5h1.65v1.65h-1.65Z M17.5 28.5h1.65v1.65h-1.65Z M24.5 28.5h1.65v1.65h-1.65Z M31.5 28.5h1.65v1.65h-1.65Z M38.5 28.5h1.65v1.65h-1.65Z M45.5 28.5h1.65v1.65h-1.65Z M52.5 28.5h1.65v1.65h-1.65Z M59.5 28.5h1.65v1.65h-1.65Z M66.5 28.5h1.65v1.65h-1.65Z M73.5 28.5h1.65v1.65h-1.65Z M80.5 28.5h1.65v1.65h-1.65Z M87.5 28.5h1.65v1.65h-1.65Z M94.5 28.5h1.65v1.65h-1.65Z M101.5 28.5h1.65v1.65h-1.65Z M0 32.5h1.65v1.65h-1.65Z M7 32.5h1.65v1.65h-1.65Z M14 32.5h1.65v1.65h-1.65Z M21 32.5h1.65v1.65h-1.65Z M28 32.5h1.65v1.65h-1.65Z M35 32.5h1.65v1.65h-1.65Z M42 32.5h1.65v1.65h-1.65Z M49 32.5h1.65v1.65h-1.65Z M56 32.5h1.65v1.65h-1.65Z M63 32.5h1.65v1.65h-1.65Z M70 32.5h1.65v1.65h-1.65Z M77 32.5h1.65v1.65h-1.65Z M84 32.5h1.65v1.65h-1.65Z M91 32.5h1.65v1.65h-1.65Z M98 32.5h1.65v1.65h-1.65Z M3.5 36.5h1.65v1.65h-1.65Z M10.5 36.5h1.65v1.65h-1.65Z M17.5 36.5h1.65v1.65h-1.65Z M24.5 36.5h1.65v1.65h-1.65Z M31.5 36.5h1.65v1.65h-1.65Z M38.5 36.5h1.65v1.65h-1.65Z M45.5 36.5h1.65v1.65h-1.65Z M52.5 36.5h1.65v1.65h-1.65Z M59.5 36.5h1.65v1.65h-1.65Z M66.5 36.5h1.65v1.65h-1.65Z M73.5 36.5h1.65v1.65h-1.65Z M80.5 36.5h1.65v1.65h-1.65Z M87.5 36.5h1.65v1.65h-1.65Z M94.5 36.5h1.65v1.65h-1.65Z M101.5 36.5h1.65v1.65h-1.65Z M0 40.5h1.65v1.65h-1.65Z M7 40.5h1.65v1.65h-1.65Z M14 40.5h1.65v1.65h-1.65Z M21 40.5h1.65v1.65h-1.65Z M28 40.5h1.65v1.65h-1.65Z M35 40.5h1.65v1.65h-1.65Z M42 40.5h1.65v1.65h-1.65Z M49 40.5h1.65v1.65h-1.65Z M56 40.5h1.65v1.65h-1.65Z M63 40.5h1.65v1.65h-1.65Z M70 40.5h1.65v1.65h-1.65Z M77 40.5h1.65v1.65h-1.65Z M84 40.5h1.65v1.65h-1.65Z M91 40.5h1.65v1.65h-1.65Z M98 40.5h1.65v1.65h-1.65Z M3.5 44.5h1.65v1.65h-1.65Z M10.5 44.5h1.65v1.65h-1.65Z M17.5 44.5h1.65v1.65h-1.65Z M24.5 44.5h1.65v1.65h-1.65Z M31.5 44.5h1.65v1.65h-1.65Z M38.5 44.5h1.65v1.65h-1.65Z M45.5 44.5h1.65v1.65h-1.65Z M52.5 44.5h1.65v1.65h-1.65Z M59.5 44.5h1.65v1.65h-1.65Z M66.5 44.5h1.65v1.65h-1.65Z M73.5 44.5h1.65v1.65h-1.65Z M80.5 44.5h1.65v1.65h-1.65Z M87.5 44.5h1.65v1.65h-1.65Z M94.5 44.5h1.65v1.65h-1.65Z M101.5 44.5h1.65v1.65h-1.65Z M0 48.5h1.65v1.65h-1.65Z M7 48.5h1.65v1.65h-1.65Z M14 48.5h1.65v1.65h-1.65Z M21 48.5h1.65v1.65h-1.65Z M28 48.5h1.65v1.65h-1.65Z M35 48.5h1.65v1.65h-1.65Z M42 48.5h1.65v1.65h-1.65Z M49 48.5h1.65v1.65h-1.65Z M56 48.5h1.65v1.65h-1.65Z M63 48.5h1.65v1.65h-1.65Z M70 48.5h1.65v1.65h-1.65Z M77 48.5h1.65v1.65h-1.65Z M84 48.5h1.65v1.65h-1.65Z M91 48.5h1.65v1.65h-1.65Z M98 48.5h1.65v1.65h-1.65Z M3.5 52.5h1.65v1.65h-1.65Z M10.5 52.5h1.65v1.65h-1.65Z M17.5 52.5h1.65v1.65h-1.65Z M24.5 52.5h1.65v1.65h-1.65Z M31.5 52.5h1.65v1.65h-1.65Z M38.5 52.5h1.65v1.65h-1.65Z M45.5 52.5h1.65v1.65h-1.65Z M52.5 52.5h1.65v1.65h-1.65Z M59.5 52.5h1.65v1.65h-1.65Z M66.5 52.5h1.65v1.65h-1.65Z M73.5 52.5h1.65v1.65h-1.65Z M80.5 52.5h1.65v1.65h-1.65Z M87.5 52.5h1.65v1.65h-1.65Z M94.5 52.5h1.65v1.65h-1.65Z M101.5 52.5h1.65v1.65h-1.65Z M0 56.5h1.65v1.65h-1.65Z M7 56.5h1.65v1.65h-1.65Z M14 56.5h1.65v1.65h-1.65Z M21 56.5h1.65v1.65h-1.65Z M28 56.5h1.65v1.65h-1.65Z M35 56.5h1.65v1.65h-1.65Z M42 56.5h1.65v1.65h-1.65Z M49 56.5h1.65v1.65h-1.65Z M56 56.5h1.65v1.65h-1.65Z M63 56.5h1.65v1.65h-1.65Z M70 56.5h1.65v1.65h-1.65Z M77 56.5h1.65v1.65h-1.65Z M84 56.5h1.65v1.65h-1.65Z M91 56.5h1.65v1.65h-1.65Z M98 56.5h1.65v1.65h-1.65Z M3.5 60.5h1.65v1.65h-1.65Z M10.5 60.5h1.65v1.65h-1.65Z M17.5 60.5h1.65v1.65h-1.65Z M24.5 60.5h1.65v1.65h-1.65Z M31.5 60.5h1.65v1.65h-1.65Z M38.5 60.5h1.65v1.65h-1.65Z M45.5 60.5h1.65v1.65h-1.65Z M52.5 60.5h1.65v1.65h-1.65Z M59.5 60.5h1.65v1.65h-1.65Z M66.5 60.5h1.65v1.65h-1.65Z M73.5 60.5h1.65v1.65h-1.65Z M80.5 60.5h1.65v1.65h-1.65Z M87.5 60.5h1.65v1.65h-1.65Z M94.5 60.5h1.65v1.65h-1.65Z M101.5 60.5h1.65v1.65h-1.65Z M0 64.5h1.65v1.65h-1.65Z M7 64.5h1.65v1.65h-1.65Z M14 64.5h1.65v1.65h-1.65Z M21 64.5h1.65v1.65h-1.65Z M28 64.5h1.65v1.65h-1.65Z M35 64.5h1.65v1.65h-1.65Z M42 64.5h1.65v1.65h-1.65Z M49 64.5h1.65v1.65h-1.65Z M56 64.5h1.65v1.65h-1.65Z M63 64.5h1.65v1.65h-1.65Z M70 64.5h1.65v1.65h-1.65Z M77 64.5h1.65v1.65h-1.65Z M84 64.5h1.65v1.65h-1.65Z M91 64.5h1.65v1.65h-1.65Z M98 64.5h1.65v1.65h-1.65Z M3.5 68.5h1.65v1.65h-1.65Z M10.5 68.5h1.65v1.65h-1.65Z M17.5 68.5h1.65v1.65h-1.65Z M24.5 68.5h1.65v1.65h-1.65Z M31.5 68.5h1.65v1.65h-1.65Z M38.5 68.5h1.65v1.65h-1.65Z M45.5 68.5h1.65v1.65h-1.65Z M52.5 68.5h1.65v1.65h-1.65Z M59.5 68.5h1.65v1.65h-1.65Z M66.5 68.5h1.65v1.65h-1.65Z M73.5 68.5h1.65v1.65h-1.65Z M80.5 68.5h1.65v1.65h-1.65Z M87.5 68.5h1.65v1.65h-1.65Z M94.5 68.5h1.65v1.65h-1.65Z M101.5 68.5h1.65v1.65h-1.65Z M0 72.5h1.65v1.65h-1.65Z M7 72.5h1.65v1.65h-1.65Z M14 72.5h1.65v1.65h-1.65Z M21 72.5h1.65v1.65h-1.65Z M28 72.5h1.65v1.65h-1.65Z M35 72.5h1.65v1.65h-1.65Z M42 72.5h1.65v1.65h-1.65Z M49 72.5h1.65v1.65h-1.65Z M56 72.5h1.65v1.65h-1.65Z M63 72.5h1.65v1.65h-1.65Z M70 72.5h1.65v1.65h-1.65Z M77 72.5h1.65v1.65h-1.65Z M84 72.5h1.65v1.65h-1.65Z M91 72.5h1.65v1.65h-1.65Z M98 72.5h1.65v1.65h-1.65Z M3.5 76.5h1.65v1.65h-1.65Z M10.5 76.5h1.65v1.65h-1.65Z M17.5 76.5h1.65v1.65h-1.65Z M24.5 76.5h1.65v1.65h-1.65Z M31.5 76.5h1.65v1.65h-1.65Z M38.5 76.5h1.65v1.65h-1.65Z M45.5 76.5h1.65v1.65h-1.65Z M52.5 76.5h1.65v1.65h-1.65Z M59.5 76.5h1.65v1.65h-1.65Z M66.5 76.5h1.65v1.65h-1.65Z M73.5 76.5h1.65v1.65h-1.65Z M80.5 76.5h1.65v1.65h-1.65Z M87.5 76.5h1.65v1.65h-1.65Z M94.5 76.5h1.65v1.65h-1.65Z M101.5 76.5h1.65v1.65h-1.65Z M0 80.5h1.65v1.65h-1.65Z M7 80.5h1.65v1.65h-1.65Z M14 80.5h1.65v1.65h-1.65Z M21 80.5h1.65v1.65h-1.65Z M28 80.5h1.65v1.65h-1.65Z M35 80.5h1.65v1.65h-1.65Z M42 80.5h1.65v1.65h-1.65Z M49 80.5h1.65v1.65h-1.65Z M56 80.5h1.65v1.65h-1.65Z M63 80.5h1.65v1.65h-1.65Z M70 80.5h1.65v1.65h-1.65Z M77 80.5h1.65v1.65h-1.65Z M84 80.5h1.65v1.65h-1.65Z M91 80.5h1.65v1.65h-1.65Z M98 80.5h1.65v1.65h-1.65Z M3.5 84.5h1.65v1.65h-1.65Z M10.5 84.5h1.65v1.65h-1.65Z M17.5 84.5h1.65v1.65h-1.65Z M24.5 84.5h1.65v1.65h-1.65Z M31.5 84.5h1.65v1.65h-1.65Z M38.5 84.5h1.65v1.65h-1.65Z M45.5 84.5h1.65v1.65h-1.65Z M52.5 84.5h1.65v1.65h-1.65Z M59.5 84.5h1.65v1.65h-1.65Z M66.5 84.5h1.65v1.65h-1.65Z M73.5 84.5h1.65v1.65h-1.65Z M80.5 84.5h1.65v1.65h-1.65Z M87.5 84.5h1.65v1.65h-1.65Z M94.5 84.5h1.65v1.65h-1.65Z M101.5 84.5h1.65v1.65h-1.65Z M0 88.5h1.65v1.65h-1.65Z M7 88.5h1.65v1.65h-1.65Z M14 88.5h1.65v1.65h-1.65Z M21 88.5h1.65v1.65h-1.65Z M28 88.5h1.65v1.65h-1.65Z M35 88.5h1.65v1.65h-1.65Z M42 88.5h1.65v1.65h-1.65Z M49 88.5h1.65v1.65h-1.65Z M56 88.5h1.65v1.65h-1.65Z M63 88.5h1.65v1.65h-1.65Z M70 88.5h1.65v1.65h-1.65Z M77 88.5h1.65v1.65h-1.65Z M84 88.5h1.65v1.65h-1.65Z M91 88.5h1.65v1.65h-1.65Z M98 88.5h1.65v1.65h-1.65Z M3.5 92.5h1.65v1.65h-1.65Z M10.5 92.5h1.65v1.65h-1.65Z M17.5 92.5h1.65v1.65h-1.65Z M24.5 92.5h1.65v1.65h-1.65Z M31.5 92.5h1.65v1.65h-1.65Z M38.5 92.5h1.65v1.65h-1.65Z M45.5 92.5h1.65v1.65h-1.65Z M52.5 92.5h1.65v1.65h-1.65Z M59.5 92.5h1.65v1.65h-1.65Z M66.5 92.5h1.65v1.65h-1.65Z M73.5 92.5h1.65v1.65h-1.65Z M80.5 92.5h1.65v1.65h-1.65Z M87.5 92.5h1.65v1.65h-1.65Z M94.5 92.5h1.65v1.65h-1.65Z M101.5 92.5h1.65v1.65h-1.65Z M0 96.5h1.65v1.65h-1.65Z M7 96.5h1.65v1.65h-1.65Z M14 96.5h1.65v1.65h-1.65Z M21 96.5h1.65v1.65h-1.65Z M28 96.5h1.65v1.65h-1.65Z M35 96.5h1.65v1.65h-1.65Z M42 96.5h1.65v1.65h-1.65Z M49 96.5h1.65v1.65h-1.65Z M56 96.5h1.65v1.65h-1.65Z M63 96.5h1.65v1.65h-1.65Z M70 96.5h1.65v1.65h-1.65Z M77 96.5h1.65v1.65h-1.65Z M84 96.5h1.65v1.65h-1.65Z M91 96.5h1.65v1.65h-1.65Z M98 96.5h1.65v1.65h-1.65Z M3.5 100.5h1.65v1.65h-1.65Z M10.5 100.5h1.65v1.65h-1.65Z M17.5 100.5h1.65v1.65h-1.65Z M24.5 100.5h1.65v1.65h-1.65Z M31.5 100.5h1.65v1.65h-1.65Z M38.5 100.5h1.65v1.65h-1.65Z M45.5 100.5h1.65v1.65h-1.65Z M52.5 100.5h1.65v1.65h-1.65Z M59.5 100.5h1.65v1.65h-1.65Z M66.5 100.5h1.65v1.65h-1.65Z M73.5 100.5h1.65v1.65h-1.65Z M80.5 100.5h1.65v1.65h-1.65Z M87.5 100.5h1.65v1.65h-1.65Z M94.5 100.5h1.65v1.65h-1.65Z M101.5 100.5h1.65v1.65h-1.65Z"/>
+    <g id="panel-ink" fill="#393537"><use xlink:href="#panel"/></g>
+    <g id="panel-citron" fill="#afa96b"><use xlink:href="#panel"/></g>
+    <g id="panel-biscuit" fill="#beac89"><use xlink:href="#panel"/><g clip-path="url(#clip-panel)"><use xlink:href="#sand-twill"/></g></g>
+    <g id="panel-moss" fill="#958365"><use xlink:href="#panel"/><g clip-path="url(#clip-panel)"><use xlink:href="#olive-twill"/><use xlink:href="#olive-shadow"/></g></g>
+    <g id="panel-linen" fill="#e0d5bd"><use xlink:href="#panel"/><g clip-path="url(#clip-panel)"><use xlink:href="#chalk-twill"/></g></g>
+    <g id="panel-smoke" fill="#393537"><use xlink:href="#panel"/><g clip-path="url(#clip-panel)"><use xlink:href="#charcoal-twill"/></g></g>
+    <g id="panel-oat" fill="#e0d5bd"><use xlink:href="#panel"/><g clip-path="url(#clip-panel)"><use xlink:href="#fine-fawn-twill"/></g></g>
+    <g id="panel-fawn" fill="#958365"><use xlink:href="#panel"/><g clip-path="url(#clip-panel)"><use xlink:href="#fawn-stitches"/></g></g>
+    <g id="panel-shale" fill="#797870"><use xlink:href="#panel"/></g>
+    <g id="across-ink" fill="#393537"><use xlink:href="#across"/></g>
+    <g id="across-smoke" fill="#393537"><use xlink:href="#across"/><g clip-path="url(#clip-across)"><use xlink:href="#charcoal-twill"/></g></g>
+    <g id="across-grey" fill="#797870"><use xlink:href="#across"/><g clip-path="url(#clip-across)"><use xlink:href="#slate-twill"/></g></g>
+    <g id="across-moss" fill="#797870"><use xlink:href="#across"/></g>
+    <g id="down-ink" fill="#393537"><use xlink:href="#down"/></g>
+    <g id="down-smoke" fill="#393537"><use xlink:href="#down"/><g clip-path="url(#clip-down)"><use xlink:href="#charcoal-twill"/></g></g>
+    <g id="down-grey" fill="#797870"><use xlink:href="#down"/><g clip-path="url(#clip-down)"><use xlink:href="#slate-twill"/></g></g>
+    <g id="down-moss" fill="#797870"><use xlink:href="#down"/></g>
+    <g id="braid" fill="none" stroke="#e0d5bd" stroke-width="8.8" stroke-linejoin="round"><use xlink:href="#across"/><use xlink:href="#down"/></g>
+    <g id="strand" fill="none" stroke="#beac89" stroke-width="1.05" stroke-linejoin="round"><use xlink:href="#across"/><use xlink:href="#down"/></g>
+    <g id="cell-0-0"><use xlink:href="#panel-ink"/><use xlink:href="#across-smoke"/><use xlink:href="#down-smoke"/></g>
+    <g id="cell-1-0"><use xlink:href="#panel-citron"/><use xlink:href="#across-grey"/><use xlink:href="#down-grey"/></g>
+    <g id="cell-2-0"><use xlink:href="#panel-biscuit"/><use xlink:href="#across-ink"/><use xlink:href="#down-grey"/></g>
+    <g id="cell-3-0"><use xlink:href="#panel-moss"/><use xlink:href="#across-ink"/><use xlink:href="#down-moss"/></g>
+    <g id="cell-4-0"><use xlink:href="#panel-linen"/><use xlink:href="#across-ink"/><use xlink:href="#down-moss"/></g>
+    <g id="cell-5-0"><use xlink:href="#panel-smoke"/><use xlink:href="#across-smoke"/><use xlink:href="#down-smoke"/></g>
+    <g id="cell-0-1"><use xlink:href="#panel-smoke"/><use xlink:href="#across-smoke"/><use xlink:href="#down-smoke"/></g>
+    <g id="cell-1-1"><use xlink:href="#panel-oat"/><use xlink:href="#across-grey"/><use xlink:href="#down-smoke"/></g>
+    <g id="cell-2-1"><use xlink:href="#panel-smoke"/><use xlink:href="#across-smoke"/><use xlink:href="#down-smoke"/></g>
+    <g id="cell-3-1"><use xlink:href="#panel-fawn"/><use xlink:href="#across-ink"/><use xlink:href="#down-smoke"/></g>
+    <g id="cell-4-1"><use xlink:href="#panel-ink"/><use xlink:href="#across-smoke"/><use xlink:href="#down-smoke"/></g>
+    <g id="cell-5-1"><use xlink:href="#panel-shale"/><use xlink:href="#across-smoke"/><use xlink:href="#down-smoke"/></g>
+    <g id="cell-0-2"><use xlink:href="#panel-oat"/><use xlink:href="#across-smoke"/><use xlink:href="#down-ink"/></g>
+    <g id="cell-1-2"><use xlink:href="#panel-smoke"/><use xlink:href="#across-ink"/><use xlink:href="#down-ink"/></g>
+    <g id="cell-2-2"><use xlink:href="#panel-oat"/><use xlink:href="#across-smoke"/><use xlink:href="#down-smoke"/></g>
+    <g id="cell-3-2"><use xlink:href="#panel-smoke"/><use xlink:href="#across-smoke"/><use xlink:href="#down-smoke"/></g>
+    <g id="cell-4-2"><use xlink:href="#panel-fawn"/><use xlink:href="#across-smoke"/><use xlink:href="#down-smoke"/></g>
+    <g id="cell-5-2"><use xlink:href="#panel-shale"/><use xlink:href="#across-ink"/><use xlink:href="#down-ink"/></g>
+    </defs>
+  <rect width="600" height="600" fill="#393537"/>
+  <g id="fields-layer">
+    <use xlink:href="#cell-2-2" x="-119" y="-137"/>
+    <use xlink:href="#cell-3-2" x="-19" y="-137"/>
+    <use xlink:href="#cell-4-2" x="81" y="-137"/>
+    <use xlink:href="#cell-5-2" x="181" y="-137"/>
+    <use xlink:href="#cell-0-2" x="281" y="-137"/>
+    <use xlink:href="#cell-1-2" x="381" y="-137"/>
+    <use xlink:href="#cell-2-2" x="481" y="-137"/>
+    <use xlink:href="#cell-3-2" x="581" y="-137"/>
+    <use xlink:href="#cell-5-0" x="-119" y="-37"/>
+    <use xlink:href="#cell-0-0" x="-19" y="-37"/>
+    <use xlink:href="#cell-1-0" x="81" y="-37"/>
+    <use xlink:href="#cell-2-0" x="181" y="-37"/>
+    <use xlink:href="#cell-3-0" x="281" y="-37"/>
+    <use xlink:href="#cell-4-0" x="381" y="-37"/>
+    <use xlink:href="#cell-5-0" x="481" y="-37"/>
+    <use xlink:href="#cell-0-0" x="581" y="-37"/>
+    <use xlink:href="#cell-5-1" x="-119" y="63"/>
+    <use xlink:href="#cell-0-1" x="-19" y="63"/>
+    <use xlink:href="#cell-1-1" x="81" y="63"/>
+    <use xlink:href="#cell-2-1" x="181" y="63"/>
+    <use xlink:href="#cell-3-1" x="281" y="63"/>
+    <use xlink:href="#cell-4-1" x="381" y="63"/>
+    <use xlink:href="#cell-5-1" x="481" y="63"/>
+    <use xlink:href="#cell-0-1" x="581" y="63"/>
+    <use xlink:href="#cell-5-2" x="-119" y="163"/>
+    <use xlink:href="#cell-0-2" x="-19" y="163"/>
+    <use xlink:href="#cell-1-2" x="81" y="163"/>
+    <use xlink:href="#cell-2-2" x="181" y="163"/>
+    <use xlink:href="#cell-3-2" x="281" y="163"/>
+    <use xlink:href="#cell-4-2" x="381" y="163"/>
+    <use xlink:href="#cell-5-2" x="481" y="163"/>
+    <use xlink:href="#cell-0-2" x="581" y="163"/>
+    <use xlink:href="#cell-2-0" x="-119" y="263"/>
+    <use xlink:href="#cell-3-0" x="-19" y="263"/>
+    <use xlink:href="#cell-4-0" x="81" y="263"/>
+    <use xlink:href="#cell-5-0" x="181" y="263"/>
+    <use xlink:href="#cell-0-0" x="281" y="263"/>
+    <use xlink:href="#cell-1-0" x="381" y="263"/>
+    <use xlink:href="#cell-2-0" x="481" y="263"/>
+    <use xlink:href="#cell-3-0" x="581" y="263"/>
+    <use xlink:href="#cell-2-1" x="-119" y="363"/>
+    <use xlink:href="#cell-3-1" x="-19" y="363"/>
+    <use xlink:href="#cell-4-1" x="81" y="363"/>
+    <use xlink:href="#cell-5-1" x="181" y="363"/>
+    <use xlink:href="#cell-0-1" x="281" y="363"/>
+    <use xlink:href="#cell-1-1" x="381" y="363"/>
+    <use xlink:href="#cell-2-1" x="481" y="363"/>
+    <use xlink:href="#cell-3-1" x="581" y="363"/>
+    <use xlink:href="#cell-2-2" x="-119" y="463"/>
+    <use xlink:href="#cell-3-2" x="-19" y="463"/>
+    <use xlink:href="#cell-4-2" x="81" y="463"/>
+    <use xlink:href="#cell-5-2" x="181" y="463"/>
+    <use xlink:href="#cell-0-2" x="281" y="463"/>
+    <use xlink:href="#cell-1-2" x="381" y="463"/>
+    <use xlink:href="#cell-2-2" x="481" y="463"/>
+    <use xlink:href="#cell-3-2" x="581" y="463"/>
+    <use xlink:href="#cell-5-0" x="-119" y="563"/>
+    <use xlink:href="#cell-0-0" x="-19" y="563"/>
+    <use xlink:href="#cell-1-0" x="81" y="563"/>
+    <use xlink:href="#cell-2-0" x="181" y="563"/>
+    <use xlink:href="#cell-3-0" x="281" y="563"/>
+    <use xlink:href="#cell-4-0" x="381" y="563"/>
+    <use xlink:href="#cell-5-0" x="481" y="563"/>
+    <use xlink:href="#cell-0-0" x="581" y="563"/>
+  </g>
+  <g id="braid-layer">
+    <use xlink:href="#braid" x="-119" y="-137"/>
+    <use xlink:href="#braid" x="-19" y="-137"/>
+    <use xlink:href="#braid" x="81" y="-137"/>
+    <use xlink:href="#braid" x="181" y="-137"/>
+    <use xlink:href="#braid" x="281" y="-137"/>
+    <use xlink:href="#braid" x="381" y="-137"/>
+    <use xlink:href="#braid" x="481" y="-137"/>
+    <use xlink:href="#braid" x="581" y="-137"/>
+    <use xlink:href="#braid" x="-119" y="-37"/>
+    <use xlink:href="#braid" x="-19" y="-37"/>
+    <use xlink:href="#braid" x="81" y="-37"/>
+    <use xlink:href="#braid" x="181" y="-37"/>
+    <use xlink:href="#braid" x="281" y="-37"/>
+    <use xlink:href="#braid" x="381" y="-37"/>
+    <use xlink:href="#braid" x="481" y="-37"/>
+    <use xlink:href="#braid" x="581" y="-37"/>
+    <use xlink:href="#braid" x="-119" y="63"/>
+    <use xlink:href="#braid" x="-19" y="63"/>
+    <use xlink:href="#braid" x="81" y="63"/>
+    <use xlink:href="#braid" x="181" y="63"/>
+    <use xlink:href="#braid" x="281" y="63"/>
+    <use xlink:href="#braid" x="381" y="63"/>
+    <use xlink:href="#braid" x="481" y="63"/>
+    <use xlink:href="#braid" x="581" y="63"/>
+    <use xlink:href="#braid" x="-119" y="163"/>
+    <use xlink:href="#braid" x="-19" y="163"/>
+    <use xlink:href="#braid" x="81" y="163"/>
+    <use xlink:href="#braid" x="181" y="163"/>
+    <use xlink:href="#braid" x="281" y="163"/>
+    <use xlink:href="#braid" x="381" y="163"/>
+    <use xlink:href="#braid" x="481" y="163"/>
+    <use xlink:href="#braid" x="581" y="163"/>
+    <use xlink:href="#braid" x="-119" y="263"/>
+    <use xlink:href="#braid" x="-19" y="263"/>
+    <use xlink:href="#braid" x="81" y="263"/>
+    <use xlink:href="#braid" x="181" y="263"/>
+    <use xlink:href="#braid" x="281" y="263"/>
+    <use xlink:href="#braid" x="381" y="263"/>
+    <use xlink:href="#braid" x="481" y="263"/>
+    <use xlink:href="#braid" x="581" y="263"/>
+    <use xlink:href="#braid" x="-119" y="363"/>
+    <use xlink:href="#braid" x="-19" y="363"/>
+    <use xlink:href="#braid" x="81" y="363"/>
+    <use xlink:href="#braid" x="181" y="363"/>
+    <use xlink:href="#braid" x="281" y="363"/>
+    <use xlink:href="#braid" x="381" y="363"/>
+    <use xlink:href="#braid" x="481" y="363"/>
+    <use xlink:href="#braid" x="581" y="363"/>
+    <use xlink:href="#braid" x="-119" y="463"/>
+    <use xlink:href="#braid" x="-19" y="463"/>
+    <use xlink:href="#braid" x="81" y="463"/>
+    <use xlink:href="#braid" x="181" y="463"/>
+    <use xlink:href="#braid" x="281" y="463"/>
+    <use xlink:href="#braid" x="381" y="463"/>
+    <use xlink:href="#braid" x="481" y="463"/>
+    <use xlink:href="#braid" x="581" y="463"/>
+    <use xlink:href="#braid" x="-119" y="563"/>
+    <use xlink:href="#braid" x="-19" y="563"/>
+    <use xlink:href="#braid" x="81" y="563"/>
+    <use xlink:href="#braid" x="181" y="563"/>
+    <use xlink:href="#braid" x="281" y="563"/>
+    <use xlink:href="#braid" x="381" y="563"/>
+    <use xlink:href="#braid" x="481" y="563"/>
+    <use xlink:href="#braid" x="581" y="563"/>
+  </g>
+  <g id="strand-layer">
+    <use xlink:href="#strand" x="-119" y="-137"/>
+    <use xlink:href="#strand" x="-19" y="-137"/>
+    <use xlink:href="#strand" x="81" y="-137"/>
+    <use xlink:href="#strand" x="181" y="-137"/>
+    <use xlink:href="#strand" x="281" y="-137"/>
+    <use xlink:href="#strand" x="381" y="-137"/>
+    <use xlink:href="#strand" x="481" y="-137"/>
+    <use xlink:href="#strand" x="581" y="-137"/>
+    <use xlink:href="#strand" x="-119" y="-37"/>
+    <use xlink:href="#strand" x="-19" y="-37"/>
+    <use xlink:href="#strand" x="81" y="-37"/>
+    <use xlink:href="#strand" x="181" y="-37"/>
+    <use xlink:href="#strand" x="281" y="-37"/>
+    <use xlink:href="#strand" x="381" y="-37"/>
+    <use xlink:href="#strand" x="481" y="-37"/>
+    <use xlink:href="#strand" x="581" y="-37"/>
+    <use xlink:href="#strand" x="-119" y="63"/>
+    <use xlink:href="#strand" x="-19" y="63"/>
+    <use xlink:href="#strand" x="81" y="63"/>
+    <use xlink:href="#strand" x="181" y="63"/>
+    <use xlink:href="#strand" x="281" y="63"/>
+    <use xlink:href="#strand" x="381" y="63"/>
+    <use xlink:href="#strand" x="481" y="63"/>
+    <use xlink:href="#strand" x="581" y="63"/>
+    <use xlink:href="#strand" x="-119" y="163"/>
+    <use xlink:href="#strand" x="-19" y="163"/>
+    <use xlink:href="#strand" x="81" y="163"/>
+    <use xlink:href="#strand" x="181" y="163"/>
+    <use xlink:href="#strand" x="281" y="163"/>
+    <use xlink:href="#strand" x="381" y="163"/>
+    <use xlink:href="#strand" x="481" y="163"/>
+    <use xlink:href="#strand" x="581" y="163"/>
+    <use xlink:href="#strand" x="-119" y="263"/>
+    <use xlink:href="#strand" x="-19" y="263"/>
+    <use xlink:href="#strand" x="81" y="263"/>
+    <use xlink:href="#strand" x="181" y="263"/>
+    <use xlink:href="#strand" x="281" y="263"/>
+    <use xlink:href="#strand" x="381" y="263"/>
+    <use xlink:href="#strand" x="481" y="263"/>
+    <use xlink:href="#strand" x="581" y="263"/>
+    <use xlink:href="#strand" x="-119" y="363"/>
+    <use xlink:href="#strand" x="-19" y="363"/>
+    <use xlink:href="#strand" x="81" y="363"/>
+    <use xlink:href="#strand" x="181" y="363"/>
+    <use xlink:href="#strand" x="281" y="363"/>
+    <use xlink:href="#strand" x="381" y="363"/>
+    <use xlink:href="#strand" x="481" y="363"/>
+    <use xlink:href="#strand" x="581" y="363"/>
+    <use xlink:href="#strand" x="-119" y="463"/>
+    <use xlink:href="#strand" x="-19" y="463"/>
+    <use xlink:href="#strand" x="81" y="463"/>
+    <use xlink:href="#strand" x="181" y="463"/>
+    <use xlink:href="#strand" x="281" y="463"/>
+    <use xlink:href="#strand" x="381" y="463"/>
+    <use xlink:href="#strand" x="481" y="463"/>
+    <use xlink:href="#strand" x="581" y="463"/>
+    <use xlink:href="#strand" x="-119" y="563"/>
+    <use xlink:href="#strand" x="-19" y="563"/>
+    <use xlink:href="#strand" x="81" y="563"/>
+    <use xlink:href="#strand" x="181" y="563"/>
+    <use xlink:href="#strand" x="281" y="563"/>
+    <use xlink:href="#strand" x="381" y="563"/>
+    <use xlink:href="#strand" x="481" y="563"/>
+    <use xlink:href="#strand" x="581" y="563"/>
+  </g>
+</svg>

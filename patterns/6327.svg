@@ -1,0 +1,364 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="576" height="576" viewBox="0 0 576 576">
+<title>The Bourtree, Hawick — acanthus scrolls and floral medallions</title>
+<defs>
+<g id="wreath-leaf">
+<path fill="#A96A31" d="M-23 -57 C-20 -69 -24 -79 -35 -82 Q-33 -93 -23 -89 Q-29 -99 -22 -104 Q-14 -100 -10 -94 Q-12 -109 -4 -111 Q0 -117 4 -109 Q12 -110 12 -97 Q20 -108 26 -102 Q27 -96 23 -90 Q33 -95 35 -87 Q35 -82 28 -77 Q17 -68 20 -58 Q15 -51 8 -54 Q2 -57 0 -64 Q-5 -48 -15 -50 Q-20 -50 -23 -57Z"/>
+<path fill="#C08A4F" d="M-35 -82 Q-33 -92 -24 -89 L-27 -94 Q-22 -92 -18 -84 Q-26 -87 -35 -82Z M-24 -103 Q-20 -109 -11 -97 L-10 -92 Q-17 -101 -24 -103Z M-8 -105 Q-9 -112 -4 -112 Q0 -119 4 -111 Q1 -112 -1 -107 L-4 -109Z M12 -97 Q18 -106 25 -103 Q21 -102 15 -94Z M25 -85 Q30 -92 35 -88 Q34 -82 30 -81 Q32 -88 25 -85Z"/>
+<path fill="#954824" d="M-23 -58 Q-22 -70 -31 -78 Q-20 -74 -17 -62 Q-12 -48 -5 -58 Q-10 -45 -19 -51Z M2 -66 Q6 -79 3 -95 Q11 -79 7 -67 Q4 -58 12 -56 Q4 -55 2 -66Z M18 -60 Q16 -71 24 -78 Q19 -68 20 -60Z"/>
+</g>
+<g id="small-petal">
+<path fill="#954824" d="M-1 -5 C-5 -7 -9 -13 -8.2 -18 Q-8 -22 -4.8 -23.5 Q-2 -26 .7 -24.2 Q4 -26 6.4 -21.5 C10 -15 7 -8 2 -5Z"/>
+<path fill="#A96A31" d="M-1 -6 C-5 -9 -8 -15 -7.7 -18.5 Q-6 -23 -3 -22.7 Q-1 -25 1.2 -23 Q6 -24 7 -18 Q8 -12 4 -8 Q5 -14 2 -15 Q2 -10 -1 -6Z"/>
+<path fill="#C08A4F" d="M-8 -17.5 Q-9 -22 -5.3 -23.5 Q-2.8 -27 .5 -24.5 Q4 -26.2 6.4 -22 Q3.8 -23.5 2.4 -21.9 Q-1 -24 -3.3 -21.5 Q-6.1 -22 -8 -17.5Z"/>
+<path fill="#A73A2E" d="M-4 -11 Q-2 -9 .2 -7.8 L2 -7 Q0 -4 -2 -4 Q-5 -7 -6 -10Z"/>
+</g>
+<g id="sprig-flower">
+<use xlink:href="#small-petal" transform="rotate(-3) scale(0.87 1)"/>
+<use xlink:href="#small-petal" transform="rotate(43) scale(0.82 0.96)"/>
+<use xlink:href="#small-petal" transform="rotate(89) scale(0.93 1.05)"/>
+<use xlink:href="#small-petal" transform="rotate(134) scale(0.82 0.98)"/>
+<use xlink:href="#small-petal" transform="rotate(180) scale(0.87 1)"/>
+<use xlink:href="#small-petal" transform="rotate(227) scale(0.82 0.96)"/>
+<use xlink:href="#small-petal" transform="rotate(271) scale(0.93 1.05)"/>
+<use xlink:href="#small-petal" transform="rotate(314) scale(0.82 0.98)"/>
+<ellipse cx="0" cy="0" rx="7.5" ry="7.3" fill="#954824"/>
+<ellipse cx="-0.2" cy="-1" rx="5.4" ry="4.8" fill="#A96A31"/>
+<path fill="#C08A4F" d="M-5 -2 Q-4 -7 1 -6 L3 -4 Q-2 -5 -5 -2Z"/>
+</g>
+<g id="grand-medallion">
+<ellipse cx="0" cy="0" rx="132" ry="126" fill="#954824"/>
+<ellipse cx="0" cy="0" rx="129.8" ry="124" fill="#C08A4F"/>
+<ellipse cx="0" cy="0" rx="126.4" ry="120.8" fill="#A73A2E"/>
+<use xlink:href="#wreath-leaf" transform="rotate(0) scale(1 1)"/>
+<use xlink:href="#wreath-leaf" transform="rotate(45) scale(0.9 0.93)"/>
+<use xlink:href="#wreath-leaf" transform="rotate(90) scale(1 1)"/>
+<use xlink:href="#wreath-leaf" transform="rotate(135) scale(0.9 0.93)"/>
+<use xlink:href="#wreath-leaf" transform="rotate(180) scale(1 1)"/>
+<use xlink:href="#wreath-leaf" transform="rotate(225) scale(0.9 0.93)"/>
+<use xlink:href="#wreath-leaf" transform="rotate(270) scale(1 1)"/>
+<use xlink:href="#wreath-leaf" transform="rotate(315) scale(0.9 0.93)"/>
+<ellipse cx="0" cy="0" rx="47" ry="44" fill="#954824"/>
+<ellipse cx="0" cy="0" rx="42" ry="39" fill="#322B2B"/>
+<g transform="rotate(0.000)">
+<path fill="#D9B88B" d="M-3.5 -40 L-1.2 -46.5 L3.5 -44 L1.4 -38Z"/>
+<path fill="#A96A31" d="M-2.7 -32 Q-5 -36 -2.8 -38 L1 -40 L3 -36 L1 -32Z"/>
+</g>
+<g transform="rotate(16.364)">
+<path fill="#C08A4F" d="M-3.5 -40 L-1.2 -46.5 L3.5 -44 L1.4 -38Z"/>
+<path fill="#A96A31" d="M-2.7 -32 Q-5 -36 -2.8 -38 L1 -40 L3 -36 L1 -32Z"/>
+</g>
+<g transform="rotate(32.727)">
+<path fill="#D9B88B" d="M-3.5 -40 L-1.2 -46.5 L3.5 -44 L1.4 -38Z"/>
+<path fill="#A96A31" d="M-2.7 -32 Q-5 -36 -2.8 -38 L1 -40 L3 -36 L1 -32Z"/>
+</g>
+<g transform="rotate(49.091)">
+<path fill="#C08A4F" d="M-3.5 -40 L-1.2 -46.5 L3.5 -44 L1.4 -38Z"/>
+<path fill="#A96A31" d="M-2.7 -32 Q-5 -36 -2.8 -38 L1 -40 L3 -36 L1 -32Z"/>
+</g>
+<g transform="rotate(65.455)">
+<path fill="#D9B88B" d="M-3.5 -40 L-1.2 -46.5 L3.5 -44 L1.4 -38Z"/>
+<path fill="#A96A31" d="M-2.7 -32 Q-5 -36 -2.8 -38 L1 -40 L3 -36 L1 -32Z"/>
+</g>
+<g transform="rotate(81.818)">
+<path fill="#C08A4F" d="M-3.5 -40 L-1.2 -46.5 L3.5 -44 L1.4 -38Z"/>
+<path fill="#A96A31" d="M-2.7 -32 Q-5 -36 -2.8 -38 L1 -40 L3 -36 L1 -32Z"/>
+</g>
+<g transform="rotate(98.182)">
+<path fill="#D9B88B" d="M-3.5 -40 L-1.2 -46.5 L3.5 -44 L1.4 -38Z"/>
+<path fill="#A96A31" d="M-2.7 -32 Q-5 -36 -2.8 -38 L1 -40 L3 -36 L1 -32Z"/>
+</g>
+<g transform="rotate(114.545)">
+<path fill="#C08A4F" d="M-3.5 -40 L-1.2 -46.5 L3.5 -44 L1.4 -38Z"/>
+<path fill="#A96A31" d="M-2.7 -32 Q-5 -36 -2.8 -38 L1 -40 L3 -36 L1 -32Z"/>
+</g>
+<g transform="rotate(130.909)">
+<path fill="#D9B88B" d="M-3.5 -40 L-1.2 -46.5 L3.5 -44 L1.4 -38Z"/>
+<path fill="#A96A31" d="M-2.7 -32 Q-5 -36 -2.8 -38 L1 -40 L3 -36 L1 -32Z"/>
+</g>
+<g transform="rotate(147.273)">
+<path fill="#C08A4F" d="M-3.5 -40 L-1.2 -46.5 L3.5 -44 L1.4 -38Z"/>
+<path fill="#A96A31" d="M-2.7 -32 Q-5 -36 -2.8 -38 L1 -40 L3 -36 L1 -32Z"/>
+</g>
+<g transform="rotate(163.636)">
+<path fill="#D9B88B" d="M-3.5 -40 L-1.2 -46.5 L3.5 -44 L1.4 -38Z"/>
+<path fill="#A96A31" d="M-2.7 -32 Q-5 -36 -2.8 -38 L1 -40 L3 -36 L1 -32Z"/>
+</g>
+<g transform="rotate(180.000)">
+<path fill="#C08A4F" d="M-3.5 -40 L-1.2 -46.5 L3.5 -44 L1.4 -38Z"/>
+<path fill="#A96A31" d="M-2.7 -32 Q-5 -36 -2.8 -38 L1 -40 L3 -36 L1 -32Z"/>
+</g>
+<g transform="rotate(196.364)">
+<path fill="#D9B88B" d="M-3.5 -40 L-1.2 -46.5 L3.5 -44 L1.4 -38Z"/>
+<path fill="#A96A31" d="M-2.7 -32 Q-5 -36 -2.8 -38 L1 -40 L3 -36 L1 -32Z"/>
+</g>
+<g transform="rotate(212.727)">
+<path fill="#C08A4F" d="M-3.5 -40 L-1.2 -46.5 L3.5 -44 L1.4 -38Z"/>
+<path fill="#A96A31" d="M-2.7 -32 Q-5 -36 -2.8 -38 L1 -40 L3 -36 L1 -32Z"/>
+</g>
+<g transform="rotate(229.091)">
+<path fill="#D9B88B" d="M-3.5 -40 L-1.2 -46.5 L3.5 -44 L1.4 -38Z"/>
+<path fill="#A96A31" d="M-2.7 -32 Q-5 -36 -2.8 -38 L1 -40 L3 -36 L1 -32Z"/>
+</g>
+<g transform="rotate(245.455)">
+<path fill="#C08A4F" d="M-3.5 -40 L-1.2 -46.5 L3.5 -44 L1.4 -38Z"/>
+<path fill="#A96A31" d="M-2.7 -32 Q-5 -36 -2.8 -38 L1 -40 L3 -36 L1 -32Z"/>
+</g>
+<g transform="rotate(261.818)">
+<path fill="#D9B88B" d="M-3.5 -40 L-1.2 -46.5 L3.5 -44 L1.4 -38Z"/>
+<path fill="#A96A31" d="M-2.7 -32 Q-5 -36 -2.8 -38 L1 -40 L3 -36 L1 -32Z"/>
+</g>
+<g transform="rotate(278.182)">
+<path fill="#C08A4F" d="M-3.5 -40 L-1.2 -46.5 L3.5 -44 L1.4 -38Z"/>
+<path fill="#A96A31" d="M-2.7 -32 Q-5 -36 -2.8 -38 L1 -40 L3 -36 L1 -32Z"/>
+</g>
+<g transform="rotate(294.545)">
+<path fill="#D9B88B" d="M-3.5 -40 L-1.2 -46.5 L3.5 -44 L1.4 -38Z"/>
+<path fill="#A96A31" d="M-2.7 -32 Q-5 -36 -2.8 -38 L1 -40 L3 -36 L1 -32Z"/>
+</g>
+<g transform="rotate(310.909)">
+<path fill="#C08A4F" d="M-3.5 -40 L-1.2 -46.5 L3.5 -44 L1.4 -38Z"/>
+<path fill="#A96A31" d="M-2.7 -32 Q-5 -36 -2.8 -38 L1 -40 L3 -36 L1 -32Z"/>
+</g>
+<g transform="rotate(327.273)">
+<path fill="#D9B88B" d="M-3.5 -40 L-1.2 -46.5 L3.5 -44 L1.4 -38Z"/>
+<path fill="#A96A31" d="M-2.7 -32 Q-5 -36 -2.8 -38 L1 -40 L3 -36 L1 -32Z"/>
+</g>
+<g transform="rotate(343.636)">
+<path fill="#C08A4F" d="M-3.5 -40 L-1.2 -46.5 L3.5 -44 L1.4 -38Z"/>
+<path fill="#A96A31" d="M-2.7 -32 Q-5 -36 -2.8 -38 L1 -40 L3 -36 L1 -32Z"/>
+</g>
+<use xlink:href="#sprig-flower" transform="scale(1.32 1.24)"/>
+<ellipse cx="0" cy="0" rx="7" ry="7" fill="#954824"/>
+<ellipse cx="-0.5" cy="-1" rx="4.7" ry="4.2" fill="#C08A4F"/>
+</g>
+<g id="curl">
+<path fill="none" stroke="#A96A31" stroke-width="3.7" stroke-linecap="round" stroke-linejoin="round" d="M94 67 C114 70 124 69 138 84"/>
+<path fill="#954824" d="M128 77 Q131 68 138 73 Q142 67 148 72 L150 78 Q158 78 158 87 L151 98 L143 104 Q139 101 137 96 L133 93 Q135 87 129 87Z"/>
+<path fill="#C08A4F" d="M128 77 Q132 68 139 73 Q144 68 148 72 L149 76 Q142 70 139 78 Q135 74 131 81Z"/>
+<path fill="none" stroke="#954824" stroke-width="4.3" stroke-linecap="round" stroke-linejoin="round" d="M202 169 C214 199 206 241 175 262 C143 284 99 274 70 255 C32 231 29 190 43 161 C53 140 71 133 88 139 C103 145 113 158 115 176"/>
+<path fill="#A96A31" d="M43 161 Q54 137 72 137 Q83 136 90 141 Q68 133 52 153Z"/>
+<path fill="#954824" d="M142 98 Q148 91 151 82 C170 82 183 103 190 124 Q199 151 210 167 Q206 170 202 167 C216 198 201 237 181 258 C154 288 110 290 80 273 C53 260 44 239 38 215 Q31 179 13 164 C29 168 43 176 49 192 Q51 178 48 174 Q59 182 59 199 Q64 212 74 222 Q70 213 71 206 Q86 216 88 230 C99 246 119 252 141 249 Q153 249 162 243 Q143 243 139 236 Q164 235 179 219 Q169 230 157 222 Q157 217 166 213 Q175 209 180 201 Q172 205 164 200 Q161 196 171 192 C185 186 196 177 197 161 C182 151 178 135 166 127 Q168 136 167 143 Q155 135 151 119 Q148 111 140 106Z"/>
+<path fill="#A96A31" d="M143 100 Q148 88 153 86 C172 86 183 109 190 132 Q198 155 207 165 Q189 162 178 142 Q184 145 187 148 Q178 126 166 117 Q169 127 166 136 Q160 128 157 117 Q154 106 145 106Z"/>
+<path fill="#C08A4F" d="M156 94 Q170 94 181 116 Q169 99 156 97Z M188 131 Q195 153 204 163 Q194 161 188 152Z"/>
+<path fill="#A96A31" d="M12 163 C41 173 43 190 46 212 Q48 232 61 244 Q52 228 54 219 Q63 233 73 241 Q60 217 64 204 Q71 218 82 228 Q82 217 79 211 Q92 220 94 233 Q102 247 116 253 Q97 250 83 242 Q94 259 118 268 C79 266 57 246 45 225 C37 207 37 183 12 163Z"/>
+<path fill="#C08A4F" d="M12 163 Q34 168 41 188 Q46 201 44 212 Q40 203 37 196 Q37 179 12 163Z M80 232 Q95 247 118 254 L104 244 Q118 252 134 253 L125 248 Q144 251 156 248 Q145 262 130 265 Q104 267 90 254 Q103 261 116 260 Q95 253 80 232Z"/>
+<path fill="#D9B88B" d="M11 162 Q29 167 37 179 Q40 184 41 190 Q37 183 30 178 Q27 171 11 162Z M88 239 Q107 252 116 253 Q108 245 107 241 Q118 251 131 254 Q117 255 106 253Z"/>
+<path fill="#A96A31" d="M165 245 Q179 242 193 221 Q187 234 180 239 Q191 235 198 224 Q194 243 177 251 Q165 255 155 249Z M174 217 Q184 207 195 192 Q193 208 183 217Z"/>
+<path fill="#C08A4F" d="M157 244 Q175 242 185 232 Q177 244 165 247Z M165 220 Q176 214 184 205 Q180 216 170 222Z"/>
+<path fill="#A73A2E" d="M202 168 C212 198 202 229 183 249 C166 268 147 275 124 276 C101 278 79 269 64 255 C84 279 114 286 143 279 C166 275 186 261 196 245 C209 224 215 192 202 168Z"/>
+<path fill="#C08A4F" d="M163 199 Q168 200 174 200 Q188 194 194 184 Q188 199 177 203 Q168 206 163 199Z M158 221 Q168 228 185 216 Q179 225 169 228 Q162 228 158 224Z"/>
+<path fill="#C08A4F" d="M80 227 Q87 243 102 249 Q95 244 94 238 Q105 248 112 250 Q107 243 108 241 Q123 252 136 254 Q127 254 121 253 Q132 259 143 254 Q137 263 123 266 Q112 266 97 257 Q107 264 116 267 Q94 263 86 251 Q79 241 80 227Z"/>
+<path fill="#D9B88B" d="M88 244 Q100 251 109 253 Q104 248 104 245 Q113 252 122 254 Q115 254 111 254 L119 258 Q101 255 88 244Z M137 261 Q144 259 151 253 Q147 261 139 263Z"/>
+<use xlink:href="#sprig-flower" transform="translate(114 180) rotate(-9) scale(1.28 1.24)"/>
+</g>
+<g id="crest-wing">
+<path fill="#A96A31" d="M-9 0 C-15 -2 -23 -10 -31 -11 L-45 -15 Q-55 -19 -66 -17 Q-63 -20 -58 -21 Q-76 -34 -69 -48 Q-68 -40 -62 -38 Q-73 -56 -64 -70 Q-65 -59 -58 -56 C-64 -78 -59 -94 -47 -102 Q-47 -96 -45 -94 C-32 -113 -12 -108 -4 -95 Q-4 -88 -1 -84 Q-10 -92 -18 -93 C-34 -96 -44 -79 -42 -64 C-42 -44 -32 -34 -24 -25 Q-27 -36 -22 -41 C-19 -27 -9 -24 -9 -15 Q-5 -16 -3 -19 Q-3 -8 -9 0Z"/>
+<path fill="#954824" d="M-8 -91 Q-18 -102 -29 -99 Q-45 -96 -49 -75 C-57 -50 -45 -32 -35 -21 C-55 -31 -59 -55 -55 -73 Q-52 -91 -41 -99 Q-27 -111 -15 -103Z"/>
+<path fill="#C08A4F" d="M-51 -93 Q-43 -105 -33 -106 Q-33 -109 -29 -109 Q-16 -108 -9 -97 Q-19 -102 -25 -102 Q-31 -104 -39 -99Z M-66 -68 Q-71 -55 -63 -45 Q-68 -48 -69 -52 Q-68 -42 -61 -36 Q-77 -47 -69 -65Z"/>
+<path fill="#D9B88B" d="M-40 -102 Q-36 -107 -31 -108 Q-26 -112 -24 -107 Q-18 -108 -15 -104 L-24 -105 Q-29 -102 -31 -104Z"/>
+</g>
+<g id="crest">
+<use xlink:href="#crest-wing" transform="translate(0 0)"/>
+<use xlink:href="#crest-wing" transform="scale(-1 1)"/>
+<path fill="#A96A31" d="M0 -17 Q-5 -28 -12 -29 L-17 -38 Q-20 -41 -26 -36 Q-25 -46 -15 -47 Q-20 -54 -17 -62 Q-11 -77 -6 -71 Q-1 -60 0 -55 Q3 -64 11 -71 Q16 -76 19 -67 Q22 -60 12 -47 Q24 -52 28 -36 Q23 -40 18 -38 L10 -30 Q4 -29 0 -17Z"/>
+<path fill="#C08A4F" d="M-26 -36 Q-26 -45 -16 -46 Q-9 -46 -7 -42 Q-17 -45 -22 -37Z M-17 -62 Q-16 -73 -10 -74 Q-4 -72 -3 -61 Q-11 -75 -14 -60Z M9 -66 Q17 -78 20 -69 Q22 -60 13 -52 Q17 -62 15 -67Z M16 -44 Q26 -48 29 -36 Q24 -40 19 -39Z"/>
+<path fill="#954824" d="M-12 -39 Q-6 -39 0 -46 Q5 -42 12 -40 Q7 -34 9 -30 Q3 -29 0 -22 Q-4 -28 -8 -28Z"/>
+</g>
+<g id="tendril-half">
+<path fill="#A96A31" d="M0 0 C-10 0 -18 -8 -15 -16 C-12 -22 -5 -21 -5 -15 Q-5 -12 -10 -11 Q-11 -7 -6 -6 C2 -6 4 -19 -5 -24 C-18 -32 -26 -18 -34 -13 Q-45 -3 -56 -7 C-62 -10 -59 -16 -56 -16 Q-51 -15 -51 -19 Q-53 -25 -61 -22 Q-69 -20 -68 -13 C-69 -3 -57 1 -48 -2 Q-38 -4 -33 -9 Q-32 -2 -37 4 Q-28 3 -25 -7 Q-23 -12 -20 -14 Q-24 -3 -15 3 Q-9 8 0 6Z"/>
+<path fill="#C08A4F" d="M-65 -17 Q-63 -23 -57 -22 L-54 -21 Q-62 -21 -62 -14Z M-18 -20 Q-12 -27 -7 -24 Q-3 -23 -2 -20 Q-10 -25 -16 -18Z"/>
+</g>
+<g id="tendril">
+<use xlink:href="#tendril-half" transform="translate(-3 0)"/>
+<use xlink:href="#tendril-half" transform="translate(3 0) scale(-1 1)"/>
+<path fill="#954824" d="M-7 6 Q0 5 0 0 Q3 6 8 6 L0 15Z"/>
+</g>
+<g id="fringe-tip">
+<path fill="#A96A31" d="M-1 -61 C1 -66 0 -71 -3 -74 Q-9 -73 -12 -78 Q-6 -83 -1 -80 L0 -76 Q1 -83 5 -88 Q12 -84 8 -80 Q5 -75 2 -76 L3 -70 Q8 -77 13 -74 Q13 -68 7 -67 L1 -65 L1 -61Z"/>
+<path fill="#C08A4F" d="M-12 -78 Q-9 -83 -4 -81 L-1 -79 Q-7 -80 -10 -76Z M5 -87 Q9 -88 10 -82 Q8 -83 5 -82Z M9 -73 Q14 -77 13 -72 L8 -70Z"/>
+</g>
+<g id="flute">
+<path fill="#A96A31" d="M-3 -11 C-6 -13 -11 -24 -16 -26 Q-19 -31 -17 -34 Q-13 -37 -11 -32 Q-13 -42 -7 -44 Q-3 -45 -1 -40 Q3 -48 8 -44 Q13 -40 11 -34 Q16 -38 18 -32 Q20 -26 13 -23 Q6 -19 3 -11Z"/>
+<path fill="#C08A4F" d="M-16 -29 Q-20 -34 -14 -36 Q-10 -35 -10 -30 Q-13 -32 -14 -31Z M-9 -35 Q-13 -42 -8 -44 Q-2 -47 0 -39 Q-5 -43 -6 -36 Q-6 -28 -2 -22 Q-9 -28 -9 -35Z M3 -40 Q8 -49 12 -40 Q14 -33 6 -22 Q9 -33 7 -38Z M12 -31 Q18 -38 20 -32 Q18 -27 12 -23Z"/>
+<path fill="#D9B88B" d="M-11 -39 Q-10 -45 -6 -45 Q-2 -46 -1 -41 Q-6 -45 -8 -37Z M6 -42 Q9 -46 12 -41 Q13 -35 11 -32 Q12 -39 8 -40Z"/>
+<path fill="#954824" d="M-4 -14 Q-8 -19 -9 -26 Q-7 -21 -3 -19 Q-7 -31 -5 -34 Q-4 -38 -1 -40 Q-5 -30 0 -22 Q3 -19 3 -14Z"/>
+<path fill="#D9B88B" d="M-11 -28 Q-18 -35 -12 -36 Q-8 -33 -6 -26 Q-10 -31 -11 -28Z M3 -24 Q6 -31 5 -34 Q3 -43 9 -44 Q15 -42 11 -35 Q12 -41 8 -40 Q5 -39 8 -34 Q8 -30 3 -24Z"/>
+</g>
+<g id="daisy-medallion">
+<use xlink:href="#fringe-tip" transform="rotate(0)"/>
+<use xlink:href="#fringe-tip" transform="rotate(15)"/>
+<use xlink:href="#fringe-tip" transform="rotate(30)"/>
+<use xlink:href="#fringe-tip" transform="rotate(45)"/>
+<use xlink:href="#fringe-tip" transform="rotate(60)"/>
+<use xlink:href="#fringe-tip" transform="rotate(75)"/>
+<use xlink:href="#fringe-tip" transform="rotate(90)"/>
+<use xlink:href="#fringe-tip" transform="rotate(105)"/>
+<use xlink:href="#fringe-tip" transform="rotate(120)"/>
+<use xlink:href="#fringe-tip" transform="rotate(135)"/>
+<use xlink:href="#fringe-tip" transform="rotate(150)"/>
+<use xlink:href="#fringe-tip" transform="rotate(165)"/>
+<use xlink:href="#fringe-tip" transform="rotate(180)"/>
+<use xlink:href="#fringe-tip" transform="rotate(195)"/>
+<use xlink:href="#fringe-tip" transform="rotate(210)"/>
+<use xlink:href="#fringe-tip" transform="rotate(225)"/>
+<use xlink:href="#fringe-tip" transform="rotate(240)"/>
+<use xlink:href="#fringe-tip" transform="rotate(255)"/>
+<use xlink:href="#fringe-tip" transform="rotate(270)"/>
+<use xlink:href="#fringe-tip" transform="rotate(285)"/>
+<use xlink:href="#fringe-tip" transform="rotate(300)"/>
+<use xlink:href="#fringe-tip" transform="rotate(315)"/>
+<use xlink:href="#fringe-tip" transform="rotate(330)"/>
+<use xlink:href="#fringe-tip" transform="rotate(345)"/>
+<ellipse cx="0" cy="0" rx="67" ry="65" fill="#322B2B"/>
+<ellipse cx="0" cy="0" rx="64.7" ry="62.3" fill="#C08A4F"/>
+<ellipse cx="0" cy="0" rx="61.8" ry="59.2" fill="#A96A31"/>
+<ellipse cx="0" cy="0" rx="58.8" ry="56.4" fill="#954824"/>
+<ellipse cx="0" cy="0" rx="56.2" ry="54.3" fill="#A73A2E"/>
+<use xlink:href="#flute" transform="rotate(0) scale(1 1)"/>
+<use xlink:href="#flute" transform="rotate(45) scale(1 1.06)"/>
+<use xlink:href="#flute" transform="rotate(90) scale(1 1)"/>
+<use xlink:href="#flute" transform="rotate(135) scale(1 1.06)"/>
+<use xlink:href="#flute" transform="rotate(180) scale(1 1)"/>
+<use xlink:href="#flute" transform="rotate(225) scale(1 1.06)"/>
+<use xlink:href="#flute" transform="rotate(270) scale(1 1)"/>
+<use xlink:href="#flute" transform="rotate(315) scale(1 1.06)"/>
+<ellipse cx="0" cy="0" rx="16" ry="10.5" fill="#322B2B"/>
+<ellipse cx="0" cy="0" rx="12.2" ry="7.5" fill="#954824"/>
+<ellipse cx="-0.2" cy="-0.6" rx="10.9" ry="5.9" fill="#A96A31"/>
+<path fill="#C08A4F" d="M-9 -1 Q-7 -7 1 -5 Q-5 -4 -7 -1Z"/>
+</g>
+<g id="rim-tooth">
+<path fill="#D9B88B" d="M-3 -43 Q-2 -48 2 -51 Q6 -49 4 -46 L2 -43Z"/>
+</g>
+<g id="satin-petal">
+<path fill="#954824" stroke="#C08A4F" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" d="M-3 -4 Q-15 -6 -19 -13 Q-22 -21 -17 -25 Q-13 -30 -8 -29 Q-5 -35 3 -32 C16 -35 22 -25 19 -17 Q16 -9 4 -4Z"/>
+<path fill="#C08A4F" d="M-19 -15 Q-22 -24 -16 -27 Q-12 -31 -7 -31 Q-3 -37 4 -33 Q13 -35 18 -28 L13 -29 Q7 -32 4 -29 Q-4 -33 -6 -27 Q-16 -28 -16 -20Z"/>
+<path fill="#D9B88B" d="M-16 -22 Q-18 -27 -12 -29 L-8 -29 Q-13 -27 -14 -23Z M-5 -29 Q-4 -33 3 -32 L5 -30 L0 -30Z"/>
+<path fill="#C08A4F" d="M-2 -4 Q-13 -5 -18 -13 Q-22 -19 -18 -24 Q-19 -15 -12 -12 Q-6 -11 -3 -7Z"/>
+<path fill="#A96A31" d="M-12 -11 Q-18 -13 -18 -18 Q-16 -15 -10 -15 Q-6 -13 -4 -9Z"/>
+</g>
+<g id="satin-flower">
+<use xlink:href="#rim-tooth" transform="rotate(0)"/>
+<use xlink:href="#rim-tooth" transform="rotate(12.4138)"/>
+<use xlink:href="#rim-tooth" transform="rotate(24.8276)"/>
+<use xlink:href="#rim-tooth" transform="rotate(37.2414)"/>
+<use xlink:href="#rim-tooth" transform="rotate(49.6552)"/>
+<use xlink:href="#rim-tooth" transform="rotate(62.069)"/>
+<use xlink:href="#rim-tooth" transform="rotate(74.4828)"/>
+<use xlink:href="#rim-tooth" transform="rotate(86.8966)"/>
+<use xlink:href="#rim-tooth" transform="rotate(99.3103)"/>
+<use xlink:href="#rim-tooth" transform="rotate(111.724)"/>
+<use xlink:href="#rim-tooth" transform="rotate(124.138)"/>
+<use xlink:href="#rim-tooth" transform="rotate(136.552)"/>
+<use xlink:href="#rim-tooth" transform="rotate(148.966)"/>
+<use xlink:href="#rim-tooth" transform="rotate(161.379)"/>
+<use xlink:href="#rim-tooth" transform="rotate(173.793)"/>
+<use xlink:href="#rim-tooth" transform="rotate(186.207)"/>
+<use xlink:href="#rim-tooth" transform="rotate(198.621)"/>
+<use xlink:href="#rim-tooth" transform="rotate(211.034)"/>
+<use xlink:href="#rim-tooth" transform="rotate(223.448)"/>
+<use xlink:href="#rim-tooth" transform="rotate(235.862)"/>
+<use xlink:href="#rim-tooth" transform="rotate(248.276)"/>
+<use xlink:href="#rim-tooth" transform="rotate(260.69)"/>
+<use xlink:href="#rim-tooth" transform="rotate(273.103)"/>
+<use xlink:href="#rim-tooth" transform="rotate(285.517)"/>
+<use xlink:href="#rim-tooth" transform="rotate(297.931)"/>
+<use xlink:href="#rim-tooth" transform="rotate(310.345)"/>
+<use xlink:href="#rim-tooth" transform="rotate(322.759)"/>
+<use xlink:href="#rim-tooth" transform="rotate(335.172)"/>
+<use xlink:href="#rim-tooth" transform="rotate(347.586)"/>
+<ellipse cx="0" cy="0" rx="44.8" ry="45" fill="#A73A2E"/>
+<ellipse cx="0" cy="0" rx="39.6" ry="39.8" fill="#A73A2E"/>
+<use xlink:href="#satin-petal" transform="rotate(8)"/>
+<use xlink:href="#satin-petal" transform="rotate(80)"/>
+<use xlink:href="#satin-petal" transform="rotate(152)"/>
+<use xlink:href="#satin-petal" transform="rotate(224)"/>
+<use xlink:href="#satin-petal" transform="rotate(296)"/>
+<ellipse cx="0" cy="0" rx="6.5" ry="6" fill="#954824"/>
+<ellipse cx="-1" cy="-0.8" rx="4" ry="3.3" fill="#C08A4F"/>
+</g>
+<g id="eye-petal">
+<path fill="#C08A4F" d="M0 -3 Q-9 -7 -9 -14 Q-10 -19 -5 -21 Q1 -25 5 -19 Q10 -13 5 -8Z"/>
+<path fill="#322B2B" d="M0 -7 Q-5 -10 -5 -15 Q-4 -20 0 -18 Q5 -16 3 -12Z"/>
+</g>
+<g id="pendant-half">
+<path fill="none" stroke="#A96A31" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round" d="M0 -11 C-4 -25 -3 -38 0 -46 Q6 -59 0 -70 Q-3 -75 1 -83"/>
+<path fill="#A96A31" d="M-1 -47 C-6 -54 -10 -52 -13 -57 Q-15 -62 -11 -64 Q-7 -66 -7 -62 Q-11 -64 -10 -59 Q-8 -56 -2 -56Z M0 -45 Q7 -58 15 -57 Q19 -57 20 -62 Q22 -59 20 -55 Q17 -51 11 -53 Q5 -51 0 -45Z M-1 -67 Q-6 -74 -11 -69 Q-14 -65 -17 -69 Q-18 -75 -14 -77 Q-16 -72 -12 -73 Q-4 -82 0 -71Z M0 -72 Q0 -81 5 -86 Q10 -91 7 -96 Q15 -91 10 -85 Q4 -81 0 -72Z"/>
+<path fill="#C08A4F" d="M-16 -72 Q-18 -78 -13 -79 L-11 -77Z M15 -57 Q19 -57 20 -61 L21 -59 L19 -56Z M5 -86 L8 -91 L10 -88Z"/>
+</g>
+<g id="filigree-flower">
+<use xlink:href="#pendant-half" transform="translate(0 0)"/>
+<use xlink:href="#pendant-half" transform="rotate(180)"/>
+<use xlink:href="#eye-petal" transform="rotate(0)"/>
+<g transform="rotate(22.5)">
+<ellipse cx="-0.2" cy="-31" rx="3.9" ry="5.8" fill="#A96A31"/>
+<path fill="#C08A4F" d="M-4 -31 Q-5 -36 -1 -37 L2 -36 Q-1 -36 -2 -31Z"/>
+</g>
+<use xlink:href="#eye-petal" transform="rotate(45)"/>
+<g transform="rotate(67.5)">
+<ellipse cx="-0.2" cy="-31" rx="3.9" ry="5.8" fill="#A96A31"/>
+<path fill="#C08A4F" d="M-4 -31 Q-5 -36 -1 -37 L2 -36 Q-1 -36 -2 -31Z"/>
+</g>
+<use xlink:href="#eye-petal" transform="rotate(90)"/>
+<g transform="rotate(112.5)">
+<ellipse cx="-0.2" cy="-31" rx="3.9" ry="5.8" fill="#A96A31"/>
+<path fill="#C08A4F" d="M-4 -31 Q-5 -36 -1 -37 L2 -36 Q-1 -36 -2 -31Z"/>
+</g>
+<use xlink:href="#eye-petal" transform="rotate(135)"/>
+<g transform="rotate(157.5)">
+<ellipse cx="-0.2" cy="-31" rx="3.9" ry="5.8" fill="#A96A31"/>
+<path fill="#C08A4F" d="M-4 -31 Q-5 -36 -1 -37 L2 -36 Q-1 -36 -2 -31Z"/>
+</g>
+<use xlink:href="#eye-petal" transform="rotate(180)"/>
+<g transform="rotate(202.5)">
+<ellipse cx="-0.2" cy="-31" rx="3.9" ry="5.8" fill="#A96A31"/>
+<path fill="#C08A4F" d="M-4 -31 Q-5 -36 -1 -37 L2 -36 Q-1 -36 -2 -31Z"/>
+</g>
+<use xlink:href="#eye-petal" transform="rotate(225)"/>
+<g transform="rotate(247.5)">
+<ellipse cx="-0.2" cy="-31" rx="3.9" ry="5.8" fill="#A96A31"/>
+<path fill="#C08A4F" d="M-4 -31 Q-5 -36 -1 -37 L2 -36 Q-1 -36 -2 -31Z"/>
+</g>
+<use xlink:href="#eye-petal" transform="rotate(270)"/>
+<g transform="rotate(292.5)">
+<ellipse cx="-0.2" cy="-31" rx="3.9" ry="5.8" fill="#A96A31"/>
+<path fill="#C08A4F" d="M-4 -31 Q-5 -36 -1 -37 L2 -36 Q-1 -36 -2 -31Z"/>
+</g>
+<use xlink:href="#eye-petal" transform="rotate(315)"/>
+<g transform="rotate(337.5)">
+<ellipse cx="-0.2" cy="-31" rx="3.9" ry="5.8" fill="#A96A31"/>
+<path fill="#C08A4F" d="M-4 -31 Q-5 -36 -1 -37 L2 -36 Q-1 -36 -2 -31Z"/>
+</g>
+<ellipse cx="0" cy="0" rx="5.4" ry="5" fill="#322B2B"/>
+<ellipse cx="0" cy="0" rx="3.5" ry="3.5" fill="#A96A31"/>
+</g>
+<g id="field">
+<use xlink:href="#curl" transform="translate(0 0) scale(1 1)"/>
+<use xlink:href="#curl" transform="translate(576 0) scale(-1 1)"/>
+<use xlink:href="#curl" transform="translate(0 576) scale(1 -1)"/>
+<use xlink:href="#curl" transform="translate(576 576) scale(-1 -1)"/>
+<use xlink:href="#crest" transform="translate(288 202) scale(.99 .94)"/>
+<use xlink:href="#crest" transform="translate(288 374) scale(.99 -.94)"/>
+<use xlink:href="#tendril" transform="translate(288 88)"/>
+<use xlink:href="#tendril" transform="translate(288 488) scale(1 -1)"/>
+<use xlink:href="#daisy-medallion" transform="translate(288 288)"/>
+</g>
+<g id="large-with-crests">
+<use xlink:href="#crest" transform="translate(135 0) rotate(90) scale(.94 .88)"/>
+<use xlink:href="#crest" transform="translate(-135 0) rotate(-90) scale(.94 .88)"/>
+<use xlink:href="#tendril" transform="translate(0 145) scale(.96 -.74)"/>
+<use xlink:href="#tendril" transform="translate(0 -145) scale(.96 .74)"/>
+<use xlink:href="#grand-medallion" transform="translate(0 0)"/>
+</g>
+</defs>
+<rect width="576" height="576" fill="#322B2B"/>
+<use xlink:href="#field" transform="translate(0 0)"/>
+<use xlink:href="#large-with-crests" transform="translate(0 0)"/>
+<use xlink:href="#large-with-crests" transform="translate(0 576)"/>
+<use xlink:href="#large-with-crests" transform="translate(576 0)"/>
+<use xlink:href="#large-with-crests" transform="translate(576 576)"/>
+<use xlink:href="#satin-flower" transform="translate(288 0)"/>
+<use xlink:href="#satin-flower" transform="translate(288 576)"/>
+<use xlink:href="#filigree-flower" transform="translate(0 288)"/>
+<use xlink:href="#filigree-flower" transform="translate(576 288)"/>
+</svg>

@@ -1,0 +1,239 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="800" height="800" viewBox="0 0 800 800">
+  <title>The Manor House, Royston — scrolling foliate Axminster repeat</title>
+  <defs>
+    <g id="ribbed-bud">
+      <path d="M0 0 C-8 -7 -15 -14 -15 -24 C-15 -30 -11 -32 -8 -28 C-10 -35 -4 -43 0 -45 C3 -41 10 -35 8 -29 C13 -33 16 -29 15 -22 C14 -12 6 -5 0 0Z" fill="#867873" stroke="#978981" stroke-width="2.4" stroke-linejoin="round" stroke-linecap="round" />
+      <path d="M0 -3 Q-1 -15 -9 -25" fill="none" stroke="#594e4c" stroke-width="2.8" stroke-linejoin="round" stroke-linecap="round" />
+      <path d="M0 -3 Q4 -18 9 -24" fill="none" stroke="#594e4c" stroke-width="2.8" stroke-linejoin="round" stroke-linecap="round" />
+      <path d="M0 -10 Q-4 -24 -4 -33" fill="none" stroke="#594e4c" stroke-width="2.8" stroke-linejoin="round" stroke-linecap="round" />
+      <path d="M1 -13 Q5 -29 2 -38" fill="none" stroke="#594e4c" stroke-width="2.8" stroke-linejoin="round" stroke-linecap="round" />
+    </g>
+    <g id="split-fan">
+      <path d="M0 0 C-5 -12 -22 -15 -27 -30 C-33 -45 -28 -56 -21 -54 C-24 -65 -17 -72 -11 -65 C-11 -77 -3 -80 1 -71 C5 -79 14 -75 14 -66 C21 -71 29 -63 24 -54 C35 -57 36 -46 30 -35 C23 -20 9 -13 0 0Z" fill="#867873" stroke="#978981" stroke-width="2.8" stroke-linejoin="round" stroke-linecap="round" />
+      <path d="M0 -3 Q-2 -16 -22 -29 Q-24 -46 -23 -47" fill="none" stroke="#594e4c" stroke-width="3.1" stroke-linejoin="round" stroke-linecap="round" />
+      <path d="M0 -3 Q-3 -22 -20 -40 Q-17 -58 -16 -59" fill="none" stroke="#594e4c" stroke-width="3.1" stroke-linejoin="round" stroke-linecap="round" />
+      <path d="M0 -3 Q-2 -19 -12 -43 Q-9 -61 -8 -62" fill="none" stroke="#594e4c" stroke-width="3.1" stroke-linejoin="round" stroke-linecap="round" />
+      <path d="M0 -3 Q0 -24 -5 -45 Q0 -66 1 -67" fill="none" stroke="#594e4c" stroke-width="3.1" stroke-linejoin="round" stroke-linecap="round" />
+      <path d="M0 -3 Q2 -25 8 -49 Q11 -61 12 -62" fill="none" stroke="#594e4c" stroke-width="3.1" stroke-linejoin="round" stroke-linecap="round" />
+      <path d="M0 -3 Q4 -19 17 -37 Q20 -51 21 -52" fill="none" stroke="#594e4c" stroke-width="3.1" stroke-linejoin="round" stroke-linecap="round" />
+      <path d="M0 -3 Q6 -15 23 -28 Q27 -44 28 -45" fill="none" stroke="#594e4c" stroke-width="3.1" stroke-linejoin="round" stroke-linecap="round" />
+    </g>
+    <g id="crooked-leaf">
+      <path d="M0 0 C8 -12 5 -24 0 -32 C-8 -44 -26 -50 -30 -67 C-35 -82 -29 -94 -16 -95 C-3 -96 4 -87 1 -80 C-1 -74 -7 -73 -10 -78 C-13 -84 -19 -83 -19 -75 C-20 -63 -5 -60 4 -55 C15 -48 21 -41 19 -31 C26 -39 31 -42 36 -41 C36 -26 23 -14 14 -9 C24 -12 34 -16 42 -23 C38 -7 19 2 0 0Z" fill="#867873" stroke="#978981" stroke-width="3" stroke-linejoin="round" stroke-linecap="round" />
+      <path d="M1 -1 C13 -15 15 -27 9 -41 C1 -56 -19 -58 -24 -70 C-28 -80 -23 -90 -16 -89" fill="none" stroke="#594e4c" stroke-width="3.6" stroke-linejoin="round" stroke-linecap="round" />
+      <path d="M5 -3 Q20 -14 30 -32 M7 -6 Q15 -21 14 -32" fill="none" stroke="#594e4c" stroke-width="3" stroke-linejoin="round" stroke-linecap="round" />
+    </g>
+    <g id="side-sprig">
+      <path d="M0 0 C8 -25 1 -52 -13 -70 C-25 -85 -30 -98 -26 -118 M0 -43 C14 -48 26 -62 27 -76 M-16 -76 C-34 -75 -45 -83 -54 -97" fill="none" stroke="#978981" stroke-width="3.6" stroke-linejoin="round" stroke-linecap="round" />
+      <use xlink:href="#ribbed-bud" transform="translate(1 -31) rotate(40) scale(0.48)" />
+      <use xlink:href="#ribbed-bud" transform="translate(-1 -53) rotate(-43) scale(0.53)" />
+      <use xlink:href="#ribbed-bud" transform="translate(21 -65) rotate(39) scale(0.45)" />
+      <use xlink:href="#ribbed-bud" transform="translate(-24 -92) rotate(17) scale(0.5)" />
+      <use xlink:href="#ribbed-bud" transform="translate(-38 -81) rotate(-59) scale(0.43)" />
+      <use xlink:href="#ribbed-bud" transform="translate(-26 -112) rotate(-2) scale(0.47)" />
+    </g>
+    <g id="scroll-spray">
+      <path d="M1 0 C36 43 50 138 106 211 C159 285 260 323 325 278 C360 253 371 214 351 191 C340 177 318 177 305 191 C294 206 301 221 317 221 C306 229 288 224 283 208 C277 186 297 166 320 164 C355 158 380 186 379 218 C380 269 341 310 294 323 C239 340 165 316 121 276 C74 234 50 171 32 109 C21 68 11 23 1 0Z" fill="#867873" stroke="#978981" stroke-width="3.5" stroke-linejoin="round" stroke-linecap="round" />
+      <path d="M3 6 C36 65 51 160 113 231 C171 300 258 327 322 291 C359 270 380 219 359 187 C347 168 319 165 302 181" fill="none" stroke="#594e4c" stroke-width="14.8" stroke-linejoin="round" stroke-linecap="round" />
+      <path d="M3 6 C36 65 51 160 113 231 C171 300 258 327 322 291 C359 270 380 219 359 187 C347 168 319 165 302 181" fill="none" stroke="#a89991" stroke-width="11.8" stroke-linejoin="round" stroke-linecap="round" />
+      <path d="M3 6 C36 65 51 160 113 231 C171 300 258 327 322 291 C359 270 380 219 359 187 C347 168 319 165 302 181" fill="none" stroke="#867873" stroke-width="5.782" stroke-linejoin="round" stroke-linecap="round" />
+      <ellipse cx="0" cy="0" rx="4.25" ry="2.12" fill="#594e4c" transform="translate(7.15 13.78) rotate(63.0)" />
+      <ellipse cx="0" cy="0" rx="4.25" ry="2.12" fill="#594e4c" transform="translate(13.07 26.13) rotate(65.6)" />
+      <ellipse cx="0" cy="0" rx="4.25" ry="2.12" fill="#594e4c" transform="translate(18.71 39.21) rotate(67.6)" />
+      <ellipse cx="0" cy="0" rx="4.25" ry="2.12" fill="#594e4c" transform="translate(24.19 52.94) rotate(68.8)" />
+      <ellipse cx="0" cy="0" rx="4.25" ry="2.12" fill="#594e4c" transform="translate(28.99 65.59) rotate(69.5)" />
+      <ellipse cx="0" cy="0" rx="4.25" ry="2.12" fill="#594e4c" transform="translate(33.82 78.61) rotate(69.7)" />
+      <ellipse cx="0" cy="0" rx="4.25" ry="2.12" fill="#594e4c" transform="translate(38.74 91.92) rotate(69.6)" />
+      <ellipse cx="0" cy="0" rx="4.25" ry="2.12" fill="#594e4c" transform="translate(43.83 105.45) rotate(69.1)" />
+      <ellipse cx="0" cy="0" rx="4.25" ry="2.12" fill="#594e4c" transform="translate(48.47 117.43) rotate(68.4)" />
+      <ellipse cx="0" cy="0" rx="4.25" ry="2.12" fill="#594e4c" transform="translate(54.07 131.21) rotate(67.3)" />
+      <ellipse cx="0" cy="0" rx="4.25" ry="2.12" fill="#594e4c" transform="translate(59.27 143.30) rotate(66.1)" />
+      <ellipse cx="0" cy="0" rx="4.25" ry="2.12" fill="#594e4c" transform="translate(65.62 157.09) rotate(64.4)" />
+      <ellipse cx="0" cy="0" rx="4.25" ry="2.12" fill="#594e4c" transform="translate(71.60 169.08) rotate(62.6)" />
+      <ellipse cx="0" cy="0" rx="4.25" ry="2.12" fill="#594e4c" transform="translate(78.02 180.96) rotate(60.6)" />
+      <ellipse cx="0" cy="0" rx="4.25" ry="2.12" fill="#594e4c" transform="translate(85.96 194.33) rotate(58.0)" />
+      <ellipse cx="0" cy="0" rx="4.25" ry="2.12" fill="#594e4c" transform="translate(93.49 205.81) rotate(55.5)" />
+      <ellipse cx="0" cy="0" rx="4.25" ry="2.12" fill="#594e4c" transform="translate(101.61 217.03) rotate(52.7)" />
+      <ellipse cx="0" cy="0" rx="4.25" ry="2.12" fill="#594e4c" transform="translate(110.37 227.94) rotate(49.8)" />
+      <ellipse cx="0" cy="0" rx="4.25" ry="2.12" fill="#594e4c" transform="translate(119.32 238.23) rotate(47.7)" />
+      <ellipse cx="0" cy="0" rx="4.25" ry="2.12" fill="#594e4c" transform="translate(128.52 247.80) rotate(44.6)" />
+      <ellipse cx="0" cy="0" rx="4.25" ry="2.12" fill="#594e4c" transform="translate(139.48 257.94) rotate(40.9)" />
+      <ellipse cx="0" cy="0" rx="4.25" ry="2.12" fill="#594e4c" transform="translate(149.42 266.08) rotate(37.7)" />
+      <ellipse cx="0" cy="0" rx="4.25" ry="2.12" fill="#594e4c" transform="translate(161.12 274.55) rotate(34.0)" />
+      <ellipse cx="0" cy="0" rx="4.25" ry="2.12" fill="#594e4c" transform="translate(173.14 282.08) rotate(30.2)" />
+      <ellipse cx="0" cy="0" rx="4.25" ry="2.12" fill="#594e4c" transform="translate(185.42 288.67) rotate(26.2)" />
+      <ellipse cx="0" cy="0" rx="4.25" ry="2.12" fill="#594e4c" transform="translate(197.89 294.29) rotate(22.2)" />
+      <ellipse cx="0" cy="0" rx="4.25" ry="2.12" fill="#594e4c" transform="translate(212.08 299.41) rotate(17.5)" />
+      <ellipse cx="0" cy="0" rx="4.25" ry="2.12" fill="#594e4c" transform="translate(224.78 302.88) rotate(13.1)" />
+      <ellipse cx="0" cy="0" rx="4.25" ry="2.12" fill="#594e4c" transform="translate(239.08 305.53) rotate(7.9)" />
+      <ellipse cx="0" cy="0" rx="4.25" ry="2.12" fill="#594e4c" transform="translate(253.31 306.83) rotate(2.4)" />
+      <ellipse cx="0" cy="0" rx="4.25" ry="2.12" fill="#594e4c" transform="translate(267.40 306.73) rotate(-3.3)" />
+      <ellipse cx="0" cy="0" rx="4.25" ry="2.12" fill="#594e4c" transform="translate(281.26 305.21) rotate(-9.3)" />
+      <ellipse cx="0" cy="0" rx="4.25" ry="2.12" fill="#594e4c" transform="translate(294.80 302.23) rotate(-15.6)" />
+      <ellipse cx="0" cy="0" rx="4.25" ry="2.12" fill="#594e4c" transform="translate(307.95 297.76) rotate(-22.0)" />
+      <ellipse cx="0" cy="0" rx="4.25" ry="2.12" fill="#594e4c" transform="translate(320.63 291.76) rotate(-28.6)" />
+      <ellipse cx="0" cy="0" rx="4.25" ry="2.12" fill="#594e4c" transform="translate(331.87 284.41) rotate(-37.7)" />
+      <ellipse cx="0" cy="0" rx="4.25" ry="2.12" fill="#594e4c" transform="translate(342.07 275.19) rotate(-46.4)" />
+      <ellipse cx="0" cy="0" rx="4.25" ry="2.12" fill="#594e4c" transform="translate(350.81 264.58) rotate(-54.6)" />
+      <ellipse cx="0" cy="0" rx="4.25" ry="2.12" fill="#594e4c" transform="translate(358.31 252.13) rotate(-63.3)" />
+      <ellipse cx="0" cy="0" rx="4.25" ry="2.12" fill="#594e4c" transform="translate(363.42 239.79) rotate(-71.8)" />
+      <ellipse cx="0" cy="0" rx="4.25" ry="2.12" fill="#594e4c" transform="translate(366.73 225.48) rotate(-82.4)" />
+      <ellipse cx="0" cy="0" rx="4.25" ry="2.12" fill="#594e4c" transform="translate(367.19 212.15) rotate(-94.0)" />
+      <ellipse cx="0" cy="0" rx="4.25" ry="2.12" fill="#594e4c" transform="translate(364.34 197.88) rotate(-109.1)" />
+      <ellipse cx="0" cy="0" rx="4.25" ry="2.12" fill="#594e4c" transform="translate(358.21 185.80) rotate(-124.7)" />
+      <ellipse cx="0" cy="0" rx="4.25" ry="2.12" fill="#594e4c" transform="translate(348.20 176.27) rotate(-148.0)" />
+      <ellipse cx="0" cy="0" rx="4.25" ry="2.12" fill="#594e4c" transform="translate(335.09 171.26) rotate(-169.9)" />
+      <ellipse cx="0" cy="0" rx="4.25" ry="2.12" fill="#594e4c" transform="translate(321.36 171.28) rotate(169.8)" />
+      <ellipse cx="0" cy="0" rx="4.25" ry="2.12" fill="#594e4c" transform="translate(308.22 176.25) rotate(148.6)" />
+      <path d="M101 237 C153 306 230 335 291 316 M310 217 C299 216 297 205 302 194 C310 179 332 177 344 190" fill="none" stroke="#594e4c" stroke-width="3.3" stroke-linejoin="round" stroke-linecap="round" />
+      <path d="M0 1 C26 19 45 47 55 80 C61 99 69 111 81 117 C59 119 44 105 37 88 C34 107 39 124 48 138 C24 124 18 92 20 69 C10 81 12 101 16 111 C-2 95 1 69 6 49 C8 31 5 14 0 1Z" fill="#867873" stroke="#978981" stroke-width="3.3" stroke-linejoin="round" stroke-linecap="round" />
+      <path d="M4 10 C14 27 18 49 15 64 M14 27 Q31 60 30 86 M23 44 Q42 69 49 92 M33 52 Q54 75 58 91" fill="none" stroke="#594e4c" stroke-width="3.6" stroke-linejoin="round" stroke-linecap="round" />
+      <path d="M9 5 C52 28 97 34 142 26 C186 18 213 26 223 51 C230 68 222 86 209 92 C197 97 182 91 183 81 C184 73 195 69 201 76 C199 65 185 63 172 71 C152 85 142 102 114 104 C88 105 67 88 62 73 C78 82 89 78 95 71 C77 72 60 65 55 55 C65 60 73 59 79 54 C47 47 25 25 9 5Z" fill="#867873" stroke="#978981" stroke-width="4" stroke-linejoin="round" stroke-linecap="round" />
+      <path d="M15 10 C51 35 92 45 132 39 C166 34 198 28 211 49 C222 63 216 81 204 84" fill="none" stroke="#a89991" stroke-width="4.2" stroke-linejoin="round" stroke-linecap="round" />
+      <path d="M79 55 C108 60 128 52 142 48 C125 59 120 73 97 77 M72 80 Q105 100 132 78 M113 93 Q135 88 151 63 M147 71 Q163 50 184 52" fill="none" stroke="#594e4c" stroke-width="3.8" stroke-linejoin="round" stroke-linecap="round" />
+      <path d="M113.0 47.0 q3 -4 4 -7" fill="none" stroke="#695d59" stroke-width="2.8" stroke-linejoin="round" stroke-linecap="round" />
+      <path d="M120.4 45.2 q3 -4 4 -7" fill="none" stroke="#695d59" stroke-width="2.8" stroke-linejoin="round" stroke-linecap="round" />
+      <path d="M127.8 43.9 q3 -4 4 -7" fill="none" stroke="#695d59" stroke-width="2.8" stroke-linejoin="round" stroke-linecap="round" />
+      <path d="M135.2 43.0 q3 -4 4 -7" fill="none" stroke="#695d59" stroke-width="2.8" stroke-linejoin="round" stroke-linecap="round" />
+      <path d="M142.6 42.5 q3 -4 4 -7" fill="none" stroke="#695d59" stroke-width="2.8" stroke-linejoin="round" stroke-linecap="round" />
+      <path d="M150.0 42.5 q3 -4 4 -7" fill="none" stroke="#695d59" stroke-width="2.8" stroke-linejoin="round" stroke-linecap="round" />
+      <path d="M157.4 42.9 q3 -4 4 -7" fill="none" stroke="#695d59" stroke-width="2.8" stroke-linejoin="round" stroke-linecap="round" />
+      <path d="M164.8 43.8 q3 -4 4 -7" fill="none" stroke="#695d59" stroke-width="2.8" stroke-linejoin="round" stroke-linecap="round" />
+      <path d="M5 7 C55 52 69 112 123 161 C169 204 227 204 255 173 C272 155 275 128 262 111 C252 97 233 94 219 105 C205 117 207 132 217 137 C210 140 200 137 196 128 C187 111 200 88 218 81 C242 70 269 80 282 101 C303 136 287 178 259 198 C218 230 162 214 123 183 C72 143 47 65 5 7Z" fill="#695d59" stroke="#867873" stroke-width="4.1" stroke-linejoin="round" stroke-linecap="round" />
+      <path d="M9 11 C53 58 75 130 126 173 C170 214 225 219 260 186 C282 163 287 132 273 108 C257 80 219 84 207 107" fill="none" stroke="#594e4c" stroke-width="10.8" stroke-linejoin="round" stroke-linecap="round" />
+      <path d="M9 11 C53 58 75 130 126 173 C170 214 225 219 260 186 C282 163 287 132 273 108 C257 80 219 84 207 107" fill="none" stroke="#978981" stroke-width="7.8" stroke-linejoin="round" stroke-linecap="round" />
+      <path d="M9 11 C53 58 75 130 126 173 C170 214 225 219 260 186 C282 163 287 132 273 108 C257 80 219 84 207 107" fill="none" stroke="#867873" stroke-width="3.822" stroke-linejoin="round" stroke-linecap="round" />
+      <ellipse cx="0" cy="0" rx="2.81" ry="1.4" fill="#594e4c" transform="translate(14.54 17.18) rotate(49.3)" />
+      <ellipse cx="0" cy="0" rx="2.81" ry="1.4" fill="#594e4c" transform="translate(22.45 26.90) rotate(52.4)" />
+      <ellipse cx="0" cy="0" rx="2.81" ry="1.4" fill="#594e4c" transform="translate(29.95 37.10) rotate(54.9)" />
+      <ellipse cx="0" cy="0" rx="2.81" ry="1.4" fill="#594e4c" transform="translate(37.12 47.70) rotate(56.8)" />
+      <ellipse cx="0" cy="0" rx="2.81" ry="1.4" fill="#594e4c" transform="translate(43.28 57.37) rotate(58.1)" />
+      <ellipse cx="0" cy="0" rx="2.81" ry="1.4" fill="#594e4c" transform="translate(50.05 68.46) rotate(59.0)" />
+      <ellipse cx="0" cy="0" rx="2.81" ry="1.4" fill="#594e4c" transform="translate(56.72 79.70) rotate(59.5)" />
+      <ellipse cx="0" cy="0" rx="2.81" ry="1.4" fill="#594e4c" transform="translate(62.65 89.74) rotate(59.4)" />
+      <ellipse cx="0" cy="0" rx="2.81" ry="1.4" fill="#594e4c" transform="translate(69.37 101.01) rotate(58.9)" />
+      <ellipse cx="0" cy="0" rx="2.81" ry="1.4" fill="#594e4c" transform="translate(75.46 110.94) rotate(58.0)" />
+      <ellipse cx="0" cy="0" rx="2.81" ry="1.4" fill="#594e4c" transform="translate(82.51 121.93) rotate(56.5)" />
+      <ellipse cx="0" cy="0" rx="2.81" ry="1.4" fill="#594e4c" transform="translate(89.86 132.66) rotate(54.5)" />
+      <ellipse cx="0" cy="0" rx="2.81" ry="1.4" fill="#594e4c" transform="translate(96.71 141.89) rotate(52.3)" />
+      <ellipse cx="0" cy="0" rx="2.81" ry="1.4" fill="#594e4c" transform="translate(104.84 151.87) rotate(49.3)" />
+      <ellipse cx="0" cy="0" rx="2.81" ry="1.4" fill="#594e4c" transform="translate(113.49 161.34) rotate(45.7)" />
+      <ellipse cx="0" cy="0" rx="2.81" ry="1.4" fill="#594e4c" transform="translate(122.76 170.20) rotate(41.6)" />
+      <ellipse cx="0" cy="0" rx="2.81" ry="1.4" fill="#594e4c" transform="translate(131.72 178.07) rotate(40.2)" />
+      <ellipse cx="0" cy="0" rx="2.81" ry="1.4" fill="#594e4c" transform="translate(141.47 185.64) rotate(35.4)" />
+      <ellipse cx="0" cy="0" rx="2.81" ry="1.4" fill="#594e4c" transform="translate(151.45 192.11) rotate(30.4)" />
+      <ellipse cx="0" cy="0" rx="2.81" ry="1.4" fill="#594e4c" transform="translate(162.62 197.93) rotate(24.6)" />
+      <ellipse cx="0" cy="0" rx="2.81" ry="1.4" fill="#594e4c" transform="translate(174.91 202.73) rotate(18.0)" />
+      <ellipse cx="0" cy="0" rx="2.81" ry="1.4" fill="#594e4c" transform="translate(187.21 205.92) rotate(11.0)" />
+      <ellipse cx="0" cy="0" rx="2.81" ry="1.4" fill="#594e4c" transform="translate(199.41 207.49) rotate(3.5)" />
+      <ellipse cx="0" cy="0" rx="2.81" ry="1.4" fill="#594e4c" transform="translate(211.37 207.42) rotate(-4.3)" />
+      <ellipse cx="0" cy="0" rx="2.81" ry="1.4" fill="#594e4c" transform="translate(223.94 205.49) rotate(-13.2)" />
+      <ellipse cx="0" cy="0" rx="2.81" ry="1.4" fill="#594e4c" transform="translate(235.95 201.63) rotate(-22.5)" />
+      <ellipse cx="0" cy="0" rx="2.81" ry="1.4" fill="#594e4c" transform="translate(247.26 195.83) rotate(-31.9)" />
+      <ellipse cx="0" cy="0" rx="2.81" ry="1.4" fill="#594e4c" transform="translate(256.95 188.74) rotate(-40.5)" />
+      <ellipse cx="0" cy="0" rx="2.81" ry="1.4" fill="#594e4c" transform="translate(265.28 179.92) rotate(-51.8)" />
+      <ellipse cx="0" cy="0" rx="2.81" ry="1.4" fill="#594e4c" transform="translate(272.40 169.15) rotate(-61.4)" />
+      <ellipse cx="0" cy="0" rx="2.81" ry="1.4" fill="#594e4c" transform="translate(277.38 157.83) rotate(-71.3)" />
+      <ellipse cx="0" cy="0" rx="2.81" ry="1.4" fill="#594e4c" transform="translate(280.26 145.62) rotate(-82.2)" />
+      <ellipse cx="0" cy="0" rx="2.81" ry="1.4" fill="#594e4c" transform="translate(280.72 133.39) rotate(-93.7)" />
+      <ellipse cx="0" cy="0" rx="2.81" ry="1.4" fill="#594e4c" transform="translate(278.53 120.88) rotate(-106.2)" />
+      <ellipse cx="0" cy="0" rx="2.81" ry="1.4" fill="#594e4c" transform="translate(273.87 109.55) rotate(-118.5)" />
+      <ellipse cx="0" cy="0" rx="2.81" ry="1.4" fill="#594e4c" transform="translate(266.28 99.19) rotate(-135.3)" />
+      <ellipse cx="0" cy="0" rx="2.81" ry="1.4" fill="#594e4c" transform="translate(256.59 92.27) rotate(-153.7)" />
+      <ellipse cx="0" cy="0" rx="2.81" ry="1.4" fill="#594e4c" transform="translate(244.64 88.68) rotate(-172.7)" />
+      <ellipse cx="0" cy="0" rx="2.81" ry="1.4" fill="#594e4c" transform="translate(231.89 89.12) rotate(168.8)" />
+      <ellipse cx="0" cy="0" rx="2.81" ry="1.4" fill="#594e4c" transform="translate(220.12 93.52) rotate(150.0)" />
+      <ellipse cx="0" cy="0" rx="2.81" ry="1.4" fill="#594e4c" transform="translate(210.63 101.51) rotate(129.3)" />
+      <path d="M211 131 C205 118 218 100 232 99 C244 98 254 103 258 114" fill="none" stroke="#978981" stroke-width="3.4" stroke-linejoin="round" stroke-linecap="round" />
+      <use xlink:href="#split-fan" transform="translate(160 189) rotate(34) scale(.86 .95)" />
+      <use xlink:href="#crooked-leaf" transform="translate(163 187) rotate(77) scale(.73 .72)" />
+      <use xlink:href="#ribbed-bud" transform="translate(139 167) rotate(-13) scale(.75)" />
+      <path d="M89 129 Q112 145 128 144 Q112 155 98 147" fill="none" stroke="#867873" stroke-width="3.2" stroke-linejoin="round" stroke-linecap="round" />
+      <use xlink:href="#split-fan" transform="translate(240 308) rotate(20) scale(.90 .98)" />
+      <use xlink:href="#crooked-leaf" transform="translate(228 304) rotate(-48) scale(.86 .85)" />
+      <use xlink:href="#ribbed-bud" transform="translate(275 290) rotate(47) scale(.91)" />
+      <use xlink:href="#ribbed-bud" transform="translate(193 286) rotate(-54) scale(.72)" />
+      <path d="M257 300 C279 280 299 272 324 269 C343 266 350 252 347 239 C351 247 356 246 361 241" fill="none" stroke="#978981" stroke-width="3.5" stroke-linejoin="round" stroke-linecap="round" />
+      <path d="M281 282 C296 268 293 247 280 241 C267 234 262 241 267 247 C272 252 278 248 278 246" fill="none" stroke="#867873" stroke-width="4.4" stroke-linejoin="round" stroke-linecap="round" />
+      <path d="M23 89 C26 139 47 176 48 213 C49 246 36 266 20 262 C7 260 4 245 11 238 C1 240 -3 252 1 262 C9 286 37 283 52 262 C53 278 46 295 35 303 C63 299 80 275 77 247 C90 257 92 269 87 282 C111 267 111 241 93 220 C61 186 43 140 23 89Z" fill="#867873" stroke="#978981" stroke-width="3.6" stroke-linejoin="round" stroke-linecap="round" />
+      <path d="M29 117 C37 154 61 193 64 225 C68 259 52 278 41 284 M49 178 C53 208 56 240 42 254 M63 199 C78 222 85 249 75 264 M78 215 Q100 239 95 255" fill="none" stroke="#594e4c" stroke-width="3.8" stroke-linejoin="round" stroke-linecap="round" />
+      <use xlink:href="#side-sprig" transform="translate(324 161) rotate(-14) scale(.84)" />
+      <use xlink:href="#crooked-leaf" transform="translate(350 399) rotate(74) scale(.84 .91)" />
+      <use xlink:href="#split-fan" transform="translate(347 397) rotate(-19) scale(.69 .71)" />
+      <use xlink:href="#side-sprig" transform="translate(148 405) rotate(43) scale(.91 .76)" />
+      <path d="M19 361 C40 330 63 317 95 320 C122 322 139 341 133 360 C129 375 110 380 102 370 C95 363 98 353 105 352 C101 361 108 366 114 362 C125 352 112 335 95 334 C64 330 43 353 23 381 C11 399 0 406 -13 410" fill="none" stroke="#867873" stroke-width="6" stroke-linejoin="round" stroke-linecap="round" />
+      <path d="M28 358 C50 328 74 321 93 323 M55 349 Q70 340 84 340 M39 364 Q56 353 70 353" fill="none" stroke="#978981" stroke-width="3.3" stroke-linejoin="round" stroke-linecap="round" />
+      <path d="M177 386 C223 342 260 345 298 355 C343 367 364 347 375 330 C389 306 404 307 412 317" fill="none" stroke="#978981" stroke-width="5.5" stroke-linejoin="round" stroke-linecap="round" />
+      <path d="M182 389 C220 356 252 353 279 360 M291 354 C316 349 319 333 316 328 M362 349 Q377 347 383 333" fill="none" stroke="#867873" stroke-width="3.8" stroke-linejoin="round" stroke-linecap="round" />
+      <use xlink:href="#ribbed-bud" transform="translate(258 350) rotate(-60) scale(.59)" />
+      <use xlink:href="#ribbed-bud" transform="translate(320 343) rotate(20) scale(.59)" />
+      <use xlink:href="#ribbed-bud" transform="translate(381 320) rotate(24) scale(.68)" />
+      <use xlink:href="#lace-scroll" transform="translate(73 57) rotate(-171) scale(0.46 0.42)" />
+      <use xlink:href="#lace-scroll" transform="translate(218 41) rotate(-13) scale(0.85 0.72)" />
+      <use xlink:href="#lace-scroll" transform="translate(331 145) rotate(13) scale(0.64 0.7)" />
+      <use xlink:href="#lace-scroll" transform="translate(264 254) rotate(-12) scale(0.68 0.62)" />
+      <use xlink:href="#lace-scroll" transform="translate(69 307) rotate(-20) scale(0.87 0.78)" />
+      <use xlink:href="#lace-scroll" transform="translate(181 378) rotate(-165) scale(0.64 0.56)" />
+      <use xlink:href="#lace-scroll" transform="translate(103 127) rotate(-35) scale(0.56 0.5)" />
+      <path d="M80.0 69.0 q1.5 -2 4.8 -4.7" fill="none" stroke="#978981" stroke-width="2.5" stroke-linejoin="round" stroke-linecap="round" />
+      <path d="M85.0 68.26 q1.5 -2 4.8 -4.7" fill="none" stroke="#978981" stroke-width="2.5" stroke-linejoin="round" stroke-linecap="round" />
+      <path d="M90.0 67.52 q1.5 -2 4.8 -4.7" fill="none" stroke="#978981" stroke-width="2.5" stroke-linejoin="round" stroke-linecap="round" />
+      <path d="M95.0 66.78 q1.5 -2 4.8 -4.7" fill="none" stroke="#978981" stroke-width="2.5" stroke-linejoin="round" stroke-linecap="round" />
+      <path d="M100.0 66.04 q1.5 -2 4.8 -4.7" fill="none" stroke="#978981" stroke-width="2.5" stroke-linejoin="round" stroke-linecap="round" />
+      <path d="M105.0 65.3 q1.5 -2 4.8 -4.7" fill="none" stroke="#978981" stroke-width="2.5" stroke-linejoin="round" stroke-linecap="round" />
+      <path d="M110.0 64.56 q1.5 -2 4.8 -4.7" fill="none" stroke="#978981" stroke-width="2.5" stroke-linejoin="round" stroke-linecap="round" />
+      <path d="M43.0 153.0 q4 2 6.9 6" fill="none" stroke="#978981" stroke-width="2.6" stroke-linejoin="round" stroke-linecap="round" />
+      <path d="M46.5 160.7 q4 2 6.9 6" fill="none" stroke="#978981" stroke-width="2.6" stroke-linejoin="round" stroke-linecap="round" />
+      <path d="M50.0 168.4 q4 2 6.9 6" fill="none" stroke="#978981" stroke-width="2.6" stroke-linejoin="round" stroke-linecap="round" />
+      <path d="M53.5 176.1 q4 2 6.9 6" fill="none" stroke="#978981" stroke-width="2.6" stroke-linejoin="round" stroke-linecap="round" />
+      <path d="M57.0 183.8 q4 2 6.9 6" fill="none" stroke="#978981" stroke-width="2.6" stroke-linejoin="round" stroke-linecap="round" />
+      <path d="M60.5 191.5 q4 2 6.9 6" fill="none" stroke="#978981" stroke-width="2.6" stroke-linejoin="round" stroke-linecap="round" />
+      <path d="M2 6 C38 17 76 14 108 4 C122 0 138 -2 151 3 C138 0 131 9 125 14 C98 32 55 30 25 15" fill="none" stroke="#867873" stroke-width="3.7" stroke-linejoin="round" stroke-linecap="round" />
+      <path d="M42 20 Q87 24 111 10 M73 20 Q99 16 110 7" fill="none" stroke="#978981" stroke-width="2.4" stroke-linejoin="round" stroke-linecap="round" />
+      <path d="M373 206 C380 175 374 153 359 139 C347 129 344 119 351 110 C358 102 373 105 378 117 C379 109 385 101 390 102 C392 115 384 129 375 134" fill="none" stroke="#867873" stroke-width="3.8" stroke-linejoin="round" stroke-linecap="round" />
+      <use xlink:href="#ribbed-bud" transform="translate(359 129) rotate(-13) scale(.54 .46)" />
+      <use xlink:href="#split-fan" transform="translate(281 158) rotate(68) scale(.45 .53)" />
+      <use xlink:href="#ribbed-bud" transform="translate(284 162) rotate(105) scale(.5 .51)" />
+      <path d="M235 199 C248 193 261 183 261 173 C259 159 251 151 245 150 C235 147 227 154 229 160 C232 166 239 163 239 159" fill="none" stroke="#978981" stroke-width="3.3" stroke-linejoin="round" stroke-linecap="round" />
+      <path d="M126 207 C148 226 161 231 180 228 C199 224 212 229 213 242 C212 250 205 253 201 249" fill="none" stroke="#867873" stroke-width="3.5" stroke-linejoin="round" stroke-linecap="round" />
+      <use xlink:href="#ribbed-bud" transform="translate(164 229) rotate(-81) scale(.55 .56)" />
+      <use xlink:href="#ribbed-bud" transform="translate(182 228) rotate(115) scale(.49 .48)" />
+      <use xlink:href="#crown" transform="translate(239 53) rotate(-21) scale(.97 .84)" />
+      <use xlink:href="#crown" transform="translate(390 325) rotate(-74) scale(.84 .89)" />
+      <use xlink:href="#crown" transform="translate(114 357) rotate(-142) scale(.67 .65)" />
+      <path d="M81 320 C84 311 96 305 103 303 C116 298 125 291 124 283 C123 278 118 275 113 278 C112 272 118 268 126 271 C138 277 136 291 128 299 C144 294 149 289 153 283 C154 296 144 310 130 312 C142 314 146 312 151 310 C144 322 128 325 114 319 C102 314 90 314 81 320Z" fill="#695d59" stroke="#867873" stroke-width="3.2" stroke-linejoin="round" stroke-linecap="round" />
+      <path d="M88 317 Q110 308 122 303 M111 311 Q131 308 145 294 M118 316 Q134 319 142 315" fill="none" stroke="#978981" stroke-width="2.5" stroke-linejoin="round" stroke-linecap="round" />
+      <use xlink:href="#ribbed-bud" transform="translate(303 70) rotate(43) scale(.56 .63)" />
+      <path d="M274 78 C296 71 305 73 318 77 C330 82 337 78 340 72 C341 66 337 63 332 64" fill="none" stroke="#867873" stroke-width="3.2" stroke-linejoin="round" stroke-linecap="round" />
+    </g>
+    <g id="lace-scroll">
+      <path d="M0 0 C12 -8 27 -7 43 -15 C62 -24 67 -39 58 -48 C53 -54 43 -52 41 -46 C39 -41 44 -37 48 -40 C45 -32 32 -34 32 -44 C31 -55 42 -62 52 -61 C69 -61 78 -46 72 -32 C68 -23 61 -17 51 -13 C65 -15 77 -13 86 -6 C76 -8 66 -5 56 -3 C32 4 17 -3 0 0Z" fill="#695d59" stroke="#867873" stroke-width="2.8" stroke-linejoin="round" stroke-linecap="round" />
+      <path d="M8 -1 C24 -3 38 -6 52 -13 M56 -56 C69 -51 68 -40 65 -35" fill="none" stroke="#978981" stroke-width="2.8" stroke-linejoin="round" stroke-linecap="round" />
+    </g>
+    <g id="crown">
+      <path d="M0 0 C6 -11 18 -20 29 -30 C43 -43 44 -55 39 -61 C48 -60 54 -48 49 -38 C62 -46 76 -43 82 -35 C73 -36 67 -30 64 -24 C75 -29 84 -25 87 -18 C74 -19 66 -4 54 -1 C44 2 36 -2 33 -8 C27 5 12 5 0 0Z" fill="#695d59" stroke="#867873" stroke-width="3.5" stroke-linejoin="round" stroke-linecap="round" />
+      <path d="M4 0 Q28 -3 46 -28 Q55 -40 65 -39 M28 -12 Q34 -22 37 -32 M39 -9 Q51 -10 64 -26 M48 -6 Q64 -9 72 -18" fill="none" stroke="#978981" stroke-width="3" stroke-linejoin="round" stroke-linecap="round" />
+    </g>
+    <g id="bouquet">
+      <use xlink:href="#scroll-spray" transform="rotate(0) scale(1 1)" />
+      <use xlink:href="#scroll-spray" transform="rotate(90) scale(1.045 1.09)" />
+      <use xlink:href="#scroll-spray" transform="rotate(180) scale(0.99 0.97)" />
+      <use xlink:href="#scroll-spray" transform="rotate(270) scale(0.95 0.98)" />
+      <use xlink:href="#ribbed-bud" transform="rotate(4) translate(3 -5) scale(.31 .41)" />
+      <use xlink:href="#ribbed-bud" transform="rotate(94) translate(3 -5) scale(.31 .41)" />
+      <use xlink:href="#ribbed-bud" transform="rotate(184) translate(3 -5) scale(.31 .41)" />
+      <use xlink:href="#ribbed-bud" transform="rotate(274) translate(3 -5) scale(.31 .41)" />
+    </g>
+  </defs>
+  <rect width="800" height="800" fill="#695d59" />
+  <use xlink:href="#bouquet" transform="translate(-400 -400)" />
+  <use xlink:href="#bouquet" transform="translate(-400 400)" />
+  <use xlink:href="#bouquet" transform="translate(-400 1200)" />
+  <use xlink:href="#bouquet" transform="translate(400 -400)" />
+  <use xlink:href="#bouquet" transform="translate(400 400)" />
+  <use xlink:href="#bouquet" transform="translate(400 1200)" />
+  <use xlink:href="#bouquet" transform="translate(1200 -400)" />
+  <use xlink:href="#bouquet" transform="translate(1200 400)" />
+  <use xlink:href="#bouquet" transform="translate(1200 1200)" />
+</svg>

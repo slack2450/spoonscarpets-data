@@ -1,0 +1,96 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="400" height="400" viewBox="0 0 400 400">
+<title>The Mardi Gras, Manchester — half-drop palmette carpet</title>
+<desc>Paired bronze and ivory leaves inside an ochre and terracotta ogee lattice, with a small flower at the heart of each palmette.</desc>
+<defs>
+<g id="border">
+<path fill="#A56352" stroke="#614938" stroke-width="2.8" stroke-linejoin="round" d="M200 -27 C189 -15 177 -7 152 0 C117 10 79 25 54 50 C45 58 37 67 32 72 C29 77 31 85 35 90 C31 91 25 86 22 81 C14 98 6 119 6 142 C6 157 8 165 21 174 C37 188 53 193 75 199 C121 210 155 238 178 272 C185 282 191 294 200 301 C209 294 215 282 222 272 C245 238 279 210 325 199 C347 193 363 188 379 174 C392 165 394 157 394 142 C394 119 386 98 378 81 C375 86 369 91 365 90 C369 85 371 77 368 72 C363 67 355 58 346 50 C321 25 283 10 248 0 C223 -7 211 -15 200 -27Z"/>
+<path fill="#333438" d="M200 -12 C186 2 169 12 142 15 C94 28 63 55 48 83 C52 89 57 97 58 107 C48 106 43 102 39 100 C26 118 19 140 24 153 C29 175 55 189 80 194 C128 196 169 237 187 267 C193 275 197 280 200 282 C203 280 207 275 213 267 C231 237 272 196 320 194 C345 189 371 175 376 153 C381 140 374 118 361 100 C357 102 352 106 342 107 C343 97 348 89 352 83 C337 55 306 28 258 15 C231 12 214 2 200 -12Z"/>
+</g>
+<g id="ivory-vine">
+<path fill="#CDBF9F" d="
+M200 -10 C184 5 157 14 128 14 C140 18 163 15 179 8 C186 5 194 1 200 -4 Z
+M166 49 C145 57 113 68 90 71 C60 75 29 65 15 51
+C5 42 7 28 20 15 C14 13 8 16 3 20 C-7 27 -12 41 -7 51
+C4 64 24 74 46 78 C56 80 64 81 71 84
+C49 94 28 112 22 131 C16 145 24 152 33 158
+C36 160 35 165 36 170 C39 184 55 196 75 197
+C61 189 49 178 49 164 C48 148 64 133 82 131
+L90 114 C65 115 47 128 36 145
+C38 128 56 105 83 96 C102 90 116 83 128 75
+C138 68 155 59 166 49Z
+M193 59 C181 77 168 88 148 94 C125 101 114 110 106 121
+C128 116 151 108 165 96 C181 84 192 68 195 54Z
+"/>
+</g>
+<g id="ivory-tip">
+<path fill="#CDBF9F" d="M93 201 C119 203 141 190 150 175 C152 174 155 178 156 180
+C149 198 130 210 111 210 C103 208 97 205 93 201Z
+"/>
+</g>
+<g id="bronze-leaf">
+<path fill="#7D6F61" d="
+M201 -7 C194 2 187 7 183 8 C186 9 190 9 191 8
+C185 26 174 42 158 56 C149 64 139 69 131 73
+C110 88 91 106 82 127 C76 142 75 158 88 166
+C94 170 100 170 106 166 C96 161 93 153 98 142
+C104 130 111 116 123 106 C140 94 157 91 174 78
+C182 72 188 65 193 56 C189 77 166 93 154 106
+C138 122 126 138 119 152 C116 156 112 157 108 157
+C109 160 111 163 115 164 C118 175 113 190 122 199
+C128 198 132 196 137 192 C133 186 133 177 135 170
+C144 168 151 165 158 160 C156 173 161 186 175 194
+C181 198 188 198 194 193 C185 186 177 178 175 170
+C171 158 178 147 184 140 C189 135 195 137 200 131
+L201 131 L201 -7Z
+M135 198 C139 205 145 211 149 213 C155 217 164 217 170 212
+C160 210 151 207 146 200 L141 194Z
+"/>
+</g>
+<g id="lobe-opening">
+<path fill="#333438" d="M192 90 C185 99 177 108 168 119 C155 133 143 146 139 153 C152 149 165 141 174 131 C184 119 189 104 192 90Z"/>
+</g>
+<g id="foliage">
+<use xlink:href="#ivory-vine"/>
+<use xlink:href="#ivory-vine" transform="translate(400 0) scale(-1 1)"/>
+<use xlink:href="#bronze-leaf"/>
+<use xlink:href="#bronze-leaf" transform="translate(400 0) scale(-1 1)"/>
+<use xlink:href="#lobe-opening"/>
+<use xlink:href="#lobe-opening" transform="translate(400 0) scale(-1 1)"/>
+<use xlink:href="#ivory-tip"/>
+<use xlink:href="#ivory-tip" transform="translate(400 0) scale(-1 1)"/>
+<path fill="#CDBF9F" d="M200 116 C195 117 190 124 190 129 C190 133 193 135 196 135
+L199 133 L202 136 C206 135 210 131 209 127 C207 121 204 117 200 116Z
+M199 145 L202 148 L207 147 L208 151 L213 153 L210 156 L212 160
+L207 161 L205 166 L201 164 L198 167 L196 162 L191 163 L192 159
+L187 157 L190 153 L189 151 L195 150Z
+M196 167 L200 166 L202 169 L198 172 L193 170Z"/>
+</g>
+</defs>
+<rect width="400" height="400" fill="#9D8258"/>
+<use xlink:href="#border" transform="translate(-400 -400)"/>
+<use xlink:href="#border" transform="translate(0 -400)"/>
+<use xlink:href="#border" transform="translate(400 -400)"/>
+<use xlink:href="#border" transform="translate(-200 -200)"/>
+<use xlink:href="#border" transform="translate(200 -200)"/>
+<use xlink:href="#border" transform="translate(-400 0)"/>
+<use xlink:href="#border" transform="translate(0 0)"/>
+<use xlink:href="#border" transform="translate(400 0)"/>
+<use xlink:href="#border" transform="translate(-200 200)"/>
+<use xlink:href="#border" transform="translate(200 200)"/>
+<use xlink:href="#border" transform="translate(-400 400)"/>
+<use xlink:href="#border" transform="translate(0 400)"/>
+<use xlink:href="#border" transform="translate(400 400)"/>
+<use xlink:href="#foliage" transform="translate(-400 -400)"/>
+<use xlink:href="#foliage" transform="translate(0 -400)"/>
+<use xlink:href="#foliage" transform="translate(400 -400)"/>
+<use xlink:href="#foliage" transform="translate(-200 -200)"/>
+<use xlink:href="#foliage" transform="translate(200 -200)"/>
+<use xlink:href="#foliage" transform="translate(-400 0)"/>
+<use xlink:href="#foliage" transform="translate(0 0)"/>
+<use xlink:href="#foliage" transform="translate(400 0)"/>
+<use xlink:href="#foliage" transform="translate(-200 200)"/>
+<use xlink:href="#foliage" transform="translate(200 200)"/>
+<use xlink:href="#foliage" transform="translate(-400 400)"/>
+<use xlink:href="#foliage" transform="translate(0 400)"/>
+<use xlink:href="#foliage" transform="translate(400 400)"/>
+</svg>

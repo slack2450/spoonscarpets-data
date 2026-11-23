@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="256" height="256" viewBox="0 0 256 256">
+  <title>The Sir Daniel Arms, Swindon — four-petal carpet repeat</title>
+  <defs>
+    <path id="blade" fill="#8D281F" stroke="#493D34" stroke-width="5.5" stroke-linejoin="round" d="M 21,-11 C 43,-17 60,-7 81,-6 C 101,-5 109,-16 124,-25 C 138,-32 159,-31 179,-29 C 199,-27 218,-27 230,-19 C 235,-11 236,1 234,11 C 212,15 193,6 173,6 C 152,5 143,12 130,23 C 116,32 95,31 75,28 C 52,25 34,25 23,17 C 20,9 19,-3 21,-11 Z"/>
+    <g id="eye">
+      <path fill="#C2A17F" stroke="#493D34" stroke-width="4" stroke-linejoin="round" d="M -26,-24 Q -11,-28 3,-21 Q 15,-17 21,-5 Q 26,6 25,23 Q 12,27 -3,21 Q -16,18 -21,4 Q -26,-8 -26,-24 Z"/>
+      <path fill="#916448" d="M -11,-11 Q -3,-15 5,-8 Q 13,-1 11,11 Q 3,13 -5,8 Q -12,2 -11,-11 Z"/>
+    </g>
+    <g id="rosette">
+      <path fill="#493D34" d="M 61,61 C 78,60 103,62 120,78 C 128,70 142,70 154,74 C 175,79 183,96 181,115 Q 181,122 177,130 C 189,145 197,170 194,194 C 172,197 149,193 134,181 C 121,187 107,187 95,181 C 77,174 69,158 71,142 Q 72,134 77,125 C 65,111 57,84 61,61 Z"/>
+      <path fill="#AA755B" d="M 67,68 C 90,66 109,74 118,86 C 124,94 127,108 126,117 L 117,127 C 106,126 93,122 84,115 C 73,105 66,86 67,68 Z"/>
+      <path fill="#AA755B" d="M 126,88 C 135,76 151,78 162,85 C 176,95 180,111 168,125 C 161,132 148,136 138,134 L 130,123 C 132,111 132,100 126,88 Z"/>
+      <path fill="#AA755B" d="M 138,141 C 150,137 162,133 171,141 C 181,149 189,174 187,188 C 168,189 147,184 136,172 C 129,163 127,154 129,143 Z"/>
+      <path fill="#AA755B" d="M 85,128 C 96,125 106,129 116,134 L 124,143 C 124,155 126,166 131,173 C 119,182 102,178 92,171 C 78,161 74,143 85,128 Z"/>
+      <path fill="#916448" d="M 121,109 C 129,110 139,116 142,123 Q 146,130 141,137 Q 138,145 130,146 Q 120,144 114,138 Q 107,133 109,126 Q 113,118 121,109 Z"/>
+      <path fill="#C2A17F" d="M 122,115 Q 132,116 137,123 Q 140,129 136,136 Q 131,142 123,138 Q 115,136 115,129 Q 115,121 122,115 Z"/>
+    </g>
+  </defs>
+  <rect width="256" height="256" fill="#506766"/>
+  <use xlink:href="#blade"/>
+  <use xlink:href="#blade" transform="translate(0 256)"/>
+  <use xlink:href="#blade" transform="matrix(0 1 1 0 0 0)"/>
+  <use xlink:href="#blade" transform="matrix(0 1 1 0 256 0)"/>
+  <use xlink:href="#rosette"/>
+  <use xlink:href="#eye"/>
+  <use xlink:href="#eye" transform="translate(256 0)"/>
+  <use xlink:href="#eye" transform="translate(0 256)"/>
+  <use xlink:href="#eye" transform="translate(256 256)"/>
+</svg>

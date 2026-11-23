@@ -1,0 +1,185 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="640" height="640" viewBox="0 0 640 640">
+<title>The Belle and Lion, Sheerness — rope lattice with anchors, ships’ wheels and compass roses</title>
+<defs>
+<g id="sprig">
+<path fill="#84766F" d="M-2.6 -3.9 Q-.1 -3.7 1.4 -1.2 L2.7 3.8 Q.3 3.2 -1.1 1.3 Z"/>
+</g>
+<g id="weft-row">
+<use xlink:href="#sprig" transform="translate(4.2000 0.0000)"/>
+<use xlink:href="#sprig" transform="translate(21.9778 0.0000)"/>
+<use xlink:href="#sprig" transform="translate(39.7556 0.0000)"/>
+<use xlink:href="#sprig" transform="translate(57.5333 0.0000)"/>
+<use xlink:href="#sprig" transform="translate(75.3111 0.0000)"/>
+<use xlink:href="#sprig" transform="translate(93.0889 0.0000)"/>
+<use xlink:href="#sprig" transform="translate(110.8667 0.0000)"/>
+<use xlink:href="#sprig" transform="translate(128.6444 0.0000)"/>
+<use xlink:href="#sprig" transform="translate(146.4222 0.0000)"/>
+<use xlink:href="#sprig" transform="translate(164.2000 0.0000)"/>
+<use xlink:href="#sprig" transform="translate(181.9778 0.0000)"/>
+<use xlink:href="#sprig" transform="translate(199.7556 0.0000)"/>
+<use xlink:href="#sprig" transform="translate(217.5333 0.0000)"/>
+<use xlink:href="#sprig" transform="translate(235.3111 0.0000)"/>
+<use xlink:href="#sprig" transform="translate(253.0889 0.0000)"/>
+<use xlink:href="#sprig" transform="translate(270.8667 0.0000)"/>
+<use xlink:href="#sprig" transform="translate(288.6444 0.0000)"/>
+<use xlink:href="#sprig" transform="translate(306.4222 0.0000)"/>
+<use xlink:href="#sprig" transform="translate(324.2000 0.0000)"/>
+<use xlink:href="#sprig" transform="translate(341.9778 0.0000)"/>
+<use xlink:href="#sprig" transform="translate(359.7556 0.0000)"/>
+<use xlink:href="#sprig" transform="translate(377.5333 0.0000)"/>
+<use xlink:href="#sprig" transform="translate(395.3111 0.0000)"/>
+<use xlink:href="#sprig" transform="translate(413.0889 0.0000)"/>
+<use xlink:href="#sprig" transform="translate(430.8667 0.0000)"/>
+<use xlink:href="#sprig" transform="translate(448.6444 0.0000)"/>
+<use xlink:href="#sprig" transform="translate(466.4222 0.0000)"/>
+<use xlink:href="#sprig" transform="translate(484.2000 0.0000)"/>
+<use xlink:href="#sprig" transform="translate(501.9778 0.0000)"/>
+<use xlink:href="#sprig" transform="translate(519.7556 0.0000)"/>
+<use xlink:href="#sprig" transform="translate(537.5333 0.0000)"/>
+<use xlink:href="#sprig" transform="translate(555.3111 0.0000)"/>
+<use xlink:href="#sprig" transform="translate(573.0889 0.0000)"/>
+<use xlink:href="#sprig" transform="translate(590.8667 0.0000)"/>
+<use xlink:href="#sprig" transform="translate(608.6444 0.0000)"/>
+<use xlink:href="#sprig" transform="translate(626.4222 0.0000)"/>
+</g>
+<g id="ground-stitches">
+<use xlink:href="#weft-row" transform="translate(0.0000 4.4000)"/>
+<use xlink:href="#weft-row" transform="translate(8.8889 15.8286) scale(1 -1)"/>
+<use xlink:href="#weft-row" transform="translate(0.0000 27.2571)"/>
+<use xlink:href="#weft-row" transform="translate(8.8889 38.6857) scale(1 -1)"/>
+<use xlink:href="#weft-row" transform="translate(0.0000 50.1143)"/>
+<use xlink:href="#weft-row" transform="translate(8.8889 61.5429) scale(1 -1)"/>
+<use xlink:href="#weft-row" transform="translate(0.0000 72.9714)"/>
+<use xlink:href="#weft-row" transform="translate(8.8889 84.4000) scale(1 -1)"/>
+<use xlink:href="#weft-row" transform="translate(0.0000 95.8286)"/>
+<use xlink:href="#weft-row" transform="translate(8.8889 107.2571) scale(1 -1)"/>
+<use xlink:href="#weft-row" transform="translate(0.0000 118.6857)"/>
+<use xlink:href="#weft-row" transform="translate(8.8889 130.1143) scale(1 -1)"/>
+<use xlink:href="#weft-row" transform="translate(0.0000 141.5429)"/>
+<use xlink:href="#weft-row" transform="translate(8.8889 152.9714) scale(1 -1)"/>
+<use xlink:href="#weft-row" transform="translate(0.0000 164.4000)"/>
+<use xlink:href="#weft-row" transform="translate(8.8889 175.8286) scale(1 -1)"/>
+<use xlink:href="#weft-row" transform="translate(0.0000 187.2571)"/>
+<use xlink:href="#weft-row" transform="translate(8.8889 198.6857) scale(1 -1)"/>
+<use xlink:href="#weft-row" transform="translate(0.0000 210.1143)"/>
+<use xlink:href="#weft-row" transform="translate(8.8889 221.5429) scale(1 -1)"/>
+<use xlink:href="#weft-row" transform="translate(0.0000 232.9714)"/>
+<use xlink:href="#weft-row" transform="translate(8.8889 244.4000) scale(1 -1)"/>
+<use xlink:href="#weft-row" transform="translate(0.0000 255.8286)"/>
+<use xlink:href="#weft-row" transform="translate(8.8889 267.2571) scale(1 -1)"/>
+<use xlink:href="#weft-row" transform="translate(0.0000 278.6857)"/>
+<use xlink:href="#weft-row" transform="translate(8.8889 290.1143) scale(1 -1)"/>
+<use xlink:href="#weft-row" transform="translate(0.0000 301.5429)"/>
+<use xlink:href="#weft-row" transform="translate(8.8889 312.9714) scale(1 -1)"/>
+<use xlink:href="#weft-row" transform="translate(0.0000 324.4000)"/>
+<use xlink:href="#weft-row" transform="translate(8.8889 335.8286) scale(1 -1)"/>
+<use xlink:href="#weft-row" transform="translate(0.0000 347.2571)"/>
+<use xlink:href="#weft-row" transform="translate(8.8889 358.6857) scale(1 -1)"/>
+<use xlink:href="#weft-row" transform="translate(0.0000 370.1143)"/>
+<use xlink:href="#weft-row" transform="translate(8.8889 381.5429) scale(1 -1)"/>
+<use xlink:href="#weft-row" transform="translate(0.0000 392.9714)"/>
+<use xlink:href="#weft-row" transform="translate(8.8889 404.4000) scale(1 -1)"/>
+<use xlink:href="#weft-row" transform="translate(0.0000 415.8286)"/>
+<use xlink:href="#weft-row" transform="translate(8.8889 427.2571) scale(1 -1)"/>
+<use xlink:href="#weft-row" transform="translate(0.0000 438.6857)"/>
+<use xlink:href="#weft-row" transform="translate(8.8889 450.1143) scale(1 -1)"/>
+<use xlink:href="#weft-row" transform="translate(0.0000 461.5429)"/>
+<use xlink:href="#weft-row" transform="translate(8.8889 472.9714) scale(1 -1)"/>
+<use xlink:href="#weft-row" transform="translate(0.0000 484.4000)"/>
+<use xlink:href="#weft-row" transform="translate(8.8889 495.8286) scale(1 -1)"/>
+<use xlink:href="#weft-row" transform="translate(0.0000 507.2571)"/>
+<use xlink:href="#weft-row" transform="translate(8.8889 518.6857) scale(1 -1)"/>
+<use xlink:href="#weft-row" transform="translate(0.0000 530.1143)"/>
+<use xlink:href="#weft-row" transform="translate(8.8889 541.5429) scale(1 -1)"/>
+<use xlink:href="#weft-row" transform="translate(0.0000 552.9714)"/>
+<use xlink:href="#weft-row" transform="translate(8.8889 564.4000) scale(1 -1)"/>
+<use xlink:href="#weft-row" transform="translate(0.0000 575.8286)"/>
+<use xlink:href="#weft-row" transform="translate(8.8889 587.2571) scale(1 -1)"/>
+<use xlink:href="#weft-row" transform="translate(0.0000 598.6857)"/>
+<use xlink:href="#weft-row" transform="translate(8.8889 610.1143) scale(1 -1)"/>
+<use xlink:href="#weft-row" transform="translate(0.0000 621.5429)"/>
+<use xlink:href="#weft-row" transform="translate(8.8889 632.9714) scale(1 -1)"/>
+</g>
+<g id="hawser">
+<path fill="#84958B" d="M22 -8 Q29 -9 34 -14 Q40 -19 48 -14 Q58.15 -7 63.15 -10 Q76.15 -21 86.15 -14 Q96.30 -7 101.30 -10 Q114.30 -21 124.30 -14 Q134.45 -7 139.45 -10 Q152.45 -21 162.45 -14 Q172.60 -7 177.60 -10 Q190.60 -21 200.60 -14 Q210.75 -7 215.75 -10 Q228.75 -21 238.75 -14 Q248.90 -7 253.90 -10 Q266.90 -21 276.90 -14 Q287.05 -7 292.05 -10 Q305.05 -21 315.05 -14 Q325.20 -7 330.20 -10 Q343.20 -21 353.20 -14 Q363.35 -7 368.35 -10 Q381.35 -21 391.35 -14 Q401.35 -10 405.35 -3 Q416.35 10 429.35 12 Q423.35 17 411.35 13 Q405.35 18 394.35 13 Q385.35 8 380.35 11 Q367.20 18 356.20 13 Q347.20 8 342.20 11 Q329.05 18 318.05 13 Q309.05 8 304.05 11 Q290.90 18 279.90 13 Q270.90 8 265.90 11 Q252.75 18 241.75 13 Q232.75 8 227.75 11 Q214.60 18 203.60 13 Q194.60 8 189.60 11 Q176.45 18 165.45 13 Q156.45 8 151.45 11 Q138.30 18 127.30 13 Q118.30 8 113.30 11 Q100.15 18 89.15 13 Q80.15 8 75.15 11 Q62.00 18 51.00 13 Q39 8 35 1 Q30 -5 22 -8 Z"/>
+<g transform="translate(0.0000 0.0000)"><path fill="#A5B6AC" d="M23 -8 C32 -9 33 -15 40 -15 C49 -15 55 -8 60 -3 C66 4 74 8 84 12 C76 15 67 14 59 11 C46 6 41 -2 33 -5 Q27 -8 23 -8 Z"/><path fill="#B9C6BB" d="M29 -9 Q38 -18 45 -14 C52 -12 57 -6 63 0 Q69 7 77 9 C64 8 57 2 50 -3 Q40 -11 29 -9 Z"/></g>
+<g transform="translate(38.1500 0.0000)"><path fill="#A5B6AC" d="M23 -8 C32 -9 33 -15 40 -15 C49 -15 55 -8 60 -3 C66 4 74 8 84 12 C76 15 67 14 59 11 C46 6 41 -2 33 -5 Q27 -8 23 -8 Z"/><path fill="#B9C6BB" d="M29 -9 Q38 -18 45 -14 C52 -12 57 -6 63 0 Q69 7 77 9 C64 8 57 2 50 -3 Q40 -11 29 -9 Z"/></g>
+<g transform="translate(76.3000 0.0000)"><path fill="#A5B6AC" d="M23 -8 C32 -9 33 -15 40 -15 C49 -15 55 -8 60 -3 C66 4 74 8 84 12 C76 15 67 14 59 11 C46 6 41 -2 33 -5 Q27 -8 23 -8 Z"/><path fill="#B9C6BB" d="M29 -9 Q38 -18 45 -14 C52 -12 57 -6 63 0 Q69 7 77 9 C64 8 57 2 50 -3 Q40 -11 29 -9 Z"/></g>
+<g transform="translate(114.4500 0.0000)"><path fill="#A5B6AC" d="M23 -8 C32 -9 33 -15 40 -15 C49 -15 55 -8 60 -3 C66 4 74 8 84 12 C76 15 67 14 59 11 C46 6 41 -2 33 -5 Q27 -8 23 -8 Z"/><path fill="#B9C6BB" d="M29 -9 Q38 -18 45 -14 C52 -12 57 -6 63 0 Q69 7 77 9 C64 8 57 2 50 -3 Q40 -11 29 -9 Z"/></g>
+<g transform="translate(152.6000 0.0000)"><path fill="#A5B6AC" d="M23 -8 C32 -9 33 -15 40 -15 C49 -15 55 -8 60 -3 C66 4 74 8 84 12 C76 15 67 14 59 11 C46 6 41 -2 33 -5 Q27 -8 23 -8 Z"/><path fill="#B9C6BB" d="M29 -9 Q38 -18 45 -14 C52 -12 57 -6 63 0 Q69 7 77 9 C64 8 57 2 50 -3 Q40 -11 29 -9 Z"/></g>
+<g transform="translate(190.7500 0.0000)"><path fill="#A5B6AC" d="M23 -8 C32 -9 33 -15 40 -15 C49 -15 55 -8 60 -3 C66 4 74 8 84 12 C76 15 67 14 59 11 C46 6 41 -2 33 -5 Q27 -8 23 -8 Z"/><path fill="#B9C6BB" d="M29 -9 Q38 -18 45 -14 C52 -12 57 -6 63 0 Q69 7 77 9 C64 8 57 2 50 -3 Q40 -11 29 -9 Z"/></g>
+<g transform="translate(228.9000 0.0000)"><path fill="#A5B6AC" d="M23 -8 C32 -9 33 -15 40 -15 C49 -15 55 -8 60 -3 C66 4 74 8 84 12 C76 15 67 14 59 11 C46 6 41 -2 33 -5 Q27 -8 23 -8 Z"/><path fill="#B9C6BB" d="M29 -9 Q38 -18 45 -14 C52 -12 57 -6 63 0 Q69 7 77 9 C64 8 57 2 50 -3 Q40 -11 29 -9 Z"/></g>
+<g transform="translate(267.0500 0.0000)"><path fill="#A5B6AC" d="M23 -8 C32 -9 33 -15 40 -15 C49 -15 55 -8 60 -3 C66 4 74 8 84 12 C76 15 67 14 59 11 C46 6 41 -2 33 -5 Q27 -8 23 -8 Z"/><path fill="#B9C6BB" d="M29 -9 Q38 -18 45 -14 C52 -12 57 -6 63 0 Q69 7 77 9 C64 8 57 2 50 -3 Q40 -11 29 -9 Z"/></g>
+<g transform="translate(305.2000 0.0000)"><path fill="#A5B6AC" d="M23 -8 C32 -9 33 -15 40 -15 C49 -15 55 -8 60 -3 C66 4 74 8 84 12 C76 15 67 14 59 11 C46 6 41 -2 33 -5 Q27 -8 23 -8 Z"/><path fill="#B9C6BB" d="M29 -9 Q38 -18 45 -14 C52 -12 57 -6 63 0 Q69 7 77 9 C64 8 57 2 50 -3 Q40 -11 29 -9 Z"/></g>
+<g transform="translate(343.3500 0.0000)"><path fill="#A5B6AC" d="M23 -8 C32 -9 33 -15 40 -15 C49 -15 55 -8 60 -3 C66 4 74 8 84 12 C76 15 67 14 59 11 C46 6 41 -2 33 -5 Q27 -8 23 -8 Z"/><path fill="#B9C6BB" d="M29 -9 Q38 -18 45 -14 C52 -12 57 -6 63 0 Q69 7 77 9 C64 8 57 2 50 -3 Q40 -11 29 -9 Z"/></g>
+</g>
+<g id="needle">
+<path fill="#96897C" d="M-58 38 L-55 26 -66 30 -60 23 -72 25 -63 19 -74 17 -56 13 -49 15 -32 8 -31 12 -51 20 -50 28 Z"/>
+<path fill="#A5B6AC" d="M-68 18 L-55 15 -51 17 -59 19 Z"/>
+<path fill="#96897C" d="M-53 23 L46 -19 40 -26 Q49 -24 58 -29 L71 -30 62 -19 54 -14 48 -17 -52 27 Z"/>
+<path fill="#B9C6BB" d="M45 -20 Q54 -19 67 -28 Q63 -17 54 -14 L48 -16 Z"/>
+</g>
+<g id="compass-rose">
+<path fill="#A5B6AC" d="M0 -54 Q9 -39 11 -16 Q25 -27 38 -39 Q36 -19 24 -9 Q43 -10 56 0 Q40 9 21 11 Q27 22 38 37 Q23 34 11 23 Q9 40 0 55 Q-9 39 -12 21 Q-22 30 -35 36 Q-33 21 -23 11 Q-43 10 -56 0 Q-41 -10 -22 -12 Q-29 -24 -38 -39 Q-19 -34 -12 -23 Q-10 -42 0 -54 Z"/>
+<path fill="#B9C6BB" d="M0 -53 Q5 -35 2 -9 L-5 -2 -12 -22 Q-9 -42 0 -53 Z M-55 0 Q-37 -6 -15 -7 L-4 0 -25 4 Z M11 23 Q22 28 37 37 Q27 24 21 12 L9 8 Z M-1 53 Q-6 40 -7 26 L0 11 Z"/>
+<use xlink:href="#needle"/>
+</g>
+<g id="anchor">
+<path fill="#A5B6AC" d="M-2 -59 L2 -59 3 -49 6 -46 43 -47 48 -44 45 -42 7 -42 3 -40 3 35 Q4 47 9 51 Q20 60 34 55 Q56 49 63 19 L54 21 Q60 13 67 3 L79 19 70 18 Q67 43 52 58 Q33 77 0 78 Q-31 76 -51 60 Q-65 46 -68 19 L-78 22 -65 4 -54 20 -62 18 Q-57 43 -40 52 Q-27 62 -13 54 Q-4 48 -3 38 L-3 -41 -42 -42 -47 -44 -44 -47 -7 -47 -3 -49 Z"/>
+<path fill="#B9C6BB" d="M-65 5 L-64 15 -76 21 Z M67 4 L68 14 57 19 Z M-61 27 Q-49 57 -26 61 Q-37 60 -48 53 Q-59 42 -61 27 Z M2 52 Q25 65 47 50 Q30 69 5 66 L-3 64 Z M-46 -44 L-19 -46 -3 -46 -8 -44 Z"/>
+<g transform="translate(0 -73)"><circle r="14" fill="none" stroke="#A5B6AC" stroke-width="5.8"/><path fill="#B9C6BB" d="M-14 0 Q-14 -13 -2 -16 L3 -15 Q-9 -12 -12 -1 Z"/></g>
+</g>
+<g id="spindle">
+<path fill="#96897C" d="M-2.7 -27 L-3.6 -34 C-8 -37 -10 -45 -8 -49 Q-7 -53 -3 -55 L-2.7 -66 2.7 -66 3 -55 Q9 -53 9 -47 Q11 -41 4 -35 L3 -27 Z M-3 -72 L-4 -77 Q-7 -80 -4 -86 Q0 -92 4 -86 Q7 -80 4 -77 L3 -72 Z"/>
+<path fill="#84766F" d="M-5 -51 Q-1 -55 2 -51 Q-4 -48 -4 -42 L-6 -41 Q-8 -46 -5 -51 Z"/>
+</g>
+<g id="helm">
+<use xlink:href="#spindle" transform="rotate(0)"/>
+<use xlink:href="#spindle" transform="rotate(45)"/>
+<use xlink:href="#spindle" transform="rotate(90)"/>
+<use xlink:href="#spindle" transform="rotate(135)"/>
+<use xlink:href="#spindle" transform="rotate(180)"/>
+<use xlink:href="#spindle" transform="rotate(225)"/>
+<use xlink:href="#spindle" transform="rotate(270)"/>
+<use xlink:href="#spindle" transform="rotate(315)"/>
+<circle r="68" fill="none" stroke="#96897C" stroke-width="7.6"/>
+<circle r="28" fill="none" stroke="#96897C" stroke-width="6"/>
+<circle r="14.5" fill="#96897C"/>
+<circle r="10.5" fill="none" stroke="#A5B6AC" stroke-width="3.7"/>
+<circle r="3.5" fill="#84766F"/>
+</g>
+</defs>
+<rect width="640" height="640" fill="#574642"/>
+<use xlink:href="#ground-stitches"/>
+<use xlink:href="#hawser" transform="translate(-195.0000 -50.0000) rotate(45)"/>
+<use xlink:href="#hawser" transform="translate(285.0000 -210.0000) rotate(135) scale(1 -1)"/>
+<use xlink:href="#hawser" transform="translate(125.0000 -50.0000) rotate(45)"/>
+<use xlink:href="#hawser" transform="translate(-195.0000 270.0000) rotate(45)"/>
+<use xlink:href="#hawser" transform="translate(605.0000 -210.0000) rotate(135) scale(1 -1)"/>
+<use xlink:href="#hawser" transform="translate(445.0000 -50.0000) rotate(45)"/>
+<use xlink:href="#hawser" transform="translate(285.0000 110.0000) rotate(135) scale(1 -1)"/>
+<use xlink:href="#hawser" transform="translate(125.0000 270.0000) rotate(45)"/>
+<use xlink:href="#hawser" transform="translate(-195.0000 590.0000) rotate(45)"/>
+<use xlink:href="#hawser" transform="translate(925.0000 -210.0000) rotate(135) scale(1 -1)"/>
+<use xlink:href="#hawser" transform="translate(605.0000 110.0000) rotate(135) scale(1 -1)"/>
+<use xlink:href="#hawser" transform="translate(445.0000 270.0000) rotate(45)"/>
+<use xlink:href="#hawser" transform="translate(285.0000 430.0000) rotate(135) scale(1 -1)"/>
+<use xlink:href="#hawser" transform="translate(125.0000 590.0000) rotate(45)"/>
+<use xlink:href="#hawser" transform="translate(925.0000 110.0000) rotate(135) scale(1 -1)"/>
+<use xlink:href="#hawser" transform="translate(605.0000 430.0000) rotate(135) scale(1 -1)"/>
+<use xlink:href="#hawser" transform="translate(445.0000 590.0000) rotate(45)"/>
+<use xlink:href="#hawser" transform="translate(925.0000 430.0000) rotate(135) scale(1 -1)"/>
+<use xlink:href="#helm" transform="translate(285.0000 270.0000)"/>
+<use xlink:href="#anchor" transform="translate(-35.0000 -50.0000)"/>
+<use xlink:href="#anchor" transform="translate(-35.0000 590.0000)"/>
+<use xlink:href="#anchor" transform="translate(605.0000 -50.0000)"/>
+<use xlink:href="#anchor" transform="translate(605.0000 590.0000)"/>
+<use xlink:href="#compass-rose" transform="translate(445.0000 430.0000)"/>
+<use xlink:href="#compass-rose" transform="translate(125.0000 430.0000)"/>
+<use xlink:href="#compass-rose" transform="translate(445.0000 110.0000)"/>
+<use xlink:href="#compass-rose" transform="translate(125.0000 110.0000)"/>
+<use xlink:href="#compass-rose" transform="translate(-35.0000 270.0000)"/>
+<use xlink:href="#compass-rose" transform="translate(605.0000 270.0000)"/>
+<use xlink:href="#compass-rose" transform="translate(285.0000 -50.0000)"/>
+<use xlink:href="#compass-rose" transform="translate(285.0000 590.0000)"/>
+</svg>

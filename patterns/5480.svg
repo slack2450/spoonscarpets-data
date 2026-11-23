@@ -1,0 +1,182 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="288" height="288" viewBox="0 0 288 288">
+  <title>Harpsfield Hall, Hatfield — charcoal and warm grey tartan with a yellow overcheck</title>
+  <defs>
+    <pattern id="grey-cross" patternUnits="userSpaceOnUse" width="8" height="8">
+      <rect width="8" height="8" fill="#807573" />
+      <path d="M0 0h2v2H0z M2 2h2v2H2z M4 4h2v2H4z M6 6h2v2H6z" fill="#695F5D" />
+    </pattern>
+    <pattern id="pale-cross" patternUnits="userSpaceOnUse" width="8" height="8">
+      <rect width="8" height="8" fill="#978D89" />
+      <path d="M0 0h2v2H0z M2 2h2v2H2z M4 4h2v2H4z M6 6h2v2H6z" fill="#B4A9A3" />
+    </pattern>
+    <pattern id="bright-tick" patternUnits="userSpaceOnUse" width="8" height="8">
+      <rect width="8" height="8" fill="#695F5D" />
+      <path d="M0 0h2v2H0z M2 2h2v2H2z M4 4h2v2H4z M6 6h2v2H6z" fill="#978D89" />
+    </pattern>
+    <g id="sett">
+      <rect x="0" y="0" width="288" height="288" fill="#49423F" />
+      <rect x="0" y="0" width="2.3" height="288" fill="#C5AE4E" />
+      <rect x="18.6" y="0" width="5" height="288" fill="url(#bright-tick)" />
+      <rect x="44" y="0" width="5.4" height="288" fill="url(#bright-tick)" />
+      <rect x="64.2" y="0" width="5.4" height="288" fill="url(#bright-tick)" />
+      <rect x="90.4" y="0" width="5.2" height="288" fill="url(#bright-tick)" />
+      <rect x="111.44" y="0" width="4.6" height="288" fill="#C5AE4E" />
+      <rect x="144.6" y="0" width="6.2" height="288" fill="url(#grey-cross)" />
+      <rect x="155.5" y="0" width="4.9" height="288" fill="url(#grey-cross)" />
+      <rect x="165.8" y="0" width="30.7" height="288" fill="url(#grey-cross)" />
+      <rect x="205.1" y="0" width="30.3" height="288" fill="url(#grey-cross)" />
+      <rect x="240.6" y="0" width="5" height="288" fill="url(#grey-cross)" />
+      <rect x="250.4" y="0" width="6.4" height="288" fill="url(#grey-cross)" />
+      <rect x="285.7" y="0" width="2.3" height="288" fill="#C5AE4E" />
+      <rect x="0" y="0" width="288" height="2.3" fill="#C5AE4E" />
+      <rect x="0" y="18.6" width="288" height="5" fill="url(#bright-tick)" />
+      <rect x="0" y="18.6" width="2.3" height="5" fill="#C5AE4E" />
+      <rect x="18.6" y="18.6" width="5" height="5" fill="#978D89" />
+      <rect x="44" y="18.6" width="5.4" height="5" fill="#978D89" />
+      <rect x="64.2" y="18.6" width="5.4" height="5" fill="#978D89" />
+      <rect x="90.4" y="18.6" width="5.2" height="5" fill="#978D89" />
+      <rect x="111.44" y="18.6" width="4.6" height="5" fill="#C5AE4E" />
+      <rect x="144.6" y="18.6" width="6.2" height="5" fill="url(#pale-cross)" />
+      <rect x="155.5" y="18.6" width="4.9" height="5" fill="url(#pale-cross)" />
+      <rect x="165.8" y="18.6" width="30.7" height="5" fill="url(#pale-cross)" />
+      <rect x="205.1" y="18.6" width="30.3" height="5" fill="url(#pale-cross)" />
+      <rect x="240.6" y="18.6" width="5" height="5" fill="url(#pale-cross)" />
+      <rect x="250.4" y="18.6" width="6.4" height="5" fill="url(#pale-cross)" />
+      <rect x="285.7" y="18.6" width="2.3" height="5" fill="#C5AE4E" />
+      <rect x="0" y="44" width="288" height="5.4" fill="url(#bright-tick)" />
+      <rect x="0" y="44" width="2.3" height="5.4" fill="#C5AE4E" />
+      <rect x="18.6" y="44" width="5" height="5.4" fill="#978D89" />
+      <rect x="44" y="44" width="5.4" height="5.4" fill="#978D89" />
+      <rect x="64.2" y="44" width="5.4" height="5.4" fill="#978D89" />
+      <rect x="90.4" y="44" width="5.2" height="5.4" fill="#978D89" />
+      <rect x="111.44" y="44" width="4.6" height="5.4" fill="#C5AE4E" />
+      <rect x="144.6" y="44" width="6.2" height="5.4" fill="url(#pale-cross)" />
+      <rect x="155.5" y="44" width="4.9" height="5.4" fill="url(#pale-cross)" />
+      <rect x="165.8" y="44" width="30.7" height="5.4" fill="url(#pale-cross)" />
+      <rect x="205.1" y="44" width="30.3" height="5.4" fill="url(#pale-cross)" />
+      <rect x="240.6" y="44" width="5" height="5.4" fill="url(#pale-cross)" />
+      <rect x="250.4" y="44" width="6.4" height="5.4" fill="url(#pale-cross)" />
+      <rect x="285.7" y="44" width="2.3" height="5.4" fill="#C5AE4E" />
+      <rect x="0" y="64.2" width="288" height="5.4" fill="url(#bright-tick)" />
+      <rect x="0" y="64.2" width="2.3" height="5.4" fill="#C5AE4E" />
+      <rect x="18.6" y="64.2" width="5" height="5.4" fill="#978D89" />
+      <rect x="44" y="64.2" width="5.4" height="5.4" fill="#978D89" />
+      <rect x="64.2" y="64.2" width="5.4" height="5.4" fill="#978D89" />
+      <rect x="90.4" y="64.2" width="5.2" height="5.4" fill="#978D89" />
+      <rect x="111.44" y="64.2" width="4.6" height="5.4" fill="#C5AE4E" />
+      <rect x="144.6" y="64.2" width="6.2" height="5.4" fill="url(#pale-cross)" />
+      <rect x="155.5" y="64.2" width="4.9" height="5.4" fill="url(#pale-cross)" />
+      <rect x="165.8" y="64.2" width="30.7" height="5.4" fill="url(#pale-cross)" />
+      <rect x="205.1" y="64.2" width="30.3" height="5.4" fill="url(#pale-cross)" />
+      <rect x="240.6" y="64.2" width="5" height="5.4" fill="url(#pale-cross)" />
+      <rect x="250.4" y="64.2" width="6.4" height="5.4" fill="url(#pale-cross)" />
+      <rect x="285.7" y="64.2" width="2.3" height="5.4" fill="#C5AE4E" />
+      <rect x="0" y="90.4" width="288" height="5.2" fill="url(#bright-tick)" />
+      <rect x="0" y="90.4" width="2.3" height="5.2" fill="#C5AE4E" />
+      <rect x="18.6" y="90.4" width="5" height="5.2" fill="#978D89" />
+      <rect x="44" y="90.4" width="5.4" height="5.2" fill="#978D89" />
+      <rect x="64.2" y="90.4" width="5.4" height="5.2" fill="#978D89" />
+      <rect x="90.4" y="90.4" width="5.2" height="5.2" fill="#978D89" />
+      <rect x="111.44" y="90.4" width="4.6" height="5.2" fill="#C5AE4E" />
+      <rect x="144.6" y="90.4" width="6.2" height="5.2" fill="url(#pale-cross)" />
+      <rect x="155.5" y="90.4" width="4.9" height="5.2" fill="url(#pale-cross)" />
+      <rect x="165.8" y="90.4" width="30.7" height="5.2" fill="url(#pale-cross)" />
+      <rect x="205.1" y="90.4" width="30.3" height="5.2" fill="url(#pale-cross)" />
+      <rect x="240.6" y="90.4" width="5" height="5.2" fill="url(#pale-cross)" />
+      <rect x="250.4" y="90.4" width="6.4" height="5.2" fill="url(#pale-cross)" />
+      <rect x="285.7" y="90.4" width="2.3" height="5.2" fill="#C5AE4E" />
+      <rect x="0" y="111.44" width="288" height="4.6" fill="#C5AE4E" />
+      <rect x="0" y="144.6" width="288" height="6.2" fill="url(#grey-cross)" />
+      <rect x="0" y="144.6" width="2.3" height="6.2" fill="#C5AE4E" />
+      <rect x="18.6" y="144.6" width="5" height="6.2" fill="url(#pale-cross)" />
+      <rect x="44" y="144.6" width="5.4" height="6.2" fill="url(#pale-cross)" />
+      <rect x="64.2" y="144.6" width="5.4" height="6.2" fill="url(#pale-cross)" />
+      <rect x="90.4" y="144.6" width="5.2" height="6.2" fill="url(#pale-cross)" />
+      <rect x="111.44" y="144.6" width="4.6" height="6.2" fill="#C5AE4E" />
+      <rect x="144.6" y="144.6" width="6.2" height="6.2" fill="#B4A9A3" />
+      <rect x="155.5" y="144.6" width="4.9" height="6.2" fill="#B4A9A3" />
+      <rect x="165.8" y="144.6" width="30.7" height="6.2" fill="#B4A9A3" />
+      <rect x="205.1" y="144.6" width="30.3" height="6.2" fill="#B4A9A3" />
+      <rect x="240.6" y="144.6" width="5" height="6.2" fill="#B4A9A3" />
+      <rect x="250.4" y="144.6" width="6.4" height="6.2" fill="#B4A9A3" />
+      <rect x="285.7" y="144.6" width="2.3" height="6.2" fill="#C5AE4E" />
+      <rect x="0" y="155.5" width="288" height="4.9" fill="url(#grey-cross)" />
+      <rect x="0" y="155.5" width="2.3" height="4.9" fill="#C5AE4E" />
+      <rect x="18.6" y="155.5" width="5" height="4.9" fill="url(#pale-cross)" />
+      <rect x="44" y="155.5" width="5.4" height="4.9" fill="url(#pale-cross)" />
+      <rect x="64.2" y="155.5" width="5.4" height="4.9" fill="url(#pale-cross)" />
+      <rect x="90.4" y="155.5" width="5.2" height="4.9" fill="url(#pale-cross)" />
+      <rect x="111.44" y="155.5" width="4.6" height="4.9" fill="#C5AE4E" />
+      <rect x="144.6" y="155.5" width="6.2" height="4.9" fill="#B4A9A3" />
+      <rect x="155.5" y="155.5" width="4.9" height="4.9" fill="#B4A9A3" />
+      <rect x="165.8" y="155.5" width="30.7" height="4.9" fill="#B4A9A3" />
+      <rect x="205.1" y="155.5" width="30.3" height="4.9" fill="#B4A9A3" />
+      <rect x="240.6" y="155.5" width="5" height="4.9" fill="#B4A9A3" />
+      <rect x="250.4" y="155.5" width="6.4" height="4.9" fill="#B4A9A3" />
+      <rect x="285.7" y="155.5" width="2.3" height="4.9" fill="#C5AE4E" />
+      <rect x="0" y="165.8" width="288" height="30.7" fill="url(#grey-cross)" />
+      <rect x="0" y="165.8" width="2.3" height="30.7" fill="#C5AE4E" />
+      <rect x="18.6" y="165.8" width="5" height="30.7" fill="url(#pale-cross)" />
+      <rect x="44" y="165.8" width="5.4" height="30.7" fill="url(#pale-cross)" />
+      <rect x="64.2" y="165.8" width="5.4" height="30.7" fill="url(#pale-cross)" />
+      <rect x="90.4" y="165.8" width="5.2" height="30.7" fill="url(#pale-cross)" />
+      <rect x="111.44" y="165.8" width="4.6" height="30.7" fill="#C5AE4E" />
+      <rect x="144.6" y="165.8" width="6.2" height="30.7" fill="#B4A9A3" />
+      <rect x="155.5" y="165.8" width="4.9" height="30.7" fill="#B4A9A3" />
+      <rect x="165.8" y="165.8" width="30.7" height="30.7" fill="#B4A9A3" />
+      <rect x="205.1" y="165.8" width="30.3" height="30.7" fill="#B4A9A3" />
+      <rect x="240.6" y="165.8" width="5" height="30.7" fill="#B4A9A3" />
+      <rect x="250.4" y="165.8" width="6.4" height="30.7" fill="#B4A9A3" />
+      <rect x="285.7" y="165.8" width="2.3" height="30.7" fill="#C5AE4E" />
+      <rect x="0" y="205.1" width="288" height="30.3" fill="url(#grey-cross)" />
+      <rect x="0" y="205.1" width="2.3" height="30.3" fill="#C5AE4E" />
+      <rect x="18.6" y="205.1" width="5" height="30.3" fill="url(#pale-cross)" />
+      <rect x="44" y="205.1" width="5.4" height="30.3" fill="url(#pale-cross)" />
+      <rect x="64.2" y="205.1" width="5.4" height="30.3" fill="url(#pale-cross)" />
+      <rect x="90.4" y="205.1" width="5.2" height="30.3" fill="url(#pale-cross)" />
+      <rect x="111.44" y="205.1" width="4.6" height="30.3" fill="#C5AE4E" />
+      <rect x="144.6" y="205.1" width="6.2" height="30.3" fill="#B4A9A3" />
+      <rect x="155.5" y="205.1" width="4.9" height="30.3" fill="#B4A9A3" />
+      <rect x="165.8" y="205.1" width="30.7" height="30.3" fill="#B4A9A3" />
+      <rect x="205.1" y="205.1" width="30.3" height="30.3" fill="#B4A9A3" />
+      <rect x="240.6" y="205.1" width="5" height="30.3" fill="#B4A9A3" />
+      <rect x="250.4" y="205.1" width="6.4" height="30.3" fill="#B4A9A3" />
+      <rect x="285.7" y="205.1" width="2.3" height="30.3" fill="#C5AE4E" />
+      <rect x="0" y="240.6" width="288" height="5" fill="url(#grey-cross)" />
+      <rect x="0" y="240.6" width="2.3" height="5" fill="#C5AE4E" />
+      <rect x="18.6" y="240.6" width="5" height="5" fill="url(#pale-cross)" />
+      <rect x="44" y="240.6" width="5.4" height="5" fill="url(#pale-cross)" />
+      <rect x="64.2" y="240.6" width="5.4" height="5" fill="url(#pale-cross)" />
+      <rect x="90.4" y="240.6" width="5.2" height="5" fill="url(#pale-cross)" />
+      <rect x="111.44" y="240.6" width="4.6" height="5" fill="#C5AE4E" />
+      <rect x="144.6" y="240.6" width="6.2" height="5" fill="#B4A9A3" />
+      <rect x="155.5" y="240.6" width="4.9" height="5" fill="#B4A9A3" />
+      <rect x="165.8" y="240.6" width="30.7" height="5" fill="#B4A9A3" />
+      <rect x="205.1" y="240.6" width="30.3" height="5" fill="#B4A9A3" />
+      <rect x="240.6" y="240.6" width="5" height="5" fill="#B4A9A3" />
+      <rect x="250.4" y="240.6" width="6.4" height="5" fill="#B4A9A3" />
+      <rect x="285.7" y="240.6" width="2.3" height="5" fill="#C5AE4E" />
+      <rect x="0" y="250.4" width="288" height="6.4" fill="url(#grey-cross)" />
+      <rect x="0" y="250.4" width="2.3" height="6.4" fill="#C5AE4E" />
+      <rect x="18.6" y="250.4" width="5" height="6.4" fill="url(#pale-cross)" />
+      <rect x="44" y="250.4" width="5.4" height="6.4" fill="url(#pale-cross)" />
+      <rect x="64.2" y="250.4" width="5.4" height="6.4" fill="url(#pale-cross)" />
+      <rect x="90.4" y="250.4" width="5.2" height="6.4" fill="url(#pale-cross)" />
+      <rect x="111.44" y="250.4" width="4.6" height="6.4" fill="#C5AE4E" />
+      <rect x="144.6" y="250.4" width="6.2" height="6.4" fill="#B4A9A3" />
+      <rect x="155.5" y="250.4" width="4.9" height="6.4" fill="#B4A9A3" />
+      <rect x="165.8" y="250.4" width="30.7" height="6.4" fill="#B4A9A3" />
+      <rect x="205.1" y="250.4" width="30.3" height="6.4" fill="#B4A9A3" />
+      <rect x="240.6" y="250.4" width="5" height="6.4" fill="#B4A9A3" />
+      <rect x="250.4" y="250.4" width="6.4" height="6.4" fill="#B4A9A3" />
+      <rect x="285.7" y="250.4" width="2.3" height="6.4" fill="#C5AE4E" />
+      <rect x="0" y="285.7" width="288" height="2.3" fill="#C5AE4E" />
+    </g>
+  </defs>
+  <rect width="288" height="288" fill="#49423F" />
+  <use xlink:href="#sett" x="-276" y="-276" />
+  <use xlink:href="#sett" x="-276" y="12" />
+  <use xlink:href="#sett" x="12" y="-276" />
+  <use xlink:href="#sett" x="12" y="12" />
+</svg>

@@ -1,0 +1,116 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="506" height="392" viewBox="0 0 506 392">
+<title>The Charles Henry Roe, Leeds — turquoise split discs and copper lattice</title>
+<defs>
+<g id="teal-panel-a">
+<polygon points="31.625,85.75 124.919,7.35 224.537,101.675 132.034,180.688" fill="#24232B"/>
+<g fill="#527982">
+  <polygon points="109.3,20.476 118.798,12.493 129.556,11.741 136.753,18.556"/>
+  <polygon points="93.426,33.815 102.924,25.833 141.584,23.13 148.781,29.944"/>
+  <polygon points="77.552,47.155 87.05,39.173 153.612,34.519 160.809,41.333"/>
+  <polygon points="61.678,60.495 71.176,52.513 165.64,45.907 172.837,52.722"/>
+  <polygon points="45.804,73.835 55.302,65.853 177.668,57.296 184.865,64.111"/>
+  <polygon points="32.911,86.966 31.625,85.75 39.428,79.193 189.696,68.685 196.893,75.499"/>
+  <polygon points="44.955,98.354 37.748,91.54 201.724,80.074 208.921,86.888"/>
+  <polygon points="56.999,109.741 49.792,102.927 213.752,91.462 220.949,98.277"/>
+  <polygon points="69.043,121.129 61.836,114.315 222.927,103.05 213.596,111.021"/>
+  <polygon points="81.087,132.516 73.88,125.703 207.333,116.371 198.001,124.341"/>
+  <polygon points="93.131,143.904 85.924,137.09 191.738,129.691 182.407,137.661"/>
+  <polygon points="105.175,155.292 97.968,148.478 176.144,143.011 166.812,150.982"/>
+  <polygon points="117.219,166.679 110.012,159.865 160.549,156.331 151.218,164.302"/>
+  <polygon points="129.263,178.067 122.056,171.253 144.954,169.652 135.623,177.622"/>
+</g>
+<polyline points="31.625,85.75 124.919,7.35 224.537,101.675 132.034,180.688 31.625,85.75" fill="none" stroke="#527982" stroke-width="2.7" stroke-linejoin="round"/>
+</g>
+<g id="teal-panel-b">
+<polygon points="30.044,-106.575 121.756,-183.75 215.841,-96.163 124.919,-18.375" fill="#24232B"/>
+<g fill="#527982">
+  <polygon points="111.805,-175.376 121.29,-183.357 122.116,-183.415 129.427,-176.609"/>
+  <polygon points="95.955,-162.038 105.439,-170.019 134.335,-172.04 141.646,-165.233"/>
+  <polygon points="80.104,-148.7 89.588,-156.681 146.554,-160.664 153.866,-153.858"/>
+  <polygon points="64.253,-135.362 73.738,-143.343 158.773,-149.289 166.085,-142.483"/>
+  <polygon points="48.402,-122.024 57.887,-130.005 170.992,-137.914 178.304,-131.107"/>
+  <polygon points="32.552,-108.685 42.036,-116.666 183.212,-126.538 190.523,-119.732"/>
+  <polygon points="40.343,-97 33.022,-103.806 195.431,-115.163 202.742,-108.357"/>
+  <polygon points="52.578,-85.626 45.257,-92.432 207.65,-103.788 214.961,-96.981"/>
+  <polygon points="64.813,-74.252 57.492,-81.058 210.709,-91.772 201.394,-83.803"/>
+  <polygon points="77.048,-62.878 69.727,-69.684 195.141,-78.453 185.827,-70.484"/>
+  <polygon points="89.283,-51.504 81.962,-58.309 179.574,-65.135 170.26,-57.166"/>
+  <polygon points="101.518,-40.129 94.197,-46.935 164.007,-51.817 154.692,-43.848"/>
+  <polygon points="113.753,-28.755 106.432,-35.561 148.44,-38.498 139.125,-30.529"/>
+  <polygon points="118.667,-24.187 132.873,-25.18 124.919,-18.375"/>
+</g>
+<polyline points="30.044,-106.575 121.756,-183.75 215.841,-96.163 124.919,-18.375 30.044,-106.575" fill="none" stroke="#527982" stroke-width="2.7" stroke-linejoin="round"/>
+</g>
+<g id="copper-panel">
+<polygon points="166.822,-0.613 251.419,-74.725 336.016,1.838 255.372,74.113" fill="#342631"/>
+<g fill="#9D6A60">
+  <polygon points="174.122,5.548 169.502,1.649 169.163,-2.663 173.198,-6.198"/>
+  <polygon points="183.309,13.3 178.688,9.401 177.186,-9.692 181.221,-13.227"/>
+  <polygon points="192.495,21.053 187.875,17.154 185.209,-16.721 189.244,-20.256"/>
+  <polygon points="201.682,28.805 197.062,24.906 193.232,-23.75 197.267,-27.285"/>
+  <polygon points="210.868,36.557 206.248,32.658 201.256,-30.779 205.291,-34.314"/>
+  <polygon points="220.055,44.309 215.435,40.411 209.279,-37.808 213.314,-41.343"/>
+  <polygon points="229.241,52.062 224.621,48.163 217.302,-44.836 221.337,-48.371"/>
+  <polygon points="238.428,59.814 233.808,55.915 225.325,-51.865 229.36,-55.4"/>
+  <polygon points="247.615,67.566 242.994,63.667 233.349,-58.894 237.384,-62.429"/>
+  <polygon points="252.181,71.42 241.372,-65.923 245.407,-69.458 256.618,72.995 255.372,74.113"/>
+  <polygon points="249.395,-72.952 251.419,-74.725 253.734,-72.63 264.63,65.815 260.6,69.426"/>
+  <polygon points="258.324,-68.476 262.968,-64.273 272.641,58.636 268.612,62.246"/>
+  <polygon points="267.558,-60.119 272.202,-55.916 280.652,51.456 276.623,55.067"/>
+  <polygon points="276.792,-51.761 281.436,-47.558 288.664,44.276 284.635,47.887"/>
+  <polygon points="286.026,-43.404 290.67,-39.201 296.675,37.096 292.646,40.707"/>
+  <polygon points="295.26,-35.047 299.905,-30.844 304.686,29.916 300.657,33.527"/>
+  <polygon points="304.495,-26.69 309.139,-22.487 312.698,22.736 308.669,26.347"/>
+  <polygon points="313.729,-18.333 318.373,-14.13 320.709,15.556 316.68,19.167"/>
+  <polygon points="322.963,-9.976 327.607,-5.773 328.72,8.376 324.691,11.987"/>
+  <polygon points="332.197,-1.618 336.016,1.838 332.703,4.807"/>
+</g>
+<polyline points="166.822,-0.613 251.419,-74.725 336.016,1.838 255.372,74.113 166.822,-0.613" fill="none" stroke="#9D6A60" stroke-width="2.7" stroke-linejoin="round"/>
+</g>
+<g id="panels-and-rails">
+<use xlink:href="#teal-panel-a"/>
+<use xlink:href="#teal-panel-b"/>
+<use xlink:href="#copper-panel"/>
+<polyline points="-128.081,4.9 -26.091,99.838 -5.534,83.913" fill="none" stroke="#BB8577" stroke-width="5.5" stroke-linejoin="round"/>
+<polyline points="-5.534,83.913 14.231,102.9 -68.784,172.113" fill="none" stroke="#527982" stroke-width="4.4" stroke-linejoin="round"/>
+<polyline points="-132.825,-25.725 -114.641,-5.513 -136.778,11.638 -147.056,2.45" fill="none" stroke="#527982" stroke-width="4.2" stroke-linejoin="round"/>
+<polyline points="25.3,-109.025 150.219,3.675 249.047,-75.338" fill="none" stroke="#BB8577" stroke-width="6.4" stroke-linejoin="round"/>
+<polyline points="249.047,-75.338 227.7,-95.55 245.094,-109.025" fill="none" stroke="#527982" stroke-width="3.7" stroke-linejoin="round"/>
+<polyline points="228.491,-97.388 338.387,3.675 256.163,73.5" fill="none" stroke="#BB8577" stroke-width="5.6" stroke-linejoin="round"/>
+<polyline points="256.163,73.5 163.659,-1.838 153.381,6.125" fill="none" stroke="#527982" stroke-width="3.5" stroke-linejoin="round"/>
+<polyline points="0.791,114.538 33.206,89.425 139.15,188.65 119.384,203.963" fill="none" stroke="#BB8577" stroke-width="6.1" stroke-linejoin="round"/>
+<polyline points="128.081,8.575 140.731,-1.225 124.128,-20.213 214.259,-94.938" fill="none" stroke="#527982" stroke-width="3.7" stroke-linejoin="round"/>
+<polyline points="128.081,8.575 226.909,102.288 247.466,86.363" fill="none" stroke="#BB8577" stroke-width="5.1" stroke-linejoin="round"/>
+<polyline points="247.466,86.363 258.534,77.788 273.556,90.65" fill="none" stroke="#527982" stroke-width="3.5" stroke-linejoin="round"/>
+<circle cx="253" cy="0" r="19.1" fill="#BB8577"/>
+<circle cx="253" cy="0" r="14.1" fill="#527982"/>
+</g>
+<g id="split-disc">
+<circle cx="0" cy="0" r="87.5" fill="#24232B"/>
+<path d="M 83 0 A 83 83 0 0 1 -83 0" fill="none" stroke="#527982" stroke-width="4.2"/>
+<path d="M 0 50 L 0 86" fill="none" stroke="#527982" stroke-width="6"/>
+<path d="M -83.5 4 A 83.6 83.6 0 1 1 83.5 4 L 56.7 2.7 A 56.8 56.8 0 1 0 -56.7 2.7 Z" fill="#79A6AB"/>
+<path d="M -83.2 8 L -57 6 M 57 6 L 83.2 8" fill="none" stroke="#527982" stroke-width="6.8"/>
+<path d="M -83.1 0 L -57 0 M 57 0 L 83.1 0" fill="none" stroke="#24232B" stroke-width="4.8"/>
+<circle cx="0" cy="0" r="53.6" fill="#342631"/>
+<circle cx="0" cy="0" r="51.8" fill="#BB8577"/>
+<circle cx="0" cy="0" r="45.5" fill="#342631"/>
+<circle cx="0" cy="0" r="14.5" fill="#9D6A60"/>
+<circle cx="0" cy="0" r="8.3" fill="#24232B"/>
+</g>
+</defs>
+<rect width="506" height="392" fill="#24232B"/>
+<use xlink:href="#panels-and-rails" transform="translate(-297 164)"/>
+<use xlink:href="#panels-and-rails" transform="translate(209 164)"/>
+<use xlink:href="#panels-and-rails" transform="translate(-297 556)"/>
+<use xlink:href="#panels-and-rails" transform="translate(209 556)"/>
+<use xlink:href="#panels-and-rails" transform="translate(-44 -32)"/>
+<use xlink:href="#panels-and-rails" transform="translate(462 -32)"/>
+<use xlink:href="#panels-and-rails" transform="translate(-44 360)"/>
+<use xlink:href="#panels-and-rails" transform="translate(462 360)"/>
+<use xlink:href="#split-disc" transform="translate(209 164)"/>
+<use xlink:href="#split-disc" transform="translate(-44 -32) rotate(180)"/>
+<use xlink:href="#split-disc" transform="translate(462 -32) rotate(180)"/>
+<use xlink:href="#split-disc" transform="translate(-44 360) rotate(180)"/>
+<use xlink:href="#split-disc" transform="translate(462 360) rotate(180)"/>
+</svg>

@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="480" height="480" viewBox="0 0 480 480">
+  <title>The Cerdic, Chard — overlapping wine and biscuit rings</title>
+  <defs>
+    <circle id="wine-1" cx="101" cy="401" r="82"/>
+    <circle id="wine-2" cx="453" cy="103" r="116"/>
+    <circle id="wine-3" cx="453" cy="132" r="73"/>
+    <circle id="wine-4" cx="168" cy="475" r="74"/>
+    <circle id="wine-5" cx="100" cy="191" r="178"/>
+    <circle id="wine-6" cx="336" cy="39" r="52"/>
+    <circle id="wine-7" cx="398" cy="359" r="51"/>
+    <circle id="wine-8" cx="300" cy="251" r="25"/>
+    <circle id="biscuit-1" cx="164" cy="155" r="33"/>
+    <circle id="biscuit-2" cx="161" cy="192" r="74"/>
+    <circle id="biscuit-3" cx="145" cy="205" r="117"/>
+    <circle id="biscuit-4" cx="252" cy="422" r="36"/>
+    <circle id="biscuit-5" cx="366" cy="358" r="91"/>
+    <circle id="biscuit-6" cx="321" cy="387" r="177"/>
+    <circle id="biscuit-7" cx="452" cy="128" r="33"/>
+  </defs>
+  <rect width="480" height="480" fill="#32232d"/>
+  <g fill="none" stroke="#a88e80" stroke-width="7">
+    <use xlink:href="#biscuit-1" x="0" y="0"/>
+    <use xlink:href="#biscuit-2" x="0" y="0"/>
+    <use xlink:href="#biscuit-3" x="0" y="0"/>
+    <use xlink:href="#biscuit-4" x="0" y="0"/>
+    <use xlink:href="#biscuit-5" x="0" y="0"/>
+    <use xlink:href="#biscuit-6" x="-480" y="-480"/>
+    <use xlink:href="#biscuit-6" x="-480" y="0"/>
+    <use xlink:href="#biscuit-6" x="0" y="-480"/>
+    <use xlink:href="#biscuit-6" x="0" y="0"/>
+    <use xlink:href="#biscuit-7" x="-480" y="0"/>
+    <use xlink:href="#biscuit-7" x="0" y="0"/>
+  </g>
+  <g fill="none" stroke="#903e4d" stroke-width="7.5">
+    <use xlink:href="#wine-1" x="0" y="-480"/>
+    <use xlink:href="#wine-1" x="0" y="0"/>
+    <use xlink:href="#wine-2" x="-480" y="0"/>
+    <use xlink:href="#wine-2" x="-480" y="480"/>
+    <use xlink:href="#wine-2" x="0" y="0"/>
+    <use xlink:href="#wine-2" x="0" y="480"/>
+    <use xlink:href="#wine-3" x="-480" y="0"/>
+    <use xlink:href="#wine-3" x="0" y="0"/>
+    <use xlink:href="#wine-4" x="0" y="-480"/>
+    <use xlink:href="#wine-4" x="0" y="0"/>
+    <use xlink:href="#wine-5" x="0" y="0"/>
+    <use xlink:href="#wine-5" x="480" y="0"/>
+    <use xlink:href="#wine-6" x="0" y="0"/>
+    <use xlink:href="#wine-6" x="0" y="480"/>
+    <use xlink:href="#wine-7" x="0" y="0"/>
+    <use xlink:href="#wine-8" x="0" y="0"/>
+  </g>
+</svg>

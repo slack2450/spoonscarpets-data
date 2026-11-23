@@ -1,0 +1,739 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="640" height="640" viewBox="0 0 640 640"><title>The Charlie Hall, Birmingham — acanthus roundel and scroll carpet</title><defs>
+<g id="curb-stitch">
+<path fill="#D7A371" d="M-4 2.5 Q-4 -1 -1 -3 L2 -3.5 3 -.5 0 1 -1 3.4Z" />
+<path fill="#2D3959" d="M0 1 Q2 -1.5 4 -1.7 L3.6 1.9 1.5 3.8 -1 3.4Z" />
+</g>
+<g id="flower">
+<g id="petal">
+<g transform="scale(.75 1)">
+<path fill="#D7A371" d="M-1.5 -4.8 C-2.6 -8 -6.5 -10 -6.5 -14 Q-6.8 -17.8 -3.3 -18.6 Q-1.6 -21.2 1.2 -20.6 Q4.1 -20.5 4.5 -17.8 Q7 -17 6.8 -13.8 C6.6 -10.5 3.2 -7.8 2.3 -5Z" />
+<path fill="#EAC8AD" d="M-5 -13.4 Q-5.7 -16.4 -2.9 -16.8 Q-1.8 -19.8 .5 -19.1 Q2.7 -19 3 -17.1 Q5.6 -16.6 5.5 -14.1 L3.4 -12.9 1.5 -15.1 -.5 -12.4 -2.3 -15.2Z" />
+</g>
+</g>
+<use xlink:href="#petal" transform="rotate(45)"/>
+<use xlink:href="#petal" transform="rotate(90)"/>
+<use xlink:href="#petal" transform="rotate(135)"/>
+<use xlink:href="#petal" transform="rotate(180)"/>
+<use xlink:href="#petal" transform="rotate(225)"/>
+<use xlink:href="#petal" transform="rotate(270)"/>
+<use xlink:href="#petal" transform="rotate(315)"/>
+<circle cx="0" cy="0" r="6.7" fill="#2D3959"/>
+<circle cx="0" cy="0" r="4.6" fill="#D7A371"/>
+<ellipse cx="-0.4" cy="-0.5" rx="2.7" ry="3.6" fill="#EAC8AD"/>
+</g>
+<g id="seed-flower">
+<g transform="rotate(0)">
+<path fill="#D7A371" d="M0 -11 L2.4 -8.4 3 -5.5 .3 -3 -2.7 -5.5 -2.8 -8Z" />
+<path fill="#2D3959" d="M-6.1 -6.7 L-3.7 -6.9 -3.2 -4.4 -5.6 -2.5 -7.3 -3.8Z" />
+</g>
+<g transform="rotate(90)">
+<path fill="#D7A371" d="M0 -11 L2.4 -8.4 3 -5.5 .3 -3 -2.7 -5.5 -2.8 -8Z" />
+<path fill="#2D3959" d="M-6.1 -6.7 L-3.7 -6.9 -3.2 -4.4 -5.6 -2.5 -7.3 -3.8Z" />
+</g>
+<g transform="rotate(180)">
+<path fill="#D7A371" d="M0 -11 L2.4 -8.4 3 -5.5 .3 -3 -2.7 -5.5 -2.8 -8Z" />
+<path fill="#2D3959" d="M-6.1 -6.7 L-3.7 -6.9 -3.2 -4.4 -5.6 -2.5 -7.3 -3.8Z" />
+</g>
+<g transform="rotate(270)">
+<path fill="#D7A371" d="M0 -11 L2.4 -8.4 3 -5.5 .3 -3 -2.7 -5.5 -2.8 -8Z" />
+<path fill="#2D3959" d="M-6.1 -6.7 L-3.7 -6.9 -3.2 -4.4 -5.6 -2.5 -7.3 -3.8Z" />
+</g>
+<circle cx="0" cy="0" r="2.7" fill="#2D3959"/>
+</g>
+<g id="panel">
+<rect x="-134" y="-58" width="268" height="116" fill="#932740"/>
+<rect x="-131" y="-55" width="262" height="110" fill="#EAC8AD"/>
+<rect x="-128" y="-52" width="256" height="104" fill="#932740"/>
+<rect x="-116" y="-40" width="232" height="80" fill="#2D3959"/>
+<rect x="-114" y="-38" width="228" height="76" fill="#758985"/>
+<use xlink:href="#curb-stitch" transform="translate(-119.32 -48) rotate(0)"/>
+<use xlink:href="#curb-stitch" transform="translate(-107.95 -48) rotate(0)"/>
+<use xlink:href="#curb-stitch" transform="translate(-96.59 -48) rotate(0)"/>
+<use xlink:href="#curb-stitch" transform="translate(-85.23 -48) rotate(0)"/>
+<use xlink:href="#curb-stitch" transform="translate(-73.86 -48) rotate(0)"/>
+<use xlink:href="#curb-stitch" transform="translate(-62.50 -48) rotate(0)"/>
+<use xlink:href="#curb-stitch" transform="translate(-51.14 -48) rotate(0)"/>
+<use xlink:href="#curb-stitch" transform="translate(-39.77 -48) rotate(0)"/>
+<use xlink:href="#curb-stitch" transform="translate(-28.41 -48) rotate(0)"/>
+<use xlink:href="#curb-stitch" transform="translate(-17.05 -48) rotate(0)"/>
+<use xlink:href="#curb-stitch" transform="translate(-5.68 -48) rotate(0)"/>
+<use xlink:href="#curb-stitch" transform="translate(5.68 -48) rotate(0)"/>
+<use xlink:href="#curb-stitch" transform="translate(17.05 -48) rotate(0)"/>
+<use xlink:href="#curb-stitch" transform="translate(28.41 -48) rotate(0)"/>
+<use xlink:href="#curb-stitch" transform="translate(39.77 -48) rotate(0)"/>
+<use xlink:href="#curb-stitch" transform="translate(51.14 -48) rotate(0)"/>
+<use xlink:href="#curb-stitch" transform="translate(62.50 -48) rotate(0)"/>
+<use xlink:href="#curb-stitch" transform="translate(73.86 -48) rotate(0)"/>
+<use xlink:href="#curb-stitch" transform="translate(85.23 -48) rotate(0)"/>
+<use xlink:href="#curb-stitch" transform="translate(96.59 -48) rotate(0)"/>
+<use xlink:href="#curb-stitch" transform="translate(107.95 -48) rotate(0)"/>
+<use xlink:href="#curb-stitch" transform="translate(119.32 -48) rotate(0)"/>
+<use xlink:href="#curb-stitch" transform="translate(-119.32 48) rotate(180)"/>
+<use xlink:href="#curb-stitch" transform="translate(-107.95 48) rotate(180)"/>
+<use xlink:href="#curb-stitch" transform="translate(-96.59 48) rotate(180)"/>
+<use xlink:href="#curb-stitch" transform="translate(-85.23 48) rotate(180)"/>
+<use xlink:href="#curb-stitch" transform="translate(-73.86 48) rotate(180)"/>
+<use xlink:href="#curb-stitch" transform="translate(-62.50 48) rotate(180)"/>
+<use xlink:href="#curb-stitch" transform="translate(-51.14 48) rotate(180)"/>
+<use xlink:href="#curb-stitch" transform="translate(-39.77 48) rotate(180)"/>
+<use xlink:href="#curb-stitch" transform="translate(-28.41 48) rotate(180)"/>
+<use xlink:href="#curb-stitch" transform="translate(-17.05 48) rotate(180)"/>
+<use xlink:href="#curb-stitch" transform="translate(-5.68 48) rotate(180)"/>
+<use xlink:href="#curb-stitch" transform="translate(5.68 48) rotate(180)"/>
+<use xlink:href="#curb-stitch" transform="translate(17.05 48) rotate(180)"/>
+<use xlink:href="#curb-stitch" transform="translate(28.41 48) rotate(180)"/>
+<use xlink:href="#curb-stitch" transform="translate(39.77 48) rotate(180)"/>
+<use xlink:href="#curb-stitch" transform="translate(51.14 48) rotate(180)"/>
+<use xlink:href="#curb-stitch" transform="translate(62.50 48) rotate(180)"/>
+<use xlink:href="#curb-stitch" transform="translate(73.86 48) rotate(180)"/>
+<use xlink:href="#curb-stitch" transform="translate(85.23 48) rotate(180)"/>
+<use xlink:href="#curb-stitch" transform="translate(96.59 48) rotate(180)"/>
+<use xlink:href="#curb-stitch" transform="translate(107.95 48) rotate(180)"/>
+<use xlink:href="#curb-stitch" transform="translate(119.32 48) rotate(180)"/>
+<use xlink:href="#curb-stitch" transform="translate(-125 -42.00) rotate(270)"/>
+<use xlink:href="#curb-stitch" transform="translate(-125 -30.00) rotate(270)"/>
+<use xlink:href="#curb-stitch" transform="translate(-125 -18.00) rotate(270)"/>
+<use xlink:href="#curb-stitch" transform="translate(-125 -6.00) rotate(270)"/>
+<use xlink:href="#curb-stitch" transform="translate(-125 6.00) rotate(270)"/>
+<use xlink:href="#curb-stitch" transform="translate(-125 18.00) rotate(270)"/>
+<use xlink:href="#curb-stitch" transform="translate(-125 30.00) rotate(270)"/>
+<use xlink:href="#curb-stitch" transform="translate(-125 42.00) rotate(270)"/>
+<use xlink:href="#curb-stitch" transform="translate(125 -42.00) rotate(90)"/>
+<use xlink:href="#curb-stitch" transform="translate(125 -30.00) rotate(90)"/>
+<use xlink:href="#curb-stitch" transform="translate(125 -18.00) rotate(90)"/>
+<use xlink:href="#curb-stitch" transform="translate(125 -6.00) rotate(90)"/>
+<use xlink:href="#curb-stitch" transform="translate(125 6.00) rotate(90)"/>
+<use xlink:href="#curb-stitch" transform="translate(125 18.00) rotate(90)"/>
+<use xlink:href="#curb-stitch" transform="translate(125 30.00) rotate(90)"/>
+<use xlink:href="#curb-stitch" transform="translate(125 42.00) rotate(90)"/>
+<g transform="rotate(0)">
+<use xlink:href="#seed-flower" transform="translate(73 0) scale(.94)"/>
+<path fill="#EAC8AD" d="M39.4 -3 L45.7 -3.6 47 1 45.7 3.6 40 3.3Z" />
+<path fill="#EAC8AD" d="M100.4 -3 L106.7 -3.6 108 1 106.7 3.6 101 3.3Z" />
+</g>
+<g transform="rotate(180)">
+<use xlink:href="#seed-flower" transform="translate(73 0) scale(.94)"/>
+<path fill="#EAC8AD" d="M39.4 -3 L45.7 -3.6 47 1 45.7 3.6 40 3.3Z" />
+<path fill="#EAC8AD" d="M100.4 -3 L106.7 -3.6 108 1 106.7 3.6 101 3.3Z" />
+</g>
+<use xlink:href="#flower" transform="scale(.93)"/>
+</g>
+<g id="cartouche">
+<rect x="-78" y="-51" width="156" height="102" fill="#932740"/>
+<rect x="-75" y="-48" width="150" height="96" fill="#EAC8AD"/>
+<rect x="-72" y="-45" width="144" height="90" fill="#932740"/>
+<rect x="-66" y="-39" width="132" height="78" fill="#EAC8AD"/>
+<rect x="-61" y="-34" width="122" height="68" fill="#2D3959"/>
+<rect x="-54" y="-27" width="108" height="54" fill="#D7A371"/>
+<rect x="-52" y="-25" width="104" height="50" fill="#2D3959"/>
+<rect x="-50" y="-23" width="100" height="46" fill="#932740"/>
+<use xlink:href="#seed-flower" transform="scale(1.28)"/>
+<ellipse cx="-29" cy="0" rx="5.1" ry="4.2" fill="#EAC8AD"/>
+<path fill="#D7A371" d="M-40 -2.7 l2.7 2.7 -2.7 2.7 -2.7 -2.7Z" />
+<ellipse cx="29" cy="0" rx="5.1" ry="4.2" fill="#EAC8AD"/>
+<path fill="#D7A371" d="M40 -2.7 l2.7 2.7 -2.7 2.7 -2.7 -2.7Z" />
+</g>
+<g id="frond">
+<path fill="#D7A371" d="M151 126 C151 105 161 89 179 88 C196 84 212 94 211 109 C212 119 204 130 194 130 C184 131 177 126 176 117 C175 112 178 107 184 106 C179 118 190 122 194 113 C198 103 188 98 179 100 C166 101 160 110 160 124 C160 145 179 151 203 153 L247 154 Q266 155 277 147 C298 135 301 110 295 92 C290 74 279 68 263 68 C243 67 231 80 231 95 C231 110 238 119 246 118 C256 118 262 110 258 97 C269 102 275 120 268 131 C260 142 242 143 229 137 C213 132 210 118 209 104 Q208 94 215 85 L211 82 Q217 65 233 61 L229 56 Q248 48 267 56 Q277 58 282 58 L282 49 Q295 56 300 68 L305 66 Q314 81 315 97 L320 94 Q324 113 315 132 L319 131 Q315 147 299 157 Q307 163 306 177 Q305 195 293 210 C281 223 254 229 239 215 C228 207 227 192 234 181 C239 173 249 169 259 171 C269 172 275 180 272 189 C271 194 266 198 260 197 Q266 188 259 184 Q253 181 248 186 Q240 193 244 201 C250 215 271 215 282 203 C295 189 293 172 281 166 C269 159 248 161 232 161 L202 161 C179 161 154 152 151 126Z" />
+<path fill="#D7A371" d="M292 164 Q303 150 320 152 Q337 152 347 163 L342 165 Q350 166 355 174 Q335 169 330 178 C338 196 354 203 373 201 C395 200 408 188 409 171 C410 159 403 150 392 149 C383 148 374 155 374 166 Q365 160 366 149 Q365 131 384 127 Q403 123 418 137 L418 131 Q430 143 429 162 L433 159 Q437 175 428 191 L434 189 Q432 204 414 215 L419 215 Q403 228 383 226 L385 231 Q366 231 350 221 L351 225 Q327 219 320 197 Q316 188 318 178 Q310 166 299 177Z" />
+</g>
+<g id="scroll">
+<g transform="translate(8 12) scale(.5)">
+<use xlink:href="#frond"/>
+<use xlink:href="#frond" transform="matrix(0 1 1 0 0 0)"/>
+<path fill="#D7A371" d="M164 157 Q178 169 198 170 Q184 178 177 191 Q174 174 164 157Z" />
+<path fill="#D7A371" d="M203 206 l7 -6 7 6 -6 7Z M223 221 l4 -4 4 4 -4 5Z" />
+</g>
+</g>
+<g id="leaf-half">
+<path fill="#D7A371" d="M556 32 C540 31 529 41 525 52 Q516 66 520 92 L520 113 Q515 97 506 91 Q491 82 472 91 Q474 107 484 120 L477 119 Q482 137 493 152 L486 151 Q492 168 491 193 Q478 187 472 176 Q466 151 450 139 L445 132 Q434 134 429 145 L418 137 410 144 393 130 Q386 144 394 166 Q399 182 414 201 L400 199 Q402 211 417 224 L411 223 Q415 239 430 253 L423 253 Q433 275 450 291 L442 289 457 308 Q477 296 482 277 Q480 296 467 308 C446 329 412 330 389 316 Q380 311 374 299 Q385 302 394 301 Q383 288 390 275 Q399 259 393 244 L400 245 Q398 223 383 205 L386 194 Q373 198 362 211 Q364 183 356 165 Q352 140 330 130 Q316 137 314 155 Q306 150 299 163 L295 188 Q289 178 282 171 Q273 179 272 204 Q266 186 262 167 Q258 149 252 145 Q236 149 234 169 L228 166 Q218 182 222 203 Q216 188 204 173 L200 181 Q189 160 174 151 L166 166 Q166 188 179 206 L173 207 Q180 221 202 237 L194 233 Q207 252 234 264 L222 264 Q241 279 269 285 L258 285 Q271 294 295 302 L281 271 C313 302 340 315 372 328 C447 362 511 331 536 270 Q552 234 556 194 L557 193 557 32Z" />
+<path fill="#EAC8AD" d="M519 81 Q516 50 539 38 L555 32 556 71 548 65 544 90 537 68 532 74 529 61Z M471 92 Q491 82 503 95 L510 108 499 103 502 115 489 104 491 114Z M390 132 L407 143 412 137 421 146 432 136 428 154 421 160 416 153 415 163 405 156 407 169 397 158Z M316 154 Q319 136 331 133 L345 144 347 157 340 150 337 164 330 154 325 167Z M234 169 Q238 149 252 145 Q260 155 260 167 L251 163 248 175 244 167 240 177Z M174 152 L193 169 198 183 189 179 192 193 181 182 182 194 170 177Z" />
+</g>
+<g id="medallion">
+<circle cx="0" cy="0" r="140.6" fill="#EAC8AD"/>
+<circle cx="0" cy="0" r="139.3" fill="#2D3959"/>
+<circle cx="0" cy="0" r="135.3" fill="#EAC8AD"/>
+<circle cx="0" cy="0" r="134.1" fill="#932740"/>
+<path fill="#2D3959" d="M0 -87 C6.00 -43.00 29.00 -38.00 61.52 -61.52 C34.65 -26.16 47.38 -6.36 87.00 -0.00 C43.00 6.00 38.00 29.00 61.52 61.52 C26.16 34.65 6.36 47.38 0.00 87.00 C-6.00 43.00 -29.00 38.00 -61.52 61.52 C-34.65 26.16 -47.38 6.36 -87.00 0.00 C-43.00 -6.00 -38.00 -29.00 -61.52 -61.52 C-26.16 -34.65 -6.36 -47.38 -0.00 -87.00 Z" />
+<g transform="rotate(0) scale(0.25 .25) translate(-556 -534)">
+<use xlink:href="#leaf-half"/>
+</g>
+<g transform="rotate(0) scale(0.25 .25) matrix(0 1 1 0 0 0) translate(-556 -534)">
+<use xlink:href="#leaf-half"/>
+</g>
+<g transform="rotate(0) scale(-0.25 .25) translate(-556 -534)">
+<use xlink:href="#leaf-half"/>
+</g>
+<g transform="rotate(0) scale(-0.25 .25) matrix(0 1 1 0 0 0) translate(-556 -534)">
+<use xlink:href="#leaf-half"/>
+</g>
+<g transform="rotate(90) scale(0.25 .25) translate(-556 -534)">
+<use xlink:href="#leaf-half"/>
+</g>
+<g transform="rotate(90) scale(0.25 .25) matrix(0 1 1 0 0 0) translate(-556 -534)">
+<use xlink:href="#leaf-half"/>
+</g>
+<g transform="rotate(90) scale(-0.25 .25) translate(-556 -534)">
+<use xlink:href="#leaf-half"/>
+</g>
+<g transform="rotate(90) scale(-0.25 .25) matrix(0 1 1 0 0 0) translate(-556 -534)">
+<use xlink:href="#leaf-half"/>
+</g>
+<g transform="rotate(180) scale(0.25 .25) translate(-556 -534)">
+<use xlink:href="#leaf-half"/>
+</g>
+<g transform="rotate(180) scale(0.25 .25) matrix(0 1 1 0 0 0) translate(-556 -534)">
+<use xlink:href="#leaf-half"/>
+</g>
+<g transform="rotate(180) scale(-0.25 .25) translate(-556 -534)">
+<use xlink:href="#leaf-half"/>
+</g>
+<g transform="rotate(180) scale(-0.25 .25) matrix(0 1 1 0 0 0) translate(-556 -534)">
+<use xlink:href="#leaf-half"/>
+</g>
+<g transform="rotate(270) scale(0.25 .25) translate(-556 -534)">
+<use xlink:href="#leaf-half"/>
+</g>
+<g transform="rotate(270) scale(0.25 .25) matrix(0 1 1 0 0 0) translate(-556 -534)">
+<use xlink:href="#leaf-half"/>
+</g>
+<g transform="rotate(270) scale(-0.25 .25) translate(-556 -534)">
+<use xlink:href="#leaf-half"/>
+</g>
+<g transform="rotate(270) scale(-0.25 .25) matrix(0 1 1 0 0 0) translate(-556 -534)">
+<use xlink:href="#leaf-half"/>
+</g>
+<g transform="rotate(0)">
+<g transform="scale(-1 1)">
+<path fill="#D7A371" d="M5 -40 Q21 -44 35 -32 Q43 -24 44 -11 L42 -13 Q38 -29 27 -34 Q17 -40 5 -38Z" />
+<g transform="translate(10 -39) rotate(0)">
+<path fill="#EAC8AD" d="M0 1 Q-2 -2 2 -5 L6 -6 Q6 -2 1 0Z" />
+<path fill="#D7A371" d="M1 0 Q5 2 6 5 Q2 5 -1 2Z" />
+</g>
+<g transform="translate(18 -39) rotate(14)">
+<path fill="#EAC8AD" d="M0 1 Q-2 -2 2 -5 L6 -6 Q6 -2 1 0Z" />
+<path fill="#D7A371" d="M1 0 Q5 2 6 5 Q2 5 -1 2Z" />
+</g>
+<g transform="translate(26 -36) rotate(28)">
+<path fill="#EAC8AD" d="M0 1 Q-2 -2 2 -5 L6 -6 Q6 -2 1 0Z" />
+<path fill="#D7A371" d="M1 0 Q5 2 6 5 Q2 5 -1 2Z" />
+</g>
+<g transform="translate(33 -31) rotate(47)">
+<path fill="#EAC8AD" d="M0 1 Q-2 -2 2 -5 L6 -6 Q6 -2 1 0Z" />
+<path fill="#D7A371" d="M1 0 Q5 2 6 5 Q2 5 -1 2Z" />
+</g>
+<g transform="translate(38 -25) rotate(64)">
+<path fill="#EAC8AD" d="M0 1 Q-2 -2 2 -5 L6 -6 Q6 -2 1 0Z" />
+<path fill="#D7A371" d="M1 0 Q5 2 6 5 Q2 5 -1 2Z" />
+</g>
+<g transform="translate(41 -18) rotate(77)">
+<path fill="#EAC8AD" d="M0 1 Q-2 -2 2 -5 L6 -6 Q6 -2 1 0Z" />
+<path fill="#D7A371" d="M1 0 Q5 2 6 5 Q2 5 -1 2Z" />
+</g>
+</g>
+<g transform="scale(1 1)">
+<path fill="#D7A371" d="M5 -40 Q21 -44 35 -32 Q43 -24 44 -11 L42 -13 Q38 -29 27 -34 Q17 -40 5 -38Z" />
+<g transform="translate(10 -39) rotate(0)">
+<path fill="#EAC8AD" d="M0 1 Q-2 -2 2 -5 L6 -6 Q6 -2 1 0Z" />
+<path fill="#D7A371" d="M1 0 Q5 2 6 5 Q2 5 -1 2Z" />
+</g>
+<g transform="translate(18 -39) rotate(14)">
+<path fill="#EAC8AD" d="M0 1 Q-2 -2 2 -5 L6 -6 Q6 -2 1 0Z" />
+<path fill="#D7A371" d="M1 0 Q5 2 6 5 Q2 5 -1 2Z" />
+</g>
+<g transform="translate(26 -36) rotate(28)">
+<path fill="#EAC8AD" d="M0 1 Q-2 -2 2 -5 L6 -6 Q6 -2 1 0Z" />
+<path fill="#D7A371" d="M1 0 Q5 2 6 5 Q2 5 -1 2Z" />
+</g>
+<g transform="translate(33 -31) rotate(47)">
+<path fill="#EAC8AD" d="M0 1 Q-2 -2 2 -5 L6 -6 Q6 -2 1 0Z" />
+<path fill="#D7A371" d="M1 0 Q5 2 6 5 Q2 5 -1 2Z" />
+</g>
+<g transform="translate(38 -25) rotate(64)">
+<path fill="#EAC8AD" d="M0 1 Q-2 -2 2 -5 L6 -6 Q6 -2 1 0Z" />
+<path fill="#D7A371" d="M1 0 Q5 2 6 5 Q2 5 -1 2Z" />
+</g>
+<g transform="translate(41 -18) rotate(77)">
+<path fill="#EAC8AD" d="M0 1 Q-2 -2 2 -5 L6 -6 Q6 -2 1 0Z" />
+<path fill="#D7A371" d="M1 0 Q5 2 6 5 Q2 5 -1 2Z" />
+</g>
+</g>
+<ellipse cx="0" cy="-40" rx="4.8" ry="4.1" fill="#EAC8AD"/>
+<circle cx="0" cy="-40" r="2.5" fill="#932740"/>
+</g>
+<g transform="rotate(90)">
+<g transform="scale(-1 1)">
+<path fill="#D7A371" d="M5 -40 Q21 -44 35 -32 Q43 -24 44 -11 L42 -13 Q38 -29 27 -34 Q17 -40 5 -38Z" />
+<g transform="translate(10 -39) rotate(0)">
+<path fill="#EAC8AD" d="M0 1 Q-2 -2 2 -5 L6 -6 Q6 -2 1 0Z" />
+<path fill="#D7A371" d="M1 0 Q5 2 6 5 Q2 5 -1 2Z" />
+</g>
+<g transform="translate(18 -39) rotate(14)">
+<path fill="#EAC8AD" d="M0 1 Q-2 -2 2 -5 L6 -6 Q6 -2 1 0Z" />
+<path fill="#D7A371" d="M1 0 Q5 2 6 5 Q2 5 -1 2Z" />
+</g>
+<g transform="translate(26 -36) rotate(28)">
+<path fill="#EAC8AD" d="M0 1 Q-2 -2 2 -5 L6 -6 Q6 -2 1 0Z" />
+<path fill="#D7A371" d="M1 0 Q5 2 6 5 Q2 5 -1 2Z" />
+</g>
+<g transform="translate(33 -31) rotate(47)">
+<path fill="#EAC8AD" d="M0 1 Q-2 -2 2 -5 L6 -6 Q6 -2 1 0Z" />
+<path fill="#D7A371" d="M1 0 Q5 2 6 5 Q2 5 -1 2Z" />
+</g>
+<g transform="translate(38 -25) rotate(64)">
+<path fill="#EAC8AD" d="M0 1 Q-2 -2 2 -5 L6 -6 Q6 -2 1 0Z" />
+<path fill="#D7A371" d="M1 0 Q5 2 6 5 Q2 5 -1 2Z" />
+</g>
+<g transform="translate(41 -18) rotate(77)">
+<path fill="#EAC8AD" d="M0 1 Q-2 -2 2 -5 L6 -6 Q6 -2 1 0Z" />
+<path fill="#D7A371" d="M1 0 Q5 2 6 5 Q2 5 -1 2Z" />
+</g>
+</g>
+<g transform="scale(1 1)">
+<path fill="#D7A371" d="M5 -40 Q21 -44 35 -32 Q43 -24 44 -11 L42 -13 Q38 -29 27 -34 Q17 -40 5 -38Z" />
+<g transform="translate(10 -39) rotate(0)">
+<path fill="#EAC8AD" d="M0 1 Q-2 -2 2 -5 L6 -6 Q6 -2 1 0Z" />
+<path fill="#D7A371" d="M1 0 Q5 2 6 5 Q2 5 -1 2Z" />
+</g>
+<g transform="translate(18 -39) rotate(14)">
+<path fill="#EAC8AD" d="M0 1 Q-2 -2 2 -5 L6 -6 Q6 -2 1 0Z" />
+<path fill="#D7A371" d="M1 0 Q5 2 6 5 Q2 5 -1 2Z" />
+</g>
+<g transform="translate(26 -36) rotate(28)">
+<path fill="#EAC8AD" d="M0 1 Q-2 -2 2 -5 L6 -6 Q6 -2 1 0Z" />
+<path fill="#D7A371" d="M1 0 Q5 2 6 5 Q2 5 -1 2Z" />
+</g>
+<g transform="translate(33 -31) rotate(47)">
+<path fill="#EAC8AD" d="M0 1 Q-2 -2 2 -5 L6 -6 Q6 -2 1 0Z" />
+<path fill="#D7A371" d="M1 0 Q5 2 6 5 Q2 5 -1 2Z" />
+</g>
+<g transform="translate(38 -25) rotate(64)">
+<path fill="#EAC8AD" d="M0 1 Q-2 -2 2 -5 L6 -6 Q6 -2 1 0Z" />
+<path fill="#D7A371" d="M1 0 Q5 2 6 5 Q2 5 -1 2Z" />
+</g>
+<g transform="translate(41 -18) rotate(77)">
+<path fill="#EAC8AD" d="M0 1 Q-2 -2 2 -5 L6 -6 Q6 -2 1 0Z" />
+<path fill="#D7A371" d="M1 0 Q5 2 6 5 Q2 5 -1 2Z" />
+</g>
+</g>
+<ellipse cx="0" cy="-40" rx="4.8" ry="4.1" fill="#EAC8AD"/>
+<circle cx="0" cy="-40" r="2.5" fill="#932740"/>
+</g>
+<g transform="rotate(180)">
+<g transform="scale(-1 1)">
+<path fill="#D7A371" d="M5 -40 Q21 -44 35 -32 Q43 -24 44 -11 L42 -13 Q38 -29 27 -34 Q17 -40 5 -38Z" />
+<g transform="translate(10 -39) rotate(0)">
+<path fill="#EAC8AD" d="M0 1 Q-2 -2 2 -5 L6 -6 Q6 -2 1 0Z" />
+<path fill="#D7A371" d="M1 0 Q5 2 6 5 Q2 5 -1 2Z" />
+</g>
+<g transform="translate(18 -39) rotate(14)">
+<path fill="#EAC8AD" d="M0 1 Q-2 -2 2 -5 L6 -6 Q6 -2 1 0Z" />
+<path fill="#D7A371" d="M1 0 Q5 2 6 5 Q2 5 -1 2Z" />
+</g>
+<g transform="translate(26 -36) rotate(28)">
+<path fill="#EAC8AD" d="M0 1 Q-2 -2 2 -5 L6 -6 Q6 -2 1 0Z" />
+<path fill="#D7A371" d="M1 0 Q5 2 6 5 Q2 5 -1 2Z" />
+</g>
+<g transform="translate(33 -31) rotate(47)">
+<path fill="#EAC8AD" d="M0 1 Q-2 -2 2 -5 L6 -6 Q6 -2 1 0Z" />
+<path fill="#D7A371" d="M1 0 Q5 2 6 5 Q2 5 -1 2Z" />
+</g>
+<g transform="translate(38 -25) rotate(64)">
+<path fill="#EAC8AD" d="M0 1 Q-2 -2 2 -5 L6 -6 Q6 -2 1 0Z" />
+<path fill="#D7A371" d="M1 0 Q5 2 6 5 Q2 5 -1 2Z" />
+</g>
+<g transform="translate(41 -18) rotate(77)">
+<path fill="#EAC8AD" d="M0 1 Q-2 -2 2 -5 L6 -6 Q6 -2 1 0Z" />
+<path fill="#D7A371" d="M1 0 Q5 2 6 5 Q2 5 -1 2Z" />
+</g>
+</g>
+<g transform="scale(1 1)">
+<path fill="#D7A371" d="M5 -40 Q21 -44 35 -32 Q43 -24 44 -11 L42 -13 Q38 -29 27 -34 Q17 -40 5 -38Z" />
+<g transform="translate(10 -39) rotate(0)">
+<path fill="#EAC8AD" d="M0 1 Q-2 -2 2 -5 L6 -6 Q6 -2 1 0Z" />
+<path fill="#D7A371" d="M1 0 Q5 2 6 5 Q2 5 -1 2Z" />
+</g>
+<g transform="translate(18 -39) rotate(14)">
+<path fill="#EAC8AD" d="M0 1 Q-2 -2 2 -5 L6 -6 Q6 -2 1 0Z" />
+<path fill="#D7A371" d="M1 0 Q5 2 6 5 Q2 5 -1 2Z" />
+</g>
+<g transform="translate(26 -36) rotate(28)">
+<path fill="#EAC8AD" d="M0 1 Q-2 -2 2 -5 L6 -6 Q6 -2 1 0Z" />
+<path fill="#D7A371" d="M1 0 Q5 2 6 5 Q2 5 -1 2Z" />
+</g>
+<g transform="translate(33 -31) rotate(47)">
+<path fill="#EAC8AD" d="M0 1 Q-2 -2 2 -5 L6 -6 Q6 -2 1 0Z" />
+<path fill="#D7A371" d="M1 0 Q5 2 6 5 Q2 5 -1 2Z" />
+</g>
+<g transform="translate(38 -25) rotate(64)">
+<path fill="#EAC8AD" d="M0 1 Q-2 -2 2 -5 L6 -6 Q6 -2 1 0Z" />
+<path fill="#D7A371" d="M1 0 Q5 2 6 5 Q2 5 -1 2Z" />
+</g>
+<g transform="translate(41 -18) rotate(77)">
+<path fill="#EAC8AD" d="M0 1 Q-2 -2 2 -5 L6 -6 Q6 -2 1 0Z" />
+<path fill="#D7A371" d="M1 0 Q5 2 6 5 Q2 5 -1 2Z" />
+</g>
+</g>
+<ellipse cx="0" cy="-40" rx="4.8" ry="4.1" fill="#EAC8AD"/>
+<circle cx="0" cy="-40" r="2.5" fill="#932740"/>
+</g>
+<g transform="rotate(270)">
+<g transform="scale(-1 1)">
+<path fill="#D7A371" d="M5 -40 Q21 -44 35 -32 Q43 -24 44 -11 L42 -13 Q38 -29 27 -34 Q17 -40 5 -38Z" />
+<g transform="translate(10 -39) rotate(0)">
+<path fill="#EAC8AD" d="M0 1 Q-2 -2 2 -5 L6 -6 Q6 -2 1 0Z" />
+<path fill="#D7A371" d="M1 0 Q5 2 6 5 Q2 5 -1 2Z" />
+</g>
+<g transform="translate(18 -39) rotate(14)">
+<path fill="#EAC8AD" d="M0 1 Q-2 -2 2 -5 L6 -6 Q6 -2 1 0Z" />
+<path fill="#D7A371" d="M1 0 Q5 2 6 5 Q2 5 -1 2Z" />
+</g>
+<g transform="translate(26 -36) rotate(28)">
+<path fill="#EAC8AD" d="M0 1 Q-2 -2 2 -5 L6 -6 Q6 -2 1 0Z" />
+<path fill="#D7A371" d="M1 0 Q5 2 6 5 Q2 5 -1 2Z" />
+</g>
+<g transform="translate(33 -31) rotate(47)">
+<path fill="#EAC8AD" d="M0 1 Q-2 -2 2 -5 L6 -6 Q6 -2 1 0Z" />
+<path fill="#D7A371" d="M1 0 Q5 2 6 5 Q2 5 -1 2Z" />
+</g>
+<g transform="translate(38 -25) rotate(64)">
+<path fill="#EAC8AD" d="M0 1 Q-2 -2 2 -5 L6 -6 Q6 -2 1 0Z" />
+<path fill="#D7A371" d="M1 0 Q5 2 6 5 Q2 5 -1 2Z" />
+</g>
+<g transform="translate(41 -18) rotate(77)">
+<path fill="#EAC8AD" d="M0 1 Q-2 -2 2 -5 L6 -6 Q6 -2 1 0Z" />
+<path fill="#D7A371" d="M1 0 Q5 2 6 5 Q2 5 -1 2Z" />
+</g>
+</g>
+<g transform="scale(1 1)">
+<path fill="#D7A371" d="M5 -40 Q21 -44 35 -32 Q43 -24 44 -11 L42 -13 Q38 -29 27 -34 Q17 -40 5 -38Z" />
+<g transform="translate(10 -39) rotate(0)">
+<path fill="#EAC8AD" d="M0 1 Q-2 -2 2 -5 L6 -6 Q6 -2 1 0Z" />
+<path fill="#D7A371" d="M1 0 Q5 2 6 5 Q2 5 -1 2Z" />
+</g>
+<g transform="translate(18 -39) rotate(14)">
+<path fill="#EAC8AD" d="M0 1 Q-2 -2 2 -5 L6 -6 Q6 -2 1 0Z" />
+<path fill="#D7A371" d="M1 0 Q5 2 6 5 Q2 5 -1 2Z" />
+</g>
+<g transform="translate(26 -36) rotate(28)">
+<path fill="#EAC8AD" d="M0 1 Q-2 -2 2 -5 L6 -6 Q6 -2 1 0Z" />
+<path fill="#D7A371" d="M1 0 Q5 2 6 5 Q2 5 -1 2Z" />
+</g>
+<g transform="translate(33 -31) rotate(47)">
+<path fill="#EAC8AD" d="M0 1 Q-2 -2 2 -5 L6 -6 Q6 -2 1 0Z" />
+<path fill="#D7A371" d="M1 0 Q5 2 6 5 Q2 5 -1 2Z" />
+</g>
+<g transform="translate(38 -25) rotate(64)">
+<path fill="#EAC8AD" d="M0 1 Q-2 -2 2 -5 L6 -6 Q6 -2 1 0Z" />
+<path fill="#D7A371" d="M1 0 Q5 2 6 5 Q2 5 -1 2Z" />
+</g>
+<g transform="translate(41 -18) rotate(77)">
+<path fill="#EAC8AD" d="M0 1 Q-2 -2 2 -5 L6 -6 Q6 -2 1 0Z" />
+<path fill="#D7A371" d="M1 0 Q5 2 6 5 Q2 5 -1 2Z" />
+</g>
+</g>
+<ellipse cx="0" cy="-40" rx="4.8" ry="4.1" fill="#EAC8AD"/>
+<circle cx="0" cy="-40" r="2.5" fill="#932740"/>
+</g>
+<use xlink:href="#flower" transform="scale(1.64)"/>
+</g>
+<g id="corner-sprig">
+<path fill="#2D3959" d="M0 -101 l2.4 5 -1 3.3 -3.4 -1.3Z" />
+<path fill="#D7A371" d="M-1 -98 l2.9 1.6 -1.6 3.5 -2 -.9Z" />
+<path fill="#D7A371" d="M0 -88 Q2.7 -85 3.6 -81 L1.5 -76 Q7.4 -79 11.5 -77 Q10 -72 5 -70 L1 -73 Q-1 -68 -5 -70 Q-9 -72 -11 -77 Q-4 -78 -2.5 -75 Q-5 -82 0 -88Z" />
+<path fill="#EAC8AD" d="M-2 -84 l2 -3 2.2 5.4 L0 -78Z" />
+<path fill="#D7A371" d="M-24 -62 Q-25 -68 -20 -70 Q-13 -73 -7 -66 Q0 -60 7 -65 Q13 -72 19 -71 Q27 -70 27 -64 Q26 -57 20 -57 Q17 -57 15 -61 Q20 -60 21 -63 Q22 -67 18 -67 Q15 -67 10 -62 Q1 -55 -8 -60 Q-13 -63 -16 -66 Q-21 -69 -21 -64 Q-21 -61 -17 -62 Q-18 -57 -21 -57 Q-25 -57 -24 -62Z" />
+</g>
+<g id="lozenge">
+<path fill="#932740" d="M0 -202 C27 -82 82 -27 202 0 C82 27 27 82 0 202 C-27 82 -82 27 -202 0 C-82 -27 -27 -82 0 -202Z" />
+<path fill="#EAC8AD" d="M0 -197 C26 -82 82 -26 197 0 C82 26 26 82 0 197 C-26 82 -82 26 -197 0 C-82 -26 -26 -82 0 -197Z" />
+<path fill="#932740" d="M0 -188 C25 -81 81 -25 188 0 C81 25 25 81 0 188 C-25 81 -81 25 -188 0 C-81 -25 -25 -81 0 -188Z" />
+<path fill="#EAC8AD" d="M0 -160 C22 -78 78 -22 160 0 C78 22 22 78 0 160 C-22 78 -78 22 -160 0 C-78 -22 -22 -78 0 -160Z" />
+<path fill="#2D3959" d="M0 -154 C21 -77 77 -21 154 0 C77 21 21 77 0 154 C-21 77 -77 21 -154 0 C-77 -21 -21 -77 0 -154Z" />
+<path fill="#758985" d="M0 -149 C21 -76 76 -21 149 0 C76 21 21 76 0 149 C-21 76 -76 21 -149 0 C-76 -21 -21 -76 0 -149Z" />
+<use xlink:href="#corner-sprig" transform="rotate(0)"/>
+<use xlink:href="#corner-sprig" transform="rotate(90)"/>
+<use xlink:href="#corner-sprig" transform="rotate(180)"/>
+<use xlink:href="#corner-sprig" transform="rotate(270)"/>
+<circle cx="0" cy="0" r="47.5" fill="#2D3959"/>
+<g transform="rotate(0.00)">
+<path fill="#EAC8AD" d="M-4 -45 L-3 -48.7 .8 -49.6 4.8 -47.5 3 -44.7Z" />
+</g>
+<g transform="rotate(16.36)">
+<path fill="#EAC8AD" d="M-4 -45 L-3 -48.7 .8 -49.6 4.8 -47.5 3 -44.7Z" />
+</g>
+<g transform="rotate(32.73)">
+<path fill="#EAC8AD" d="M-4 -45 L-3 -48.7 .8 -49.6 4.8 -47.5 3 -44.7Z" />
+</g>
+<g transform="rotate(49.09)">
+<path fill="#EAC8AD" d="M-4 -45 L-3 -48.7 .8 -49.6 4.8 -47.5 3 -44.7Z" />
+</g>
+<g transform="rotate(65.45)">
+<path fill="#EAC8AD" d="M-4 -45 L-3 -48.7 .8 -49.6 4.8 -47.5 3 -44.7Z" />
+</g>
+<g transform="rotate(81.82)">
+<path fill="#EAC8AD" d="M-4 -45 L-3 -48.7 .8 -49.6 4.8 -47.5 3 -44.7Z" />
+</g>
+<g transform="rotate(98.18)">
+<path fill="#EAC8AD" d="M-4 -45 L-3 -48.7 .8 -49.6 4.8 -47.5 3 -44.7Z" />
+</g>
+<g transform="rotate(114.55)">
+<path fill="#EAC8AD" d="M-4 -45 L-3 -48.7 .8 -49.6 4.8 -47.5 3 -44.7Z" />
+</g>
+<g transform="rotate(130.91)">
+<path fill="#EAC8AD" d="M-4 -45 L-3 -48.7 .8 -49.6 4.8 -47.5 3 -44.7Z" />
+</g>
+<g transform="rotate(147.27)">
+<path fill="#EAC8AD" d="M-4 -45 L-3 -48.7 .8 -49.6 4.8 -47.5 3 -44.7Z" />
+</g>
+<g transform="rotate(163.64)">
+<path fill="#EAC8AD" d="M-4 -45 L-3 -48.7 .8 -49.6 4.8 -47.5 3 -44.7Z" />
+</g>
+<g transform="rotate(180.00)">
+<path fill="#EAC8AD" d="M-4 -45 L-3 -48.7 .8 -49.6 4.8 -47.5 3 -44.7Z" />
+</g>
+<g transform="rotate(196.36)">
+<path fill="#EAC8AD" d="M-4 -45 L-3 -48.7 .8 -49.6 4.8 -47.5 3 -44.7Z" />
+</g>
+<g transform="rotate(212.73)">
+<path fill="#EAC8AD" d="M-4 -45 L-3 -48.7 .8 -49.6 4.8 -47.5 3 -44.7Z" />
+</g>
+<g transform="rotate(229.09)">
+<path fill="#EAC8AD" d="M-4 -45 L-3 -48.7 .8 -49.6 4.8 -47.5 3 -44.7Z" />
+</g>
+<g transform="rotate(245.45)">
+<path fill="#EAC8AD" d="M-4 -45 L-3 -48.7 .8 -49.6 4.8 -47.5 3 -44.7Z" />
+</g>
+<g transform="rotate(261.82)">
+<path fill="#EAC8AD" d="M-4 -45 L-3 -48.7 .8 -49.6 4.8 -47.5 3 -44.7Z" />
+</g>
+<g transform="rotate(278.18)">
+<path fill="#EAC8AD" d="M-4 -45 L-3 -48.7 .8 -49.6 4.8 -47.5 3 -44.7Z" />
+</g>
+<g transform="rotate(294.55)">
+<path fill="#EAC8AD" d="M-4 -45 L-3 -48.7 .8 -49.6 4.8 -47.5 3 -44.7Z" />
+</g>
+<g transform="rotate(310.91)">
+<path fill="#EAC8AD" d="M-4 -45 L-3 -48.7 .8 -49.6 4.8 -47.5 3 -44.7Z" />
+</g>
+<g transform="rotate(327.27)">
+<path fill="#EAC8AD" d="M-4 -45 L-3 -48.7 .8 -49.6 4.8 -47.5 3 -44.7Z" />
+</g>
+<g transform="rotate(343.64)">
+<path fill="#EAC8AD" d="M-4 -45 L-3 -48.7 .8 -49.6 4.8 -47.5 3 -44.7Z" />
+</g>
+<circle cx="0" cy="0" r="42.8" fill="#932740"/>
+<g transform="rotate(0.0)">
+<path fill="#D7A371" d="M-2.2 -37.5 l2.7 -4.2 2.7 4 -2.3 3.8Z" />
+</g>
+<g transform="rotate(22.5)">
+<path fill="#D7A371" d="M-2.2 -37.5 l2.7 -4.2 2.7 4 -2.3 3.8Z" />
+</g>
+<g transform="rotate(45.0)">
+<path fill="#D7A371" d="M-2.2 -37.5 l2.7 -4.2 2.7 4 -2.3 3.8Z" />
+</g>
+<g transform="rotate(67.5)">
+<path fill="#D7A371" d="M-2.2 -37.5 l2.7 -4.2 2.7 4 -2.3 3.8Z" />
+</g>
+<g transform="rotate(90.0)">
+<path fill="#D7A371" d="M-2.2 -37.5 l2.7 -4.2 2.7 4 -2.3 3.8Z" />
+</g>
+<g transform="rotate(112.5)">
+<path fill="#D7A371" d="M-2.2 -37.5 l2.7 -4.2 2.7 4 -2.3 3.8Z" />
+</g>
+<g transform="rotate(135.0)">
+<path fill="#D7A371" d="M-2.2 -37.5 l2.7 -4.2 2.7 4 -2.3 3.8Z" />
+</g>
+<g transform="rotate(157.5)">
+<path fill="#D7A371" d="M-2.2 -37.5 l2.7 -4.2 2.7 4 -2.3 3.8Z" />
+</g>
+<g transform="rotate(180.0)">
+<path fill="#D7A371" d="M-2.2 -37.5 l2.7 -4.2 2.7 4 -2.3 3.8Z" />
+</g>
+<g transform="rotate(202.5)">
+<path fill="#D7A371" d="M-2.2 -37.5 l2.7 -4.2 2.7 4 -2.3 3.8Z" />
+</g>
+<g transform="rotate(225.0)">
+<path fill="#D7A371" d="M-2.2 -37.5 l2.7 -4.2 2.7 4 -2.3 3.8Z" />
+</g>
+<g transform="rotate(247.5)">
+<path fill="#D7A371" d="M-2.2 -37.5 l2.7 -4.2 2.7 4 -2.3 3.8Z" />
+</g>
+<g transform="rotate(270.0)">
+<path fill="#D7A371" d="M-2.2 -37.5 l2.7 -4.2 2.7 4 -2.3 3.8Z" />
+</g>
+<g transform="rotate(292.5)">
+<path fill="#D7A371" d="M-2.2 -37.5 l2.7 -4.2 2.7 4 -2.3 3.8Z" />
+</g>
+<g transform="rotate(315.0)">
+<path fill="#D7A371" d="M-2.2 -37.5 l2.7 -4.2 2.7 4 -2.3 3.8Z" />
+</g>
+<g transform="rotate(337.5)">
+<path fill="#D7A371" d="M-2.2 -37.5 l2.7 -4.2 2.7 4 -2.3 3.8Z" />
+</g>
+<use xlink:href="#flower" transform="scale(1.64)"/>
+<circle cx="0" cy="0" r="10.8" fill="#932740"/>
+<circle cx="0" cy="0" r="7.1" fill="#D7A371"/>
+<ellipse cx="-0.8" cy="-0.6" rx="4.2" ry="5.3" fill="#EAC8AD"/>
+</g>
+<g id="arrow">
+<path fill="#D7A371" d="M0 1.4 Q4.8 -4.3 6.1 -11.2 L2.1 -9 0 -16.2 -2 -9.2 -6.2 -11 Q-4.4 -3.6 0 1.4Z" />
+<path fill="#EAC8AD" d="M0 -15.6 L1.9 -8.8 4.6 -9.9 2.4 -6.3 -.5 -7.8 -2.3 -6.1 -4 -8.6 -1.8 -9Z" />
+<ellipse cx="0" cy="7.2" rx="3.8" ry="4.4" fill="#D7A371"/>
+<ellipse cx="0" cy="17.8" rx="3.2" ry="3.8" fill="#D7A371"/>
+<ellipse cx="0" cy="27" rx="2.1" ry="2.7" fill="#EAC8AD"/>
+</g>
+<g id="round-panel">
+<rect x="-179" y="-171" width="358" height="342" fill="#932740"/>
+<rect x="-176" y="-168" width="352" height="336" fill="#EAC8AD"/>
+<rect x="-173" y="-165" width="346" height="330" fill="#932740"/>
+<rect x="-161" y="-153" width="322" height="306" fill="#2D3959"/>
+<rect x="-159" y="-151" width="318" height="302" fill="#758985"/>
+<use xlink:href="#curb-stitch" transform="translate(-161.24 -160) rotate(0)"/>
+<use xlink:href="#curb-stitch" transform="translate(-149.72 -160) rotate(0)"/>
+<use xlink:href="#curb-stitch" transform="translate(-138.21 -160) rotate(0)"/>
+<use xlink:href="#curb-stitch" transform="translate(-126.69 -160) rotate(0)"/>
+<use xlink:href="#curb-stitch" transform="translate(-115.17 -160) rotate(0)"/>
+<use xlink:href="#curb-stitch" transform="translate(-103.66 -160) rotate(0)"/>
+<use xlink:href="#curb-stitch" transform="translate(-92.14 -160) rotate(0)"/>
+<use xlink:href="#curb-stitch" transform="translate(-80.62 -160) rotate(0)"/>
+<use xlink:href="#curb-stitch" transform="translate(-69.10 -160) rotate(0)"/>
+<use xlink:href="#curb-stitch" transform="translate(-57.59 -160) rotate(0)"/>
+<use xlink:href="#curb-stitch" transform="translate(-46.07 -160) rotate(0)"/>
+<use xlink:href="#curb-stitch" transform="translate(-34.55 -160) rotate(0)"/>
+<use xlink:href="#curb-stitch" transform="translate(-23.03 -160) rotate(0)"/>
+<use xlink:href="#curb-stitch" transform="translate(-11.52 -160) rotate(0)"/>
+<use xlink:href="#curb-stitch" transform="translate(0.00 -160) rotate(0)"/>
+<use xlink:href="#curb-stitch" transform="translate(11.52 -160) rotate(0)"/>
+<use xlink:href="#curb-stitch" transform="translate(23.03 -160) rotate(0)"/>
+<use xlink:href="#curb-stitch" transform="translate(34.55 -160) rotate(0)"/>
+<use xlink:href="#curb-stitch" transform="translate(46.07 -160) rotate(0)"/>
+<use xlink:href="#curb-stitch" transform="translate(57.59 -160) rotate(0)"/>
+<use xlink:href="#curb-stitch" transform="translate(69.10 -160) rotate(0)"/>
+<use xlink:href="#curb-stitch" transform="translate(80.62 -160) rotate(0)"/>
+<use xlink:href="#curb-stitch" transform="translate(92.14 -160) rotate(0)"/>
+<use xlink:href="#curb-stitch" transform="translate(103.66 -160) rotate(0)"/>
+<use xlink:href="#curb-stitch" transform="translate(115.17 -160) rotate(0)"/>
+<use xlink:href="#curb-stitch" transform="translate(126.69 -160) rotate(0)"/>
+<use xlink:href="#curb-stitch" transform="translate(138.21 -160) rotate(0)"/>
+<use xlink:href="#curb-stitch" transform="translate(149.72 -160) rotate(0)"/>
+<use xlink:href="#curb-stitch" transform="translate(161.24 -160) rotate(0)"/>
+<use xlink:href="#curb-stitch" transform="translate(-161.24 160) rotate(180)"/>
+<use xlink:href="#curb-stitch" transform="translate(-149.72 160) rotate(180)"/>
+<use xlink:href="#curb-stitch" transform="translate(-138.21 160) rotate(180)"/>
+<use xlink:href="#curb-stitch" transform="translate(-126.69 160) rotate(180)"/>
+<use xlink:href="#curb-stitch" transform="translate(-115.17 160) rotate(180)"/>
+<use xlink:href="#curb-stitch" transform="translate(-103.66 160) rotate(180)"/>
+<use xlink:href="#curb-stitch" transform="translate(-92.14 160) rotate(180)"/>
+<use xlink:href="#curb-stitch" transform="translate(-80.62 160) rotate(180)"/>
+<use xlink:href="#curb-stitch" transform="translate(-69.10 160) rotate(180)"/>
+<use xlink:href="#curb-stitch" transform="translate(-57.59 160) rotate(180)"/>
+<use xlink:href="#curb-stitch" transform="translate(-46.07 160) rotate(180)"/>
+<use xlink:href="#curb-stitch" transform="translate(-34.55 160) rotate(180)"/>
+<use xlink:href="#curb-stitch" transform="translate(-23.03 160) rotate(180)"/>
+<use xlink:href="#curb-stitch" transform="translate(-11.52 160) rotate(180)"/>
+<use xlink:href="#curb-stitch" transform="translate(0.00 160) rotate(180)"/>
+<use xlink:href="#curb-stitch" transform="translate(11.52 160) rotate(180)"/>
+<use xlink:href="#curb-stitch" transform="translate(23.03 160) rotate(180)"/>
+<use xlink:href="#curb-stitch" transform="translate(34.55 160) rotate(180)"/>
+<use xlink:href="#curb-stitch" transform="translate(46.07 160) rotate(180)"/>
+<use xlink:href="#curb-stitch" transform="translate(57.59 160) rotate(180)"/>
+<use xlink:href="#curb-stitch" transform="translate(69.10 160) rotate(180)"/>
+<use xlink:href="#curb-stitch" transform="translate(80.62 160) rotate(180)"/>
+<use xlink:href="#curb-stitch" transform="translate(92.14 160) rotate(180)"/>
+<use xlink:href="#curb-stitch" transform="translate(103.66 160) rotate(180)"/>
+<use xlink:href="#curb-stitch" transform="translate(115.17 160) rotate(180)"/>
+<use xlink:href="#curb-stitch" transform="translate(126.69 160) rotate(180)"/>
+<use xlink:href="#curb-stitch" transform="translate(138.21 160) rotate(180)"/>
+<use xlink:href="#curb-stitch" transform="translate(149.72 160) rotate(180)"/>
+<use xlink:href="#curb-stitch" transform="translate(161.24 160) rotate(180)"/>
+<use xlink:href="#curb-stitch" transform="translate(-167 -154.29) rotate(270)"/>
+<use xlink:href="#curb-stitch" transform="translate(-167 -142.86) rotate(270)"/>
+<use xlink:href="#curb-stitch" transform="translate(-167 -131.43) rotate(270)"/>
+<use xlink:href="#curb-stitch" transform="translate(-167 -120.00) rotate(270)"/>
+<use xlink:href="#curb-stitch" transform="translate(-167 -108.57) rotate(270)"/>
+<use xlink:href="#curb-stitch" transform="translate(-167 -97.14) rotate(270)"/>
+<use xlink:href="#curb-stitch" transform="translate(-167 -85.71) rotate(270)"/>
+<use xlink:href="#curb-stitch" transform="translate(-167 -74.29) rotate(270)"/>
+<use xlink:href="#curb-stitch" transform="translate(-167 -62.86) rotate(270)"/>
+<use xlink:href="#curb-stitch" transform="translate(-167 -51.43) rotate(270)"/>
+<use xlink:href="#curb-stitch" transform="translate(-167 -40.00) rotate(270)"/>
+<use xlink:href="#curb-stitch" transform="translate(-167 -28.57) rotate(270)"/>
+<use xlink:href="#curb-stitch" transform="translate(-167 -17.14) rotate(270)"/>
+<use xlink:href="#curb-stitch" transform="translate(-167 -5.71) rotate(270)"/>
+<use xlink:href="#curb-stitch" transform="translate(-167 5.71) rotate(270)"/>
+<use xlink:href="#curb-stitch" transform="translate(-167 17.14) rotate(270)"/>
+<use xlink:href="#curb-stitch" transform="translate(-167 28.57) rotate(270)"/>
+<use xlink:href="#curb-stitch" transform="translate(-167 40.00) rotate(270)"/>
+<use xlink:href="#curb-stitch" transform="translate(-167 51.43) rotate(270)"/>
+<use xlink:href="#curb-stitch" transform="translate(-167 62.86) rotate(270)"/>
+<use xlink:href="#curb-stitch" transform="translate(-167 74.29) rotate(270)"/>
+<use xlink:href="#curb-stitch" transform="translate(-167 85.71) rotate(270)"/>
+<use xlink:href="#curb-stitch" transform="translate(-167 97.14) rotate(270)"/>
+<use xlink:href="#curb-stitch" transform="translate(-167 108.57) rotate(270)"/>
+<use xlink:href="#curb-stitch" transform="translate(-167 120.00) rotate(270)"/>
+<use xlink:href="#curb-stitch" transform="translate(-167 131.43) rotate(270)"/>
+<use xlink:href="#curb-stitch" transform="translate(-167 142.86) rotate(270)"/>
+<use xlink:href="#curb-stitch" transform="translate(-167 154.29) rotate(270)"/>
+<use xlink:href="#curb-stitch" transform="translate(167 -154.29) rotate(90)"/>
+<use xlink:href="#curb-stitch" transform="translate(167 -142.86) rotate(90)"/>
+<use xlink:href="#curb-stitch" transform="translate(167 -131.43) rotate(90)"/>
+<use xlink:href="#curb-stitch" transform="translate(167 -120.00) rotate(90)"/>
+<use xlink:href="#curb-stitch" transform="translate(167 -108.57) rotate(90)"/>
+<use xlink:href="#curb-stitch" transform="translate(167 -97.14) rotate(90)"/>
+<use xlink:href="#curb-stitch" transform="translate(167 -85.71) rotate(90)"/>
+<use xlink:href="#curb-stitch" transform="translate(167 -74.29) rotate(90)"/>
+<use xlink:href="#curb-stitch" transform="translate(167 -62.86) rotate(90)"/>
+<use xlink:href="#curb-stitch" transform="translate(167 -51.43) rotate(90)"/>
+<use xlink:href="#curb-stitch" transform="translate(167 -40.00) rotate(90)"/>
+<use xlink:href="#curb-stitch" transform="translate(167 -28.57) rotate(90)"/>
+<use xlink:href="#curb-stitch" transform="translate(167 -17.14) rotate(90)"/>
+<use xlink:href="#curb-stitch" transform="translate(167 -5.71) rotate(90)"/>
+<use xlink:href="#curb-stitch" transform="translate(167 5.71) rotate(90)"/>
+<use xlink:href="#curb-stitch" transform="translate(167 17.14) rotate(90)"/>
+<use xlink:href="#curb-stitch" transform="translate(167 28.57) rotate(90)"/>
+<use xlink:href="#curb-stitch" transform="translate(167 40.00) rotate(90)"/>
+<use xlink:href="#curb-stitch" transform="translate(167 51.43) rotate(90)"/>
+<use xlink:href="#curb-stitch" transform="translate(167 62.86) rotate(90)"/>
+<use xlink:href="#curb-stitch" transform="translate(167 74.29) rotate(90)"/>
+<use xlink:href="#curb-stitch" transform="translate(167 85.71) rotate(90)"/>
+<use xlink:href="#curb-stitch" transform="translate(167 97.14) rotate(90)"/>
+<use xlink:href="#curb-stitch" transform="translate(167 108.57) rotate(90)"/>
+<use xlink:href="#curb-stitch" transform="translate(167 120.00) rotate(90)"/>
+<use xlink:href="#curb-stitch" transform="translate(167 131.43) rotate(90)"/>
+<use xlink:href="#curb-stitch" transform="translate(167 142.86) rotate(90)"/>
+<use xlink:href="#curb-stitch" transform="translate(167 154.29) rotate(90)"/>
+<g transform="scale(1 1) translate(-140 -132) rotate(-45)">
+<use xlink:href="#arrow"/>
+</g>
+<g transform="scale(-1 1) translate(-140 -132) rotate(-45)">
+<use xlink:href="#arrow"/>
+</g>
+<g transform="scale(1 -1) translate(-140 -132) rotate(-45)">
+<use xlink:href="#arrow"/>
+</g>
+<g transform="scale(-1 -1) translate(-140 -132) rotate(-45)">
+<use xlink:href="#arrow"/>
+</g>
+<use xlink:href="#medallion"/>
+</g>
+</defs>
+<rect x="0" y="0" width="640" height="640" fill="#2D3959"/>
+<use xlink:href="#scroll" transform="translate(0 0) scale(1 1)"/>
+<use xlink:href="#scroll" transform="translate(640 0) scale(-1 1)"/>
+<use xlink:href="#scroll" transform="translate(640 640) scale(-1 -1)"/>
+<use xlink:href="#scroll" transform="translate(0 640) scale(1 -1)"/>
+<use xlink:href="#cartouche" transform="translate(320 99)"/>
+<use xlink:href="#cartouche" transform="translate(320 541)"/>
+<use xlink:href="#cartouche" transform="translate(99 320) rotate(90)"/>
+<use xlink:href="#cartouche" transform="translate(541 320) rotate(90)"/>
+<use xlink:href="#panel" transform="translate(0 320) rotate(90)"/>
+<use xlink:href="#panel" transform="translate(640 320) rotate(90)"/>
+<use xlink:href="#panel" transform="translate(320 0)"/>
+<use xlink:href="#panel" transform="translate(320 640)"/>
+<use xlink:href="#lozenge" transform="translate(0 0)"/>
+<use xlink:href="#lozenge" transform="translate(0 640)"/>
+<use xlink:href="#lozenge" transform="translate(640 0)"/>
+<use xlink:href="#lozenge" transform="translate(640 640)"/>
+<use xlink:href="#round-panel" transform="translate(320 320)"/>
+</svg>

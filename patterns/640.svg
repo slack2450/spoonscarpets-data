@@ -1,0 +1,220 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="340" height="340" viewBox="0 0 340 340">
+<title>The Staple Hill Oak, Bristol – rosette and scroll carpet repeat</title>
+<defs>
+<g id="seed">
+<path d="M0 -15Q3 -12 5 -10L8 -11 10 -7 10 -4 14 0 10 4 10 8 6 8 3 12 0 14 -4 11 -7 10 -9 7 -10 3 -14 0 -11 -4 -9 -8 -5 -9Z" fill="#a6836a"/>
+<path d="M0 -9Q4 -9 5 -4Q9 -4 9 0Q9 4 4 5Q3 9 -1 9Q-5 8 -5 4Q-10 3 -9 -1Q-8 -5 -4 -5Q-4 -8 0 -9Z" fill="#bd7759"/>
+<path d="M-3 -1L0 -4 3 -2 4 1 1 4 -3 2Z" fill="#834c50"/>
+</g>
+<g id="petal">
+<path d="M-19 -55Q-15 -62 -8 -63L-4 -65 0 -69 5 -65Q14 -66 19 -56Q22 -50 18 -42Q13 -34 7 -29L0 -33 -6 -30Q-9 -38 -17 -41Q-23 -47 -19 -55Z" fill="#bd7759"/>
+<path d="M-21 -47Q-18 -42 -12 -40L-9 -33 -2 -27 -8 -27 -16 -32 -21 -34 -24 -42Z" fill="#834c50"/>
+<path d="M-7 -31Q-3 -36 0 -38Q3 -34 7 -33L10 -35 9 -28 4 -22 -3 -22Z" fill="#726044"/>
+<path d="M-18 -52Q-21 -47 -17 -44L-10 -41Q-9 -36 -5 -34L-10 -31 -15 -35 -18 -40 -22 -42Z" fill="#834c50"/>
+<path d="M5 -33Q12 -37 13 -44L15 -42Q17 -37 9 -30L6 -26 2 -26Z" fill="#532f36"/>
+<path d="M-13 -49Q-13 -55 -8 -58L-8 -54 -5 -56Q-5 -51 -11 -46Z" fill="#a6836a"/>
+<path d="M9 -42Q13 -46 15 -51Q17 -46 13 -40L10 -37Z" fill="#834c50"/>
+<path d="M-2 -32L1 -35 4 -32 2 -28Z" fill="#a6836a"/>
+</g>
+<g id="flower">
+<path d="M-29.00 -60.00 L-20.00 -66.00 L-8.00 -67.00 L0.00 -72.00 L8.00 -67.00 L20.00 -66.00 L21.92 -62.93 L32.53 -60.81 L41.72 -53.03 L50.91 -50.91 L53.03 -41.72 L60.81 -32.53 L60.00 -29.00 L66.00 -20.00 L67.00 -8.00 L72.00 -0.00 L67.00 8.00 L66.00 20.00 L62.93 21.92 L60.81 32.53 L53.03 41.72 L50.91 50.91 L41.72 53.03 L32.53 60.81 L29.00 60.00 L20.00 66.00 L8.00 67.00 L0.00 72.00 L-8.00 67.00 L-20.00 66.00 L-21.92 62.93 L-32.53 60.81 L-41.72 53.03 L-50.91 50.91 L-53.03 41.72 L-60.81 32.53 L-60.00 29.00 L-66.00 20.00 L-67.00 8.00 L-72.00 0.00 L-67.00 -8.00 L-66.00 -20.00 L-62.93 -21.92 L-60.81 -32.53 L-53.03 -41.72 L-50.91 -50.91 L-41.72 -53.03 L-32.53 -60.81Z" fill="#532f36"/>
+<path d="M-25.00 -57.00 L-15.00 -62.00 L-7.00 -62.00 L0.00 -67.00 L7.00 -63.00 L17.00 -62.00 L22.63 -57.98 L33.23 -54.45 L38.89 -48.79 L47.38 -47.38 L49.50 -39.60 L55.86 -31.82 L57.00 -25.00 L62.00 -15.00 L62.00 -7.00 L67.00 -0.00 L63.00 7.00 L62.00 17.00 L57.98 22.63 L54.45 33.23 L48.79 38.89 L47.38 47.38 L39.60 49.50 L31.82 55.86 L25.00 57.00 L15.00 62.00 L7.00 62.00 L0.00 67.00 L-7.00 63.00 L-17.00 62.00 L-22.63 57.98 L-33.23 54.45 L-38.89 48.79 L-47.38 47.38 L-49.50 39.60 L-55.86 31.82 L-57.00 25.00 L-62.00 15.00 L-62.00 7.00 L-67.00 0.00 L-63.00 -7.00 L-62.00 -17.00 L-57.98 -22.63 L-54.45 -33.23 L-48.79 -38.89 L-47.38 -47.38 L-39.60 -49.50 L-31.82 -55.86Z" fill="#834c50"/>
+<use xlink:href="#petal" transform="rotate(0)"/>
+<use xlink:href="#petal" transform="rotate(45)"/>
+<use xlink:href="#petal" transform="rotate(90)"/>
+<use xlink:href="#petal" transform="rotate(135)"/>
+<use xlink:href="#petal" transform="rotate(180)"/>
+<use xlink:href="#petal" transform="rotate(225)"/>
+<use xlink:href="#petal" transform="rotate(270)"/>
+<use xlink:href="#petal" transform="rotate(315)"/>
+<path d="M-12.00 -27.00 L-8.00 -28.00 L-2.00 -25.00 L0.00 -23.00 L6.00 -26.00 L10.00 -26.00 L10.61 -27.58 L14.14 -25.46 L16.26 -19.09 L16.26 -16.26 L22.63 -14.14 L25.46 -11.31 L27.00 -12.00 L28.00 -8.00 L25.00 -2.00 L23.00 -0.00 L26.00 6.00 L26.00 10.00 L27.58 10.61 L25.46 14.14 L19.09 16.26 L16.26 16.26 L14.14 22.63 L11.31 25.46 L12.00 27.00 L8.00 28.00 L2.00 25.00 L0.00 23.00 L-6.00 26.00 L-10.00 26.00 L-10.61 27.58 L-14.14 25.46 L-16.26 19.09 L-16.26 16.26 L-22.63 14.14 L-25.46 11.31 L-27.00 12.00 L-28.00 8.00 L-25.00 2.00 L-23.00 0.00 L-26.00 -6.00 L-26.00 -10.00 L-27.58 -10.61 L-25.46 -14.14 L-19.09 -16.26 L-16.26 -16.26 L-14.14 -22.63 L-11.31 -25.46Z" fill="#2c1e20"/>
+<path d="M-9.00 -20.00 L-7.00 -22.00 L-3.00 -20.00 L0.00 -22.00 L4.00 -20.00 L7.00 -21.00 L7.78 -20.51 L10.61 -20.51 L12.02 -16.26 L15.56 -15.56 L16.97 -11.31 L19.80 -9.90 L20.00 -9.00 L22.00 -7.00 L20.00 -3.00 L22.00 -0.00 L20.00 4.00 L21.00 7.00 L20.51 7.78 L20.51 10.61 L16.26 12.02 L15.56 15.56 L11.31 16.97 L9.90 19.80 L9.00 20.00 L7.00 22.00 L3.00 20.00 L0.00 22.00 L-4.00 20.00 L-7.00 21.00 L-7.78 20.51 L-10.61 20.51 L-12.02 16.26 L-15.56 15.56 L-16.97 11.31 L-19.80 9.90 L-20.00 9.00 L-22.00 7.00 L-20.00 3.00 L-22.00 0.00 L-20.00 -4.00 L-21.00 -7.00 L-20.51 -7.78 L-20.51 -10.61 L-16.26 -12.02 L-15.56 -15.56 L-11.31 -16.97 L-9.90 -19.80Z" fill="#726044"/>
+<path d="M-7.00 -15.00 L-4.00 -17.00 L0.00 -14.00 L5.00 -17.00 L5.66 -15.56 L9.19 -14.85 L9.90 -9.90 L15.56 -8.49 L15.00 -7.00 L17.00 -4.00 L14.00 -0.00 L17.00 5.00 L15.56 5.66 L14.85 9.19 L9.90 9.90 L8.49 15.56 L7.00 15.00 L4.00 17.00 L0.00 14.00 L-5.00 17.00 L-5.66 15.56 L-9.19 14.85 L-9.90 9.90 L-15.56 8.49 L-15.00 7.00 L-17.00 4.00 L-14.00 0.00 L-17.00 -5.00 L-15.56 -5.66 L-14.85 -9.19 L-9.90 -9.90 L-8.49 -15.56Z" fill="#532f36"/>
+<use xlink:href="#seed" transform="translate(0)"/>
+</g>
+<g id="spear">
+<path d="M-8 -56Q-4 -65 -2 -74L0 -80 3 -74Q3 -68 8 -56L2 -61 0 -53 -2 -61Z" fill="#532f36"/>
+<path d="M-3 -68L0 -78 3 -68 1 -63 0 -58 -1 -63Z" fill="#a6836a"/>
+</g>
+<g id="panel">
+<path d="M-92 -92h184v184h-184Z" fill="#532f36" stroke="#834c50" stroke-width="4" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M-87 -87h174v174h-174Z" fill="#2c1e20"/>
+<use xlink:href="#spear" transform="rotate(45) scale(1 1.42)"/>
+<use xlink:href="#spear" transform="rotate(135) scale(1 1.42)"/>
+<use xlink:href="#spear" transform="rotate(225) scale(1 1.42)"/>
+<use xlink:href="#spear" transform="rotate(315) scale(1 1.42)"/>
+<use xlink:href="#flower" transform="translate(0)"/>
+</g>
+<g id="tablet">
+<path d="M-41 -91V-147H41V-91Z" fill="#834c50" stroke="#532f36" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M-34 -144h68v48h-68Z" fill="#532f36"/>
+<path d="M-29 -139h58v38h-58Z" fill="#834c50"/>
+<path d="M-26 -135H26V-106H-26Z" fill="#532f36"/>
+<path d="M-23 -133H23V-108H-23Z" fill="#834c50"/>
+<path d="M-20 -121L-13 -124 -9 -122 -3 -126 0 -129 4 -125 9 -123 14 -124 20 -121 14 -118 8 -118 3 -114 -1 -112 -4 -116 -10 -119 -15 -117Z" fill="#532f36"/>
+<path d="M-7 -121L0 -125 7 -121 1 -117Z" fill="#834c50"/>
+</g>
+<g id="curl">
+<path d="M8 88Q18 70 27 62Q31 58 38 54Q39 62 45 66Q48 72 45 78Q52 82 57 94C59 100 64 104 62 110C59 119 45 121 39 112C33 105 38 98 44 97Q52 94 55 101Q54 91 45 87C39 83 34 85 31 89C26 96 18 98 16 95Q24 91 23 85Q20 80 17 85Z" fill="#726044"/>
+<path d="M23 79Q26 70 34 68Q43 67 44 76Q47 84 39 89Q33 94 26 89Q21 85 24 80Q27 74 33 76Q38 76 36 81Q35 84 32 82Q29 82 30 85Q34 89 39 84Q43 79 39 74Q33 69 27 78Z" fill="#a6836a"/>
+<path d="M42 81C52 84 57 94 58 102C61 112 51 118 43 113C37 110 37 102 43 99C50 96 55 102 51 106Q49 109 45 106Q43 105 43 108Q44 113 51 111C58 107 53 97 51 93Q48 87 42 85Z" fill="#a6836a"/>
+<path d="M12 85Q17 77 20 78Q23 81 19 86L16 89 11 90Z" fill="#532f36"/>
+<path d="M29 64Q34 53 42 48Q40 53 40 58L44 56Q47 62 40 66L37 63 32 70Z" fill="#726044"/>
+<path d="M35 63L39 56 38 63 34 68Z" fill="#a6836a"/>
+</g>
+<g id="cornerquarter">
+<g transform="translate(0)">
+<path d="M0 91L24 91Q27 91 27 95V125H79V131H25V170H0Z" fill="#532f36"/>
+<path d="M0 96H24V128H79" fill="none" stroke="#834c50" stroke-width="5" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M3 102H18V137H22V155H18V141H13V108H3Z" fill="#2c1e20"/>
+<path d="M13 121L9 115 5 111 8 119 13 124Z" fill="#834c50"/>
+</g>
+<g transform="matrix(0 1 1 0 0 0)">
+<path d="M0 91L24 91Q27 91 27 95V125H79V131H25V170H0Z" fill="#532f36"/>
+<path d="M0 96H24V128H79" fill="none" stroke="#834c50" stroke-width="5" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M3 102H18V137H22V155H18V141H13V108H3Z" fill="#2c1e20"/>
+<path d="M13 121L9 115 5 111 8 119 13 124Z" fill="#834c50"/>
+</g>
+<use xlink:href="#curl" transform="translate(0)"/>
+<use xlink:href="#curl" transform="matrix(0 1 1 0 0 0)"/>
+<path d="M42 47Q47 43 50 38L54 37Q53 46 60 48Q67 54 69 63L77 75Q67 73 63 67Q58 63 52 65Q51 59 54 55Q46 55 42 47Z" fill="#726044"/>
+<path d="M50 44Q49 50 53 52Q58 53 60 56L64 57Q61 51 55 49Z" fill="#a6836a"/>
+<path d="M66 63L73 67 77 75 70 71Z" fill="#532f36"/>
+</g>
+<g id="minorpetal">
+<path d="M-11 -13L-9 -21 -4 -27 0 -30 4 -25 10 -26 11 -18 9 -12 1 -9Z" fill="#834c50"/>
+<path d="M-8 -13Q-11 -19 -6 -21Q-2 -22 0 -26Q2 -22 6 -22Q12 -21 8 -16L4 -11Z" fill="#bd7759"/>
+<path d="M-3 -28Q-4 -36 1 -42Q5 -37 5 -31L1 -27Z" fill="#726044"/>
+</g>
+<g id="corner">
+<use xlink:href="#cornerquarter" transform="rotate(0)"/>
+<use xlink:href="#cornerquarter" transform="rotate(90)"/>
+<use xlink:href="#cornerquarter" transform="rotate(180)"/>
+<use xlink:href="#cornerquarter" transform="rotate(270)"/>
+<path d="M0 -97Q16 -45 44 -25Q65 -8 96 0Q40 17 23 45Q8 68 0 99Q-15 52 -42 29Q-63 9 -97 0Q-45 -16 -25 -43Q-8 -68 0 -97Z" fill="#532f36" stroke="#834c50" stroke-width="3.5" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M0 -80Q11 -41 33 -21Q47 -7 77 0Q40 11 20 36Q8 51 0 79Q-11 39 -36 18Q-55 6 -78 0Q-37 -12 -19 -38Q-6 -58 0 -80Z" fill="#2c1e20"/>
+<g transform="rotate(0)">
+<path d="M-6 -45Q-11 -52 -7 -57Q-3 -61 0 -69Q6 -61 9 -59Q12 -51 7 -46L1 -42Z" fill="#532f36"/>
+<path d="M-4 -52L1 -65 5 -55 3 -48Z" fill="#726044"/>
+</g>
+<g transform="rotate(90)">
+<path d="M-6 -45Q-11 -52 -7 -57Q-3 -61 0 -69Q6 -61 9 -59Q12 -51 7 -46L1 -42Z" fill="#532f36"/>
+<path d="M-4 -52L1 -65 5 -55 3 -48Z" fill="#726044"/>
+</g>
+<g transform="rotate(180)">
+<path d="M-6 -45Q-11 -52 -7 -57Q-3 -61 0 -69Q6 -61 9 -59Q12 -51 7 -46L1 -42Z" fill="#532f36"/>
+<path d="M-4 -52L1 -65 5 -55 3 -48Z" fill="#726044"/>
+</g>
+<g transform="rotate(270)">
+<path d="M-6 -45Q-11 -52 -7 -57Q-3 -61 0 -69Q6 -61 9 -59Q12 -51 7 -46L1 -42Z" fill="#532f36"/>
+<path d="M-4 -52L1 -65 5 -55 3 -48Z" fill="#726044"/>
+</g>
+<use xlink:href="#minorpetal" transform="rotate(0)"/>
+<use xlink:href="#minorpetal" transform="rotate(45)"/>
+<use xlink:href="#minorpetal" transform="rotate(90)"/>
+<use xlink:href="#minorpetal" transform="rotate(135)"/>
+<use xlink:href="#minorpetal" transform="rotate(180)"/>
+<use xlink:href="#minorpetal" transform="rotate(225)"/>
+<use xlink:href="#minorpetal" transform="rotate(270)"/>
+<use xlink:href="#minorpetal" transform="rotate(315)"/>
+<use xlink:href="#seed" transform="scale(.76)"/>
+</g>
+<g id="bud">
+<path d="M0 -14L4 -9 7 -10 9 -6 13 -3 10 1 12 5 7 6 4 12 0 9 -4 12 -7 7 -12 5 -10 0 -13 -3 -8 -6 -6 -10 -3 -9Z" fill="#726044"/>
+<path d="M0 -9L4 -5 8 -4 6 0 8 4 3 5 0 8 -4 5 -8 3 -6 0 -8 -4 -4 -5Z" fill="#834c50"/>
+<path d="M-3 -2L1 -5 4 -1 3 3 -1 4 -4 1Z" fill="#a6836a"/>
+</g>
+<g id="cell">
+<g transform="rotate(0)">
+<use xlink:href="#tablet" transform="translate(0)"/>
+<path d="M-65 -168Q-50 -162 -39 -166T-13 -168L-10 -165Q-27 -162 -36 -162T-65 -166Z" fill="#726044"/>
+<path d="M-56 -167Q-47 -179 -40 -175Q-40 -170 -46 -168Z" fill="#532f36"/>
+</g>
+<g transform="rotate(90)">
+<use xlink:href="#tablet" transform="translate(0)"/>
+<path d="M-65 -168Q-50 -162 -39 -166T-13 -168L-10 -165Q-27 -162 -36 -162T-65 -166Z" fill="#726044"/>
+<path d="M-56 -167Q-47 -179 -40 -175Q-40 -170 -46 -168Z" fill="#532f36"/>
+</g>
+<g transform="rotate(180)">
+<use xlink:href="#tablet" transform="translate(0)"/>
+<path d="M-65 -168Q-50 -162 -39 -166T-13 -168L-10 -165Q-27 -162 -36 -162T-65 -166Z" fill="#726044"/>
+<path d="M-56 -167Q-47 -179 -40 -175Q-40 -170 -46 -168Z" fill="#532f36"/>
+</g>
+<g transform="rotate(270)">
+<use xlink:href="#tablet" transform="translate(0)"/>
+<path d="M-65 -168Q-50 -162 -39 -166T-13 -168L-10 -165Q-27 -162 -36 -162T-65 -166Z" fill="#726044"/>
+<path d="M-56 -167Q-47 -179 -40 -175Q-40 -170 -46 -168Z" fill="#532f36"/>
+</g>
+<g transform="rotate(0) translate(0 -170)">
+<g transform="scale(1 1)">
+<path d="M10 1Q21 -5 29 -2T43 -3Q51 -9 60 -5Q55 -3 50 -1Q45 5 37 4Q31 4 27 1Q22 -1 13 4Z" fill="#726044"/>
+<path d="M27 0Q32 -10 39 -10Q40 -3 33 0Z" fill="#834c50"/>
+<path d="M48 -4Q51 -10 60 -11Q58 -5 51 -4Z" fill="#834c50"/>
+</g>
+<g transform="scale(-1 1)">
+<path d="M10 1Q21 -5 29 -2T43 -3Q51 -9 60 -5Q55 -3 50 -1Q45 5 37 4Q31 4 27 1Q22 -1 13 4Z" fill="#726044"/>
+<path d="M27 0Q32 -10 39 -10Q40 -3 33 0Z" fill="#834c50"/>
+<path d="M48 -4Q51 -10 60 -11Q58 -5 51 -4Z" fill="#834c50"/>
+</g>
+</g>
+<g transform="rotate(90) translate(0 -170)">
+<g transform="scale(1 1)">
+<path d="M10 1Q21 -5 29 -2T43 -3Q51 -9 60 -5Q55 -3 50 -1Q45 5 37 4Q31 4 27 1Q22 -1 13 4Z" fill="#726044"/>
+<path d="M27 0Q32 -10 39 -10Q40 -3 33 0Z" fill="#834c50"/>
+<path d="M48 -4Q51 -10 60 -11Q58 -5 51 -4Z" fill="#834c50"/>
+</g>
+<g transform="scale(-1 1)">
+<path d="M10 1Q21 -5 29 -2T43 -3Q51 -9 60 -5Q55 -3 50 -1Q45 5 37 4Q31 4 27 1Q22 -1 13 4Z" fill="#726044"/>
+<path d="M27 0Q32 -10 39 -10Q40 -3 33 0Z" fill="#834c50"/>
+<path d="M48 -4Q51 -10 60 -11Q58 -5 51 -4Z" fill="#834c50"/>
+</g>
+</g>
+<g transform="rotate(180) translate(0 -170)">
+<g transform="scale(1 1)">
+<path d="M10 1Q21 -5 29 -2T43 -3Q51 -9 60 -5Q55 -3 50 -1Q45 5 37 4Q31 4 27 1Q22 -1 13 4Z" fill="#726044"/>
+<path d="M27 0Q32 -10 39 -10Q40 -3 33 0Z" fill="#834c50"/>
+<path d="M48 -4Q51 -10 60 -11Q58 -5 51 -4Z" fill="#834c50"/>
+</g>
+<g transform="scale(-1 1)">
+<path d="M10 1Q21 -5 29 -2T43 -3Q51 -9 60 -5Q55 -3 50 -1Q45 5 37 4Q31 4 27 1Q22 -1 13 4Z" fill="#726044"/>
+<path d="M27 0Q32 -10 39 -10Q40 -3 33 0Z" fill="#834c50"/>
+<path d="M48 -4Q51 -10 60 -11Q58 -5 51 -4Z" fill="#834c50"/>
+</g>
+</g>
+<g transform="rotate(270) translate(0 -170)">
+<g transform="scale(1 1)">
+<path d="M10 1Q21 -5 29 -2T43 -3Q51 -9 60 -5Q55 -3 50 -1Q45 5 37 4Q31 4 27 1Q22 -1 13 4Z" fill="#726044"/>
+<path d="M27 0Q32 -10 39 -10Q40 -3 33 0Z" fill="#834c50"/>
+<path d="M48 -4Q51 -10 60 -11Q58 -5 51 -4Z" fill="#834c50"/>
+</g>
+<g transform="scale(-1 1)">
+<path d="M10 1Q21 -5 29 -2T43 -3Q51 -9 60 -5Q55 -3 50 -1Q45 5 37 4Q31 4 27 1Q22 -1 13 4Z" fill="#726044"/>
+<path d="M27 0Q32 -10 39 -10Q40 -3 33 0Z" fill="#834c50"/>
+<path d="M48 -4Q51 -10 60 -11Q58 -5 51 -4Z" fill="#834c50"/>
+</g>
+</g>
+<use xlink:href="#bud" transform="translate(0 -170)"/>
+<use xlink:href="#bud" transform="translate(-170 0)"/>
+<use xlink:href="#panel" transform="translate(0)"/>
+</g>
+</defs>
+<path d="M0 0h340v340h-340Z" fill="#2c1e20"/>
+<use xlink:href="#corner" transform="translate(-326.7 -321.6)"/>
+<use xlink:href="#corner" transform="translate(-326.7 18.4)"/>
+<use xlink:href="#corner" transform="translate(-326.7 358.4)"/>
+<use xlink:href="#corner" transform="translate(13.3 -321.6)"/>
+<use xlink:href="#corner" transform="translate(13.3 18.4)"/>
+<use xlink:href="#corner" transform="translate(13.3 358.4)"/>
+<use xlink:href="#corner" transform="translate(353.3 -321.6)"/>
+<use xlink:href="#corner" transform="translate(353.3 18.4)"/>
+<use xlink:href="#corner" transform="translate(353.3 358.4)"/>
+<use xlink:href="#cell" transform="translate(-156.7 -151.6)"/>
+<use xlink:href="#cell" transform="translate(-156.7 188.4)"/>
+<use xlink:href="#cell" transform="translate(-156.7 528.4)"/>
+<use xlink:href="#cell" transform="translate(183.3 -151.6)"/>
+<use xlink:href="#cell" transform="translate(183.3 188.4)"/>
+<use xlink:href="#cell" transform="translate(183.3 528.4)"/>
+<use xlink:href="#cell" transform="translate(523.3 -151.6)"/>
+<use xlink:href="#cell" transform="translate(523.3 188.4)"/>
+<use xlink:href="#cell" transform="translate(523.3 528.4)"/>
+</svg>

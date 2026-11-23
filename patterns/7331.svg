@@ -1,0 +1,69 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="384" height="384" viewBox="0 0 384 384">
+<title>The Red Lion, Southampton — checked diamond Axminster repeat</title>
+<desc>A slate ground carries a silver-grey diamond lattice. Four quartered diamonds surround a warm figured lozenge.</desc>
+<defs>
+<g id="check">
+<path fill="#85818B" fill-rule="nonzero" d="M-66.83 -64h5.65v128h-5.65z M-54.03 -64h5.65v128h-5.65z M-41.23 -64h5.65v128h-5.65z M-28.43 -64h5.65v128h-5.65z M-15.62 -64h5.65v128h-5.65z M-2.83 -64h5.65v128h-5.65z M9.98 -64h5.65v128h-5.65z M22.78 -64h5.65v128h-5.65z M35.58 -64h5.65v128h-5.65z M48.38 -64h5.65v128h-5.65z M61.17 -64h5.65v128h-5.65z M-64 -66.83h128v5.65h-128z M-64 -54.03h128v5.65h-128z M-64 -41.23h128v5.65h-128z M-64 -28.43h128v5.65h-128z M-64 -15.62h128v5.65h-128z M-64 -2.83h128v5.65h-128z M-64 9.98h128v5.65h-128z M-64 22.78h128v5.65h-128z M-64 35.58h128v5.65h-128z M-64 48.38h128v5.65h-128z M-64 61.17h128v5.65h-128z"/>
+<path fill="#BAB1B1" fill-rule="nonzero" d="M-66.83 -2.83h5.65v5.65h-5.65z M-54.03 -15.62h5.65v5.65h-5.65z M-54.03 -2.83h5.65v5.65h-5.65z M-54.03 9.98h5.65v5.65h-5.65z M-41.23 -28.43h5.65v5.65h-5.65z M-41.23 -15.62h5.65v5.65h-5.65z M-41.23 -2.83h5.65v5.65h-5.65z M-41.23 9.98h5.65v5.65h-5.65z M-41.23 22.78h5.65v5.65h-5.65z M-28.43 -41.23h5.65v5.65h-5.65z M-28.43 -28.43h5.65v5.65h-5.65z M-28.43 -15.62h5.65v5.65h-5.65z M-28.43 -2.83h5.65v5.65h-5.65z M-28.43 9.98h5.65v5.65h-5.65z M-28.43 22.78h5.65v5.65h-5.65z M-28.43 35.58h5.65v5.65h-5.65z M-15.62 -54.03h5.65v5.65h-5.65z M-15.62 -41.23h5.65v5.65h-5.65z M-15.62 -28.43h5.65v5.65h-5.65z M-15.62 -15.62h5.65v5.65h-5.65z M-15.62 -2.83h5.65v5.65h-5.65z M-15.62 9.98h5.65v5.65h-5.65z M-15.62 22.78h5.65v5.65h-5.65z M-15.62 35.58h5.65v5.65h-5.65z M-15.62 48.38h5.65v5.65h-5.65z M-2.83 -66.83h5.65v5.65h-5.65z M-2.83 -54.03h5.65v5.65h-5.65z M-2.83 -41.23h5.65v5.65h-5.65z M-2.83 -28.43h5.65v5.65h-5.65z M-2.83 -15.62h5.65v5.65h-5.65z M-2.83 -2.83h5.65v5.65h-5.65z M-2.83 9.98h5.65v5.65h-5.65z M-2.83 22.78h5.65v5.65h-5.65z M-2.83 35.58h5.65v5.65h-5.65z M-2.83 48.38h5.65v5.65h-5.65z M-2.83 61.17h5.65v5.65h-5.65z M9.98 -54.03h5.65v5.65h-5.65z M9.98 -41.23h5.65v5.65h-5.65z M9.98 -28.43h5.65v5.65h-5.65z M9.98 -15.62h5.65v5.65h-5.65z M9.98 -2.83h5.65v5.65h-5.65z M9.98 9.98h5.65v5.65h-5.65z M9.98 22.78h5.65v5.65h-5.65z M9.98 35.58h5.65v5.65h-5.65z M9.98 48.38h5.65v5.65h-5.65z M22.78 -41.23h5.65v5.65h-5.65z M22.78 -28.43h5.65v5.65h-5.65z M22.78 -15.62h5.65v5.65h-5.65z M22.78 -2.83h5.65v5.65h-5.65z M22.78 9.98h5.65v5.65h-5.65z M22.78 22.78h5.65v5.65h-5.65z M22.78 35.58h5.65v5.65h-5.65z M35.58 -28.43h5.65v5.65h-5.65z M35.58 -15.62h5.65v5.65h-5.65z M35.58 -2.83h5.65v5.65h-5.65z M35.58 9.98h5.65v5.65h-5.65z M35.58 22.78h5.65v5.65h-5.65z M48.38 -15.62h5.65v5.65h-5.65z M48.38 -2.83h5.65v5.65h-5.65z M48.38 9.98h5.65v5.65h-5.65z M61.17 -2.83h5.65v5.65h-5.65z"/>
+</g>
+<path id="diamond" d="M0 -64 64 0 0 64 -64 0Z"/>
+<clipPath id="lozenge"><use xlink:href="#diamond"/></clipPath>
+<clipPath id="opposed"><path d="M-64 0 0 -64V0Z M64 0 0 64V0Z"/></clipPath>
+<g id="checked" clip-path="url(#lozenge)"><use xlink:href="#check"/></g>
+<g id="quartered" clip-path="url(#opposed)"><use xlink:href="#check"/></g>
+<g id="heart" clip-path="url(#lozenge)">
+<use xlink:href="#diamond" fill="#807677"/>
+<path fill="#685F63" d="M0 -44.8h6.4v3.2h-6.4z M3.2 -41.6h6.4v3.2h-6.4z M3.2 -38.4h6.4v3.2h-6.4z M6.4 -35.2h3.2v3.2h-3.2z M6.4 -32h12.8v3.2h-12.8z M6.4 -28.8h12.8v3.2h-12.8z M-6.4 -25.6h6.4v3.2h-6.4z M6.4 -25.6h6.4v3.2h-6.4z M-9.6 -22.4h9.6v3.2h-9.6z M6.4 -22.4h6.4v3.2h-6.4z M-6.4 -19.2h19.2v3.2h-19.2z M-6.4 -16h9.6v3.2h-9.6z M6.4 -16h9.6v3.2h-9.6z M-6.4 -12.8h22.4v3.2h-22.4z M-6.4 -9.6h16v3.2h-16z M-9.6 -6.4h16v3.2h-16z M-6.4 -3.2h16v3.2h-16z M-6.4 0h25.6v3.2h-25.6z M-6.4 3.2h9.6v3.2h-9.6z M6.4 3.2h16v3.2h-16z M-6.4 6.4h6.4v3.2h-6.4z M12.8 6.4h9.6v3.2h-9.6z M-6.4 9.6h6.4v3.2h-6.4z M16 9.6h6.4v3.2h-6.4z M-3.2 12.8h3.2v3.2h-3.2z M16 12.8h6.4v3.2h-6.4z M25.6 -12.8h9.6v3.2h-9.6z M25.6 -9.6h12.8v3.2h-12.8z M28.8 -6.4h3.2v3.2h-3.2z M-38.4 -19.2h9.6v3.2h-9.6z M-38.4 -16h12.8v3.2h-12.8z M-35.2 -12.8h9.6v3.2h-9.6z M-35.2 -9.6h9.6v3.2h-9.6z M-35.2 -6.4h9.6v3.2h-9.6z"/>
+<path fill="#958A87" d="M-3.2 -57.6h6.4v3.2h-6.4z M-6.4 -54.4h12.8v3.2h-12.8z M-9.6 -51.2h19.2v3.2h-19.2z M-12.8 -48h9.6v3.2h-9.6z M6.4 -48h6.4v3.2h-6.4z M-16 -44.8h12.8v3.2h-12.8z M9.6 -44.8h6.4v3.2h-6.4z M-19.2 -41.6h12.8v3.2h-12.8z M12.8 -41.6h6.4v3.2h-6.4z M-22.4 -38.4h22.4v3.2h-22.4z M-25.6 -35.2h9.6v3.2h-9.6z M-3.2 -35.2h3.2v3.2h-3.2z M-28.8 -32h12.8v3.2h-12.8z M-32 -28.8h19.2v3.2h-19.2z M-35.2 -25.6h12.8v3.2h-12.8z M-28.8 -22.4h3.2v3.2h-3.2z M-12.8 -25.6h3.2v3.2h-3.2z M-12.8 -22.4h3.2v3.2h-3.2z M-12.8 -19.2h3.2v3.2h-3.2z M-44.8 -16h3.2v3.2h-3.2z M-16 -16h6.4v3.2h-6.4z M-48 -12.8h6.4v3.2h-6.4z M-22.4 -12.8h12.8v3.2h-12.8z M-51.2 -9.6h9.6v3.2h-9.6z M-22.4 -9.6h12.8v3.2h-12.8z M-54.4 -6.4h9.6v3.2h-9.6z M-22.4 -6.4h12.8v3.2h-12.8z M-57.6 -3.2h16v3.2h-16z M-22.4 -3.2h3.2v3.2h-3.2z M-16 -3.2h6.4v3.2h-6.4z M-57.6 0h19.2v3.2h-19.2z M-32 0h12.8v3.2h-12.8z M-54.4 3.2h35.2v3.2h-35.2z M-51.2 6.4h32v3.2h-32z M-48 9.6h28.8v3.2h-28.8z M-44.8 12.8h25.6v3.2h-25.6z M-41.6 16h22.4v3.2h-22.4z M-38.4 19.2h12.8v3.2h-12.8z M-19.2 19.2h6.4v3.2h-6.4z M-35.2 22.4h25.6v3.2h-25.6z M-32 25.6h22.4v3.2h-22.4z M-28.8 28.8h19.2v3.2h-19.2z M-25.6 32h16v3.2h-16z M-22.4 35.2h12.8v3.2h-12.8z M-19.2 38.4h9.6v3.2h-9.6z M-16 41.6h6.4v3.2h-6.4z M-12.8 44.8h3.2v3.2h-3.2z M22.4 -35.2h3.2v3.2h-3.2z M22.4 -32h6.4v3.2h-6.4z M25.6 -28.8h6.4v3.2h-6.4z M28.8 -25.6h6.4v3.2h-6.4z M32 -22.4h6.4v3.2h-6.4z M35.2 -19.2h6.4v3.2h-6.4z M38.4 -16h6.4v3.2h-6.4z M38.4 -12.8h9.6v3.2h-9.6z M41.6 -9.6h9.6v3.2h-9.6z M41.6 -6.4h12.8v3.2h-12.8z M41.6 -3.2h16v3.2h-16z M44.8 0h12.8v3.2h-12.8z M38.4 3.2h3.2v3.2h-3.2z M48 3.2h6.4v3.2h-6.4z M38.4 6.4h12.8v3.2h-12.8z M38.4 9.6h9.6v3.2h-9.6z M35.2 12.8h9.6v3.2h-9.6z M25.6 16h16v3.2h-16z M25.6 19.2h12.8v3.2h-12.8z M25.6 22.4h9.6v3.2h-9.6z M22.4 25.6h9.6v3.2h-9.6z M16 28.8h12.8v3.2h-12.8z M6.4 32h3.2v3.2h-3.2z M12.8 32h12.8v3.2h-12.8z M6.4 35.2h3.2v3.2h-3.2z M12.8 35.2h9.6v3.2h-9.6z M3.2 38.4h16v3.2h-16z M3.2 41.6h12.8v3.2h-12.8z M0 44.8h12.8v3.2h-12.8z M-3.2 48h12.8v3.2h-12.8z M-6.4 51.2h12.8v3.2h-12.8z M-3.2 54.4h6.4v3.2h-6.4z M3.2 19.2h3.2v3.2h-3.2z M-3.2 22.4h9.6v3.2h-9.6z M0 25.6h6.4v3.2h-6.4z M3.2 28.8h3.2v3.2h-3.2z"/>
+</g>
+<g id="cell">
+<use xlink:href="#checked" transform="translate(-192 -192)"/>
+<use xlink:href="#checked" transform="translate(0 -128)"/>
+<use xlink:href="#quartered" transform="translate(-64 -64)"/>
+<use xlink:href="#quartered" transform="translate(64 -64) scale(-1 1)"/>
+<use xlink:href="#checked" transform="translate(-128 0)"/>
+<use xlink:href="#heart" transform="translate(0 0)"/>
+<use xlink:href="#checked" transform="translate(128 0)"/>
+<use xlink:href="#quartered" transform="translate(-64 64) scale(-1 1)"/>
+<use xlink:href="#quartered" transform="translate(64 64)"/>
+<use xlink:href="#checked" transform="translate(0 128)"/>
+</g><g id="rails">
+<path transform="translate(-192 -192)" d="M-64 0 0 -64 64 0" fill="none" stroke="#85818B" stroke-width="3.4" stroke-linejoin="round" stroke-linecap="round"/>
+<path transform="translate(-64 -192)" d="M-64 0 0 -64 64 0" fill="none" stroke="#85818B" stroke-width="3.4" stroke-linejoin="round" stroke-linecap="round"/>
+<path transform="translate(64 -192)" d="M-64 0 0 -64 64 0" fill="none" stroke="#85818B" stroke-width="3.4" stroke-linejoin="round" stroke-linecap="round"/>
+<path transform="translate(-128 -128)" d="M-64 0 0 -64 64 0" fill="none" stroke="#85818B" stroke-width="3.4" stroke-linejoin="round" stroke-linecap="round"/>
+<path transform="translate(0 -128)" d="M-64 0 0 -64 64 0" fill="none" stroke="#85818B" stroke-width="3.4" stroke-linejoin="round" stroke-linecap="round"/>
+<path transform="translate(128 -128)" d="M-64 0 0 -64 64 0" fill="none" stroke="#85818B" stroke-width="3.4" stroke-linejoin="round" stroke-linecap="round"/>
+<path transform="translate(-192 -64)" d="M-64 0 0 -64 64 0" fill="none" stroke="#85818B" stroke-width="3.4" stroke-linejoin="round" stroke-linecap="round"/>
+<path transform="translate(-64 -64)" d="M-64 0 0 -64 64 0" fill="none" stroke="#85818B" stroke-width="3.4" stroke-linejoin="round" stroke-linecap="round"/>
+<path transform="translate(64 -64)" d="M-64 0 0 -64 64 0" fill="none" stroke="#85818B" stroke-width="3.4" stroke-linejoin="round" stroke-linecap="round"/>
+<path transform="translate(-128 0)" d="M-64 0 0 -64 64 0" fill="none" stroke="#85818B" stroke-width="3.4" stroke-linejoin="round" stroke-linecap="round"/>
+<path transform="translate(0 0)" d="M-64 0 0 -64 64 0" fill="none" stroke="#85818B" stroke-width="3.4" stroke-linejoin="round" stroke-linecap="round"/>
+<path transform="translate(128 0)" d="M-64 0 0 -64 64 0" fill="none" stroke="#85818B" stroke-width="3.4" stroke-linejoin="round" stroke-linecap="round"/>
+<path transform="translate(-192 64)" d="M-64 0 0 -64 64 0" fill="none" stroke="#85818B" stroke-width="3.4" stroke-linejoin="round" stroke-linecap="round"/>
+<path transform="translate(-64 64)" d="M-64 0 0 -64 64 0" fill="none" stroke="#85818B" stroke-width="3.4" stroke-linejoin="round" stroke-linecap="round"/>
+<path transform="translate(64 64)" d="M-64 0 0 -64 64 0" fill="none" stroke="#85818B" stroke-width="3.4" stroke-linejoin="round" stroke-linecap="round"/>
+<path transform="translate(-128 128)" d="M-64 0 0 -64 64 0" fill="none" stroke="#85818B" stroke-width="3.4" stroke-linejoin="round" stroke-linecap="round"/>
+<path transform="translate(0 128)" d="M-64 0 0 -64 64 0" fill="none" stroke="#85818B" stroke-width="3.4" stroke-linejoin="round" stroke-linecap="round"/>
+<path transform="translate(128 128)" d="M-64 0 0 -64 64 0" fill="none" stroke="#85818B" stroke-width="3.4" stroke-linejoin="round" stroke-linecap="round"/>
+</g></defs>
+<rect width="384" height="384" fill="#414251"/>
+<use xlink:href="#cell" transform="translate(-192 -192)"/>
+<use xlink:href="#cell" transform="translate(192 -192)"/>
+<use xlink:href="#cell" transform="translate(576 -192)"/>
+<use xlink:href="#cell" transform="translate(-192 192)"/>
+<use xlink:href="#cell" transform="translate(192 192)"/>
+<use xlink:href="#cell" transform="translate(576 192)"/>
+<use xlink:href="#cell" transform="translate(-192 576)"/>
+<use xlink:href="#cell" transform="translate(192 576)"/>
+<use xlink:href="#cell" transform="translate(576 576)"/>
+<use xlink:href="#rails" transform="translate(-192 -192)"/>
+<use xlink:href="#rails" transform="translate(192 -192)"/>
+<use xlink:href="#rails" transform="translate(576 -192)"/>
+<use xlink:href="#rails" transform="translate(-192 192)"/>
+<use xlink:href="#rails" transform="translate(192 192)"/>
+<use xlink:href="#rails" transform="translate(576 192)"/>
+<use xlink:href="#rails" transform="translate(-192 576)"/>
+<use xlink:href="#rails" transform="translate(192 576)"/>
+<use xlink:href="#rails" transform="translate(576 576)"/>
+</svg>

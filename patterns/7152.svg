@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="300" height="174" viewBox="0 0 300 174">
+  <title>Parsons’ Barn, Shoeburyness — staggered three-arm carpet repeat</title>
+  <defs>
+    <path id="fork" fill="#423e45" d="M-1.571 -110.121 Q0 -111 1.571 -110.121 L23.429 -97.879 Q25 -97 25 -95.2 L25 -14.8 Q25 -13 26.564 -12.109 L95.436 27.109 Q97 28 97 29.8 L97 54.2 Q97 56 95.429 56.879 L73.571 69.121 Q72 70 70.464 69.061 L1.536 26.939 Q0 26 -1.536 26.939 L-70.464 69.061 Q-72 70 -73.571 69.121 L-95.429 56.879 Q-97 56 -97 54.2 L-97 29.8 Q-97 28 -95.436 27.109 L-26.564 -12.109 Q-25 -13 -25 -14.8 L-25 -95.2 Q-25 -97 -23.429 -97.879 Z"/>
+  </defs>
+  <rect width="300" height="174" fill="#7f7c81"/>
+  <use xlink:href="#fork" x="75" y="43.5"/>
+  <use xlink:href="#fork" x="375" y="43.5"/>
+  <use xlink:href="#fork" x="75" y="217.5"/>
+  <use xlink:href="#fork" x="375" y="217.5"/>
+  <use xlink:href="#fork" x="-75" y="-43.5"/>
+  <use xlink:href="#fork" x="225" y="-43.5"/>
+  <use xlink:href="#fork" x="-75" y="130.5"/>
+  <use xlink:href="#fork" x="225" y="130.5"/>
+</svg>

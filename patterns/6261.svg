@@ -1,0 +1,98 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="512" height="512" viewBox="0 0 512 512">
+  <title>The Wicket Gate, Chester-le-Street — interlaced gold bands and petal medallions</title>
+  <defs>
+    <path id="plum-fan" d="M 0 0 L -128 -128 C -76 -115 -40 -113 0 -153 C 40 -113 76 -115 128 -128 Z" fill="#503e48"/>
+    <path id="petal" d="M 0 0 C -7 -20 -20 -47 -34 -50 C -43 -52 -54 -42 -50 -32 C -44 -17 -17 -6 0 0 Z" />
+    <g id="flower">
+<use xlink:href="#plum-fan" />
+<use xlink:href="#plum-fan" transform="rotate(180)"/>
+      <circle r="81" fill="none" stroke="#503e48" stroke-width="5.4"/>
+      <path d="M -57.276 -57.276 A 81 81 0 0 1 57.276 -57.276 M 57.276 57.276 A 81 81 0 0 1 -57.276 57.276" fill="none" stroke="#392e35" stroke-width="5.4"/>
+      <g fill="none" stroke="#73543f" stroke-width="9" stroke-linejoin="round">
+        <use xlink:href="#petal" transform="rotate(0)"/>
+        <use xlink:href="#petal" transform="rotate(90)"/>
+        <use xlink:href="#petal" transform="rotate(180)"/>
+        <use xlink:href="#petal" transform="rotate(270)"/>
+      </g>
+      <g fill="none" stroke="#a78060" stroke-width="6.5" stroke-linejoin="round">
+        <use xlink:href="#petal" transform="rotate(0)"/>
+        <use xlink:href="#petal" transform="rotate(90)"/>
+        <use xlink:href="#petal" transform="rotate(180)"/>
+        <use xlink:href="#petal" transform="rotate(270)"/>
+      </g>
+      <g fill="none" stroke="#d5bda3" stroke-width="3.1" stroke-linejoin="round">
+        <use xlink:href="#petal" transform="rotate(0)"/>
+        <use xlink:href="#petal" transform="rotate(90)"/>
+        <use xlink:href="#petal" transform="rotate(180)"/>
+        <use xlink:href="#petal" transform="rotate(270)"/>
+      </g>
+    </g>
+    <path id="rail-0" d="M -1152 -1152 C -1100 -1165 -1064 -1167 -1024 -1127 L -997 -1100 L -997 -1051 L -948 -1051 L -921 -1024 C -881 -984 -883 -948 -896 -896 C -909 -844 -911 -808 -871 -768 L -844 -741 L -795 -741 L -795 -692 L -768 -665 C -728 -625 -692 -627 -640 -640 C -588 -653 -552 -655 -512 -615 L -485 -588 L -485 -539 L -436 -539 L -409 -512 C -369 -472 -371 -436 -384 -384 C -397 -332 -399 -296 -359 -256 L -332 -229 L -283 -229 L -283 -180 L -256 -153 C -216 -113 -180 -115 -128 -128 C -76 -141 -40 -143 0 -103 L 27 -76 L 27 -27 L 76 -27 L 103 0 C 143 40 141 76 128 128 C 115 180 113 216 153 256 L 180 283 L 229 283 L 229 332 L 256 359 C 296 399 332 397 384 384 C 436 371 472 369 512 409 L 539 436 L 539 485 L 588 485 L 615 512 C 655 552 653 588 640 640 C 627 692 625 728 665 768 L 692 795 L 741 795 L 741 844 L 768 871 C 808 911 844 909 896 896 C 948 883 984 881 1024 921 L 1051 948 L 1051 997 L 1100 997 L 1127 1024 C 1167 1064 1165 1100 1152 1152" />
+    <g id="braid-0" fill="none" stroke-linejoin="miter" stroke-miterlimit="3">
+      <use xlink:href="#rail-0" stroke="#392e35" stroke-width="12"/>
+      <use xlink:href="#rail-0" stroke="#73543f" stroke-width="10.5"/>
+      <use xlink:href="#rail-0" stroke="#a78060" stroke-width="8"/>
+      <use xlink:href="#rail-0" stroke="#d5bda3" stroke-width="2.8"/>
+    </g>
+    <path id="rail-1" d="M -1152 -1152 C -1165 -1100 -1167 -1064 -1127 -1024 L -1100 -997 L -1051 -997 L -1051 -948 L -1024 -921 C -984 -881 -948 -883 -896 -896 C -844 -909 -808 -911 -768 -871 L -741 -844 L -741 -795 L -692 -795 L -665 -768 C -625 -728 -627 -692 -640 -640 C -653 -588 -655 -552 -615 -512 L -588 -485 L -539 -485 L -539 -436 L -512 -409 C -472 -369 -436 -371 -384 -384 C -332 -397 -296 -399 -256 -359 L -229 -332 L -229 -283 L -180 -283 L -153 -256 C -113 -216 -115 -180 -128 -128 C -141 -76 -143 -40 -103 0 L -76 27 L -27 27 L -27 76 L 0 103 C 40 143 76 141 128 128 C 180 115 216 113 256 153 L 283 180 L 283 229 L 332 229 L 359 256 C 399 296 397 332 384 384 C 371 436 369 472 409 512 L 436 539 L 485 539 L 485 588 L 512 615 C 552 655 588 653 640 640 C 692 627 728 625 768 665 L 795 692 L 795 741 L 844 741 L 871 768 C 911 808 909 844 896 896 C 883 948 881 984 921 1024 L 948 1051 L 997 1051 L 997 1100 L 1024 1127 C 1064 1167 1100 1165 1152 1152" />
+    <g id="braid-1" fill="none" stroke-linejoin="miter" stroke-miterlimit="3">
+      <use xlink:href="#rail-1" stroke="#392e35" stroke-width="12"/>
+      <use xlink:href="#rail-1" stroke="#73543f" stroke-width="10.5"/>
+      <use xlink:href="#rail-1" stroke="#a78060" stroke-width="8"/>
+      <use xlink:href="#rail-1" stroke="#d5bda3" stroke-width="2.8"/>
+    </g>
+    <clipPath id="crossings" clipPathUnits="userSpaceOnUse"><circle cx="0" cy="-103" r="14"/><circle cx="0" cy="103" r="14"/></clipPath>
+  </defs>
+  <rect width="512" height="512" fill="#302e2f"/>
+  <g transform="translate(186 176)">
+    <use xlink:href="#flower" transform="translate(-256 -256)"/>
+    <rect x="-25" y="-281" width="50" height="50" fill="#503e48"/>
+    <use xlink:href="#flower" transform="translate(256 -256)"/>
+    <rect x="-281" y="-25" width="50" height="50" fill="#503e48"/>
+    <use xlink:href="#flower" transform="translate(0 0)"/>
+    <rect x="231" y="-25" width="50" height="50" fill="#503e48"/>
+    <use xlink:href="#flower" transform="translate(-256 256)"/>
+    <rect x="-25" y="231" width="50" height="50" fill="#503e48"/>
+    <use xlink:href="#flower" transform="translate(256 256)"/>
+    <g transform="translate(256 0) rotate(0)">
+      <use xlink:href="#braid-0" transform="translate(-1024 0)"/>
+      <use xlink:href="#braid-1" transform="translate(-1024 0)"/>
+      <use xlink:href="#braid-0" transform="translate(-512 0)"/>
+      <use xlink:href="#braid-1" transform="translate(-512 0)"/>
+      <use xlink:href="#braid-0" transform="translate(0 0)"/>
+      <use xlink:href="#braid-1" transform="translate(0 0)"/>
+      <use xlink:href="#braid-0" transform="translate(512 0)"/>
+      <use xlink:href="#braid-1" transform="translate(512 0)"/>
+      <use xlink:href="#braid-0" transform="translate(1024 0)"/>
+      <use xlink:href="#braid-1" transform="translate(1024 0)"/>
+    </g>
+    <g transform="translate(256 0) rotate(90)">
+      <use xlink:href="#braid-0" transform="translate(-1024 0)"/>
+      <use xlink:href="#braid-1" transform="translate(-1024 0)"/>
+      <use xlink:href="#braid-0" transform="translate(-512 0)"/>
+      <use xlink:href="#braid-1" transform="translate(-512 0)"/>
+      <use xlink:href="#braid-0" transform="translate(0 0)"/>
+      <use xlink:href="#braid-1" transform="translate(0 0)"/>
+      <use xlink:href="#braid-0" transform="translate(512 0)"/>
+      <use xlink:href="#braid-1" transform="translate(512 0)"/>
+      <use xlink:href="#braid-0" transform="translate(1024 0)"/>
+      <use xlink:href="#braid-1" transform="translate(1024 0)"/>
+    </g>
+    <g transform="translate(0 -256)" clip-path="url(#crossings)">
+      <use xlink:href="#braid-0" />
+      <use xlink:href="#braid-1" />
+    </g>
+    <g transform="translate(-256 0)" clip-path="url(#crossings)">
+      <use xlink:href="#braid-0" />
+      <use xlink:href="#braid-1" />
+    </g>
+    <g transform="translate(256 0)" clip-path="url(#crossings)">
+      <use xlink:href="#braid-0" />
+      <use xlink:href="#braid-1" />
+    </g>
+    <g transform="translate(0 256)" clip-path="url(#crossings)">
+      <use xlink:href="#braid-0" />
+      <use xlink:href="#braid-1" />
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="600" height="600" viewBox="0 0 600 600">
+  <title>The Lion &amp; The Unicorn, Waterloo — stepped brass frames and combed roundels</title>
+  <defs>
+    <clipPath id="roundel-edge">
+      <path d="M 420,171.5 C 557.2,171.5 670.5,282.5 670.5,420 C 670.5,556.5 559.5,666.8 422,666.8 C 285,666.8 174,556.5 174,419.4 C 174,283.3 282.7,171.5 420,171.5 Z" fill="#494649"/>
+    </clipPath>
+    <clipPath id="panel-edge">
+      <path d="M -149,139.3 L 310.8,148.6 L 315.6,492.8 L -149,337 Z" fill="#494649"/>
+    </clipPath>
+    <g id="frame">
+      <path d="M -149,333 L 237,460 L -149,446 Z" fill="#706f70"/>
+      <path d="M -149,139.3 L 310.8,148.6 L 315.6,492.8 L -149,337 Z" fill="#d0cac0"/>
+      <g clip-path="url(#panel-edge)">
+        <use xlink:href="#woven-dot" transform="translate(117.77 154.27) rotate(10)"/>
+        <use xlink:href="#woven-dot" transform="translate(207.33 157.03) rotate(2)"/>
+        <use xlink:href="#woven-dot" transform="translate(145.10 163.14) rotate(-4)"/>
+        <use xlink:href="#woven-dot" transform="translate(234.26 166.74) rotate(-11)"/>
+        <use xlink:href="#woven-dot" transform="translate(172.24 172.61) rotate(7)"/>
+        <use xlink:href="#woven-dot" transform="translate(261.63 175.72) rotate(0)"/>
+        <use xlink:href="#woven-dot" transform="translate(109.27 181.62) rotate(3)"/>
+        <use xlink:href="#woven-dot" transform="translate(199.88 181.50) rotate(-6)"/>
+        <use xlink:href="#woven-dot" transform="translate(289.08 184.57) rotate(11)"/>
+        <use xlink:href="#woven-dot" transform="translate(226.62 190.25) rotate(4)"/>
+        <use xlink:href="#woven-dot" transform="translate(136.10 190.83) rotate(-11)"/>
+        <use xlink:href="#woven-dot" transform="translate(163.00 199.35) rotate(0)"/>
+        <use xlink:href="#woven-dot" transform="translate(253.61 201.20) rotate(-8)"/>
+        <use xlink:href="#woven-dot" transform="translate(190.68 208.65) rotate(12)"/>
+        <use xlink:href="#woven-dot" transform="translate(127.55 217.84) rotate(8)"/>
+        <use xlink:href="#woven-dot" transform="translate(217.65 218.35) rotate(-1)"/>
+        <use xlink:href="#woven-dot" transform="translate(154.78 226.75) rotate(-6)"/>
+        <use xlink:href="#woven-dot" transform="translate(244.98 226.78) rotate(9)"/>
+        <use xlink:href="#woven-dot" transform="translate(181.54 236.04) rotate(5)"/>
+        <use xlink:href="#woven-dot" transform="translate(118.58 243.70) rotate(0)"/>
+        <use xlink:href="#woven-dot" transform="translate(208.67 245.25) rotate(-9)"/>
+        <use xlink:href="#woven-dot" transform="translate(146.11 252.75) rotate(11)"/>
+        <use xlink:href="#woven-dot" transform="translate(173.24 262.11) rotate(-2)"/>
+        <use xlink:href="#woven-dot" transform="translate(110.81 269.24) rotate(-7)"/>
+        <use xlink:href="#woven-dot" transform="translate(199.84 270.85) rotate(8)"/>
+        <use xlink:href="#woven-dot" transform="translate(137.82 279.01) rotate(4)"/>
+        <use xlink:href="#woven-dot" transform="translate(165.23 287.70) rotate(-10)"/>
+        <use xlink:href="#woven-dot" transform="translate(191.21 297.19) rotate(1)"/>
+        <use xlink:href="#woven-dot" transform="translate(101.58 297.14) rotate(11)"/>
+        <use xlink:href="#woven-dot" transform="translate(128.80 306.84) rotate(-2)"/>
+        <use xlink:href="#woven-dot" transform="translate(155.99 315.35) rotate(9)"/>
+        <use xlink:href="#woven-dot" transform="translate(93.85 321.10) rotate(2)"/>
+        <use xlink:href="#woven-dot" transform="translate(182.07 324.48) rotate(-6)"/>
+        <use xlink:href="#woven-dot" transform="translate(121.41 330.25) rotate(-11)"/>
+        <use xlink:href="#woven-dot" transform="translate(148.12 339.20) rotate(0)"/>
+        <use xlink:href="#woven-dot" transform="translate(174.11 348.46) rotate(10)"/>
+        <use xlink:href="#woven-dot" transform="translate(85.07 348.73) rotate(-4)"/>
+        <use xlink:href="#woven-dot" transform="translate(111.56 357.69) rotate(7)"/>
+        <use xlink:href="#woven-dot" transform="translate(138.51 366.75) rotate(-7)"/>
+        <use xlink:href="#woven-dot" transform="translate(76.16 373.66) rotate(12)"/>
+        <use xlink:href="#woven-dot" transform="translate(165.55 375.89) rotate(4)"/>
+        <use xlink:href="#woven-dot" transform="translate(103.07 381.80) rotate(-3)"/>
+        <use xlink:href="#woven-dot" transform="translate(130.02 390.93) rotate(8)"/>
+        <use xlink:href="#woven-dot" transform="translate(156.46 400.04) rotate(-6)"/>
+        <use xlink:href="#woven-dot" transform="translate(66.90 401.57) rotate(6)"/>
+        <use xlink:href="#woven-dot" transform="translate(93.48 410.14) rotate(-9)"/>
+        <use xlink:href="#woven-dot" transform="translate(121.17 419.09) rotate(3)"/>
+        <use xlink:href="#woven-dot" transform="translate(147.66 427.66) rotate(-12)"/>
+      </g>
+      <path d="M -149,61.5 L 347.6,77 L 348.1,427 L 323.9,422 L 321.3,114.3 L -149,103.3 Z" fill="#967345"/>
+      <path d="M 435.5,-61 L 465.2,-60 L 466.2,136 L 1050,147.6 L 1050,198.6 L 510,189.6 L 510.6,173.8 L 758.8,178.2 L 755,157.7 L 465.2,151.8 L 465.2,480 L 437.3,480 Z" fill="#967345"/>
+    </g>
+    <g id="woven-dot">
+      <path d="M -5.5,-1.7 Q -5,-4.8 -2.3,-5.2 L 1.2,-5.1 Q 4.7,-4.6 5.1,-1.4 L 5.2,1.6 Q 5,4.5 1.9,5.1 L -1.6,5 Q -5,4.5 -5.4,1.5 Z" fill="#83989b"/>
+    </g>
+    <g id="roundel" clip-path="url(#roundel-edge)">
+      <path d="M 420,171.5 C 557.2,171.5 670.5,282.5 670.5,420 C 670.5,556.5 559.5,666.8 422,666.8 C 285,666.8 174,556.5 174,419.4 C 174,283.3 282.7,171.5 420,171.5 Z" fill="#c7b38e"/>
+      <path d="M 309.8,120 L 358.3,120 L 358.8,415.5 L 407.6,431.9 L 406,633 L 332.3,620 L 331,474.6 L 165,473 L 165,462.3 L 315,463.7 Z" fill="#494649"/>
+      <path d="M 320.4,134 L 348.3,135 L 347.8,411.1 L 324.7,403.5 Z" fill="#967345"/>
+      <path d="M 357.8,157 L 438.7,157 L 437.3,441.6 L 358.8,415.5 Z" fill="#d0cac0"/>
+      <path d="M 439.3,156 L 464.8,157 L 465.3,613 L 436.1,618.4 Z" fill="#967345"/>
+      <path d="M 437.3,441.7 L 443.9,444 L 441.6,618.4 L 435.3,618.8 Z" fill="#494649"/>
+      <path d="M 450.2,446.2 L 456.8,448.4 L 457.7,614.9 L 450.3,616.5 Z" fill="#494649"/>
+      <path d="M 520,211.8 L 705,214.0 L 705,235.0 L 520,232.8 C 506.4,232.8 506.2,212.9 520,211.8 Z" fill="#706f70"/>
+      <path d="M 520,250.3 L 705,252.5 L 705,273.0 L 520,270.8 C 506.4,270.8 506.2,251.4 520,250.3 Z" fill="#706f70"/>
+      <path d="M 520,289.2 L 705,291.4 L 705,311.59999999999997 L 520,309.4 C 506.4,309.4 506.2,290.3 520,289.2 Z" fill="#706f70"/>
+      <path d="M 520,325.8 L 705,328.0 L 705,348.7 L 520,346.5 C 506.4,346.5 506.2,326.90000000000003 520,325.8 Z" fill="#706f70"/>
+      <path d="M 520,366.1 L 705,368.3 L 705,388.6 L 520,386.40000000000003 C 506.4,386.40000000000003 506.2,367.20000000000005 520,366.1 Z" fill="#706f70"/>
+      <path d="M 520,402.6 L 705,404.8 L 705,425.40000000000003 L 520,423.20000000000005 C 506.4,423.20000000000005 506.2,403.70000000000005 520,402.6 Z" fill="#706f70"/>
+      <path d="M 519,441.2 L 685,444.4 L 701,683 L 331,683 L 331.8,596.9 C 357.7,608.1 384.6,615.9 405.7,616.4 C 493.9,621.7 592.4,567.6 615.8,461.3 L 519,459.2 C 507.1,459.1 506.2,442.4 519,441.2 Z" fill="#967345"/>
+      <path d="M 477.8,473.4 L 601.4,477.8 C 586.7,529.4 541.2,575.8 478.8,599.5 Z" fill="#494649"/>
+      <path d="M 158,462.9 L 315,463.7 L 315,474.3 L 158,473.1 Z" fill="#706f70"/>
+      <path d="M 159,472.8 L 331,474.3 L 334.2,651 L 285.6,650.5 L 285.4,518.2 L 159,514.9 Z" fill="#967345"/>
+      <path d="M 165,513 L 288.3,515.6 L 288.6,625 L 276.4,620 L 278.1,526.8 L 165,525.8 Z" fill="#706f70"/>
+      <path d="M 146,573.7 L 247.7,577 L 249,604.4 L 145,603 Z" fill="#494649"/>
+      <path d="M 332.2,596.9 L 344.8,602.4 L 345.5,655.2 L 333.4,651.5 Z" fill="#706f70"/>
+    </g>
+  </defs>
+  <rect width="600" height="600" fill="#494649"/>
+  <g>
+    <use xlink:href="#frame" transform="matrix(0.9490916710 -0.315 0.315 0.9490916710 -802.918502 19.681498)"/>
+    <use xlink:href="#frame" transform="matrix(0.9490916710 -0.315 0.315 0.9490916710 -202.918502 19.681498)"/>
+    <use xlink:href="#frame" transform="matrix(0.9490916710 -0.315 0.315 0.9490916710 397.081498 19.681498)"/>
+    <use xlink:href="#frame" transform="matrix(0.9490916710 -0.315 0.315 0.9490916710 -802.918502 619.681498)"/>
+    <use xlink:href="#frame" transform="matrix(0.9490916710 -0.315 0.315 0.9490916710 -202.918502 619.681498)"/>
+    <use xlink:href="#frame" transform="matrix(0.9490916710 -0.315 0.315 0.9490916710 397.081498 619.681498)"/>
+  </g>
+  <g>
+    <use xlink:href="#roundel" transform="matrix(0.9490916710 -0.315 0.315 0.9490916710 -802.918502 19.681498)"/>
+    <use xlink:href="#roundel" transform="matrix(0.9490916710 -0.315 0.315 0.9490916710 -202.918502 19.681498)"/>
+    <use xlink:href="#roundel" transform="matrix(0.9490916710 -0.315 0.315 0.9490916710 -802.918502 619.681498)"/>
+    <use xlink:href="#roundel" transform="matrix(0.9490916710 -0.315 0.315 0.9490916710 -202.918502 619.681498)"/>
+  </g>
+</svg>

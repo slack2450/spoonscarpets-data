@@ -1,0 +1,134 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1024" height="1024" viewBox="0 0 1024 1024" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <title>The Thomas Waghorn, Chatham — compass roses, quatrefoils and linked scrolls</title>
+  <defs>
+    <g id="double-knop">
+      <path d="M -10 -253 C -19 -257 -27 -252 -24 -242 C -23 -235 -16 -229 -11 -228 L 11 -228 C 17 -230 24 -235 24 -243 C 26 -253 17 -258 10 -254 C 19 -259 18 -270 13 -276 C 6 -285 -7 -285 -14 -276 C -21 -268 -17 -259 -10 -253 Z" fill="#70605B" stroke="#DC8C5F" stroke-width="3" />
+    </g>
+    <g id="clock-ray">
+      <path d="M 26 -111 L 48 -195 Q 62 -195 75 -186 L 43 -106 Z" fill="#495C68" />
+      <path d="M 26 -111 L 48 -194 M 43 -106 L 74 -185" fill="none" stroke="#DC8C5F" stroke-width="3.4" stroke-linecap="round" stroke-linejoin="round" />
+      <path d="M 55 -100 L 95 -177 Q 110 -172 119 -161 L 68 -93 Z" fill="#495C68" />
+      <path d="M 55 -100 L 95 -176 M 68 -93 L 118 -160" fill="none" stroke="#DC8C5F" stroke-width="3.7" stroke-linecap="round" stroke-linejoin="round" />
+    </g>
+    <g id="compass-field">
+      <use xlink:href="#double-knop" transform="rotate(0)" />
+      <use xlink:href="#double-knop" transform="rotate(90)" />
+      <use xlink:href="#double-knop" transform="rotate(180)" />
+      <use xlink:href="#double-knop" transform="rotate(270)" />
+      <circle cx="0" cy="0" r="236" fill="#495C68" stroke="#DC8C5F" stroke-width="6" />
+      <circle cx="0" cy="0" r="200" fill="#6D8DA6" />
+      <circle cx="0" cy="0" r="110" fill="#495C68" />
+      <use xlink:href="#clock-ray" transform="rotate(0)" />
+      <use xlink:href="#clock-ray" transform="rotate(0) scale(-1 1)" />
+      <use xlink:href="#clock-ray" transform="rotate(90)" />
+      <use xlink:href="#clock-ray" transform="rotate(90) scale(-1 1)" />
+      <use xlink:href="#clock-ray" transform="rotate(180)" />
+      <use xlink:href="#clock-ray" transform="rotate(180) scale(-1 1)" />
+      <use xlink:href="#clock-ray" transform="rotate(270)" />
+      <use xlink:href="#clock-ray" transform="rotate(270) scale(-1 1)" />
+    </g>
+    <g id="compass-arm">
+      <path d="M -14 -28 C -19 -73 -30 -108 -60 -120 C -65 -132 -61 -149 -52 -163 Q -38 -160 -30 -153 L -44 -193 Q -24 -207 -13 -207 C -22 -216 -19 -229 -10 -237 Q 0 -243 11 -237 C 19 -231 20 -217 13 -207 Q 30 -206 44 -194 L 31 -151 Q 41 -160 54 -161 Q 65 -148 62 -123 C 38 -108 21 -79 14 -28 Z" fill="#6D8DA6" />
+      <path d="M -13 -33 C -16 -78 -31 -129 -58 -131 Q -57 -145 -47 -156 C -31 -152 -19 -140 -13 -131 C -15 -151 -22 -174 -26 -183 Q -16 -195 0 -206 Q 16 -195 27 -184 C 22 -165 15 -147 12 -131 C 22 -144 37 -156 47 -158 Q 58 -151 59 -137 C 36 -123 17 -80 13 -33 Z" fill="#948994" />
+      <path d="M -10 -34 C -13 -72 -20 -110 -47 -142 C -32 -133 -19 -122 -12 -108 C -10 -134 -7 -161 0 -187 C 6 -157 9 -132 10 -109 C 21 -124 34 -137 47 -145 C 24 -114 16 -78 10 -34 Z" fill="#70605B" />
+    </g>
+    <g id="diagonal-leaf">
+      <path d="M 17 -32 C 22 -56 33 -83 52 -97 Q 75 -112 96 -111 Q 102 -89 85 -67 C 70 -49 46 -37 31 -28 Z" fill="#948994" />
+      <path d="M 22 -32 C 40 -51 62 -72 86 -98 C 76 -74 48 -43 29 -32 Z" fill="#70605B" />
+    </g>
+    <g id="compass-face">
+      <use xlink:href="#compass-arm" transform="rotate(0)" />
+      <use xlink:href="#compass-arm" transform="rotate(90)" />
+      <use xlink:href="#compass-arm" transform="rotate(180)" />
+      <use xlink:href="#compass-arm" transform="rotate(270)" />
+      <use xlink:href="#diagonal-leaf" transform="rotate(0)" />
+      <use xlink:href="#diagonal-leaf" transform="rotate(90)" />
+      <use xlink:href="#diagonal-leaf" transform="rotate(180)" />
+      <use xlink:href="#diagonal-leaf" transform="rotate(270)" />
+      <circle cx="0" cy="0" r="35.5" fill="#70605B" stroke="#DC8C5F" stroke-width="5.3" />
+    </g>
+    <g id="floral-frame">
+      <circle cx="0" cy="0" r="145" fill="none" stroke="#AA897E" stroke-width="13" />
+      <circle cx="0" cy="0" r="139" fill="none" stroke="#DC8C5F" stroke-width="3.5" />
+    </g>
+    <g id="corner-petal">
+      <path d="M 18 18 C 15 46 8 60 17 78 C 30 103 67 117 106 111 C 114 79 112 48 95 27 C 81 9 68 10 57 13 C 52 14 48 17 44 23 C 38 18 27 17 18 18 Z" fill="#6D8DA6" />
+      <path d="M 28 29 C 19 51 22 70 35 82 C 50 96 71 102 94 102 C 99 78 94 55 83 41 C 70 23 53 20 29 28 Z" fill="#495C68" />
+      <path d="M 28 32 Q 32 25 38 29 Q 44 34 44 43 C 48 38 57 37 61 42 Q 65 49 57 53 Q 68 54 72 61 Q 64 62 56 59 Q 59 68 53 70 C 47 71 43 63 44 55 C 37 59 32 53 34 47 Q 35 43 36 42 Q 28 40 28 32 Z" fill="#948994" />
+      <path d="M 62 63 C 73 63 82 70 84 78 Q 86 86 93 94 C 84 91 77 88 72 87 C 65 82 61 73 62 63 Z" fill="#948994" />
+      <path d="M 15 74 C 16 91 33 106 54 111 C 71 117 90 118 105 114 C 90 124 62 124 42 117 C 21 109 9 94 10 79 Z" fill="#DC8C5F" />
+      <path d="M 73 15 C 93 16 108 35 113 57 Q 120 82 113 104 C 123 87 123 60 116 41 C 108 19 93 9 78 10 Z" fill="#DC8C5F" />
+    </g>
+    <g id="central-petal">
+      <path d="M -17 -16 Q -25 -32 -18 -49 C -13 -62 -6 -71 0 -72 C 9 -71 20 -56 24 -42 Q 27 -28 17 -17 Q 0 -24 -17 -16 Z" fill="#948994" />
+    </g>
+    <g id="small-flower">
+      <use xlink:href="#corner-petal" transform="scale(1 1)" />
+      <use xlink:href="#corner-petal" transform="scale(-1 1)" />
+      <use xlink:href="#corner-petal" transform="scale(-1 -1)" />
+      <use xlink:href="#corner-petal" transform="scale(1 -1)" />
+      <use xlink:href="#central-petal" transform="rotate(0)" />
+      <use xlink:href="#central-petal" transform="rotate(90)" />
+      <use xlink:href="#central-petal" transform="rotate(180)" />
+      <use xlink:href="#central-petal" transform="rotate(270)" />
+      <circle cx="0" cy="0" r="14.4" fill="#DC8C5F" />
+    </g>
+    <g id="palmette">
+      <path d="M 178 303 C 187 281 203 242 198 209 Q 197 202 195 198 C 207 197 220 210 224 226 Q 228 207 241 208 C 254 207 264 211 260 228 C 268 217 271 207 282 206 C 299 200 307 209 306 225 Q 307 240 294 255 C 304 251 310 256 307 265 Q 305 273 292 277 C 307 278 310 289 304 302 Q 300 311 287 311 C 258 312 234 327 211 333 Z" fill="#6D8DA6" />
+      <path d="M 181 299 Q 212 244 204 207 C 225 228 211 268 189 300 Z" fill="#495C68" />
+      <path d="M 198 298 C 221 264 235 247 238 228 C 241 217 253 215 257 224 C 262 240 248 260 234 272 C 242 254 252 236 248 227 C 242 225 241 245 233 257 Z" fill="#DC8C5F" />
+      <path d="M 200 310 C 214 287 238 269 259 251 C 280 233 289 223 286 213 C 294 207 299 217 297 228 C 294 246 277 262 257 275 C 235 291 219 306 209 319 Z" fill="#DC8C5F" />
+      <path d="M 208 321 C 231 292 261 281 285 280 C 302 278 311 294 297 303 Q 291 307 281 306 C 295 299 297 291 287 290 C 265 288 235 308 218 326 Z" fill="#DC8C5F" />
+      <path d="M 219 326 C 241 309 260 308 279 302 Q 292 297 287 296 C 276 296 265 301 251 302 C 267 292 286 287 295 294 C 305 309 253 318 225 331 Z" fill="#495C68" />
+      <path d="M 202 308 C 223 281 249 259 267 239 C 277 227 281 218 281 213 Q 291 207 287 220 C 280 243 255 260 230 283 Z" fill="#495C68" />
+      <path d="M 219 290 C 232 263 239 243 246 230 C 250 226 251 231 250 237 C 248 249 238 271 219 290 Z" fill="#495C68" />
+    </g>
+    <g id="northeast-fork">
+      <path d="M 143 161 C 188 175 232 176 277 154 C 315 137 356 105 399 79 L 486 13 L 478 35 C 446 73 404 104 357 133 C 287 179 216 205 146 190 Z" fill="#AA897E" />
+      <path d="M 143 161 C 188 175 232 176 277 154 C 315 137 356 105 399 79 L 486 13" fill="none" stroke="#DC8C5F" stroke-width="4.2" stroke-linecap="round" stroke-linejoin="round" />
+    </g>
+    <g id="southwest-fork">
+      <path d="M 160 152 C 188 210 172 265 147 316 C 130 354 99 394 76 420 L 28 482 L 45 478 C 88 437 123 395 150 353 C 187 296 207 228 188 158 Z" fill="#AA897E" />
+      <path d="M 45 478 C 88 437 123 395 150 353 C 187 296 207 228 188 158" fill="none" stroke="#DC8C5F" stroke-width="5.2" stroke-linecap="round" stroke-linejoin="round" />
+    </g>
+    <g id="scroll-pair">
+      <path d="M 108 148 C 102 130 105 108 117 92 C 129 74 152 68 171 73 C 195 77 208 93 210 112 C 214 129 207 145 192 152 C 180 161 161 157 150 147 C 139 138 137 123 142 111 C 148 99 160 97 171 103 C 182 109 185 119 180 128 C 177 135 166 138 161 132 C 156 127 160 120 166 120 C 166 115 160 113 155 117 C 148 124 151 136 159 141 C 172 149 185 144 192 134 C 202 119 196 101 184 94 C 167 82 147 87 135 99 C 122 113 120 135 121 149 Z" fill="#AA897E" stroke="#DC8C5F" stroke-width="4.5" stroke-linejoin="round" />
+      <path d="M 106 126 C 87 132 78 149 78 168 C 77 191 93 204 114 204 C 136 207 152 192 151 174 C 151 158 140 148 125 148 C 111 148 103 158 103 170 C 103 180 111 185 120 181 C 127 178 130 169 125 165 Q 122 162 118 164 C 123 155 134 161 134 171 C 136 182 125 192 115 191 C 99 192 91 180 93 168 C 92 155 98 147 105 142 Z" fill="#AA897E" stroke="#DC8C5F" stroke-width="4.2" stroke-linejoin="round" />
+    </g>
+    <g id="strapwork">
+      <use xlink:href="#palmette" />
+      <use xlink:href="#northeast-fork" />
+      <use xlink:href="#northeast-fork" transform="matrix(0 -1 -1 0 512 512)" />
+      <path d="M 184 109 C 221 118 268 127 307 158 C 347 188 384 240 397 306 L 381 325 C 367 266 342 219 299 184 C 269 157 220 139 189 136 Z" fill="#AA897E" />
+      <path d="M 381 325 C 367 266 342 219 299 184 C 269 157 220 139 189 136" fill="none" stroke="#DC8C5F" stroke-width="5.4" stroke-linecap="round" stroke-linejoin="round" />
+      <path d="M 109 175 C 108 230 127 290 164 337 C 201 380 254 407 321 408 L 332 388 C 273 384 222 360 188 321 C 151 280 132 227 132 177 Z" fill="#AA897E" />
+      <path d="M 109 175 C 108 230 127 290 164 337 C 201 380 254 407 321 408" fill="none" stroke="#DC8C5F" stroke-width="5.4" stroke-linecap="round" stroke-linejoin="round" />
+      <use xlink:href="#southwest-fork" />
+      <use xlink:href="#southwest-fork" transform="matrix(0 -1 -1 0 512 512)" />
+      <use xlink:href="#scroll-pair" />
+      <use xlink:href="#scroll-pair" transform="matrix(0 -1 -1 0 512 512)" />
+    </g>
+  </defs>
+  <rect width="1024" height="1024" fill="#495C68" />
+  <use xlink:href="#compass-field" transform="translate(768 256)" />
+  <use xlink:href="#compass-field" transform="translate(256 768)" />
+  <use xlink:href="#compass-field" transform="translate(-256 256)" />
+  <use xlink:href="#compass-field" transform="translate(256 -256)" />
+  <use xlink:href="#compass-field" transform="translate(1280 768)" />
+  <use xlink:href="#compass-field" transform="translate(768 1280)" />
+  <use xlink:href="#floral-frame" transform="translate(256 256)" />
+  <use xlink:href="#floral-frame" transform="translate(768 768)" />
+  <use xlink:href="#strapwork" transform="translate(256 256) scale(1 1)" />
+  <use xlink:href="#strapwork" transform="translate(256 256) scale(-1 1)" />
+  <use xlink:href="#strapwork" transform="translate(256 256) scale(-1 -1)" />
+  <use xlink:href="#strapwork" transform="translate(256 256) scale(1 -1)" />
+  <use xlink:href="#strapwork" transform="translate(256 1280) scale(-1 -1)" />
+  <use xlink:href="#strapwork" transform="translate(256 1280) scale(1 -1)" />
+  <use xlink:href="#strapwork" transform="translate(1280 256) scale(-1 1)" />
+  <use xlink:href="#strapwork" transform="translate(1280 256) scale(-1 -1)" />
+  <use xlink:href="#strapwork" transform="translate(1280 1280) scale(-1 -1)" />
+  <use xlink:href="#compass-face" transform="translate(768 256)" />
+  <use xlink:href="#compass-face" transform="translate(256 768)" />
+  <use xlink:href="#small-flower" transform="translate(256 256)" />
+  <use xlink:href="#small-flower" transform="translate(768 768)" />
+</svg>

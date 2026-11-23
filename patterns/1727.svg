@@ -1,0 +1,95 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="256" height="368" viewBox="0 0 256 368">
+<title>The Monkey Walk, Coalville — staggered rosettes and feathered sprays</title>
+<defs>
+<g id="crossed-shoots">
+<path fill="#78475a" d="M 17 38 C 23 40 28 47 36 53 C 45 60 51 62 64 62 C 81 60 91 64 100 74 C 107 81 111 89 109 96 C 105 93 98 87 92 81 C 84 73 77 72 65 73 C 48 75 35 69 26 59 C 21 53 17 46 17 38 Z"/>
+<path fill="#78475a" d="M 41 18 C 53 22 62 34 66 46 C 70 59 69 70 68 81 C 67 95 73 103 84 112 C 81 116 75 114 70 110 C 58 100 56 89 58 73 C 61 49 57 38 47 28 C 44 25 41 22 41 18 Z"/>
+</g>
+<g id="lower-links">
+<use xlink:href="#crossed-shoots"/>
+<use xlink:href="#crossed-shoots" transform="scale(-1 1)"/>
+</g>
+<g id="fan-half">
+<path fill="#695260" d="M 128 105 C 123 96 120 82 115 73 C 111 64 107 60 101 60 C 96 60 90 64 85 67 C 88 59 95 54 102 53 C 112 52 118 59 122 67 C 119 54 114 46 107 44 C 100 42 91 46 82 49 C 86 43 92 39 99 37 C 104 35 109 36 115 38 C 109 32 103 31 99 31 L 98 28 C 107 25 119 32 128 44 Z"/>
+<path fill="#78475a" d="M 128 66 C 123 59 121 54 117 50 C 111 44 105 42 99 42 C 106 38 112 39 118 42 L 111 33 Q 122 37 128 46 Z"/>
+<path fill="#a48f93" d="M 128 49 C 124 39 117 34 110 31 L 114 27 L 108 24 Q 118 23 122 27 L 120 18 L 126 23 L 128 18 Z"/>
+<path fill="#a48f93" d="M 121 18 Q 116 17 112 11 L 114 7 Q 120 9 123 15 Z"/>
+<path fill="#a48f93" d="M 104 37 L 99 34 L 100 30 L 104 32 L 107 36 Z"/>
+<path fill="#695260" d="M 128 150 Q 120 145 113 142 C 110 131 106 122 98 115 C 87 106 78 97 75 84 L 77 79 L 81 83 C 85 95 97 103 105 110 C 113 116 119 125 120 132 L 128 140 Z"/>
+<path fill="#695260" d="M 128 123 C 122 116 118 112 110 107 C 104 103 99 97 97 91 L 102 86 C 106 96 112 100 118 103 Q 123 106 128 111 Z"/>
+<path fill="#695260" d="M 128 111 L 131 116 L 131 140 L 127 144 L 122 137 L 122 119 Z"/>
+<path fill="#695260" d="M 128 155 C 117 150 110 144 99 140 Q 91 138 87 133 Q 85 129 83 122 L 79 119 Q 77 130 81 137 L 75 135 Q 80 140 88 142 C 99 145 106 149 113 157 Q 120 168 128 168 Z"/>
+<path fill="#695260" d="M 128 171 Q 119 172 112 163 C 107 157 101 153 93 150 L 89 145 Q 102 147 109 151 Q 118 156 128 161 Z"/>
+</g>
+<g id="bud">
+<path fill="#a48f93" d="M -9 1 Q -10 -3 -6 -5 L -5 -8 L 0 -7 L 3 -9 L 7 -6 L 7 -3 Q 11 1 7 5 L 4 8 L 1 8 L -2 10 L -6 6 Q -9 5 -9 1 Z"/>
+<path fill="#f1d9c0" d="M -8 0 L -6 -4 L -3 -4 L -3 -7 L 1 -6 L 4 -8 Q 7 -6 6 -2 L 8 0 L 6 4 L 2 7 L 0 6 L -2 8 L -5 5 L -5 3 Z"/>
+<path fill="#695260" d="M -2 -2 L 1 -3 L 3 -1 L 2 2 L 0 3 L -3 1 Z"/>
+</g>
+<g id="side-bud">
+<path fill="#a48f93" d="M -10 -1 Q -9 -4 -6 -5 L -5 -8 L -1 -7 L 3 -8 L 5 -5 L 8 -5 L 8 0 L 11 2 L 7 5 L 3 5 L 0 9 L -3 8 L -4 5 L -8 5 Z"/>
+<path fill="#f1d9c0" d="M -8 -1 L -5 -4 L -3 -6 L 0 -5 L 3 -6 L 4 -3 L 7 -2 L 7 1 L 3 3 L 1 6 L -2 6 L -4 3 L -7 3 Z"/>
+<path fill="#695260" d="M -3 -1 L -1 -3 L 3 -2 L 3 1 L 0 3 L -2 3 Z"/>
+</g>
+<g id="buds-left">
+<use xlink:href="#bud" transform="translate(78 74) rotate(-15) scale(1.15)"/>
+<use xlink:href="#bud" transform="translate(58 94) rotate(6) scale(1.11)"/>
+<use xlink:href="#side-bud" transform="translate(100 84) rotate(27) scale(0.99)"/>
+<use xlink:href="#side-bud" transform="translate(82 119) rotate(5) scale(0.93)"/>
+</g>
+<g id="palmette">
+<use xlink:href="#fan-half"/>
+<use xlink:href="#fan-half" transform="translate(256 0) scale(-1 1)"/>
+<use xlink:href="#buds-left"/>
+<use xlink:href="#buds-left" transform="translate(256 0) scale(-1 1)"/>
+</g>
+<g id="flower-quarter">
+<path fill="#695260" d="M 14 -15 C 19 -18 19 -27 26 -32 Q 32 -37 40 -36 Q 40 -29 36 -23 C 32 -16 26 -13 21 -12 Z"/>
+<path fill="#a48f93" d="M 19 -18 Q 21 -26 28 -31 Q 34 -35 38 -34 Q 36 -27 32 -23 Q 26 -17 21 -16 Z"/>
+<path fill="#b96751" d="M -21 -24 Q -24 -31 -18 -36 Q -13 -35 -10 -29 Q -8 -38 -1 -42 Q 6 -39 9 -30 Q 15 -35 18 -37 Q 23 -33 20 -25 C 18 -17 11 -14 5 -12 L -5 -13 Q -15 -16 -21 -24 Z"/>
+<path fill="#78475a" d="M -20 -25 Q -21 -29 -19 -31 Q -16 -23 -10 -22 L -6 -23 Q -4 -20 -1 -20 Q 4 -20 7 -23 Q 11 -21 15 -23 Q 19 -25 21 -29 L 20 -23 Q 16 -17 8 -15 L -4 -14 Q -15 -17 -20 -25 Z"/>
+<path fill="#f1d9c0" d="M -2 -2 C -9 0 -14 -4 -16 -9 Q -19 -12 -19 -18 Q -14 -18 -9 -16 Q -5 -17 -2 -13 Q 2 -8 -2 -2 Z"/>
+</g>
+<g id="rosette">
+<path fill="#b96751" d="M -21 -5 Q -21 -18 -13 -22 Q 0 -26 12 -22 Q 23 -18 23 -5 L 22 9 Q 17 22 5 23 L -8 22 Q -21 19 -23 8 Z"/>
+<path fill="#a48f93" d="M 0 -17 Q 5 -9 13 -7 L 18 0 Q 8 4 6 12 L 0 17 Q -4 8 -13 5 L -18 -1 Q -8 -5 -5 -13 Z"/>
+<use xlink:href="#flower-quarter" transform="rotate(0)"/>
+<use xlink:href="#flower-quarter" transform="rotate(90)"/>
+<use xlink:href="#flower-quarter" transform="rotate(180)"/>
+<use xlink:href="#flower-quarter" transform="rotate(270)"/>
+</g>
+</defs>
+<rect width="256" height="368" fill="#301d2b"/>
+<g transform="scale(1 1.4375) translate(11 -5)">
+<use xlink:href="#lower-links" transform="translate(-256 -168)"/>
+<use xlink:href="#lower-links" transform="translate(0 -168)"/>
+<use xlink:href="#lower-links" transform="translate(256 -168)"/>
+<use xlink:href="#lower-links" transform="translate(-128 -40)"/>
+<use xlink:href="#lower-links" transform="translate(128 -40)"/>
+<use xlink:href="#lower-links" transform="translate(-256 88)"/>
+<use xlink:href="#lower-links" transform="translate(0 88)"/>
+<use xlink:href="#lower-links" transform="translate(256 88)"/>
+<use xlink:href="#lower-links" transform="translate(-128 216)"/>
+<use xlink:href="#lower-links" transform="translate(128 216)"/>
+<use xlink:href="#palmette" transform="translate(-128 -128)"/>
+<use xlink:href="#palmette" transform="translate(128 -128)"/>
+<use xlink:href="#palmette" transform="translate(-256 0)"/>
+<use xlink:href="#palmette" transform="translate(0 0)"/>
+<use xlink:href="#palmette" transform="translate(256 0)"/>
+<use xlink:href="#palmette" transform="translate(-128 128)"/>
+<use xlink:href="#palmette" transform="translate(128 128)"/>
+<use xlink:href="#palmette" transform="translate(-256 256)"/>
+<use xlink:href="#palmette" transform="translate(0 256)"/>
+<use xlink:href="#palmette" transform="translate(256 256)"/>
+<use xlink:href="#rosette" transform="translate(-256 -168)"/>
+<use xlink:href="#rosette" transform="translate(0 -168)"/>
+<use xlink:href="#rosette" transform="translate(256 -168)"/>
+<use xlink:href="#rosette" transform="translate(-128 -40)"/>
+<use xlink:href="#rosette" transform="translate(128 -40)"/>
+<use xlink:href="#rosette" transform="translate(-256 88)"/>
+<use xlink:href="#rosette" transform="translate(0 88)"/>
+<use xlink:href="#rosette" transform="translate(256 88)"/>
+<use xlink:href="#rosette" transform="translate(-128 216)"/>
+<use xlink:href="#rosette" transform="translate(128 216)"/>
+</g>
+</svg>

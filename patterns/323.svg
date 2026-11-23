@@ -1,0 +1,276 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="400" height="400" viewBox="0 0 400 400">
+  <title>The Back of Beyond, Reading — laurel diamonds and four-petalled florets</title>
+  <defs>
+    <g id="leaf-0">
+      <path d="M-3 0C-1 6 -1 16 10 21Q18 27 29 26L41 32Q40 28 37 25L42 26Q41 22 36 19Q32 8 22 4Q12 0 4 0Z" fill="#C69F76" />
+      <path d="M7 9Q12 10 15 12L15 9Q23 9 28 14L28 12Q35 15 36 19Q41 22 42 26L37 25Q40 28 41 32L29 26Q21 27 15 23Q9 18 7 9Z" fill="#E9CEAF" />
+    </g>
+    <g id="burnished-leaf-0">
+      <use xlink:href="#leaf-0" x="0" y="0" />
+      <path d="M-3 0Q7 0 15 2Q23 4 28 9L23 9Q28 13 29 16L20 12L20 15Q14 12 10 10L8 12L3 6Z" fill="#9E6847" />
+    </g>
+    <g id="leaf-1">
+      <path d="M-2-1C-1 8 2 19 13 23C20 28 27 26 32 28L43 31L39 25L43 25Q39 19 36 18Q32 7 21 5Q9-1 2-1Z" fill="#C69F76" />
+      <path d="M5 7Q12 9 16 13L15 9Q21 10 25 14L26 11Q32 13 36 18Q39 19 43 25L39 25L43 31L32 28Q20 28 13 22Q8 17 5 7Z" fill="#E9CEAF" />
+    </g>
+    <g id="burnished-leaf-1">
+      <use xlink:href="#leaf-1" x="0" y="0" />
+      <path d="M-2-1Q10-1 21 4Q28 6 33 13L26 11L29 16L22 13L22 16L14 12L11 12Q6 8 2 6Z" fill="#9E6847" />
+    </g>
+    <g id="leaf-2">
+      <path d="M-2 0Q-2 6 1 13C6 25 21 27 32 28L40 31L38 27L44 28Q36 18 34 14Q27 4 18 3Q7 1 1-1Z" fill="#C69F76" />
+      <path d="M7 11L15 15L13 10Q22 12 26 16L26 12Q31 12 34 14Q36 18 44 28L38 27L40 31L32 28Q17 28 10 20Z" fill="#E9CEAF" />
+    </g>
+    <g id="burnished-leaf-2">
+      <use xlink:href="#leaf-2" x="0" y="0" />
+      <path d="M-2 0Q10 0 18 3Q27 4 33 12L26 10L28 15Q21 13 18 11L19 15L10 10L7 10Z" fill="#9E6847" />
+    </g>
+    <g id="leaf-3">
+      <path d="M-2 0Q-2 9 3 15Q8 24 23 25L29 25L41 30Q43 26 37 21L40 20C35 17 33 8 25 6Q14 2 8 2Z" fill="#C69F76" />
+      <path d="M8 9Q14 10 19 14L18 11Q25 11 29 15L30 12Q34 15 36 18L40 20L37 21Q43 26 41 30L29 25L23 25Q11 24 8 15Z" fill="#E9CEAF" />
+    </g>
+    <g id="burnished-leaf-3">
+      <use xlink:href="#leaf-3" x="0" y="0" />
+      <path d="M-2 0Q12 1 21 4Q27 6 32 12L26 10L28 15L23 13L24 17L15 12L14 14L6 8Z" fill="#9E6847" />
+    </g>
+    <g id="west-upper" transform="translate(196 5) rotate(135)">
+      <path d="M21 -0.4 L47.6 0.4 L74.1 0.9 L100.7 0.6 L127.2 0.2 L153.8 -0.5 L180.3 -1.6 L206.9 -2.7 L233.4 -2.2 L260 -1" fill="none" stroke="#9E6847" stroke-width="9" stroke-linecap="round" stroke-linejoin="round" />
+      <g transform="translate(36.8 0.1) scale(1.0732 -1.1931)">
+        <use xlink:href="#burnished-leaf-2" x="0" y="0" />
+      </g>
+      <g transform="translate(72.7 0.9) scale(1.122 -1.1198)">
+        <use xlink:href="#burnished-leaf-3" x="0" y="0" />
+      </g>
+      <g transform="translate(112.3 0.4) scale(1.1829 -1.1014)">
+        <use xlink:href="#burnished-leaf-0" x="0" y="0" />
+      </g>
+      <g transform="translate(156 -0.6) scale(1.1098 -0.9799)">
+        <use xlink:href="#burnished-leaf-1" x="0" y="0" />
+      </g>
+      <g transform="translate(195.7 -2.2) scale(0.9024 -0.8681)">
+        <use xlink:href="#burnished-leaf-2" x="0" y="0" />
+      </g>
+      <g transform="translate(220.7 -2.8) scale(0.9024 -1.2667)">
+        <use xlink:href="#burnished-leaf-3" x="0" y="0" />
+      </g>
+      <g transform="translate(47.4 0.4) scale(1.2683 0.9036)">
+        <use xlink:href="#burnished-leaf-0" x="0" y="0" />
+      </g>
+      <g transform="translate(97 0.6) scale(1.1951 1.2667)">
+        <use xlink:href="#burnished-leaf-1" x="0" y="0" />
+      </g>
+      <g transform="translate(136.3 0.1) scale(1.0488 1.2667)">
+        <use xlink:href="#burnished-leaf-2" x="0" y="0" />
+      </g>
+      <g transform="translate(175.1 -1.4) scale(0.9268 1.0406)">
+        <use xlink:href="#burnished-leaf-3" x="0" y="0" />
+      </g>
+      <g transform="translate(201.7 -2.5) scale(0.9024 1.023)">
+        <use xlink:href="#burnished-leaf-0" x="0" y="0" />
+      </g>
+    </g>
+    <g id="east-lower" transform="translate(396 205) rotate(135)">
+      <path d="M21 1 L47.6 1 L74.1 0.8 L100.7 0.1 L127.2 -0.6 L153.8 -1.2 L180.3 -1.5 L206.9 -1.9 L233.4 -1.5 L260 -0.7" fill="none" stroke="#9E6847" stroke-width="9" stroke-linecap="round" stroke-linejoin="round" />
+      <g transform="translate(31 1) scale(1.1951 -1.1)">
+        <use xlink:href="#burnished-leaf-0" x="0" y="0" />
+      </g>
+      <g transform="translate(76.6 0.8) scale(1.0366 -1.2365)">
+        <use xlink:href="#burnished-leaf-1" x="0" y="0" />
+      </g>
+      <g transform="translate(106.2 -0) scale(1.0122 -0.9117)">
+        <use xlink:href="#burnished-leaf-2" x="0" y="0" />
+      </g>
+      <g transform="translate(145.3 -1) scale(1.0488 -0.821)">
+        <use xlink:href="#burnished-leaf-3" x="0" y="0" />
+      </g>
+      <g transform="translate(179.8 -1.5) scale(0.939 -0.9064)">
+        <use xlink:href="#burnished-leaf-0" x="0" y="0" />
+      </g>
+      <g transform="translate(211.1 -1.9) scale(0.9268 -0.8167)">
+        <use xlink:href="#burnished-leaf-1" x="0" y="0" />
+      </g>
+      <g transform="translate(35.9 1) scale(1.0244 0.9667)">
+        <use xlink:href="#burnished-leaf-2" x="0" y="0" />
+      </g>
+      <g transform="translate(68.4 1) scale(1.1341 0.8234)">
+        <use xlink:href="#burnished-leaf-3" x="0" y="0" />
+      </g>
+      <g transform="translate(110.5 -0.1) scale(1.2195 1.2667)">
+        <use xlink:href="#burnished-leaf-0" x="0" y="0" />
+      </g>
+      <g transform="translate(156.6 -1.2) scale(1.0366 0.784)">
+        <use xlink:href="#burnished-leaf-1" x="0" y="0" />
+      </g>
+      <g transform="translate(188.7 -1.6) scale(0.9024 0.8639)">
+        <use xlink:href="#burnished-leaf-2" x="0" y="0" />
+      </g>
+      <g transform="translate(211.7 -2) scale(0.9024 0.7333)">
+        <use xlink:href="#burnished-leaf-3" x="0" y="0" />
+      </g>
+    </g>
+    <g id="east-upper" transform="translate(196 5) rotate(45)">
+      <path d="M-3 0 L29.1 0.9 L61.2 1.8 L93.3 2.7 L125.4 3.6 L157.6 3.8 L189.7 3.3 L221.8 2.6 L253.9 0.7 L286 -1" fill="none" stroke="#9E6847" stroke-width="9" stroke-linecap="round" stroke-linejoin="round" />
+      <g transform="translate(-5.7 0) scale(1.0488 -1.2667)">
+        <use xlink:href="#leaf-3" x="0" y="0" />
+      </g>
+      <g transform="translate(27.3 0.8) scale(1.1829 -1.0196)">
+        <use xlink:href="#leaf-0" x="0" y="0" />
+      </g>
+      <g transform="translate(72.4 2.1) scale(1.2683 -0.9297)">
+        <use xlink:href="#leaf-1" x="0" y="0" />
+      </g>
+      <g transform="translate(116.2 3.3) scale(1.2317 -0.8718)">
+        <use xlink:href="#leaf-2" x="0" y="0" />
+      </g>
+      <g transform="translate(162.2 3.7) scale(1.1463 -0.979)">
+        <use xlink:href="#leaf-3" x="0" y="0" />
+      </g>
+      <g transform="translate(201.7 3.2) scale(0.9878 -1.0156)">
+        <use xlink:href="#leaf-0" x="0" y="0" />
+      </g>
+      <g transform="translate(234.1 1.9) scale(0.9268 -1.0881)">
+        <use xlink:href="#leaf-1" x="0" y="0" />
+      </g>
+      <g transform="translate(-14.4 0) scale(1.1707 1.2666)">
+        <use xlink:href="#leaf-1" x="0" y="0" />
+      </g>
+      <g transform="translate(27.7 0.8) scale(1.122 1.2667)">
+        <use xlink:href="#leaf-2" x="0" y="0" />
+      </g>
+      <g transform="translate(66.1 1.9) scale(1.061 1.1468)">
+        <use xlink:href="#leaf-3" x="0" y="0" />
+      </g>
+      <g transform="translate(101.5 2.9) scale(1.0854 1.0477)">
+        <use xlink:href="#leaf-0" x="0" y="0" />
+      </g>
+      <g transform="translate(140.8 4) scale(1.0732 1.0772)">
+        <use xlink:href="#leaf-1" x="0" y="0" />
+      </g>
+      <g transform="translate(175.8 3.5) scale(1.0732 0.9808)">
+        <use xlink:href="#leaf-2" x="0" y="0" />
+      </g>
+      <g transform="translate(215.6 3) scale(1.0366 1.0805)">
+        <use xlink:href="#leaf-3" x="0" y="0" />
+      </g>
+      <g transform="translate(249.6 1) scale(0.9512 1.2667)">
+        <use xlink:href="#leaf-0" x="0" y="0" />
+      </g>
+    </g>
+    <g id="west-lower" transform="translate(-4 205) rotate(45)">
+      <path d="M-3 0 L29.1 0.4 L61.2 0.9 L93.3 1 L125.4 1 L157.6 0.1 L189.7 -1.6 L221.8 -2.7 L253.9 -1.3 L286 0" fill="none" stroke="#9E6847" stroke-width="9" stroke-linecap="round" stroke-linejoin="round" />
+      <g transform="translate(-18.8 0) scale(1.0976 -1.2667)">
+        <use xlink:href="#leaf-1" x="0" y="0" />
+      </g>
+      <g transform="translate(19.5 0.3) scale(1.0854 -1.0882)">
+        <use xlink:href="#leaf-2" x="0" y="0" />
+      </g>
+      <g transform="translate(54.6 0.8) scale(1.1707 -1.0333)">
+        <use xlink:href="#leaf-3" x="0" y="0" />
+      </g>
+      <g transform="translate(98.5 1) scale(1.2195 -0.9333)">
+        <use xlink:href="#leaf-0" x="0" y="0" />
+      </g>
+      <g transform="translate(141.4 1) scale(1.1341 -0.921)">
+        <use xlink:href="#leaf-1" x="0" y="0" />
+      </g>
+      <g transform="translate(183.3 -1.3) scale(0.9634 -0.8849)">
+        <use xlink:href="#leaf-2" x="0" y="0" />
+      </g>
+      <g transform="translate(211.7 -2.8) scale(0.9024 -1.0567)">
+        <use xlink:href="#leaf-3" x="0" y="0" />
+      </g>
+      <g transform="translate(242.1 -1.8) scale(0.9268 -1.2667)">
+        <use xlink:href="#leaf-0" x="0" y="0" />
+      </g>
+      <g transform="translate(-0.6 0) scale(1.2683 1.2196)">
+        <use xlink:href="#leaf-3" x="0" y="0" />
+      </g>
+      <g transform="translate(47.8 0.7) scale(1.2073 1.1333)">
+        <use xlink:href="#leaf-0" x="0" y="0" />
+      </g>
+      <g transform="translate(89.9 1) scale(1.0244 1.2)">
+        <use xlink:href="#leaf-1" x="0" y="0" />
+      </g>
+      <g transform="translate(120.2 1) scale(1.0976 1.0055)">
+        <use xlink:href="#leaf-2" x="0" y="0" />
+      </g>
+      <g transform="translate(165.3 -0.3) scale(1.0488 1.0858)">
+        <use xlink:href="#leaf-3" x="0" y="0" />
+      </g>
+      <g transform="translate(195.6 -1.9) scale(0.9512 1.2304)">
+        <use xlink:href="#leaf-0" x="0" y="0" />
+      </g>
+      <g transform="translate(229.3 -2.4) scale(1.0488 1.1107)">
+        <use xlink:href="#leaf-1" x="0" y="0" />
+      </g>
+    </g>
+    <g id="round-petal">
+      <path d="M8-2Q18-8 27-11C40-16 63-22 77-15L81-14L81-11L86-9L85-4Q89 4 75 12C55 21 34 11 20 7L8 3Z" fill="#77758F" />
+      <path d="M8-2Q19-10 33-13L43-14L39-9L53-10L61-7L51-3L61 2L51 4L46 1L39 6L45 12Q31 10 21 7L8 3Z" fill="#E9CEAF" />
+      <path d="M13 0L28-5L36-4L32 0L37 4L27 5Z" fill="#C69F76" />
+    </g>
+    <g id="slender-petal">
+      <path d="M7-2C21-6 30-13 48-15Q68-20 81-13L84-13L83-10L88-7L86-2Q89 6 77 13Q62 18 47 14C34 11 21 5 7 3Z" fill="#77758F" />
+      <path d="M7-2C23-8 36-15 49-15L60-15L55-11L65-9L71-9L62-4L57-5L54 0L47-2L43 3L33 2L31 7Q18 4 7 3Z" fill="#E9CEAF" />
+    </g>
+    <g id="split-petal">
+      <path d="M8-4Q15-7 25-9Q41-19 63-16Q78-14 86-6L88 0Q78 4 65-1L58 1Q67 8 78 10L81 14C65 22 44 15 32 11L20 7L8 4Z" fill="#E9CEAF" />
+      <path d="M8-4Q18-9 28-10L35-13L33-8L43-10L42-5L52-5L46-1L38-1L39 5L29 5L31 10L20 7L8 4Z" fill="#77758F" />
+      <path d="M45 1L54-4L66-6L73-5L66-2L58 1L66 6L57 6Z" fill="#C69F76" />
+    </g>
+    <g id="middle-floret">
+      <g transform="translate(0 0) rotate(223) translate(5) scale(1.13 1.1)">
+        <use xlink:href="#round-petal" x="0" y="0" />
+      </g>
+      <g transform="translate(1 0) rotate(-45) translate(5) scale(1.17 1.06)">
+        <use xlink:href="#slender-petal" x="0" y="0" />
+      </g>
+      <g transform="translate(-1 0) rotate(132) translate(5) scale(1.13 0.98)">
+        <use xlink:href="#slender-petal" x="0" y="0" />
+      </g>
+      <g transform="translate(1 1) rotate(47) translate(5) scale(1.18 1.04)">
+        <use xlink:href="#split-petal" x="0" y="0" />
+      </g>
+      <path d="M-10 0Q-10-7-2-12Q4-12 9-8Q13-2 8 5L2 12Q-6 11-11 7Z" fill="#C69F76" />
+      <path d="M-3-8Q3-12 8-7Q11-1 6 5L0 8Q-3 4-4 0Z" fill="#E9CEAF" />
+    </g>
+    <g id="corner-floret">
+      <g transform="translate(0 0) rotate(224) translate(5) scale(1.12 1.06)">
+        <use xlink:href="#round-petal" x="0" y="0" />
+      </g>
+      <g transform="translate(1 0) rotate(-43) translate(5) scale(1.16 0.97)">
+        <use xlink:href="#slender-petal" x="0" y="0" />
+      </g>
+      <g transform="translate(-1 0) rotate(132) translate(5) scale(1.14 0.96)">
+        <use xlink:href="#slender-petal" x="0" y="0" />
+      </g>
+      <g transform="translate(1 1) rotate(46) translate(5) scale(1.22 1.02)">
+        <use xlink:href="#split-petal" x="0" y="0" />
+      </g>
+      <path d="M-10 0Q-10-7-2-12Q4-12 9-8Q13-2 8 5L2 12Q-6 11-11 7Z" fill="#C69F76" />
+      <path d="M-3-8Q3-12 8-7Q11-1 6 5L0 8Q-3 4-4 0Z" fill="#E9CEAF" />
+    </g>
+  </defs>
+  <rect width="400" height="400" fill="#9D4148" />
+  <use xlink:href="#west-upper" x="0" y="0" />
+  <use xlink:href="#west-upper" x="0" y="400" />
+  <use xlink:href="#west-upper" x="400" y="0" />
+  <use xlink:href="#west-upper" x="400" y="400" />
+  <use xlink:href="#east-lower" x="-400" y="-400" />
+  <use xlink:href="#east-lower" x="-400" y="0" />
+  <use xlink:href="#east-lower" x="0" y="-400" />
+  <use xlink:href="#east-lower" x="0" y="0" />
+  <use xlink:href="#east-upper" x="-400" y="0" />
+  <use xlink:href="#east-upper" x="-400" y="400" />
+  <use xlink:href="#east-upper" x="0" y="0" />
+  <use xlink:href="#east-upper" x="0" y="400" />
+  <use xlink:href="#west-lower" x="0" y="-400" />
+  <use xlink:href="#west-lower" x="0" y="0" />
+  <use xlink:href="#west-lower" x="400" y="-400" />
+  <use xlink:href="#west-lower" x="400" y="0" />
+  <use xlink:href="#middle-floret" x="194" y="207" />
+  <use xlink:href="#corner-floret" x="-4" y="5" />
+  <use xlink:href="#corner-floret" x="-4" y="405" />
+  <use xlink:href="#corner-floret" x="396" y="5" />
+  <use xlink:href="#corner-floret" x="396" y="405" />
+</svg>

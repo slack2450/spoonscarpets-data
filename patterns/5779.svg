@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="600" height="444" viewBox="0 0 600 444">
+  <title>The Narrows, Abingdon-on-Thames — staggered chevron carpet</title>
+  <desc>Six columns of downward chevrons. Thin cream and slate stripes follow the broad burgundy stripe. The gold accent changes to red on alternate courses in every other column.</desc>
+  <defs>
+    <g id="chevron">
+      <path fill="#dabca5" d="M0 -61.2 L49.2 -11.7 100 -63.5 V-42.1 L49.2 9.7 0 -39.8 Z"/>
+      <path fill="#5e6e7c" d="M0 -40.8 L49.2 8.7 100 -43.1 V-23.6 L49.2 28.2 0 -21.3 Z"/>
+      <path d="M0 -22.3 L49.2 27.2 100 -24.6 V14.6 L49.2 66.4 0 16.9 Z"/>
+      <path fill="#5e6e7c" d="M0 15.9 L49.2 65.4 100 13.6 V51.1 L49.2 102.9 0 53.4 Z"/>
+      <path fill="#cd3b3e" d="M0 52.4 L49.2 101.9 100 50.1 V88.5 L49.2 140.3 0 90.8 Z"/>
+      <path fill="#e5694b" d="M0 89.8 L49.2 139.3 100 87.5 V125.0 L49.2 176.8 0 127.3 Z"/>
+      <path fill="#7a3933" d="M0 126.3 L49.2 175.8 100 124.0 V159.5 L49.2 211.3 0 161.8 Z"/>
+    </g>
+  </defs>
+  <rect width="600" height="444" fill="#7a3933"/>
+  <use xlink:href="#chevron" x="-24" y="-75.4" fill="#d2a54b"/>
+  <use xlink:href="#chevron" x="-24" y="146.6" fill="#d2a54b"/>
+  <use xlink:href="#chevron" x="-24" y="368.6" fill="#d2a54b"/>
+  <use xlink:href="#chevron" x="76" y="-185.8" fill="#cd3b3e"/>
+  <use xlink:href="#chevron" x="76" y="36.2" fill="#d2a54b"/>
+  <use xlink:href="#chevron" x="76" y="258.2" fill="#cd3b3e"/>
+  <use xlink:href="#chevron" x="76" y="480.2" fill="#d2a54b"/>
+  <use xlink:href="#chevron" x="176" y="-133.5" fill="#d2a54b"/>
+  <use xlink:href="#chevron" x="176" y="88.5" fill="#d2a54b"/>
+  <use xlink:href="#chevron" x="176" y="310.5" fill="#d2a54b"/>
+  <use xlink:href="#chevron" x="276" y="-22.1" fill="#cd3b3e"/>
+  <use xlink:href="#chevron" x="276" y="199.9" fill="#d2a54b"/>
+  <use xlink:href="#chevron" x="276" y="421.9" fill="#cd3b3e"/>
+  <use xlink:href="#chevron" x="376" y="-100.9" fill="#d2a54b"/>
+  <use xlink:href="#chevron" x="376" y="121.1" fill="#d2a54b"/>
+  <use xlink:href="#chevron" x="376" y="343.1" fill="#d2a54b"/>
+  <use xlink:href="#chevron" x="476" y="-180.3" fill="#d2a54b"/>
+  <use xlink:href="#chevron" x="476" y="41.7" fill="#cd3b3e"/>
+  <use xlink:href="#chevron" x="476" y="263.7" fill="#d2a54b"/>
+  <use xlink:href="#chevron" x="476" y="485.7" fill="#cd3b3e"/>
+  <use xlink:href="#chevron" x="576" y="-75.4" fill="#d2a54b"/>
+  <use xlink:href="#chevron" x="576" y="146.6" fill="#d2a54b"/>
+  <use xlink:href="#chevron" x="576" y="368.6" fill="#d2a54b"/>
+</svg>

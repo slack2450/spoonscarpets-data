@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="192" height="332" viewBox="0 0 192 332">
+  <title>The Six Gold Martlets, Burgess Hill — honeycomb carpet repeat</title>
+  <desc>Three walnut hexagonal bands surround a biscuit-coloured centre. Staggered rows share a narrow biscuit-coloured outer lattice.</desc>
+  <defs>
+    <g id="hexagon">
+      <polygon fill="#745948" points="0,-103.750 90,-51.875 90,51.875 0,103.750 -90,51.875 -90,-51.875"/>
+      <polygon fill="#C5AD97" points="0,-88.188 76.5,-44.094 76.5,44.094 0,88.188 -76.5,44.094 -76.5,-44.094"/>
+      <polygon fill="#745948" points="0,-74.354 64.5,-37.177 64.5,37.177 0,74.354 -64.5,37.177 -64.5,-37.177"/>
+      <polygon fill="#C5AD97" points="0,-58.215 50.5,-29.108 50.5,29.108 0,58.215 -50.5,29.108 -50.5,-29.108"/>
+      <polygon fill="#745948" points="0,-44.382 38.5,-22.191 38.5,22.191 0,44.382 -38.5,22.191 -38.5,-22.191"/>
+      <polygon fill="#C5AD97" points="0,-25.938 22.5,-12.969 22.5,12.969 0,25.938 -22.5,12.969 -22.5,-12.969"/>
+    </g>
+  </defs>
+  <rect width="192" height="332" fill="#C5AD97"/>
+  <use xlink:href="#hexagon" x="0" y="0"/>
+  <use xlink:href="#hexagon" x="192" y="0"/>
+  <use xlink:href="#hexagon" x="96" y="166"/>
+  <use xlink:href="#hexagon" x="0" y="332"/>
+  <use xlink:href="#hexagon" x="192" y="332"/>
+</svg>

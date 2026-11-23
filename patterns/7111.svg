@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="240" height="240" viewBox="0 0 240 240" version="1.1">
+  <title>The Dairyman, Brentwood — stepped crosses and square fretwork</title>
+  <desc>A square repeat of russet crosses and panels edged in ochre, with small square rings at the junctions.</desc>
+  <defs>
+    <g id="cross">
+      <path d="M -75 -35 H -35 V -75 H 35 V -35 H 75 V 35 H 35 V 75 H -35 V 35 H -75 Z" fill="#703e21" />
+      <path d="M -73 -33 H -33 V -73 H 33 V -33 H 73 V 33 H 33 V 73 H -33 V 33 H -73 Z" fill="#80502b" />
+      <path d="M -65 -25 H -25 V -65 H 25 V -25 H 65 V 25 H 25 V 65 H -25 V 25 H -65 Z" fill="#703e21" />
+      <path d="M -62 -22 H -22 V -62 H 22 V -22 H 62 V 22 H 22 V 62 H -22 V 22 H -62 Z" fill="#692a15" />
+    </g>
+    <g id="panel">
+      <path d="M -35 -35 H 35 V 35 H -35 Z" fill="#703e21" />
+      <path d="M -33 -33 H 33 V 33 H -33 Z" fill="#80502b" />
+      <path d="M -26 -26 H 26 V 26 H -26 Z" fill="#703e21" />
+      <path d="M -23 -23 H 23 V 23 H -23 Z" fill="#692a15" />
+    </g>
+    <g id="ring">
+      <path d="M -13 -15 H 13 V -13 H 15 V 13 H 13 V 15 H -13 V 13 H -15 V -13 H -13 Z" fill="#703e21" />
+      <path d="M -12 -13 H 12 V -12 H 13 V 12 H 12 V 13 H -12 V 12 H -13 V -12 H -12 Z" fill="#80502b" />
+      <path d="M -5 -6 H 5 V -5 H 6 V 5 H 5 V 6 H -5 V 5 H -6 V -5 H -5 Z" fill="#5e3516" />
+    </g>
+  </defs>
+  <rect width="240" height="240" fill="#5e3516" />
+  <use xlink:href="#cross" transform="translate(60 60)" />
+  <use xlink:href="#cross" transform="translate(300 60)" />
+  <use xlink:href="#cross" transform="translate(60 300)" />
+  <use xlink:href="#cross" transform="translate(300 300)" />
+  <use xlink:href="#cross" transform="translate(-60 -60)" />
+  <use xlink:href="#cross" transform="translate(180 -60)" />
+  <use xlink:href="#cross" transform="translate(-60 180)" />
+  <use xlink:href="#cross" transform="translate(180 180)" />
+  <use xlink:href="#panel" transform="translate(180 60)" />
+  <use xlink:href="#panel" transform="translate(60 180)" />
+  <use xlink:href="#ring" transform="translate(0 0)" />
+  <use xlink:href="#ring" transform="translate(240 0)" />
+  <use xlink:href="#ring" transform="translate(0 240)" />
+  <use xlink:href="#ring" transform="translate(240 240)" />
+  <use xlink:href="#ring" transform="translate(120 0)" />
+  <use xlink:href="#ring" transform="translate(120 240)" />
+  <use xlink:href="#ring" transform="translate(0 120)" />
+  <use xlink:href="#ring" transform="translate(240 120)" />
+  <use xlink:href="#ring" transform="translate(120 120)" />
+</svg>

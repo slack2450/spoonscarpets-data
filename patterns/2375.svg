@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="160" height="136" viewBox="0 0 160 136">
+  <title>The Dee Hotel, West Kirby — dining-room carpet</title>
+  <desc>Small alternating three-strand and crossbar blocks on a wine-red ground, reconstructed from the dining-room aisle.</desc>
+  <defs>
+    <g id="lengthwise">
+      <path fill="#AB6879" d="M-20 -20h7v3h5v-5h9v3h6v-3h9v4h3V4h2v16h-9v-2H5v4h-8v-2h-8v3h-8v-19h-2z"/>
+      <path fill="#BF8B99" d="M-20 -18h7v14h3v21h-3v5h-6V4h-2v-12h1z M-7 -19h8v15h3v20H1v5h-6V5h-2z M7 -21h8v4h3v16h2v16h-2v5h-7V6H9V-7H7z"/>
+      <path fill="#D0A1AD" d="M-19 -10h6v7h2V9h-2v9h-5V5h-2V-5h1z M-5 -13h5v8h3v16H1v4h-5V2h-2V-7h1z M10 -14h5v5h2v11h2v10h-2v4h-5V5h-2z"/>
+      <path fill="#892942" d="M-13 9h2v-5h3v14h-3v3h-2z M3 7h3v-8h2v15H6v6H3z"/>
+    </g>
+    <g id="crosswise">
+      <path fill="#AB6879" d="M-21 -17h4v-4h10v2h9v-3h10v3h7v6h2V7h1v12h-6v3H6v-2h-9v3h-9v-3h-7v-7h-2z"/>
+      <path fill="#BF8B99" d="M-20 -14h8v2h10v-3h9v2h11v5h-8v-1H1v2H-9v-2h-11z M-20 -4h9v2h9v-2h11v-2h10v6H9v3H-1v1h-9V2h-10z M-18 9h10v2h9V8h10V6h9v5h-7v3H2v2H-8v-2h-10z"/>
+    </g>
+  </defs>
+  <rect width="160" height="136" fill="#892942"/>
+  <use xlink:href="#lengthwise" x="40" y="34"/>
+  <use xlink:href="#crosswise" x="120" y="34"/>
+  <use xlink:href="#crosswise" x="40" y="102"/>
+  <use xlink:href="#lengthwise" x="120" y="102"/>
+</svg>

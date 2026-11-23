@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="256" height="66" viewBox="0 0 256 66">
+  <title>The Quarter Jack, Wells — ochre and charcoal checked Axminster carpet</title>
+  <defs>
+    <rect id="check" x="-32" y="-16.5" width="64" height="33"/>
+    <g id="accent-row">
+      <use xlink:href="#check" fill="#373C3F"/>
+      <use xlink:href="#check" x="128" fill="#A49C4E"/>
+      <use xlink:href="#check" x="256" fill="#373C3F"/>
+    </g>
+  </defs>
+  <rect width="256" height="66" fill="#A09586"/>
+  <use xlink:href="#accent-row"/>
+  <use xlink:href="#accent-row" y="66"/>
+  <g fill="#BEB8A7">
+    <use xlink:href="#check" x="64" y="33"/>
+    <use xlink:href="#check" x="192" y="33"/>
+  </g>
+</svg>

@@ -1,0 +1,114 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1037" height="576" viewBox="0 0 1037 576">
+  <title>The Fair O’Blair, Blairgowrie — striped lozenges and graduated roundels</title>
+  <defs>
+    <path id="oat-roundel-outline" d="M 0 -66.7 C 36.1 -67.4 65.8 -39.3 67.3 -3.6 C 69 34.8 38.7 66.8 1.5 67 C -36.2 67.6 -67.1 39.6 -67.9 2 C -68.8 -34.6 -39.4 -66 0 -66.7 Z" />
+    <clipPath id="oat-roundel-edge">
+      <use xlink:href="#oat-roundel-outline" />
+    </clipPath>
+    <g id="oat-roundel">
+      <use xlink:href="#oat-roundel-outline" fill="#BAAE92" />
+      <g clip-path="url(#oat-roundel-edge)">
+        <path d="M -69 -74 H -58 V 74 H -69 Z" fill="#CABD9E" />
+        <path d="M -53 -74 H -46 V 74 H -53 Z" fill="#CABD9E" />
+        <path d="M -38 -74 H -30 V 74 H -38 Z" fill="#CABD9E" />
+        <path d="M -17.3 -74 H -12.7 V 74 H -17.3 Z" fill="#CABD9E" />
+        <path d="M 14.4 -74 H 19 V 74 H 14.4 Z" fill="#CABD9E" />
+        <path d="M 32.7 -74 H 38.8 V 74 H 32.7 Z" fill="#CABD9E" />
+        <path d="M 44.5 -74 H 51 V 74 H 44.5 Z" fill="#CABD9E" />
+        <path d="M 55 -74 H 69 V 74 H 55 Z" fill="#CABD9E" />
+      </g>
+    </g>
+    <path id="straw-dot-outline" d="M 0 -30 C 16.3 -30.6 26.2 -16.9 26.6 -1.3 C 27.3 16.6 15.1 30.1 .4 30.5 C -15.3 30.7 -26.9 18.1 -27 1.4 C -27.2 -16.5 -16.8 -29.8 0 -30 Z" />
+    <clipPath id="straw-dot-edge">
+      <use xlink:href="#straw-dot-outline" />
+    </clipPath>
+    <g id="straw-dot">
+      <use xlink:href="#straw-dot-outline" fill="#BAAE92" />
+      <g clip-path="url(#straw-dot-edge)">
+        <path d="M -28 -74 H 5 V 74 H -28 Z" fill="#CB9C85" />
+        <path d="M -24 -74 H -21.8 V 74 H -24 Z" fill="#995961" />
+        <path d="M -15 -74 H -12.7 V 74 H -15 Z" fill="#995961" />
+        <path d="M -5.4 -74 H -3.4 V 74 H -5.4 Z" fill="#995961" />
+        <path d="M 3.0 -74 H 7.6 V 74 H 3.0 Z" fill="#CABD9E" />
+      </g>
+    </g>
+    <path id="rose-dot-outline" d="M 0 -29.6 C 14.1 -30.3 26 -18.8 27 -2.3 C 28.2 14.5 17 29.4 1.6 30.3 C -14.8 31.3 -26.8 18.1 -27.4 2 C -28.4 -14.6 -16.6 -29.2 0 -29.6 Z" />
+    <clipPath id="rose-dot-edge">
+      <use xlink:href="#rose-dot-outline" />
+    </clipPath>
+    <g id="rose-dot">
+      <use xlink:href="#rose-dot-outline" fill="#CB9C85" />
+      <g clip-path="url(#rose-dot-edge)">
+        <path d="M -6.7 -74 H -4.1 V 74 H -6.7 Z" fill="#995961" />
+        <path d="M 2.6 -74 H 5.4 V 74 H 2.6 Z" fill="#995961" />
+        <path d="M 11.1 -74 H 14 V 74 H 11.1 Z" fill="#995961" />
+        <path d="M 20 -74 H 23.6 V 74 H 20 Z" fill="#995961" />
+      </g>
+    </g>
+    <path id="rose-wing-outline" d="M -113.4 -.3 C -112.9 -10.6 -105.8 -23.9 -98.2 -34.1 C -88 -48.6 -74.9 -60.7 -58.7 -67 C -57.2 -67.8 -55.7 -67.5 -54.1 -66.5 L 51.1 -4.2 Q 59.1 .1 51.3 4.7 L -54.1 66.8 Q -56.2 68.1 -58 67.1 C -77.1 58.3 -89.5 46.1 -99.8 32 C -107.1 21.1 -113 8.9 -113.4 -.3 Z" />
+    <clipPath id="rose-wing-edge">
+      <use xlink:href="#rose-wing-outline" />
+    </clipPath>
+    <g id="rose-wing">
+      <use xlink:href="#rose-wing-outline" fill="#995961" />
+      <g clip-path="url(#rose-wing-edge)">
+        <path d="M -114 -74 H -108 V 74 H -114 Z" fill="#CB9C85" />
+        <path d="M -102.2 -74 H -97.5 V 74 H -102.2 Z" fill="#CB9C85" />
+        <path d="M -90 -74 H -85.4 V 74 H -90 Z" fill="#CB9C85" />
+        <path d="M -74.5 -74 H -70.8 V 74 H -74.5 Z" fill="#CB9C85" />
+        <path d="M -55.2 -74 H -51.8 V 74 H -55.2 Z" fill="#CB9C85" />
+        <path d="M -33.2 -74 H -29.8 V 74 H -33.2 Z" fill="#CB9C85" />
+        <path d="M -11.8 -74 H -8 V 74 H -11.8 Z" fill="#B97853" />
+        <path d="M 3.7 -74 H 7.7 V 74 H 3.7 Z" fill="#B97853" />
+        <path d="M 16 -74 H 20.3 V 74 H 16 Z" fill="#B97853" />
+        <path d="M 26.7 -74 H 32.5 V 74 H 26.7 Z" fill="#B97853" />
+        <path d="M 38 -74 H 45 V 74 H 38 Z" fill="#B97853" />
+        <path d="M 50 -74 H 58 V 74 H 50 Z" fill="#B97853" />
+      </g>
+    </g>
+    <path id="copper-lozenge-outline" d="M -.7 -70.4 Q .1 -70.9 1.2 -70.1 L 111.7 -4.1 Q 120.3 .3 112 4.8 L 2.5 69 Q .3 70.7 -1.3 69.8 L -112.6 4.6 Q -120 -.1 -112.4 -4.5 Z" />
+    <clipPath id="copper-lozenge-edge">
+      <use xlink:href="#copper-lozenge-outline" />
+    </clipPath>
+    <g id="copper-lozenge">
+      <use xlink:href="#copper-lozenge-outline" fill="#B97853" />
+      <g clip-path="url(#copper-lozenge-edge)">
+        <path d="M 20.6 -74 H 24 V 74 H 20.6 Z" fill="#995961" />
+        <path d="M -24 -74 H -20.6 V 74 H -24 Z" fill="#995961" />
+        <path d="M 41.3 -74 H 45 V 74 H 41.3 Z" fill="#995961" />
+        <path d="M -45 -74 H -41.3 V 74 H -45 Z" fill="#995961" />
+        <path d="M 58.8 -74 H 62.4 V 74 H 58.8 Z" fill="#995961" />
+        <path d="M -62.4 -74 H -58.8 V 74 H -62.4 Z" fill="#995961" />
+        <path d="M 68.3 -74 H 72.5 V 74 H 68.3 Z" fill="#995961" />
+        <path d="M -72.5 -74 H -68.3 V 74 H -72.5 Z" fill="#995961" />
+        <path d="M 83.7 -74 H 88.4 V 74 H 83.7 Z" fill="#995961" />
+        <path d="M -88.4 -74 H -83.7 V 74 H -88.4 Z" fill="#995961" />
+        <path d="M 96.3 -74 H 102.5 V 74 H 96.3 Z" fill="#995961" />
+        <path d="M -102.5 -74 H -96.3 V 74 H -102.5 Z" fill="#995961" />
+        <path d="M 108.3 -74 H 118.5 V 74 H 108.3 Z" fill="#995961" />
+        <path d="M -118.5 -74 H -108.3 V 74 H -118.5 Z" fill="#995961" />
+      </g>
+    </g>
+    <g id="woven-row">
+      <use xlink:href="#oat-roundel" transform="translate(78.8 72)" />
+      <use xlink:href="#straw-dot" transform="translate(194.4 36)" />
+      <use xlink:href="#straw-dot" transform="translate(998.9 36) scale(-1 1)" />
+      <use xlink:href="#straw-dot" transform="translate(194.4 108)" />
+      <use xlink:href="#straw-dot" transform="translate(998.9 108) scale(-1 1)" />
+      <use xlink:href="#rose-dot" transform="translate(265.7 0)" />
+      <use xlink:href="#rose-dot" transform="translate(265.7 72)" />
+      <use xlink:href="#rose-dot" transform="translate(928 0) scale(-1 1)" />
+      <use xlink:href="#rose-dot" transform="translate(928 72) scale(-1 1)" />
+      <use xlink:href="#rose-wing" transform="translate(419.8 72)" />
+      <use xlink:href="#copper-lozenge" transform="translate(596.7 72)" />
+      <use xlink:href="#rose-wing" transform="translate(774.3 72) scale(-1 1)" />
+    </g>
+  </defs>
+  <rect width="1037" height="576" fill="#282C3B" />
+  <use xlink:href="#woven-row" y="0" />
+  <use xlink:href="#woven-row" y="144" />
+  <use xlink:href="#woven-row" y="288" />
+  <use xlink:href="#woven-row" y="432" />
+  <use xlink:href="#woven-row" y="576" />
+</svg>

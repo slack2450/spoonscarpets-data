@@ -1,0 +1,132 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="320" height="320" viewBox="0 0 320 320">
+<title>The Mail Rooms, Ross-on-Wye — wheat lattice and split-petal florets</title>
+<defs>
+<path id="husk0" d="M0 0 Q4 -3 10 -5 L9 -8 Q14 -8 19 -7 Q21 -11 25 -12 L26 -9 Q30 -13 35 -13 L35 -9 Q41 -12 44 -10 L43 -7 Q48 -6 52 -8 Q50 -3 46 -1 L48 1 L43 3 Q40 8 34 8 L34 10 Q28 11 23 8 L21 10 Q13 8 9 5 L7 6 Q2 4 0 0Z"/>
+<clipPath id="cut0"><use xlink:href="#husk0"/></clipPath>
+<path id="husk1" d="M0 0 Q4 -5 11 -6 L10 -9 Q16 -9 21 -7 Q23 -11 27 -12 L27 -8 Q33 -12 37 -13 L36 -9 L42 -10 L42 -8 Q46 -9 51 -10 Q50 -5 45 -1 L48 0 Q46 3 41 4 Q40 7 34 8 L35 10 Q29 12 23 8 L22 11 Q14 10 9 5 L6 6 Q2 5 0 0Z"/>
+<clipPath id="cut1"><use xlink:href="#husk1"/></clipPath>
+<path id="husk2" d="M0 0 Q6 -4 12 -4 L11 -7 L19 -6 Q22 -10 24 -12 L26 -9 Q31 -12 35 -12 L35 -8 Q40 -11 44 -12 L44 -8 L51 -10 Q49 -5 46 -3 L48 -2 L42 4 L43 6 Q37 9 31 8 L30 11 Q23 11 19 8 L17 10 Q11 8 8 4 Q4 5 0 0Z"/>
+<clipPath id="cut2"><use xlink:href="#husk2"/></clipPath>
+<path id="husk3" d="M0 0 Q3 -4 9 -5 Q12 -9 15 -9 L17 -7 Q22 -11 27 -12 L26 -8 Q31 -12 36 -12 L36 -8 L43 -11 L43 -7 Q49 -8 51 -9 Q50 -4 45 0 L46 2 Q43 5 39 5 L38 8 Q33 10 28 7 L26 10 Q18 10 14 6 L12 8 Q7 6 5 3 Z"/>
+<clipPath id="cut3"><use xlink:href="#husk3"/></clipPath>
+<path id="husk4" d="M0 0 Q3 -5 11 -6 L11 -8 L16 -7 Q20 -11 23 -12 L25 -8 L33 -12 L33 -9 Q39 -11 42 -12 L41 -8 L51 -11 Q50 -4 45 -2 L47 0 Q44 4 38 5 L39 7 Q34 10 29 8 L28 11 Q20 12 16 7 L14 9 Q9 7 6 4 L4 5 Z"/>
+<clipPath id="cut4"><use xlink:href="#husk4"/></clipPath>
+<path id="husk5" d="M0 0 Q4 -3 10 -5 Q12 -8 16 -9 L17 -6 Q22 -8 26 -11 L27 -8 Q32 -10 35 -12 L36 -9 Q40 -12 43 -11 L43 -7 L52 -9 Q50 -4 46 -3 L48 -1 Q44 3 40 4 L41 6 Q35 10 30 8 L29 11 Q23 11 18 8 L16 10 Q10 8 8 4 L6 6 Q2 4 0 0Z"/>
+<clipPath id="cut5"><use xlink:href="#husk5"/></clipPath>
+<g id="sprig1-0"><g transform="matrix(-0.60270 0.96600 0.69578 0.58509 158 -7)"><use xlink:href="#husk0" fill="#c5a042"/><g clip-path="url(#cut0)"><path fill="#cdae73" d="M9 15 Q15 6 21 4 L18 2 Q26 2 28 -3 L26 -5 Q31 -7 35 -15 H60 V20Z"/><path fill="#e3d0a6" d="M34 12 Q36 6 40 4 L38 2 Q44 1 45 -4 L50 -12 H60 V16Z"/><path fill="#a88249" d="M-3 -12 L9 -12 Q8 -8 9 -6 Q6 -3 8 -2 L5 2 L6 7 L-3 8Z"/></g></g></g>
+<g id="sprig1-1"><g transform="matrix(-0.54140 1.24281 0.82096 0.48701 155 25)"><use xlink:href="#husk5" fill="#c5a042"/><g clip-path="url(#cut5)"><path fill="#cdae73" d="M11 14 Q18 7 26 6 L23 3 Q31 2 32 -2 L29 -3 Q35 -6 34 -14 H60 V20Z"/><path fill="#e3d0a6" d="M34 12 Q36 6 40 4 L38 2 Q44 1 45 -4 L50 -12 H60 V16Z"/><path fill="#a88249" d="M-3 -12 L9 -12 Q8 -8 9 -6 Q6 -3 8 -2 L5 2 L6 7 L-3 8Z"/></g></g></g>
+<g id="sprig1-2"><g transform="matrix(-0.40678 1.12777 0.91714 0.50183 164 53)"><use xlink:href="#husk5" fill="#c5a042"/><g clip-path="url(#cut5)"><path fill="#cdae73" d="M24 15 Q28 8 32 6 L30 4 Q35 4 39 0 L38 -2 L48 -13 H60 V20Z"/><path fill="#a88249" d="M-3 -12 L9 -12 Q8 -8 9 -6 Q6 -3 8 -2 L5 2 L6 7 L-3 8Z"/></g></g></g>
+<g id="sprig1-3"><g transform="matrix(-0.28796 0.76056 0.70159 0.42095 159 92)"><use xlink:href="#husk4" fill="#c5a042"/><g clip-path="url(#cut4)"><path fill="#cdae73" d="M5 15 Q13 8 18 4 L17 2 Q23 2 25 -2 L24 -6 L32 -14 H60 V20Z"/><path fill="#e3d0a6" d="M34 12 Q36 6 40 4 L38 2 Q44 1 45 -4 L50 -12 H60 V16Z"/><path fill="#a88249" d="M-3 -12 L9 -12 Q8 -8 9 -6 Q6 -3 8 -2 L5 2 L6 7 L-3 8Z"/></g></g></g>
+<g id="sprig1-4"><g transform="matrix(0.56367 1.06527 -0.80588 0.59208 165 8)"><use xlink:href="#husk4" fill="#c5a042"/><g clip-path="url(#cut4)"><path fill="#cdae73" d="M9 15 Q15 6 21 4 L18 2 Q26 2 28 -3 L26 -5 Q31 -7 35 -15 H60 V20Z"/><path fill="#e3d0a6" d="M34 12 Q36 6 40 4 L38 2 Q44 1 45 -4 L50 -12 H60 V16Z"/><path fill="#a88249" d="M-3 -12 L9 -12 Q8 -8 9 -6 Q6 -3 8 -2 L5 2 L6 7 L-3 8Z"/></g></g></g>
+<g id="sprig1-5"><g transform="matrix(0.55117 1.02218 -0.76559 0.57012 161 50)"><use xlink:href="#husk3" fill="#c5a042"/><g clip-path="url(#cut3)"><path fill="#cdae73" d="M11 14 Q18 7 26 6 L23 3 Q31 2 32 -2 L29 -3 Q35 -6 34 -14 H60 V20Z"/><path fill="#e3d0a6" d="M34 12 Q36 6 40 4 L38 2 Q44 1 45 -4 L50 -12 H60 V16Z"/><path fill="#a88249" d="M-3 -12 L9 -12 Q8 -8 9 -6 Q6 -3 8 -2 L5 2 L6 7 L-3 8Z"/></g></g></g>
+<g id="sprig1-6"><g transform="matrix(0.32071 0.72108 -0.73820 0.53058 169 92)"><use xlink:href="#husk3" fill="#c5a042"/><g clip-path="url(#cut3)"><path fill="#cdae73" d="M24 15 Q28 8 32 6 L30 4 Q35 4 39 0 L38 -2 L48 -13 H60 V20Z"/><path fill="#a88249" d="M-3 -12 L9 -12 Q8 -8 9 -6 Q6 -3 8 -2 L5 2 L6 7 L-3 8Z"/></g></g></g>
+<g id="sprig1-7"><g transform="matrix(-0.65072 0.95077 0.75705 0.72100 161 195)"><use xlink:href="#husk2" fill="#c5a042"/><g clip-path="url(#cut2)"><path fill="#cdae73" d="M5 15 Q13 8 18 4 L17 2 Q23 2 25 -2 L24 -6 L32 -14 H60 V20Z"/><path fill="#e3d0a6" d="M34 12 Q36 6 40 4 L38 2 Q44 1 45 -4 L50 -12 H60 V16Z"/><path fill="#a88249" d="M-3 -12 L9 -12 Q8 -8 9 -6 Q6 -3 8 -2 L5 2 L6 7 L-3 8Z"/></g></g></g>
+<g id="sprig1-8"><g transform="matrix(-0.32077 1.21028 0.96007 0.41382 156 229)"><use xlink:href="#husk2" fill="#c5a042"/><g clip-path="url(#cut2)"><path fill="#cdae73" d="M9 15 Q15 6 21 4 L18 2 Q26 2 28 -3 L26 -5 Q31 -7 35 -15 H60 V20Z"/><path fill="#e3d0a6" d="M34 12 Q36 6 40 4 L38 2 Q44 1 45 -4 L50 -12 H60 V16Z"/><path fill="#a88249" d="M-3 -12 L9 -12 Q8 -8 9 -6 Q6 -3 8 -2 L5 2 L6 7 L-3 8Z"/></g></g></g>
+<g id="sprig1-9"><g transform="matrix(-0.33440 1.00444 0.88287 0.46961 161 277)"><use xlink:href="#husk1" fill="#c5a042"/><g clip-path="url(#cut1)"><path fill="#cdae73" d="M11 14 Q18 7 26 6 L23 3 Q31 2 32 -2 L29 -3 Q35 -6 34 -14 H60 V20Z"/><path fill="#e3d0a6" d="M34 12 Q36 6 40 4 L38 2 Q44 1 45 -4 L50 -12 H60 V16Z"/><path fill="#a88249" d="M-3 -12 L9 -12 Q8 -8 9 -6 Q6 -3 8 -2 L5 2 L6 7 L-3 8Z"/></g></g></g>
+<g id="sprig1-10"><g transform="matrix(0.63910 0.96183 -0.82288 0.78370 169 194)"><use xlink:href="#husk1" fill="#c5a042"/><g clip-path="url(#cut1)"><path fill="#cdae73" d="M24 15 Q28 8 32 6 L30 4 Q35 4 39 0 L38 -2 L48 -13 H60 V20Z"/><path fill="#a88249" d="M-3 -12 L9 -12 Q8 -8 9 -6 Q6 -3 8 -2 L5 2 L6 7 L-3 8Z"/></g></g></g>
+<g id="sprig1-11"><g transform="matrix(0.78843 1.02141 -0.75444 0.78797 166 231)"><use xlink:href="#husk0" fill="#c5a042"/><g clip-path="url(#cut0)"><path fill="#cdae73" d="M5 15 Q13 8 18 4 L17 2 Q23 2 25 -2 L24 -6 L32 -14 H60 V20Z"/><path fill="#e3d0a6" d="M34 12 Q36 6 40 4 L38 2 Q44 1 45 -4 L50 -12 H60 V16Z"/><path fill="#a88249" d="M-3 -12 L9 -12 Q8 -8 9 -6 Q6 -3 8 -2 L5 2 L6 7 L-3 8Z"/></g></g></g>
+<g id="sprig1-12"><g transform="matrix(0.57421 1.14482 -0.85723 0.59844 167 266)"><use xlink:href="#husk0" fill="#c5a042"/><g clip-path="url(#cut0)"><path fill="#cdae73" d="M9 15 Q15 6 21 4 L18 2 Q26 2 28 -3 L26 -5 Q31 -7 35 -15 H60 V20Z"/><path fill="#e3d0a6" d="M34 12 Q36 6 40 4 L38 2 Q44 1 45 -4 L50 -12 H60 V16Z"/><path fill="#a88249" d="M-3 -12 L9 -12 Q8 -8 9 -6 Q6 -3 8 -2 L5 2 L6 7 L-3 8Z"/></g></g></g>
+<g id="sprig1-13"><g transform="matrix(0.57940 0.84855 -0.71673 0.69735 168 307)"><use xlink:href="#husk5" fill="#c5a042"/><g clip-path="url(#cut5)"><path fill="#cdae73" d="M11 14 Q18 7 26 6 L23 3 Q31 2 32 -2 L29 -3 Q35 -6 34 -14 H60 V20Z"/><path fill="#e3d0a6" d="M34 12 Q36 6 40 4 L38 2 Q44 1 45 -4 L50 -12 H60 V16Z"/><path fill="#a88249" d="M-3 -12 L9 -12 Q8 -8 9 -6 Q6 -3 8 -2 L5 2 L6 7 L-3 8Z"/></g></g></g>
+<g id="sprig0-0"><g transform="matrix(1.33921 -0.57966 0.47775 0.82638 8 155)"><use xlink:href="#husk0" fill="#cdae73"/><g clip-path="url(#cut0)"><path fill="#e3d0a6" d="M7 -16 Q10 -7 16 -5 L12 -1 Q18 1 18 5 L15 11 L22 20 H63 V-20Z"/><path fill="#c5a042" d="M-4 -12 L5 -11 Q7 -6 10 -5 L7 -2 L9 0 Q5 2 5 7 L-4 8Z"/></g></g></g>
+<g id="sprig0-1"><g transform="matrix(1.33188 -0.54552 0.43619 0.79761 57 152)"><use xlink:href="#husk5" fill="#cdae73"/><g clip-path="url(#cut5)"><path fill="#e3d0a6" d="M15 -19 L16 -9 Q19 -7 17 -4 L21 -3 Q18 1 21 3 L17 6 L20 19 H63 V-20Z"/></g></g></g>
+<g id="sprig0-2"><g transform="matrix(1.16074 -0.41253 0.46641 0.88457 95 155)"><use xlink:href="#husk5" fill="#cdae73"/><g clip-path="url(#cut5)"><path fill="#e3d0a6" d="M10 -20 L13 -9 Q18 -8 15 -4 L21 -5 Q19 -1 22 1 L18 4 Q20 9 15 12 L20 20 H63 V-20Z"/><path fill="#c5a042" d="M-4 -12 L5 -11 Q7 -6 10 -5 L7 -2 L9 0 Q5 2 5 7 L-4 8Z"/></g></g></g>
+<g id="sprig0-3"><g transform="matrix(0.97116 -0.59657 0.61435 0.73057 137 157)"><use xlink:href="#husk4" fill="#cdae73"/><g clip-path="url(#cut4)"><path fill="#e3d0a6" d="M12 -20 L10 -10 Q17 -8 16 -4 L20 -4 L17 1 L19 4 Q16 6 17 11 L22 19 H63 V-20Z"/><path fill="#c5a042" d="M-4 -12 L5 -11 Q7 -6 10 -5 L7 -2 L9 0 Q5 2 5 7 L-4 8Z"/></g></g></g>
+<g id="sprig0-4"><g transform="matrix(1.11207 -0.61815 0.63506 0.83047 184 156)"><use xlink:href="#husk4" fill="#cdae73"/><g clip-path="url(#cut4)"><path fill="#e3d0a6" d="M7 -16 Q10 -7 16 -5 L12 -1 Q18 1 18 5 L15 11 L22 20 H63 V-20Z"/></g></g></g>
+<g id="sprig0-5"><g transform="matrix(1.00924 -0.61523 0.60793 0.73592 215 157)"><use xlink:href="#husk3" fill="#cdae73"/><g clip-path="url(#cut3)"><path fill="#e3d0a6" d="M15 -19 L16 -9 Q19 -7 17 -4 L21 -3 Q18 1 21 3 L17 6 L20 19 H63 V-20Z"/><path fill="#c5a042" d="M-4 -12 L5 -11 Q7 -6 10 -5 L7 -2 L9 0 Q5 2 5 7 L-4 8Z"/></g></g></g>
+<g id="sprig0-6"><g transform="matrix(1.31710 -0.53902 0.46357 0.83442 252 158)"><use xlink:href="#husk3" fill="#cdae73"/><g clip-path="url(#cut3)"><path fill="#e3d0a6" d="M10 -20 L13 -9 Q18 -8 15 -4 L21 -5 Q19 -1 22 1 L18 4 Q20 9 15 12 L20 20 H63 V-20Z"/><path fill="#c5a042" d="M-4 -12 L5 -11 Q7 -6 10 -5 L7 -2 L9 0 Q5 2 5 7 L-4 8Z"/></g></g></g>
+<g id="sprig0-7"><g transform="matrix(0.92076 -0.49984 0.55095 0.72312 297 157)"><use xlink:href="#husk2" fill="#cdae73"/><g clip-path="url(#cut2)"><path fill="#e3d0a6" d="M12 -20 L10 -10 Q17 -8 16 -4 L20 -4 L17 1 L19 4 Q16 6 17 11 L22 19 H63 V-20Z"/></g></g></g>
+<g id="sprig0-8"><g transform="matrix(1.34843 0.63467 0.53000 -0.84800 -8 158)"><use xlink:href="#husk2" fill="#cdae73"/><g clip-path="url(#cut2)"><path fill="#e3d0a6" d="M7 -16 Q10 -7 16 -5 L12 -1 Q18 1 18 5 L15 11 L22 20 H63 V-20Z"/><path fill="#c5a042" d="M-4 -12 L5 -11 Q7 -6 10 -5 L7 -2 L9 0 Q5 2 5 7 L-4 8Z"/></g></g></g>
+<g id="sprig0-9"><g transform="matrix(0.97592 0.56597 0.53022 -0.68171 47 160)"><use xlink:href="#husk1" fill="#cdae73"/><g clip-path="url(#cut1)"><path fill="#e3d0a6" d="M15 -19 L16 -9 Q19 -7 17 -4 L21 -3 Q18 1 21 3 L17 6 L20 19 H63 V-20Z"/><path fill="#c5a042" d="M-4 -12 L5 -11 Q7 -6 10 -5 L7 -2 L9 0 Q5 2 5 7 L-4 8Z"/></g></g></g>
+<g id="sprig0-10"><g transform="matrix(1.05381 0.57937 0.63826 -0.82801 86 159)"><use xlink:href="#husk1" fill="#cdae73"/><g clip-path="url(#cut1)"><path fill="#e3d0a6" d="M10 -20 L13 -9 Q18 -8 15 -4 L21 -5 Q19 -1 22 1 L18 4 Q20 9 15 12 L20 20 H63 V-20Z"/></g></g></g>
+<g id="sprig0-11"><g transform="matrix(0.86095 0.58360 0.65648 -0.69295 133 159)"><use xlink:href="#husk0" fill="#cdae73"/><g clip-path="url(#cut0)"><path fill="#e3d0a6" d="M12 -20 L10 -10 Q17 -8 16 -4 L20 -4 L17 1 L19 4 Q16 6 17 11 L22 19 H63 V-20Z"/><path fill="#c5a042" d="M-4 -12 L5 -11 Q7 -6 10 -5 L7 -2 L9 0 Q5 2 5 7 L-4 8Z"/></g></g></g>
+<g id="sprig0-12"><g transform="matrix(1.09203 0.59821 0.63259 -0.83235 167 160)"><use xlink:href="#husk0" fill="#cdae73"/><g clip-path="url(#cut0)"><path fill="#e3d0a6" d="M7 -16 Q10 -7 16 -5 L12 -1 Q18 1 18 5 L15 11 L22 20 H63 V-20Z"/><path fill="#c5a042" d="M-4 -12 L5 -11 Q7 -6 10 -5 L7 -2 L9 0 Q5 2 5 7 L-4 8Z"/></g></g></g>
+<g id="sprig0-13"><g transform="matrix(1.03938 0.62273 0.66760 -0.80454 222 161)"><use xlink:href="#husk5" fill="#cdae73"/><g clip-path="url(#cut5)"><path fill="#e3d0a6" d="M15 -19 L16 -9 Q19 -7 17 -4 L21 -3 Q18 1 21 3 L17 6 L20 19 H63 V-20Z"/></g></g></g>
+<g id="sprig0-14"><g transform="matrix(1.03252 0.60787 0.62872 -0.77763 268 160)"><use xlink:href="#husk5" fill="#cdae73"/><g clip-path="url(#cut5)"><path fill="#e3d0a6" d="M10 -20 L13 -9 Q18 -8 15 -4 L21 -5 Q19 -1 22 1 L18 4 Q20 9 15 12 L20 20 H63 V-20Z"/><path fill="#c5a042" d="M-4 -12 L5 -11 Q7 -6 10 -5 L7 -2 L9 0 Q5 2 5 7 L-4 8Z"/></g></g></g>
+<g id="floret">
+<path fill="#50718e" d="M -13 -121 Q -6 -113 -3 -103 L 1 -95 Q 8 -104 10 -119 Q 24 -109 23 -90 L 21 -68 Q 21 -51 13 -39 Q 6 -25 2 -19 Q -6 -34 -13 -45 Q -21 -62 -20 -79 L -19 -100 Z"/>
+<path fill="#c5a042" d="M -12 -120 Q -5 -110 -4 -92 L 1 -76 Q 3 -83 8 -88 Q 14 -101 9 -118 Q 19 -116 21 -105 Q 25 -92 18 -78 Q 14 -72 14 -61 L 10 -49 L 6 -58 Q 4 -48 -1 -42 L -5 -36 Q -13 -46 -16 -63 Q -19 -74 -17 -87 L -19 -91 Q -15 -106 -12 -120 Z"/>
+<path fill="#50718e" d="M 21 -4 Q 31 -15 53 -20 Q 69 -24 83 -20 Q 95 -24 110 -19 L 120 -11 Q 107 -9 103 -5 Q 96 0 86 2 Q 100 8 110 5 L 119 12 Q 110 21 94 18 L 78 20 Q 67 19 58 22 Q 49 20 43 15 Q 27 12 21 5 Z"/>
+<path fill="#c5a042" d="M 23 -5 Q 36 -17 54 -19 L 62 -16 L 71 -19 Q 67 -11 60 -8 L 57 -2 Q 52 -1 50 5 L 54 8 L 51 14 Q 42 12 35 13 Q 27 9 21 5 Z"/>
+<path fill="#c5a042" d="M 80 -15 Q 87 -19 96 -17 Q 95 -12 89 -10 L 81 -9 Z"/>
+<path fill="#50718e" d="M -3 19 Q 8 26 15 42 Q 23 61 21 80 Q 26 94 23 108 L 18 118 Q 11 106 8 93 L 4 86 Q -5 96 -1 116 Q -11 118 -15 108 Q -20 97 -18 86 Q -22 71 -16 54 Q -16 40 -7 34 Z"/>
+<path fill="#c5a042" d="M -12 50 L -9 54 Q -6 50 -3 45 L 0 57 L 2 70 L 6 61 Q 9 52 6 39 Q 14 39 16 54 Q 18 67 19 76 L 18 84 Q 24 98 22 110 L 18 117 Q 12 113 10 103 L 6 91 L 3 87 Q -4 94 -3 104 L -2 115 L -7 116 Q -16 109 -16 98 L -19 89 Q -17 83 -18 76 L -14 67 Z"/>
+<path fill="#50718e" d="M -20 -6 Q -26 -13 -40 -16 L -59 -22 Q -72 -27 -82 -22 Q -95 -22 -111 -17 L -118 -10 Q -109 -2 -96 -4 L -87 -2 Q -100 8 -115 2 L -121 4 Q -117 13 -105 16 Q -94 22 -77 20 L -63 18 Q -48 18 -39 12 Q -29 10 -20 5 Z"/>
+<path fill="#c5a042" d="M -116 -13 Q -104 -21 -90 -20 L -78 -24 Q -68 -25 -61 -19 L -58 -13 Q -50 -10 -43 -9 L -49 -6 Q -42 -5 -38 -2 L -45 3 L -48 8 Q -60 8 -65 14 Q -78 21 -91 20 Q -108 18 -118 8 L -119 4 Q -106 8 -98 4 Q -88 4 -83 -4 L -75 -8 Q -87 -10 -96 -8 Q -111 -7 -116 -10 Z"/>
+<g transform="scale(.82)">
+<path fill="#50718e" d="M -13 -12 Q -8 -19 1 -18 Q 6 -23 12 -19 Q 17 -14 19 -7 L 16 1 Q 18 8 12 12 Q 6 13 3 17 Q -7 21 -13 13 Q -18 9 -16 3 Z"/>
+<path fill="#c5a042" d="M -8 -8 Q -4 -14 3 -12 L 7 -9 Q 3 -6 5 -2 L 3 4 L 6 8 Q -1 15 -7 12 Q -13 10 -12 3 Z"/>
+</g>
+</g>
+<g id="panel">
+<use xlink:href="#sprig1-0" transform="translate(-159 160)"/>
+<use xlink:href="#sprig1-0" transform="translate(161 160)"/>
+<use xlink:href="#sprig1-1" transform="translate(-159 160)"/>
+<use xlink:href="#sprig1-1" transform="translate(161 160)"/>
+<use xlink:href="#sprig1-2" transform="translate(-159 160)"/>
+<use xlink:href="#sprig1-2" transform="translate(161 160)"/>
+<use xlink:href="#sprig1-3" transform="translate(-159 160)"/>
+<use xlink:href="#sprig1-3" transform="translate(161 160)"/>
+<use xlink:href="#sprig1-4" transform="translate(-159 160)"/>
+<use xlink:href="#sprig1-4" transform="translate(161 160)"/>
+<use xlink:href="#sprig1-5" transform="translate(-159 160)"/>
+<use xlink:href="#sprig1-5" transform="translate(161 160)"/>
+<use xlink:href="#sprig1-6" transform="translate(-159 160)"/>
+<use xlink:href="#sprig1-6" transform="translate(161 160)"/>
+<use xlink:href="#sprig1-7" transform="translate(-159 -160)"/>
+<use xlink:href="#sprig1-7" transform="translate(161 -160)"/>
+<use xlink:href="#sprig1-8" transform="translate(-159 -160)"/>
+<use xlink:href="#sprig1-8" transform="translate(161 -160)"/>
+<use xlink:href="#sprig1-9" transform="translate(-159 -160)"/>
+<use xlink:href="#sprig1-9" transform="translate(161 -160)"/>
+<use xlink:href="#sprig1-10" transform="translate(-159 -160)"/>
+<use xlink:href="#sprig1-10" transform="translate(161 -160)"/>
+<use xlink:href="#sprig1-11" transform="translate(-159 -160)"/>
+<use xlink:href="#sprig1-11" transform="translate(161 -160)"/>
+<use xlink:href="#sprig1-12" transform="translate(-159 -160)"/>
+<use xlink:href="#sprig1-12" transform="translate(161 -160)"/>
+<use xlink:href="#sprig1-13" transform="translate(-159 -160)"/>
+<use xlink:href="#sprig1-13" transform="translate(161 -160)"/>
+<use xlink:href="#sprig0-0" transform="translate(161 -160)"/>
+<use xlink:href="#sprig0-0" transform="translate(161 160)"/>
+<use xlink:href="#sprig0-1" transform="translate(161 -160)"/>
+<use xlink:href="#sprig0-1" transform="translate(161 160)"/>
+<use xlink:href="#sprig0-2" transform="translate(-159 -160)"/>
+<use xlink:href="#sprig0-2" transform="translate(-159 160)"/>
+<use xlink:href="#sprig0-2" transform="translate(161 -160)"/>
+<use xlink:href="#sprig0-2" transform="translate(161 160)"/>
+<use xlink:href="#sprig0-3" transform="translate(-159 -160)"/>
+<use xlink:href="#sprig0-3" transform="translate(-159 160)"/>
+<use xlink:href="#sprig0-3" transform="translate(161 -160)"/>
+<use xlink:href="#sprig0-3" transform="translate(161 160)"/>
+<use xlink:href="#sprig0-4" transform="translate(-159 -160)"/>
+<use xlink:href="#sprig0-4" transform="translate(-159 160)"/>
+<use xlink:href="#sprig0-5" transform="translate(-159 -160)"/>
+<use xlink:href="#sprig0-5" transform="translate(-159 160)"/>
+<use xlink:href="#sprig0-6" transform="translate(-159 -160)"/>
+<use xlink:href="#sprig0-6" transform="translate(-159 160)"/>
+<use xlink:href="#sprig0-7" transform="translate(-159 -160)"/>
+<use xlink:href="#sprig0-7" transform="translate(-159 160)"/>
+<use xlink:href="#sprig0-8" transform="translate(161 -160)"/>
+<use xlink:href="#sprig0-8" transform="translate(161 160)"/>
+<use xlink:href="#sprig0-9" transform="translate(161 -160)"/>
+<use xlink:href="#sprig0-9" transform="translate(161 160)"/>
+<use xlink:href="#sprig0-10" transform="translate(161 -160)"/>
+<use xlink:href="#sprig0-10" transform="translate(161 160)"/>
+<use xlink:href="#sprig0-11" transform="translate(-159 -160)"/>
+<use xlink:href="#sprig0-11" transform="translate(-159 160)"/>
+<use xlink:href="#sprig0-11" transform="translate(161 -160)"/>
+<use xlink:href="#sprig0-11" transform="translate(161 160)"/>
+<use xlink:href="#sprig0-12" transform="translate(-159 -160)"/>
+<use xlink:href="#sprig0-12" transform="translate(-159 160)"/>
+<use xlink:href="#sprig0-12" transform="translate(161 -160)"/>
+<use xlink:href="#sprig0-12" transform="translate(161 160)"/>
+<use xlink:href="#sprig0-13" transform="translate(-159 -160)"/>
+<use xlink:href="#sprig0-13" transform="translate(-159 160)"/>
+<use xlink:href="#sprig0-14" transform="translate(-159 -160)"/>
+<use xlink:href="#sprig0-14" transform="translate(-159 160)"/>
+</g>
+</defs>
+<rect width="320" height="320" fill="#2a4068"/>
+<use xlink:href="#panel"/>
+<use xlink:href="#floret" transform="translate(161 160)"/>
+</svg>

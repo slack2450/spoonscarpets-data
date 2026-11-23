@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="800" height="800" viewBox="0 0 800 800">
+  <title>The Court of Requests, Oldbury — quarter-turned imperial crowns on blue</title>
+  <defs>
+    <g id="velvet-arch">
+      <path fill="#904B60" d="M 79,224 C 76,205 78,183 83,162 Q 87,149 94,149 Q 94,136 108,136 Q 117,120 131,121 Q 140,114 153,120 Q 167,111 184,121 Q 199,118 212,125 Q 226,123 236,136 L 249,142 L 260,177 L 278,227 Z"/>
+      <path fill="#C3A28B" d="M 78,235 Q 77,204 84,177 L 92,163 L 100,164 L 101,151 L 108,160 Q 122,156 132,153 L 144,138 L 151,148 Q 165,147 175,148 L 181,138 L 191,149 Q 204,153 212,153 L 218,145 L 230,157 Q 242,159 259,170 L 274,211 L 259,226 Q 221,195 178,191 Q 123,184 88,228 Z"/>
+      <path fill="#D9B5A0" d="M 88,204 L 94,172 L 104,167 L 106,156 L 113,165 Q 124,164 136,157 L 145,145 L 154,154 L 175,155 L 181,146 L 189,156 L 212,161 L 220,153 L 226,162 L 239,166 L 245,174 Q 213,168 184,166 Q 132,161 99,190 Z"/>
+      <path fill="#365583" d="M 92,222 Q 100,193 134,182 Q 164,172 194,176 Q 226,179 249,196 L 259,216 Q 226,200 204,198 Q 155,185 118,205 Z"/>
+      <path fill="#C3A28B" d="M 82,207 Q 88,224 105,212 Q 139,189 177,190 Q 224,190 256,213 Q 284,242 283,277 L 269,359 L 225,374 L 118,380 Q 104,368 100,342 Q 95,322 87,298 Q 72,262 76,232 Z"/>
+      <path fill="#904B60" d="M 99,233 Q 111,216 139,208 Q 165,195 193,201 Q 226,205 249,221 Q 270,236 274,264 C 272,287 260,297 255,314 Q 250,337 250,351 Q 240,362 222,356 C 208,349 199,332 198,321 Q 199,300 211,288 Q 197,272 177,272 Q 161,281 148,292 Q 162,305 164,322 Q 162,340 144,350 Q 123,367 110,357 Q 105,335 117,315 Q 120,312 119,307 Q 100,291 96,275 Q 87,249 99,233 Z"/>
+      <path fill="#AB7D70" d="M 89,229 Q 95,212 119,205 Q 141,195 160,196 L 169,201 Q 118,207 99,236 Q 89,254 96,276 L 106,300 Q 88,287 83,260 Z"/>
+      <path fill="#D9B5A0" d="M 114,363 Q 137,356 153,338 Q 170,321 159,299 Q 153,287 141,284 L 138,274 Q 145,263 158,265 L 157,252 Q 158,245 165,244 Q 168,234 177,231 Q 187,244 190,258 Q 201,253 210,263 L 218,276 Q 201,282 196,295 Q 186,316 198,335 Q 209,354 240,363 L 239,374 L 116,378 Z"/>
+      <path fill="#AB7D70" d="M 161,354 Q 172,345 178,333 Q 181,344 193,355 Q 179,352 161,358 Z"/>
+    </g>
+    <g id="crown">
+      <use xlink:href="#velvet-arch"/>
+      <use xlink:href="#velvet-arch" transform="translate(588 0) scale(-1 1)"/>
+      <path fill="#C3A28B" d="M 267,65 Q 282,71 292,67 Q 305,69 315,65 L 306,91 L 306,98 L 320,96 L 337,87 Q 335,99 342,111 L 339,143 L 320,133 L 306,131 Q 303,147 316,156 L 307,169 L 281,173 L 272,157 Q 285,149 282,131 L 267,133 L 246,143 L 249,125 Q 249,110 245,91 L 262,99 L 280,101 L 279,90 Z"/>
+      <path fill="#D9B5A0" d="M 275,71 L 306,72 L 299,89 L 300,105 L 322,103 L 334,97 L 332,122 L 320,120 L 300,120 L 299,143 L 288,150 L 287,121 L 267,121 L 253,128 L 255,104 L 266,110 L 287,110 L 287,91 Z"/>
+      <path fill="#C3A28B" d="M 265,166 Q 273,153 283,151 Q 295,143 310,152 Q 322,155 324,167 Q 342,173 336,184 L 323,192 Q 329,207 320,225 Q 314,243 304,248 L 306,259 L 319,267 L 311,280 L 277,281 L 268,270 L 282,259 L 282,248 Q 265,239 260,222 Q 254,205 261,191 L 248,182 Q 247,171 265,166 Z"/>
+      <path fill="#D9B5A0" d="M 260,172 Q 273,165 288,166 L 297,161 L 316,165 L 327,171 L 323,179 Q 294,176 264,184 L 255,179 Z"/>
+      <path fill="#D9B5A0" d="M 269,192 Q 289,185 314,187 L 316,198 Q 303,197 301,205 L 289,213 L 277,210 L 270,217 Q 262,205 269,192 Z"/>
+      <path fill="#AB7D70" d="M 278,222 Q 287,231 299,230 L 311,222 L 307,234 L 299,240 L 281,237 Z"/>
+      <path fill="#D9B5A0" d="M 272,255 Q 291,249 314,254 L 318,265 L 311,276 L 306,288 L 317,294 L 334,285 L 340,313 L 345,333 L 330,327 L 314,316 L 309,325 Q 306,343 319,353 L 332,362 L 307,374 L 277,372 L 256,362 Q 274,350 279,336 L 278,316 L 266,321 L 245,333 L 247,311 L 249,286 L 267,295 L 281,294 L 278,277 L 270,271 Z"/>
+      <path fill="#C3A28B" d="M 276,258 Q 294,253 312,258 L 309,267 L 278,269 Z"/>
+      <path fill="#AB7D70" d="M 288,349 L 294,337 L 303,351 L 297,357 L 282,358 Z"/>
+      <path fill="#C3A28B" d="M 100,361 Q 116,364 135,361 Q 210,350 292,351 Q 399,350 487,363 L 479,418 L 473,458 Q 391,455 295,459 Q 194,455 111,462 L 106,414 Z"/>
+      <path fill="#D9B5A0" d="M 105,383 Q 198,355 291,358 Q 394,354 484,379 L 480,406 Q 391,380 290,383 Q 189,382 107,409 Z"/>
+      <path fill="#AB7D70" d="M 108,404 Q 195,375 293,376 Q 399,374 480,403 L 474,441 Q 392,425 294,425 Q 194,424 111,449 Z"/>
+      <path fill="#D9B5A0" d="M 112,448 Q 212,417 297,426 Q 395,421 474,441 L 471,454 Q 392,448 299,455 Q 204,448 114,457 Z"/>
+      <g id="circlet-stones">
+        <path fill="#904B60" transform="translate(126 420) rotate(-18) scale(0.65)" d="M -17,-7 L -8,-14 L 4,-16 L 15,-9 L 20,1 L 16,12 L 5,18 L -10,15 L -18,7 Z"/>
+        <path fill="#904B60" transform="translate(175 404) rotate(-14) scale(0.91)" d="M -17,-7 L -8,-14 L 4,-16 L 15,-9 L 20,1 L 16,12 L 5,18 L -10,15 L -18,7 Z"/>
+        <path fill="#904B60" transform="translate(230 394) rotate(-7) scale(0.92)" d="M -17,-7 L -8,-14 L 4,-16 L 15,-9 L 20,1 L 16,12 L 5,18 L -10,15 L -18,7 Z"/>
+        <path fill="#904B60" transform="translate(293 391) rotate(0) scale(1)" d="M -17,-7 L -8,-14 L 4,-16 L 15,-9 L 20,1 L 16,12 L 5,18 L -10,15 L -18,7 Z"/>
+        <path fill="#904B60" transform="translate(355 394) rotate(7) scale(0.92)" d="M -17,-7 L -8,-14 L 4,-16 L 15,-9 L 20,1 L 16,12 L 5,18 L -10,15 L -18,7 Z"/>
+        <path fill="#904B60" transform="translate(414 404) rotate(14) scale(0.91)" d="M -17,-7 L -8,-14 L 4,-16 L 15,-9 L 20,1 L 16,12 L 5,18 L -10,15 L -18,7 Z"/>
+        <path fill="#904B60" transform="translate(463 420) rotate(18) scale(0.65)" d="M -17,-7 L -8,-14 L 4,-16 L 15,-9 L 20,1 L 16,12 L 5,18 L -10,15 L -18,7 Z"/>
+      </g>
+    </g>
+  </defs>
+  <rect width="800" height="800" fill="#365583"/>
+      <use xlink:href="#crown" transform="translate(0 0) rotate(0) scale(.5) translate(-294 -294)"/>
+      <use xlink:href="#crown" transform="translate(0 800) rotate(0) scale(.5) translate(-294 -294)"/>
+      <use xlink:href="#crown" transform="translate(800 0) rotate(0) scale(.5) translate(-294 -294)"/>
+      <use xlink:href="#crown" transform="translate(800 800) rotate(0) scale(.5) translate(-294 -294)"/>
+      <use xlink:href="#crown" transform="translate(416.3 -19.3) rotate(-90) scale(.5) translate(-294 -294)"/>
+      <use xlink:href="#crown" transform="translate(416.3 780.7) rotate(-90) scale(.5) translate(-294 -294)"/>
+      <use xlink:href="#crown" transform="translate(16.3 380.7) rotate(-90) scale(.5) translate(-294 -294)"/>
+      <use xlink:href="#crown" transform="translate(816.3 380.7) rotate(-90) scale(.5) translate(-294 -294)"/>
+      <use xlink:href="#crown" transform="translate(400 400) rotate(0) scale(.5) translate(-294 -294)"/>
+      <use xlink:href="#crown" transform="translate(221.7 182.2) rotate(180) scale(.5) translate(-294 -294)"/>
+      <use xlink:href="#crown" transform="translate(605 195.5) rotate(90) scale(.5) translate(-294 -294)"/>
+      <use xlink:href="#crown" transform="translate(205 595.5) rotate(90) scale(.5) translate(-294 -294)"/>
+      <use xlink:href="#crown" transform="translate(621.7 582.2) rotate(180) scale(.5) translate(-294 -294)"/>
+</svg>

@@ -1,0 +1,85 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="1108" height="320" viewBox="0 0 1108 320" xmlns="http://www.w3.org/2000/svg">
+  <title>The Moon Under Water, Hounslow — interlocking cubes and split hexagons</title>
+  <defs>
+    <g id="stepped-bands">
+      <polygon points="9,10 181,10 263,150 257,151 220,151 160,49 32,49" fill="#47657B" />
+      <polygon points="208,0 263,0 291,48 266,90" fill="#47657B" />
+      <polygon points="282,98 304,62 329,103 304,140" fill="#47657B" />
+      <polygon points="326,153 347,115 480,115 505,71 527,109 503,153" fill="#47657B" />
+      <polygon points="540,0 587,0 548,70 524,30" fill="#47657B" />
+      <polygon points="545,151 626,10 817,10 796,49 650,49 590,151" fill="#47657B" />
+      <polygon points="814,100 838,59 864,104 840,145" fill="#47657B" />
+      <polygon points="852,152 874,115 1022,115 1084,9 1106,49 1048,152" fill="#47657B" />
+    </g>
+    <g id="split-inlays">
+      <polygon points="-120,7 -66,7 -35,58 -59,97" fill="#92ACB6" />
+      <polygon points="63,7 122,7 95,52 36,52" fill="#92ACB6" />
+      <polygon points="-27,68 83,68 64,99 -46,99" fill="#92ACB6" />
+    </g>
+    <g id="split-face">
+      <polygon points="-68,0 -35,-55 35,-55 68,0 35,55 -35,55" fill="#C9C6C4" />
+      <polygon points="-55,10 55,10 32,50 -31,50" fill="#47657B" />
+      <polygon points="-55,-10 55,-10 32,-50 -31,-50" fill="#47657B" />
+    </g>
+    <g id="cube-face">
+      <polygon points="-121,0 -66,-96 61,-96 119,0 61,96 -66,96" fill="#92ACB6" />
+      <g transform="scale(1 1) rotate(0)">
+        <polygon points="0,-8 122,-8 122,8 0,8" fill="#A18D73" />
+      </g>
+      <g transform="scale(1 1) rotate(120)">
+        <polygon points="0,-8 122,-8 122,8 0,8" fill="#A18D73" />
+      </g>
+      <g transform="scale(1 1) rotate(240)">
+        <polygon points="0,-8 122,-8 122,8 0,8" fill="#A18D73" />
+      </g>
+      <polygon points="-68,0 -35,-55 34,-55 67,0 34,55 -35,55" fill="#C9C6C4" />
+      <polygon points="-61,0 -40,-38 -18,0 -40,38" fill="#47657B" />
+      <polygon points="-13,50 29,50 52,11 11,11" fill="#47657B" />
+      <polygon points="-13,-50 29,-50 52,-11 11,-11" fill="#47657B" />
+    </g>
+    <g id="forked-face">
+      <polygon points="121,0 66,-96 -61,-96 -119,0 -61,96 66,96" fill="#92ACB6" />
+      <g transform="scale(-1 1) rotate(0)">
+        <polygon points="0,-8 122,-8 122,8 0,8" fill="#A18D73" />
+      </g>
+      <g transform="scale(-1 1) rotate(120)">
+        <polygon points="0,-8 122,-8 122,8 0,8" fill="#A18D73" />
+      </g>
+      <g transform="scale(-1 1) rotate(240)">
+        <polygon points="0,-8 122,-8 122,8 0,8" fill="#A18D73" />
+      </g>
+      <polygon points="68,0 35,-55 -34,-55 -67,0 -34,55 35,55" fill="#C9C6C4" />
+      <polygon points="62,0 51,-8 51,8" fill="#47657B" />
+      <polygon points="30,49 -28,49 -51,10 27,10 41,34" fill="#47657B" />
+      <polygon points="30,-49 -28,-49 -51,-10 27,-10 41,-34" fill="#47657B" />
+    </g>
+    <g id="carpet-repeat">
+      <use xlink:href="#stepped-bands" />
+      <use xlink:href="#stepped-bands" transform="translate(0 320) scale(1 -1)" />
+      <use xlink:href="#split-inlays" transform="translate(405 0) scale(1 1)" />
+      <use xlink:href="#split-inlays" transform="translate(405 320) scale(1 -1)" />
+      <use xlink:href="#split-face" transform="translate(405 0)" />
+      <use xlink:href="#split-face" transform="translate(405 320)" />
+      <use xlink:href="#split-inlays" transform="translate(959 0) scale(-1 1)" />
+      <use xlink:href="#split-inlays" transform="translate(959 320) scale(-1 -1)" />
+      <use xlink:href="#split-face" transform="translate(959 0)" />
+      <use xlink:href="#split-face" transform="translate(959 320)" />
+      <use xlink:href="#cube-face" transform="translate(84 160)" />
+      <use xlink:href="#forked-face" transform="translate(716 160)" />
+      <polygon points="69,0 127,104 263,104 325,0 263,-104 127,-104" fill="none" stroke="#696461" stroke-width="8" stroke-linejoin="round" />
+      <polygon points="526,0 584,102 716,102 776,0 716,-102 584,-102" fill="none" stroke="#696461" stroke-width="8" stroke-linejoin="round" />
+      <polygon points="840,160 901,58 1038,58 1098,160 1038,262 901,262" fill="none" stroke="#696461" stroke-width="8" stroke-linejoin="round" />
+    </g>
+  </defs>
+  <rect width="1108" height="320" fill="#A18D73" />
+  <use xlink:href="#carpet-repeat" transform="translate(-1090 -297)" />
+  <use xlink:href="#carpet-repeat" transform="translate(-1090 23)" />
+  <use xlink:href="#carpet-repeat" transform="translate(-1090 343)" />
+  <use xlink:href="#carpet-repeat" transform="translate(18 -297)" />
+  <use xlink:href="#carpet-repeat" transform="translate(18 23)" />
+  <use xlink:href="#carpet-repeat" transform="translate(18 343)" />
+  <use xlink:href="#carpet-repeat" transform="translate(1126 -297)" />
+  <use xlink:href="#carpet-repeat" transform="translate(1126 23)" />
+  <use xlink:href="#carpet-repeat" transform="translate(1126 343)" />
+</svg>

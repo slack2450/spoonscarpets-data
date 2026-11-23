@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="320" height="240" viewBox="0 0 320 240">
+  <title>The Last Post, Paisley — staggered teal gallery medallions</title>
+  <desc>Two offset rows of pointed claret frames on a dusty rose ground. Each frame encloses a teal rosette with a pale oval heart.</desc>
+  <defs>
+    <g id="upper-petals" fill="#407473">
+      <path d="M -12,-25 C -12,-31 -10,-43 -8,-48 Q -6,-52 0,-52 Q 6,-52 8,-49 C 10,-43 12,-31 12,-25 Q 1,-27 -12,-25 Z"/>
+      <path id="slender-petal" d="M 16,-24 C 14,-29 14,-42 16,-51 Q 16,-54 19,-53 Q 25,-51 28,-48 C 32,-41 33,-30 32,-24 L 28,-18 Q 22,-22 16,-24 Z"/>
+      <use xlink:href="#slender-petal" transform="scale(-1 1)"/>
+      <path id="shoulder-petal" d="M 33,-17 C 34,-25 38,-35 44,-41 Q 47,-43 50,-40 L 62,-33 Q 64,-31 62,-28 C 57,-21 48,-16 40,-12 Q 37,-15 33,-17 Z"/>
+      <use xlink:href="#shoulder-petal" transform="scale(-1 1)"/>
+    </g>
+    <g id="medallion">
+      <path fill="#62343a" d="M -148,0 C -128,-3 -118,-14 -100,-31 C -74,-56 -45,-74 -8,-75 Q 0,-76 8,-75 C 45,-74 74,-56 100,-31 C 118,-14 128,-3 148,0 C 128,3 118,14 100,31 C 74,56 45,74 8,75 Q 0,76 -8,75 C -45,74 -74,56 -100,31 C -118,14 -128,3 -148,0 Z"/>
+      <path fill="#846065" d="M -112,0 C -102,-8 -92,-22 -77,-34 C -54,-54 -28,-65 0,-65 C 28,-65 54,-54 77,-34 C 92,-22 102,-8 112,0 C 102,8 92,22 77,34 C 54,54 28,65 0,65 C -28,65 -54,54 -77,34 C -92,22 -102,8 -112,0 Z"/>
+      <path fill="#204d52" d="M -99,0 C -91,-11 -81,-24 -67,-34 C -47,-50 -24,-59 0,-59 C 24,-59 47,-50 67,-34 C 81,-24 91,-11 99,0 C 91,11 81,24 67,34 C 47,50 24,59 0,59 C -24,59 -47,50 -67,34 C -81,24 -91,11 -99,0 Z"/>
+      <use xlink:href="#upper-petals"/>
+      <use xlink:href="#upper-petals" transform="scale(1 -1)"/>
+      <path id="side-petal" fill="#407473" d="M 49,-7 C 52,-13 60,-20 66,-24 Q 70,-25 73,-22 C 79,-17 84,-9 89,-2 Q 91,0 89,3 C 83,12 76,19 71,23 Q 68,26 65,23 C 58,18 53,11 49,6 Q 46,0 49,-7 Z"/>
+      <use xlink:href="#side-petal" transform="scale(-1 1)"/>
+      <path fill="#96989c" d="M -39,0 C -38,-8 -24,-18 -9,-20 Q 0,-22 9,-20 C 24,-18 38,-8 39,0 C 38,8 24,18 9,20 Q 0,22 -9,20 C -24,18 -38,8 -39,0 Z"/>
+    </g>
+  </defs>
+  <rect width="320" height="240" fill="#a68788"/>
+  <use xlink:href="#medallion" x="160" y="120"/>
+  <use xlink:href="#medallion" x="0" y="0"/>
+  <use xlink:href="#medallion" x="320" y="0"/>
+  <use xlink:href="#medallion" x="0" y="240"/>
+  <use xlink:href="#medallion" x="320" y="240"/>
+</svg>

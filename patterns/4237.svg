@@ -1,0 +1,182 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="600" height="488" viewBox="0 0 600 488">
+<title>Four rows of tapered woven bands at The Eric Bartholomew, Morecambe</title>
+<defs>
+<pattern id="twill" patternUnits="userSpaceOnUse" width="7.5" height="16">
+<rect width="7.5" height="16" fill="#813a5b"/>
+<rect x="-7.5" y="0" width="3.8" height="4" fill="#769c72"/>
+<rect x="0" y="0" width="3.8" height="4" fill="#769c72"/>
+<rect x="-5.62" y="4" width="3.8" height="4" fill="#769c72"/>
+<rect x="1.88" y="4" width="3.8" height="4" fill="#769c72"/>
+<rect x="-3.75" y="8" width="3.8" height="4" fill="#769c72"/>
+<rect x="3.75" y="8" width="3.8" height="4" fill="#769c72"/>
+<rect x="-1.88" y="12" width="3.8" height="4" fill="#769c72"/>
+<rect x="5.62" y="12" width="3.8" height="4" fill="#769c72"/>
+</pattern>
+<pattern id="sage-fawn" patternUnits="userSpaceOnUse" width="6" height="15">
+<rect width="6" height="15" fill="#ac7b71"/>
+<rect x="-6" y="0" width="3" height="3.75" fill="#769c72"/>
+<rect x="0" y="0" width="3" height="3.75" fill="#769c72"/>
+<rect x="-4.5" y="3.75" width="3" height="3.75" fill="#769c72"/>
+<rect x="1.5" y="3.75" width="3" height="3.75" fill="#769c72"/>
+<rect x="-3" y="7.5" width="3" height="3.75" fill="#769c72"/>
+<rect x="3" y="7.5" width="3" height="3.75" fill="#769c72"/>
+<rect x="-1.5" y="11.25" width="3" height="3.75" fill="#769c72"/>
+<rect x="4.5" y="11.25" width="3" height="3.75" fill="#769c72"/>
+</pattern>
+<pattern id="coral-fawn" patternUnits="userSpaceOnUse" width="6" height="14">
+<rect width="6" height="14" fill="#bf6563"/>
+<rect x="-6" y="0" width="3" height="3.5" fill="#ac7b71"/>
+<rect x="0" y="0" width="3" height="3.5" fill="#ac7b71"/>
+<rect x="-4.5" y="3.5" width="3" height="3.5" fill="#ac7b71"/>
+<rect x="1.5" y="3.5" width="3" height="3.5" fill="#ac7b71"/>
+<rect x="-3" y="7" width="3" height="3.5" fill="#ac7b71"/>
+<rect x="3" y="7" width="3" height="3.5" fill="#ac7b71"/>
+<rect x="-1.5" y="10.5" width="3" height="3.5" fill="#ac7b71"/>
+<rect x="4.5" y="10.5" width="3" height="3.5" fill="#ac7b71"/>
+</pattern>
+<g id="carpet">
+<path d="M3 0H13.65L3.65 122H-8Z" fill="#bf6563"/>
+<path d="M13 0H30.65L20.65 122H3Z" fill="#813a5b"/>
+<path d="M30 0H40.65L48.65 122H20Z" fill="url(#twill)"/>
+<path d="M40 0H61.65L65.65 122H48Z" fill="#ac7b71"/>
+<path d="M61 0H77.65L69.65 122H65Z" fill="#813a5b"/>
+<path d="M77 0H100.65L115.65 122H69Z" fill="#769c72"/>
+<path d="M100 0H134.65L129.65 122H115Z" fill="#813a5b"/>
+<path d="M134 0H157.65L143.65 122H129Z" fill="url(#coral-fawn)"/>
+<path d="M157 0H170.65L155.65 122H143Z" fill="#813a5b"/>
+<path d="M170 0H174.65L185.65 122H155Z" fill="#bf6563"/>
+<path d="M174 0H198.65L189.65 122H185Z" fill="#813a5b"/>
+<path d="M198 0H221.65L203.65 122H189Z" fill="#769c72"/>
+<path d="M221 0H222.65L212.65 122H203Z" fill="#ac7b71"/>
+<path d="M222 0H228.65L221.65 122H212Z" fill="#bf6563"/>
+<path d="M228 0H249.65L256.65 122H221Z" fill="#813a5b"/>
+<path d="M249 0H273.65L264.65 122H256Z" fill="#769c72"/>
+<path d="M273 0H281.65L282.65 122H264Z" fill="url(#sage-fawn)"/>
+<path d="M281 0H300.65L289.65 122H282Z" fill="#769c72"/>
+<path d="M300 0H317.65L298.65 122H289Z" fill="#bf6563"/>
+<path d="M317 0H329.65L309.65 122H298Z" fill="#813a5b"/>
+<path d="M329 0H352.65L343.65 122H309Z" fill="url(#coral-fawn)"/>
+<path d="M352 0H363.65L352.65 122H343Z" fill="#813a5b"/>
+<path d="M363 0H368.65L359.65 122H352Z" fill="url(#sage-fawn)"/>
+<path d="M368 0H377.65L385.65 122H359Z" fill="#813a5b"/>
+<path d="M377 0H388.65L390.65 122H385Z" fill="#ac7b71"/>
+<path d="M388 0H410.65L421.65 122H390Z" fill="#813a5b"/>
+<path d="M410 0H434.65L423.65 122H421Z" fill="#bf6563"/>
+<path d="M434 0H440.65L445.65 122H423Z" fill="#ac7b71"/>
+<path d="M440 0H448.65L460.65 122H445Z" fill="#813a5b"/>
+<path d="M448 0H469.65L480.65 122H460Z" fill="#bf6563"/>
+<path d="M469 0H499.65L489.65 122H480Z" fill="#813a5b"/>
+<path d="M499 0H532.65L519.65 122H489Z" fill="url(#coral-fawn)"/>
+<path d="M532 0H554.65L564.65 122H519Z" fill="#813a5b"/>
+<path d="M554 0H566.65L577.65 122H564Z" fill="#ac7b71"/>
+<path d="M566 0H603.65L592.65 122H577Z" fill="#813a5b"/>
+<path d="M-3 122H12.65L6.65 244H9Z" fill="#ac7b71"/>
+<path d="M12 122H18.65L22.65 244H6Z" fill="#813a5b"/>
+<path d="M18 122H26.65L38.65 244H22Z" fill="#769c72"/>
+<path d="M26 122H54.65L50.65 244H38Z" fill="#ac7b71"/>
+<path d="M54 122H66.65L73.65 244H50Z" fill="#813a5b"/>
+<path d="M66 122H84.65L83.65 244H73Z" fill="#ac7b71"/>
+<path d="M84 122H113.65L96.65 244H83Z" fill="#813a5b"/>
+<path d="M113 122H125.65L124.65 244H96Z" fill="url(#coral-fawn)"/>
+<path d="M125 122H151.65L134.65 244H124Z" fill="#813a5b"/>
+<path d="M151 122H163.65L147.65 244H134Z" fill="#ac7b71"/>
+<path d="M163 122H170.65L172.65 244H147Z" fill="#769c72"/>
+<path d="M170 122H185.65L181.65 244H172Z" fill="#ac7b71"/>
+<path d="M185 122H189.65L207.65 244H181Z" fill="url(#twill)"/>
+<path d="M189 122H246.65L232.65 244H207Z" fill="#bf6563"/>
+<path d="M246 122H276.65L260.65 244H232Z" fill="#769c72"/>
+<path d="M276 122H307.65L310.65 244H260Z" fill="#bf6563"/>
+<path d="M307 122H345.65L336.65 244H310Z" fill="#813a5b"/>
+<path d="M345 122H350.65L350.65 244H336Z" fill="url(#coral-fawn)"/>
+<path d="M350 122H369.65L359.65 244H350Z" fill="#bf6563"/>
+<path d="M369 122H380.65L364.65 244H359Z" fill="#ac7b71"/>
+<path d="M380 122H390.65L390.65 244H364Z" fill="#813a5b"/>
+<path d="M390 122H402.65L396.65 244H390Z" fill="#769c72"/>
+<path d="M402 122H406.65L414.65 244H396Z" fill="#bf6563"/>
+<path d="M406 122H420.65L418.65 244H414Z" fill="#813a5b"/>
+<path d="M420 122H425.65L438.65 244H418Z" fill="#bf6563"/>
+<path d="M425 122H446.65L440.65 244H438Z" fill="#769c72"/>
+<path d="M446 122H480.65L458.65 244H440Z" fill="#813a5b"/>
+<path d="M480 122H497.65L502.65 244H458Z" fill="url(#coral-fawn)"/>
+<path d="M497 122H513.65L506.65 244H502Z" fill="#813a5b"/>
+<path d="M513 122H520.65L528.65 244H506Z" fill="#bf6563"/>
+<path d="M520 122H541.65L536.65 244H528Z" fill="#769c72"/>
+<path d="M541 122H557.65L547.65 244H536Z" fill="url(#coral-fawn)"/>
+<path d="M557 122H562.65L570.65 244H547Z" fill="#813a5b"/>
+<path d="M562 122H597.65L609.65 244H570Z" fill="#bf6563"/>
+<path d="M12 244H15.65L24.65 366H2Z" fill="#bf6563"/>
+<path d="M15 244H37.65L28.65 366H24Z" fill="#813a5b"/>
+<path d="M37 244H47.65L51.65 366H28Z" fill="#ac7b71"/>
+<path d="M47 244H48.65L65.65 366H51Z" fill="#bf6563"/>
+<path d="M48 244H84.65L74.65 366H65Z" fill="#813a5b"/>
+<path d="M84 244H111.65L102.65 366H74Z" fill="url(#coral-fawn)"/>
+<path d="M111 244H121.65L110.65 366H102Z" fill="#813a5b"/>
+<path d="M121 244H126.65L115.65 366H110Z" fill="#ac7b71"/>
+<path d="M126 244H126.65L133.65 366H115Z" fill="#769c72"/>
+<path d="M126 244H143.65L154.65 366H133Z" fill="#813a5b"/>
+<path d="M143 244H165.65L151.65 366H154Z" fill="#bf6563"/>
+<path d="M165 244H186.65L186.65 366H151Z" fill="url(#coral-fawn)"/>
+<path d="M186 244H213.65L203.65 366H186Z" fill="url(#twill)"/>
+<path d="M213 244H236.65L225.65 366H203Z" fill="#813a5b"/>
+<path d="M236 244H255.65L264.65 366H225Z" fill="#769c72"/>
+<path d="M255 244H288.65L282.65 366H264Z" fill="#813a5b"/>
+<path d="M288 244H322.65L298.65 366H282Z" fill="#769c72"/>
+<path d="M322 244H325.65L326.65 366H298Z" fill="#bf6563"/>
+<path d="M325 244H347.65L327.65 366H326Z" fill="#769c72"/>
+<path d="M347 244H352.65L352.65 366H327Z" fill="#813a5b"/>
+<path d="M352 244H384.65L391.65 366H352Z" fill="#bf6563"/>
+<path d="M384 244H406.65L396.65 366H391Z" fill="#813a5b"/>
+<path d="M406 244H420.65L432.65 366H396Z" fill="url(#coral-fawn)"/>
+<path d="M420 244H450.65L444.65 366H432Z" fill="#813a5b"/>
+<path d="M450 244H463.65L453.65 366H444Z" fill="url(#coral-fawn)"/>
+<path d="M463 244H470.65L475.65 366H453Z" fill="#813a5b"/>
+<path d="M470 244H477.65L484.65 366H475Z" fill="#769c72"/>
+<path d="M477 244H512.65L489.65 366H484Z" fill="#bf6563"/>
+<path d="M512 244H518.65L507.65 366H489Z" fill="#769c72"/>
+<path d="M518 244H523.65L525.65 366H507Z" fill="#813a5b"/>
+<path d="M523 244H566.65L555.65 366H525Z" fill="#bf6563"/>
+<path d="M566 244H575.65L584.65 366H555Z" fill="#813a5b"/>
+<path d="M575 244H586.65L595.65 366H584Z" fill="#bf6563"/>
+<path d="M586 244H612.65L602.65 366H595Z" fill="url(#twill)"/>
+<path d="M1 366H27.65L16.65 488H6Z" fill="#813a5b"/>
+<path d="M27 366H32.65L24.65 488H16Z" fill="#ac7b71"/>
+<path d="M32 366H37.65L55.65 488H24Z" fill="#bf6563"/>
+<path d="M37 366H71.65L60.65 488H55Z" fill="#769c72"/>
+<path d="M71 366H76.65L86.65 488H60Z" fill="#813a5b"/>
+<path d="M76 366H104.65L95.65 488H86Z" fill="#bf6563"/>
+<path d="M104 366H130.65L139.65 488H95Z" fill="#813a5b"/>
+<path d="M130 366H160.65L147.65 488H139Z" fill="#bf6563"/>
+<path d="M160 366H167.65L159.65 488H147Z" fill="#813a5b"/>
+<path d="M167 366H189.65L200.65 488H159Z" fill="url(#coral-fawn)"/>
+<path d="M189 366H203.65L206.65 488H200Z" fill="#813a5b"/>
+<path d="M203 366H235.65L220.65 488H206Z" fill="#bf6563"/>
+<path d="M235 366H248.65L255.65 488H220Z" fill="#813a5b"/>
+<path d="M248 366H278.65L269.65 488H255Z" fill="#bf6563"/>
+<path d="M278 366H290.65L304.65 488H269Z" fill="url(#twill)"/>
+<path d="M290 366H298.65L327.65 488H304Z" fill="#bf6563"/>
+<path d="M298 366H342.65L345.65 488H327Z" fill="#813a5b"/>
+<path d="M342 366H375.65L362.65 488H345Z" fill="url(#coral-fawn)"/>
+<path d="M375 366H390.65L379.65 488H362Z" fill="#ac7b71"/>
+<path d="M390 366H397.65L403.65 488H379Z" fill="#813a5b"/>
+<path d="M397 366H440.65L426.65 488H403Z" fill="#769c72"/>
+<path d="M440 366H450.65L452.65 488H426Z" fill="#813a5b"/>
+<path d="M450 366H466.65L458.65 488H452Z" fill="url(#coral-fawn)"/>
+<path d="M466 366H508.65L493.65 488H458Z" fill="#769c72"/>
+<path d="M508 366H512.65L498.65 488H493Z" fill="#ac7b71"/>
+<path d="M512 366H545.65L556.65 488H498Z" fill="#bf6563"/>
+<path d="M545 366H583.65L569.65 488H556Z" fill="#813a5b"/>
+<path d="M583 366H593.65L579.65 488H569Z" fill="url(#sage-fawn)"/>
+<path d="M593 366H601.65L606.65 488H579Z" fill="#769c72"/>
+</g>
+</defs>
+<rect width="600" height="488" fill="#813a5b"/>
+<use xlink:href="#carpet" x="-690.25" y="-535"/>
+<use xlink:href="#carpet" x="-90.25" y="-535"/>
+<use xlink:href="#carpet" x="509.75" y="-535"/>
+<use xlink:href="#carpet" x="-690.25" y="-47"/>
+<use xlink:href="#carpet" x="-90.25" y="-47"/>
+<use xlink:href="#carpet" x="509.75" y="-47"/>
+<use xlink:href="#carpet" x="-690.25" y="441"/>
+<use xlink:href="#carpet" x="-90.25" y="441"/>
+<use xlink:href="#carpet" x="509.75" y="441"/>
+</svg>

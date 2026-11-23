@@ -1,0 +1,91 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="800" height="800" viewBox="0 0 800 800">
+  <title>The Highland Laddie, Norton — interlocking rectangular carpet</title>
+  <defs>
+    <pattern id="gold-weave" patternUnits="userSpaceOnUse" patternTransform="translate(0.5 0.5)" width="32" height="32">
+      <rect x="0" y="0" width="32" height="32" fill="#dfcbb0" />
+      <path fill="#c2a88a" d="M0 0h3v32H0z M6 0h3v32H6z M13 0h2v32h-2z M18 0h3v32h-3z M24 0h2v32h-2z M29 0h2v32h-2z" />
+      <path fill="#aa8f70" d="M1 0h2v7H1z M0 10h2v10H0z M1 23h2v9H1z M6 0h2v4H6z M7 6h2v11H7z M6 19h2v11H6z M12 0h2v11h-2z M13 14h2v9h-2z M12 26h2v6h-2z M18 3h2v10h-2z M19 16h2v12h-2z M23 0h2v8h-2z M24 12h2v12h-2z M23 27h2v5h-2z M29 2h2v10h-2z M28 16h2v12h-2z" />
+    </pattern>
+    <pattern id="picked-rule" patternUnits="userSpaceOnUse" width="16" height="8">
+      <rect x="0" y="0" width="16" height="8" fill="#aa8f70" />
+      <path fill="#dfcbb0" d="M0 0h4v3H2v2H0z M7 2h3v4H7z M12 0h2v3h-2z M3 6h2v2H3z M13 5h3v2h-3z" />
+    </pattern>
+    <g id="field">
+      <rect x="0" y="0" width="400" height="400" fill="#3e3836" />
+      <rect x="11" y="11" width="378" height="378" fill="#b49e97" />
+      <rect x="18" y="18" width="364" height="364" fill="#3e3836" />
+      <rect x="27" y="27" width="346" height="346" fill="url(#gold-weave)" />
+      <rect x="46" y="46" width="308" height="308" fill="#3e3836" />
+      <rect x="49" y="49" width="302" height="302" fill="#717485" />
+      <rect x="57" y="57" width="286" height="286" fill="#3e3836" />
+      <rect x="67" y="67" width="266" height="266" fill="#b49e97" />
+      <rect x="91" y="89" width="218" height="222" fill="#3e3836" />
+      <rect x="96" y="103" width="208" height="194" fill="url(#gold-weave)" />
+      <rect x="99" y="124" width="202" height="152" fill="#3e3836" />
+      <rect x="100" y="140" width="200" height="120" fill="#b49e97" />
+      <rect x="100" y="144" width="200" height="112" fill="#3e3836" />
+      <rect x="100" y="147" width="200" height="106" fill="#b49e97" />
+      <rect x="100" y="169" width="200" height="62" fill="#3e3836" />
+      <rect x="100" y="173" width="200" height="54" fill="#b49e97" />
+      <rect x="100" y="176" width="200" height="48" fill="#3e3836" />
+      <rect x="100" y="185" width="200" height="30" fill="#b49e97" />
+      <rect x="100" y="193" width="200" height="14" fill="#3e3836" />
+    </g>
+    <g id="long-panel">
+      <rect x="-194" y="-102" width="388" height="204" fill="#3e3836" />
+      <rect x="-189" y="-97" width="378" height="194" fill="#b49e97" />
+      <rect x="-183" y="-91" width="366" height="182" fill="#3e3836" />
+      <rect x="-180" y="-88" width="360" height="176" fill="url(#picked-rule)" />
+      <rect x="-177" y="-85" width="354" height="170" fill="#3e3836" />
+      <rect x="-175" y="-83" width="350" height="166" fill="url(#gold-weave)" />
+      <rect x="-156" y="-60" width="312" height="120" fill="#3e3836" />
+      <rect x="-154" y="-58" width="308" height="116" fill="url(#picked-rule)" />
+      <rect x="-151" y="-55" width="302" height="110" fill="#3e3836" />
+      <rect x="-124" y="-44" width="248" height="88" fill="#b49e97" />
+      <rect x="-200" y="-7" width="400" height="14" fill="#3e3836" />
+      <rect x="-7" y="-200" width="14" height="400" fill="#3e3836" />
+      <rect x="-200" y="-3" width="400" height="6" fill="#717485" />
+      <rect x="-3" y="-200" width="6" height="400" fill="#717485" />
+      <rect x="-111" y="-34" width="222" height="68" fill="#3e3836" />
+      <rect x="-101" y="-23" width="202" height="46" fill="#b49e97" />
+      <rect x="-94" y="-17" width="188" height="34" fill="#3e3836" />
+      <rect x="-88" y="-13" width="176" height="26" fill="#717485" />
+      <rect x="-82" y="-7" width="164" height="14" fill="#3e3836" />
+    </g>
+    <g id="upright-panel">
+      <rect x="-102" y="-194" width="204" height="388" fill="#3e3836" />
+      <rect x="-97" y="-189" width="194" height="378" fill="#b49e97" />
+      <rect x="-91" y="-183" width="182" height="366" fill="#3e3836" />
+      <rect x="-88" y="-180" width="176" height="360" fill="url(#picked-rule)" />
+      <rect x="-85" y="-177" width="170" height="354" fill="#3e3836" />
+      <rect x="-83" y="-175" width="166" height="350" fill="url(#gold-weave)" />
+      <rect x="-60" y="-156" width="120" height="312" fill="#3e3836" />
+      <rect x="-58" y="-154" width="116" height="308" fill="url(#picked-rule)" />
+      <rect x="-55" y="-151" width="110" height="302" fill="#3e3836" />
+      <rect x="-44" y="-124" width="88" height="248" fill="#b49e97" />
+      <rect x="-200" y="-7" width="400" height="14" fill="#3e3836" />
+      <rect x="-7" y="-200" width="14" height="400" fill="#3e3836" />
+      <rect x="-200" y="-3" width="400" height="6" fill="#717485" />
+      <rect x="-3" y="-200" width="6" height="400" fill="#717485" />
+      <rect x="-34" y="-111" width="68" height="222" fill="#3e3836" />
+      <rect x="-23" y="-101" width="46" height="202" fill="#b49e97" />
+      <rect x="-17" y="-94" width="34" height="188" fill="#3e3836" />
+      <rect x="-13" y="-88" width="26" height="176" fill="#717485" />
+      <rect x="-7" y="-82" width="14" height="164" fill="#3e3836" />
+    </g>
+  </defs>
+  <rect x="0" y="0" width="800" height="800" fill="#3e3836" />
+  <use xlink:href="#field" x="-200" y="0" />
+  <use xlink:href="#field" x="-200" y="400" />
+  <use xlink:href="#field" x="200" y="0" />
+  <use xlink:href="#field" x="200" y="400" />
+  <use xlink:href="#field" x="600" y="0" />
+  <use xlink:href="#field" x="600" y="400" />
+  <rect x="0" y="-3" width="800" height="6" fill="#717485" />
+  <rect x="0" y="397" width="800" height="6" fill="#717485" />
+  <rect x="0" y="797" width="800" height="6" fill="#717485" />
+  <use xlink:href="#long-panel" x="200" y="200" />
+  <use xlink:href="#upright-panel" x="200" y="600" />
+  <use xlink:href="#upright-panel" x="600" y="200" />
+  <use xlink:href="#long-panel" x="600" y="600" />
+</svg>

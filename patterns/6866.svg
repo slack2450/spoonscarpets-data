@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="256" height="256" viewBox="0 0 256 256">
+  <title>The Harry Clasper, Whickham — silver quatrefoils on a scarlet Axminster ground</title>
+  <defs>
+    <path id="corner" fill="#791F0D" d="M0 -114 C4 -96 13 -82 29 -73 C40 -66 50 -63 59 -67 C61 -70 63 -74 66 -77 Q71 -81 79 -81 Q80 -74 77 -68 Q72 -62 67 -60 C63 -51 65 -40 73 -28 C83 -12 99 -3 114 0 L83 7 L0 0 Z"/>
+    <path id="inset" fill="#A63A26" d="M16 -77 C28 -65 44 -59 59 -60 C58 -45 63 -30 77 -16 L18 -16 Z"/>
+    <path id="notch" fill="#40363B" d="M24 -28 C24 -23 22 -17 18 -12 Q13 -7 10 -10 Q7 -13 12 -18 C16 -23 21 -22 24 -28 Z"/>
+    <path id="flower" d="M0 -98 C 7 -87 21 -74 24 -57 C 28 -43 25 -29 20 -20 C 29 -25 43 -28 57 -24 C 74 -21 87 -7 98 0 C 87 7 74 21 57 24 C 43 28 29 25 20 20 C 25 29 28 43 24 57 C 21 74 7 87 0 98 C -7 87 -21 74 -24 57 C -28 43 -25 29 -20 20 C -29 25 -43 28 -57 24 C -74 21 -87 7 -98 0 C -87 -7 -74 -21 -57 -24 C -43 -28 -29 -25 -20 -20 C -25 -29 -28 -43 -24 -57 C -21 -74 -7 -87 0 -98 Z" fill="#A6A3A9" stroke="#61352F" stroke-width="4.5" stroke-linejoin="round"/>
+    <path id="link" fill="#791F0D" d="M-9 -87 C-1 -104 -3.0 -114 -3.0 -128 C-3.0 -142 -1 -152 -9 -169 L9 -169 C1 -152 3.0 -142 3.0 -128 C3.0 -114 1 -104 9 -87 Z"/>
+    <g id="medallion">
+      <use xlink:href="#corner" transform="rotate(0)"/>
+      <use xlink:href="#corner" transform="rotate(90)"/>
+      <use xlink:href="#corner" transform="rotate(180)"/>
+      <use xlink:href="#corner" transform="rotate(270)"/>
+      <use xlink:href="#inset" transform="rotate(0)"/>
+      <use xlink:href="#inset" transform="rotate(90)"/>
+      <use xlink:href="#inset" transform="rotate(180)"/>
+      <use xlink:href="#inset" transform="rotate(270)"/>
+      <use xlink:href="#flower"/>
+      <use xlink:href="#notch" transform="rotate(0)"/>
+      <use xlink:href="#notch" transform="rotate(90)"/>
+      <use xlink:href="#notch" transform="rotate(180)"/>
+      <use xlink:href="#notch" transform="rotate(270)"/>
+    </g>
+  </defs>
+  <rect width="256" height="256" fill="#B52F16"/>
+  <use xlink:href="#link" transform="translate(128 128) rotate(0)"/>
+  <use xlink:href="#link" transform="translate(128 128) rotate(90)"/>
+  <use xlink:href="#link" transform="translate(128 128) rotate(180)"/>
+  <use xlink:href="#link" transform="translate(128 128) rotate(270)"/>
+  <use xlink:href="#medallion" transform="translate(128 128)"/>
+</svg>

@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="200" height="200" viewBox="0 0 200 200">
+  <title>The Muckle Cross, Elgin — burgundy sprig check</title>
+  <desc>A wine-coloured four-armed figure between triple ruled bands, with a small ochre-centred gold square at every crossing.</desc>
+  <defs>
+    <g id="band">
+      <rect x="-30" y="-29" width="260" height="58" fill="#341c15"/>
+      <path d="M-30 -24 H230 M-30 0 H230 M-30 24 H230" fill="none" stroke="#603d2e" stroke-width="5"/>
+    </g>
+    <g id="crossing">
+      <rect x="-26.5" y="-26.5" width="53" height="53" fill="#966440"/>
+      <path d="M-9 -10 L2 -11 L11 -9 L10 3 L7 10 L-3 11 L-11 8 L-11 -1 Z" fill="#7b4928"/>
+    </g>
+    <path id="sprig" fill="#522d30" fill-rule="evenodd" d="
+      M40 37 Q46 38 53 46 L63 55 Q69 58 78 53
+      Q78 65 84 72 L96 83 Q98 85 101 83
+      L114 70 Q119 64 119 55 Q126 57 134 51
+      L154 35 Q158 33 161 34 Q159 41 154 49
+      L148 60 Q145 67 151 76 Q139 77 132 85
+      L120 97 Q118 100 122 103 L134 114
+      Q139 119 148 117 Q145 127 151 136
+      L162 154 Q164 159 163 162 Q155 160 149 155
+      L136 147 Q128 143 120 147 Q119 138 113 131
+      L102 119 Q99 116 96 119 L82 134 Q77 140 77 148
+      Q69 143 60 150 L42 166 Q38 169 35 169
+      Q36 162 40 155 L49 140 Q53 132 48 122
+      Q60 122 68 114 L80 101 Q83 98 79 94
+      L67 83 Q61 77 51 78 Q54 69 50 61
+      L41 45 Q39 41 40 37 Z
+      M100 88 Q104 95 110 99 Q104 104 99 112
+      Q95 105 89 100 Q96 94 100 88 Z"/>
+  </defs>
+  <rect width="200" height="200" fill="#411f20"/>
+  <use xlink:href="#sprig"/>
+  <use xlink:href="#band"/>
+  <use xlink:href="#band" transform="translate(0 200)"/>
+  <use xlink:href="#band" transform="rotate(90)"/>
+  <use xlink:href="#band" transform="translate(200 0) rotate(90)"/>
+  <use xlink:href="#crossing"/>
+  <use xlink:href="#crossing" x="200"/>
+  <use xlink:href="#crossing" y="200"/>
+  <use xlink:href="#crossing" x="200" y="200"/>
+</svg>

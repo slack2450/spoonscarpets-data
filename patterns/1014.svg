@@ -1,0 +1,223 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="300" height="300" viewBox="0 0 300 300">
+  <title>The Wishaw Malt — woven blocks, pinstripes and bars</title>
+  <defs>
+    <g id="weave">
+      <rect x="0" y="0" width="200" height="200" fill="#5d2e38" />
+      <rect x="0" y="0" width="28" height="16" fill="#30282e" />
+      <rect x="28" y="0" width="19" height="16" fill="#5d2e38" />
+      <path d="M29 0h1.1v16h-1.1z M33 0h1.1v16h-1.1z M37 0h1.1v16h-1.1z M41 0h1.1v16h-1.1z M45 0h1.1v16h-1.1z" fill="#30282e" />
+      <rect x="47" y="0" width="29" height="16" fill="#69757c" />
+      <path d="M48 0h2.25v16h-2.25z M52.2 0h2.25v16h-2.25z M56.4 0h2.25v16h-2.25z M60.6 0h2.25v16h-2.25z M64.8 0h2.25v16h-2.25z M69 0h2.25v16h-2.25z M73.2 0h2.25v16h-2.25z" fill="#bca38c" />
+      <rect x="76" y="0" width="36" height="16" fill="#5d2e38" />
+      <path d="M77 0h0.65v16h-0.65z M81.5 0h0.65v16h-0.65z M86 0h0.65v16h-0.65z M90.5 0h0.65v16h-0.65z M95 0h0.65v16h-0.65z M99.5 0h0.65v16h-0.65z M104 0h0.65v16h-0.65z M108.5 0h0.65v16h-0.65z" fill="#30282e" />
+      <rect x="112" y="0" width="13" height="16" fill="#5d2e38" />
+      <rect x="112.4" y="0" width="2.0" height="16" fill="#bca38c" />
+      <rect x="121.2" y="0" width="2.0" height="16" fill="#bca38c" />
+      <rect x="125" y="0" width="11" height="16" fill="#5d2e38" />
+      <path d="M126 0h0.8v16h-0.8z M129 0h0.8v16h-0.8z M132 0h0.8v16h-0.8z M135 0h0.8v16h-0.8z" fill="#9b5c54" />
+      <rect x="136" y="0" width="21" height="16" fill="#5d2e38" />
+      <path d="M137 0h1v16h-1z M140.5 0h1v16h-1z M144 0h1v16h-1z M147.5 0h1v16h-1z M151 0h1v16h-1z M154.5 0h1v16h-1z" fill="#30282e" />
+      <rect x="157" y="0" width="28" height="16" fill="#5d2e38" />
+      <path d="M158 0h1.8v16h-1.8z M162 0h1.8v16h-1.8z M166 0h1.8v16h-1.8z M170 0h1.8v16h-1.8z M174 0h1.8v16h-1.8z M178 0h1.8v16h-1.8z M182 0h1.8v16h-1.8z" fill="#69757c" />
+      <rect x="185" y="0" width="15" height="16" fill="#30282e" />
+      <rect x="0" y="193" width="28" height="7" fill="#30282e" />
+      <rect x="28" y="193" width="19" height="7" fill="#5d2e38" />
+      <path d="M29 193h1.1v7h-1.1z M33 193h1.1v7h-1.1z M37 193h1.1v7h-1.1z M41 193h1.1v7h-1.1z M45 193h1.1v7h-1.1z" fill="#30282e" />
+      <rect x="47" y="193" width="29" height="7" fill="#69757c" />
+      <path d="M48 193h2.25v7h-2.25z M52.2 193h2.25v7h-2.25z M56.4 193h2.25v7h-2.25z M60.6 193h2.25v7h-2.25z M64.8 193h2.25v7h-2.25z M69 193h2.25v7h-2.25z M73.2 193h2.25v7h-2.25z" fill="#bca38c" />
+      <rect x="76" y="193" width="36" height="7" fill="#5d2e38" />
+      <path d="M77 193h0.65v7h-0.65z M81.5 193h0.65v7h-0.65z M86 193h0.65v7h-0.65z M90.5 193h0.65v7h-0.65z M95 193h0.65v7h-0.65z M99.5 193h0.65v7h-0.65z M104 193h0.65v7h-0.65z M108.5 193h0.65v7h-0.65z" fill="#30282e" />
+      <rect x="112" y="193" width="13" height="7" fill="#5d2e38" />
+      <rect x="112.4" y="193" width="2.0" height="7" fill="#bca38c" />
+      <rect x="121.2" y="193" width="2.0" height="7" fill="#bca38c" />
+      <rect x="125" y="193" width="11" height="7" fill="#5d2e38" />
+      <path d="M126 193h0.8v7h-0.8z M129 193h0.8v7h-0.8z M132 193h0.8v7h-0.8z M135 193h0.8v7h-0.8z" fill="#9b5c54" />
+      <rect x="136" y="193" width="21" height="7" fill="#5d2e38" />
+      <path d="M137 193h1v7h-1z M140.5 193h1v7h-1z M144 193h1v7h-1z M147.5 193h1v7h-1z M151 193h1v7h-1z M154.5 193h1v7h-1z" fill="#30282e" />
+      <rect x="157" y="193" width="28" height="7" fill="#5d2e38" />
+      <path d="M158 193h1.8v7h-1.8z M162 193h1.8v7h-1.8z M166 193h1.8v7h-1.8z M170 193h1.8v7h-1.8z M174 193h1.8v7h-1.8z M178 193h1.8v7h-1.8z M182 193h1.8v7h-1.8z" fill="#69757c" />
+      <rect x="185" y="193" width="15" height="7" fill="#30282e" />
+      <rect x="0" y="0" width="28" height="1.8" fill="#69757c" />
+      <rect x="185" y="0" width="15" height="1.8" fill="#69757c" />
+      <rect x="0" y="6.4" width="28" height="2.1" fill="#69757c" />
+      <rect x="185" y="6.4" width="15" height="2.1" fill="#69757c" />
+      <rect x="0" y="194" width="28" height="1.8" fill="#69757c" />
+      <rect x="185" y="194" width="15" height="1.8" fill="#69757c" />
+      <rect x="27" y="3" width="19" height="3" fill="#9b5c54" />
+      <path d="M28 3h1.4v3h-1.4z M32 3h1.4v3h-1.4z M36 3h1.4v3h-1.4z M40 3h1.4v3h-1.4z M44 3h1.4v3h-1.4z" fill="#bca38c" />
+      <rect x="0" y="16" width="28" height="11" fill="#69757c" />
+      <path d="M1 16h1.6v11h-1.6z M5 16h1.6v11h-1.6z M9 16h1.6v11h-1.6z M13 16h1.6v11h-1.6z M17 16h1.6v11h-1.6z M21 16h1.6v11h-1.6z M25 16h1.6v11h-1.6z" fill="#5d2e38" />
+      <rect x="28" y="16" width="19" height="12" fill="#5d2e38" />
+      <path d="M29 16h1v12h-1z M32.6 16h1v12h-1z M36.2 16h1v12h-1z M39.8 16h1v12h-1z M43.4 16h1v12h-1z" fill="#30282e" />
+      <rect x="47" y="16" width="42" height="24" fill="#69757c" />
+      <path d="M48 16h1.6v24h-1.6z M51.6 16h1.6v24h-1.6z M55.2 16h1.6v24h-1.6z M58.8 16h1.6v24h-1.6z M62.4 16h1.6v24h-1.6z M66 16h1.6v24h-1.6z M69.6 16h1.6v24h-1.6z M73.2 16h1.6v24h-1.6z M76.8 16h1.6v24h-1.6z M80.4 16h1.6v24h-1.6z M84 16h1.6v24h-1.6z M87.6 16h1.4v24h-1.4z" fill="#bca38c" />
+      <rect x="64" y="24" width="25" height="16" fill="#9b5c54" />
+      <path d="M65 24h1.25v16h-1.25z M68.6 24h1.25v16h-1.25z M72.2 24h1.25v16h-1.25z M75.8 24h1.25v16h-1.25z M79.4 24h1.25v16h-1.25z M83 24h1.25v16h-1.25z M86.6 24h1.25v16h-1.25z" fill="#69757c" />
+      <rect x="89" y="16" width="16" height="28" fill="#5d2e38" />
+      <path d="M90 16h1.65v28h-1.65z M93.5 16h1.65v28h-1.65z M97 16h1.65v28h-1.65z M100.5 16h1.65v28h-1.65z M104 16h1v28h-1z" fill="#69757c" />
+      <rect x="105" y="16" width="7" height="30" fill="#69757c" />
+      <path d="M106 16h1.9v30h-1.9z M109.8 16h1.9v30h-1.9z" fill="#30282e" />
+      <rect x="112" y="16" width="31" height="31" fill="#9b5c54" />
+      <path d="M113 16h1.4v31h-1.4z M116.6 16h1.4v31h-1.4z M120.2 16h1.4v31h-1.4z M123.8 16h1.4v31h-1.4z M127.4 16h1.4v31h-1.4z M131 16h1.4v31h-1.4z M134.6 16h1.4v31h-1.4z M138.2 16h1.4v31h-1.4z M141.8 16h1.2v31h-1.2z" fill="#5d2e38" />
+      <rect x="125" y="16" width="18" height="18" fill="#9b5c54" />
+      <path d="M126 16h1.3v18h-1.3z M130.1 16h1.3v18h-1.3z M134.2 16h1.3v18h-1.3z M138.3 16h1.3v18h-1.3z M142.4 16h0.6v18h-0.6z" fill="#bca38c" />
+      <rect x="143" y="16" width="14" height="26" fill="#5d2e38" />
+      <path d="M144 16h0.85v26h-0.85z M148 16h0.85v26h-0.85z M152 16h0.85v26h-0.85z M156 16h0.85v26h-0.85z" fill="#30282e" />
+      <rect x="157" y="16" width="28" height="13" fill="#5d2e38" />
+      <path d="M158 16h1.8v13h-1.8z M162 16h1.8v13h-1.8z M166 16h1.8v13h-1.8z M170 16h1.8v13h-1.8z M174 16h1.8v13h-1.8z M178 16h1.8v13h-1.8z M182 16h1.8v13h-1.8z" fill="#69757c" />
+      <rect x="185" y="16" width="15" height="13" fill="#5d2e38" />
+      <path d="M186 16h1.8v13h-1.8z M190 16h1.8v13h-1.8z M194 16h1.8v13h-1.8z M198 16h1.8v13h-1.8z" fill="#69757c" />
+      <rect x="0" y="28" width="28" height="29" fill="#69757c" />
+      <path d="M1 28h1.1v29h-1.1z M5.2 28h1.1v29h-1.1z M9.4 28h1.1v29h-1.1z M13.6 28h1.1v29h-1.1z M17.8 28h1.1v29h-1.1z M22 28h1.1v29h-1.1z M26.2 28h1.1v29h-1.1z" fill="#344752" />
+      <rect x="28" y="28" width="18" height="28" fill="#5d2e38" />
+      <path d="M29 28h1.7v28h-1.7z M33.1 28h1.7v28h-1.7z M37.2 28h1.7v28h-1.7z M41.3 28h1.7v28h-1.7z M45.4 28h0.6v28h-0.6z" fill="#69757c" />
+      <rect x="46" y="40" width="15" height="9" fill="#30282e" />
+      <rect x="46" y="49" width="15" height="13" fill="#69757c" />
+      <path d="M47 49h1.3v13h-1.3z M50.5 49h1.3v13h-1.3z M54 49h1.3v13h-1.3z M57.5 49h1.3v13h-1.3z" fill="#5d2e38" />
+      <rect x="61" y="41" width="41" height="20" fill="#5d2e38" />
+      <path d="M62 42h0.8v15h-0.8z M65.2 42h0.8v15h-0.8z M68.4 42h0.8v15h-0.8z M71.6 42h0.8v15h-0.8z M74.8 42h0.8v15h-0.8z M78 42h0.8v15h-0.8z M81.2 42h0.8v15h-0.8z M84.4 42h0.8v15h-0.8z M87.6 42h0.8v15h-0.8z M90.8 42h0.8v15h-0.8z M94 42h0.8v15h-0.8z M97.2 42h0.8v15h-0.8z M100.4 42h0.8v15h-0.8z" fill="#9b5c54" />
+      <rect x="102" y="46" width="11" height="16" fill="#5d2e38" />
+      <path d="M103 46h1.2v16h-1.2z M107 46h1.2v16h-1.2z M111 46h1.2v16h-1.2z" fill="#30282e" />
+      <rect x="113" y="47" width="30" height="13" fill="#30282e" />
+      <path d="M114 47h1.8v13h-1.8z M117.4 47h1.8v13h-1.8z M120.8 47h1.8v13h-1.8z M124.2 47h1.8v13h-1.8z M127.6 47h1.8v13h-1.8z M131 47h1.8v13h-1.8z M134.4 47h1.8v13h-1.8z M137.8 47h1.8v13h-1.8z M141.2 47h1.8v13h-1.8z" fill="#5d2e38" />
+      <rect x="143" y="42" width="25" height="20" fill="#5d2e38" />
+      <path d="M144 42h1v20h-1z M147.3 42h1v20h-1z M150.6 42h1v20h-1z M153.9 42h1v20h-1z M157.2 42h1v20h-1z M160.5 42h1v20h-1z M163.8 42h1v20h-1z M167.1 42h0.9v20h-0.9z" fill="#30282e" />
+      <rect x="168" y="29" width="32" height="33" fill="#69757c" />
+      <path d="M169 29h1.9v33h-1.9z M173.4 29h1.9v33h-1.9z M177.8 29h1.9v33h-1.9z M182.2 29h1.9v33h-1.9z M186.6 29h1.9v33h-1.9z M191 29h1.9v33h-1.9z M195.4 29h1.9v33h-1.9z M199.8 29h0.2v33h-0.2z" fill="#344752" />
+      <rect x="0" y="57" width="46" height="15" fill="#344752" />
+      <path d="M1 57h1v15h-1z M5 57h1v15h-1z M9 57h1v15h-1z M13 57h1v15h-1z M17 57h1v15h-1z M21 57h1v15h-1z M25 57h1v15h-1z M29 57h1v15h-1z M33 57h1v15h-1z M37 57h1v15h-1z M41 57h1v15h-1z M45 57h1v15h-1z" fill="#69757c" />
+      <rect x="46" y="57" width="15" height="33" fill="#69757c" />
+      <path d="M47 57h1.9v33h-1.9z M50.5 57h1.9v33h-1.9z M54 57h1.9v33h-1.9z M57.5 57h1.9v33h-1.9z" fill="#9b5c54" />
+      <rect x="61" y="61" width="41" height="9" fill="#5d2e38" />
+      <path d="M62 61h1v9h-1z M65.8 61h1v9h-1z M69.6 61h1v9h-1z M73.4 61h1v9h-1z M77.2 61h1v9h-1z M81 61h1v9h-1z M84.8 61h1v9h-1z M88.6 61h1v9h-1z M92.4 61h1v9h-1z M96.2 61h1v9h-1z M100 61h1v9h-1z" fill="#30282e" />
+      <rect x="61" y="70" width="41" height="19" fill="#69757c" />
+      <path d="M62 70h1.4v19h-1.4z M65.6 70h1.4v19h-1.4z M69.2 70h1.4v19h-1.4z M72.8 70h1.4v19h-1.4z M76.4 70h1.4v19h-1.4z M80 70h1.4v19h-1.4z M83.6 70h1.4v19h-1.4z M87.2 70h1.4v19h-1.4z M90.8 70h1.4v19h-1.4z M94.4 70h1.4v19h-1.4z M98 70h1.4v19h-1.4z M101.6 70h0.4v19h-0.4z" fill="#9b5c54" />
+      <rect x="102" y="61" width="12" height="24" fill="#9b5c54" />
+      <path d="M103 61h1v24h-1z M106.5 61h1v24h-1z M110 61h1v24h-1z M113.5 61h0.5v24h-0.5z" fill="#bca38c" />
+      <rect x="114" y="60" width="29" height="21" fill="#5d2e38" />
+      <path d="M115 60h1.25v21h-1.25z M118.5 60h1.25v21h-1.25z M122 60h1.25v21h-1.25z M125.5 60h1.25v21h-1.25z M129 60h1.25v21h-1.25z M132.5 60h1.25v21h-1.25z M136 60h1.25v21h-1.25z M139.5 60h1.25v21h-1.25z" fill="#30282e" />
+      <rect x="143" y="62" width="26" height="21" fill="#69757c" />
+      <path d="M144 62h1.6v21h-1.6z M147.7 62h1.6v21h-1.6z M151.4 62h1.6v21h-1.6z M155.1 62h1.6v21h-1.6z M158.8 62h1.6v21h-1.6z M162.5 62h1.6v21h-1.6z M166.2 62h1.6v21h-1.6z" fill="#5d2e38" />
+      <rect x="169" y="62" width="18" height="11" fill="#344752" />
+      <path d="M170 62h1.12v11h-1.12z M173.4 62h1.12v11h-1.12z M176.8 62h1.12v11h-1.12z M180.2 62h1.12v11h-1.12z M183.6 62h1.12v11h-1.12z" fill="#69757c" />
+      <rect x="187" y="62" width="13" height="11" fill="#30282e" />
+      <path d="M188 62h0.8v11h-0.8z M191.5 62h0.8v11h-0.8z M195 62h0.8v11h-0.8z M198.5 62h0.8v11h-0.8z" fill="#69757c" />
+      <rect x="3.6" y="59.5" width="2.25" height="11" fill="#bca38c" />
+      <rect x="13.25" y="59.5" width="2.25" height="11" fill="#bca38c" />
+      <rect x="187.1" y="59.5" width="2.25" height="11" fill="#bca38c" />
+      <rect x="196.75" y="59.5" width="2.25" height="11" fill="#bca38c" />
+      <rect x="0" y="72" width="46" height="36" fill="#344752" />
+      <rect x="0" y="72" width="7.9" height="36" fill="#344752" />
+      <rect x="0.9" y="72" width="1.8" height="36" fill="#69757c" />
+      <rect x="5.2" y="72" width="1.5" height="36" fill="#bca38c" />
+      <rect x="46" y="90" width="42" height="29" fill="#69757c" />
+      <path d="M47 90h1v29h-1z M50.7 90h1v29h-1z M54.4 90h1v29h-1z M58.1 90h1v29h-1z M61.8 90h1v29h-1z M65.5 90h1v29h-1z M69.2 90h1v29h-1z M72.9 90h1v29h-1z M76.6 90h1v29h-1z M80.3 90h1v29h-1z M84 90h1v29h-1z M87.7 90h0.3v29h-0.3z" fill="#344752" />
+      <rect x="46" y="100.5" width="42" height="2.3" fill="#69757c" />
+      <rect x="46" y="107" width="42" height="2.3" fill="#69757c" />
+      <rect x="46" y="114.5" width="42" height="2.3" fill="#69757c" />
+      <rect x="46" y="104.5" width="35" height="1.8" fill="#344752" />
+      <rect x="59" y="112" width="29" height="1.9" fill="#344752" />
+      <rect x="88" y="89" width="25" height="31" fill="#69757c" />
+      <path d="M89 89h1.5v31h-1.5z M92.65 89h1.5v31h-1.5z M96.3 89h1.5v31h-1.5z M99.95 89h1.5v31h-1.5z M103.6 89h1.5v31h-1.5z M107.25 89h1.5v31h-1.5z M110.9 89h1.5v31h-1.5z" fill="#5d2e38" />
+      <rect x="102" y="85" width="12" height="23" fill="#69757c" />
+      <path d="M103 85h1.5v23h-1.5z M106.7 85h1.5v23h-1.5z M110.4 85h1.5v23h-1.5z" fill="#5d2e38" />
+      <rect x="114" y="81" width="11" height="27" fill="#5d2e38" />
+      <rect x="112.5" y="84" width="2.15" height="24" fill="#bca38c" />
+      <rect x="121.25" y="84" width="2.15" height="24" fill="#bca38c" />
+      <rect x="125" y="81" width="32" height="27" fill="#9b5c54" />
+      <path d="M126 81h1v27h-1z M129.6 81h1v27h-1z M133.2 81h1v27h-1z M136.8 81h1v27h-1z M140.4 81h1v27h-1z M144 81h1v27h-1z M147.6 81h1v27h-1z M151.2 81h1v27h-1z M154.8 81h1v27h-1z" fill="#5d2e38" />
+      <rect x="157" y="83" width="21" height="25" fill="#5d2e38" />
+      <path d="M158 83h1.5v25h-1.5z M161.55 83h1.5v25h-1.5z M165.1 83h1.5v25h-1.5z M168.65 83h1.5v25h-1.5z M172.2 83h1.5v25h-1.5z M175.75 83h1.5v25h-1.5z" fill="#9b5c54" />
+      <rect x="178" y="73" width="22" height="35" fill="#69757c" />
+      <path d="M179 73h1.5v35h-1.5z M182.55 73h1.5v35h-1.5z M186.1 73h1.5v35h-1.5z M189.65 73h1.5v35h-1.5z M193.2 73h1.5v35h-1.5z M196.75 73h1.5v35h-1.5z" fill="#344752" />
+      <rect x="0" y="108" width="30" height="22" fill="#5d2e38" />
+      <path d="M1 108h1.35v22h-1.35z M4.6 108h1.35v22h-1.35z M8.2 108h1.35v22h-1.35z M11.8 108h1.35v22h-1.35z M15.4 108h1.35v22h-1.35z M19 108h1.35v22h-1.35z M22.6 108h1.35v22h-1.35z M26.2 108h1.35v22h-1.35z M29.8 108h0.2v22h-0.2z" fill="#69757c" />
+      <rect x="30" y="108" width="16" height="12" fill="#5d2e38" />
+      <path d="M31 108h1.4v12h-1.4z M34.65 108h1.4v12h-1.4z M38.3 108h1.4v12h-1.4z M41.95 108h1.4v12h-1.4z M45.6 108h0.4v12h-0.4z" fill="#9b5c54" />
+      <rect x="30" y="120" width="46" height="23" fill="#9b5c54" />
+      <path d="M31 120h0.7v23h-0.7z M34.85 120h0.7v23h-0.7z M38.7 120h0.7v23h-0.7z M42.55 120h0.7v23h-0.7z M46.4 120h0.7v23h-0.7z M50.25 120h0.7v23h-0.7z M54.1 120h0.7v23h-0.7z M57.95 120h0.7v23h-0.7z M61.8 120h0.7v23h-0.7z M65.65 120h0.7v23h-0.7z M69.5 120h0.7v23h-0.7z M73.35 120h0.7v23h-0.7z" fill="#bca38c" />
+      <rect x="76" y="119" width="22" height="15" fill="#30282e" />
+      <path d="M77 119h1.7v15h-1.7z M80.6 119h1.7v15h-1.7z M84.2 119h1.7v15h-1.7z M87.8 119h1.7v15h-1.7z M91.4 119h1.7v15h-1.7z M95 119h1.7v15h-1.7z" fill="#5d2e38" />
+      <rect x="76" y="134" width="22" height="10" fill="#30282e" />
+      <rect x="98" y="120" width="15" height="24" fill="#344752" />
+      <rect x="113" y="108" width="14" height="26" fill="#30282e" />
+      <path d="M114 108h1.05v26h-1.05z M117.6 108h1.05v26h-1.05z M121.2 108h1.05v26h-1.05z M124.8 108h1.05v26h-1.05z" fill="#344752" />
+      <rect x="113" y="134" width="14" height="10" fill="#344752" />
+      <rect x="127" y="108" width="17" height="22" fill="#344752" />
+      <path d="M128 108h1.25v22h-1.25z M131.7 108h1.25v22h-1.25z M135.4 108h1.25v22h-1.25z M139.1 108h1.25v22h-1.25z M142.8 108h1.2v22h-1.2z" fill="#bca38c" />
+      <rect x="127" y="130" width="17" height="27" fill="#9b5c54" />
+      <path d="M128 130h0.9v27h-0.9z M131.7 130h0.9v27h-0.9z M135.4 130h0.9v27h-0.9z M139.1 130h0.9v27h-0.9z M142.8 130h0.9v27h-0.9z" fill="#bca38c" />
+      <rect x="144" y="108" width="16" height="49" fill="#5d2e38" />
+      <path d="M145 108h0.9v49h-0.9z M148.6 108h0.9v49h-0.9z M152.2 108h0.9v49h-0.9z M155.8 108h0.9v49h-0.9z M159.4 108h0.6v49h-0.6z" fill="#30282e" />
+      <rect x="160" y="108" width="25" height="22" fill="#30282e" />
+      <path d="M161 108h1.65v22h-1.65z M164.55 108h1.65v22h-1.65z M168.1 108h1.65v22h-1.65z M171.65 108h1.65v22h-1.65z M175.2 108h1.65v22h-1.65z M178.75 108h1.65v22h-1.65z M182.3 108h1.65v22h-1.65z" fill="#5d2e38" />
+      <rect x="185" y="108" width="15" height="35" fill="#5d2e38" />
+      <path d="M186 108h1v35h-1z M189.6 108h1v35h-1z M193.2 108h1v35h-1z M196.8 108h1v35h-1z" fill="#9b5c54" />
+      <rect x="0" y="130" width="30" height="13" fill="#5d2e38" />
+      <rect x="0" y="143" width="30" height="12" fill="#69757c" />
+      <path d="M1 143h1.6v12h-1.6z M4.8 143h1.6v12h-1.6z M8.6 143h1.6v12h-1.6z M12.4 143h1.6v12h-1.6z M16.2 143h1.6v12h-1.6z M20 143h1.6v12h-1.6z M23.8 143h1.6v12h-1.6z M27.6 143h1.6v12h-1.6z" fill="#9b5c54" />
+      <rect x="0" y="155" width="13" height="24" fill="#344752" />
+      <path d="M1 155h1.5v24h-1.5z M5.1 155h1.5v24h-1.5z M9.2 155h1.5v24h-1.5z" fill="#69757c" />
+      <rect x="13" y="155" width="17" height="24" fill="#9b5c54" />
+      <path d="M14 155h1.6v24h-1.6z M17.75 155h1.6v24h-1.6z M21.5 155h1.6v24h-1.6z M25.25 155h1.6v24h-1.6z M29 155h1v24h-1z" fill="#bca38c" />
+      <rect x="30" y="143" width="10" height="36" fill="#5d2e38" />
+      <rect x="30.25" y="143" width="2.25" height="36" fill="#bca38c" />
+      <rect x="40" y="143" width="29" height="16" fill="#5d2e38" />
+      <rect x="44" y="143" width="2.15" height="14.5" fill="#bca38c" />
+      <rect x="69" y="144" width="30" height="10" fill="#69757c" />
+      <path d="M70 144h1v10h-1z M73.65 144h1v10h-1z M77.3 144h1v10h-1z M80.95 144h1v10h-1z M84.6 144h1v10h-1z M88.25 144h1v10h-1z M91.9 144h1v10h-1z M95.55 144h1v10h-1z" fill="#9b5c54" />
+      <rect x="99" y="144" width="28" height="10" fill="#69757c" />
+      <rect x="115" y="149" width="12" height="3" fill="#bca38c" />
+      <rect x="69" y="154" width="13" height="14" fill="#5d2e38" />
+      <path d="M70 154h1v14h-1z M73.7 154h1v14h-1z M77.4 154h1v14h-1z M81.1 154h0.9v14h-0.9z" fill="#9b5c54" />
+      <rect x="82" y="154" width="45" height="14" fill="#30282e" />
+      <rect x="82" y="158" width="45" height="9.5" fill="#5d2e38" />
+      <rect x="127" y="157" width="30" height="11" fill="#9b5c54" />
+      <path d="M128 157h1.35v11h-1.35z M131.75 157h1.35v11h-1.35z M135.5 157h1.35v11h-1.35z M139.25 157h1.35v11h-1.35z M143 157h1.35v11h-1.35z M146.75 157h1.35v11h-1.35z M150.5 157h1.35v11h-1.35z M154.25 157h1.35v11h-1.35z" fill="#bca38c" />
+      <rect x="157" y="130" width="28" height="27" fill="#344752" />
+      <path d="M158 130h1.5v27h-1.5z M161.75 130h1.5v27h-1.5z M165.5 130h1.5v27h-1.5z M169.25 130h1.5v27h-1.5z M173 130h1.5v27h-1.5z M176.75 130h1.5v27h-1.5z M180.5 130h1.5v27h-1.5z M184.25 130h0.75v27h-0.75z" fill="#69757c" />
+      <rect x="157" y="145.5" width="28" height="2.35" fill="#69757c" />
+      <rect x="157" y="151.5" width="28" height="2.5" fill="#69757c" />
+      <rect x="157" y="155" width="23" height="1.3" fill="#bca38c" />
+      <rect x="185" y="143" width="15" height="14" fill="#69757c" />
+      <path d="M186 143h1v14h-1z M189.65 143h1v14h-1z M193.3 143h1v14h-1z M196.95 143h1v14h-1z" fill="#9b5c54" />
+      <rect x="157" y="157" width="23" height="11" fill="#30282e" />
+      <rect x="180" y="157" width="20" height="11" fill="#344752" />
+      <rect x="40" y="159" width="29" height="31" fill="#344752" />
+      <path d="M41 159h1.3v31h-1.3z M44.8 159h1.3v31h-1.3z M48.6 159h1.3v31h-1.3z M52.4 159h1.3v31h-1.3z M56.2 159h1.3v31h-1.3z M60 159h1.3v31h-1.3z M63.8 159h1.3v31h-1.3z M67.6 159h1.3v31h-1.3z" fill="#69757c" />
+      <rect x="40" y="169.5" width="26" height="2.2" fill="#69757c" />
+      <rect x="40" y="177.0" width="29" height="2.35" fill="#69757c" />
+      <rect x="69" y="168" width="43" height="24" fill="#69757c" />
+      <path d="M70 168h1.2v24h-1.2z M73.6 168h1.2v24h-1.2z M77.2 168h1.2v24h-1.2z M80.8 168h1.2v24h-1.2z M84.4 168h1.2v24h-1.2z M88 168h1.2v24h-1.2z M91.6 168h1.2v24h-1.2z M95.2 168h1.2v24h-1.2z M98.8 168h1.2v24h-1.2z M102.4 168h1.2v24h-1.2z M106 168h1.2v24h-1.2z M109.6 168h1.2v24h-1.2z" fill="#9b5c54" />
+      <rect x="112" y="168" width="14" height="25" fill="#5d2e38" />
+      <rect x="112.4" y="168" width="2.0" height="25" fill="#bca38c" />
+      <rect x="121.2" y="168" width="2.0" height="25" fill="#bca38c" />
+      <rect x="126" y="168" width="17" height="25" fill="#5d2e38" />
+      <path d="M127 168h1.2v25h-1.2z M130.75 168h1.2v25h-1.2z M134.5 168h1.2v25h-1.2z M138.25 168h1.2v25h-1.2z M142 168h1v25h-1z" fill="#30282e" />
+      <rect x="143" y="168" width="14" height="13" fill="#5d2e38" />
+      <path d="M144 168h1.35v13h-1.35z M147.6 168h1.35v13h-1.35z M151.2 168h1.35v13h-1.35z M154.8 168h1.35v13h-1.35z" fill="#9b5c54" />
+      <rect x="157" y="168" width="24" height="13" fill="#69757c" />
+      <path d="M158 168h1.15v13h-1.15z M161.5 168h1.15v13h-1.15z M165 168h1.15v13h-1.15z M168.5 168h1.15v13h-1.15z M172 168h1.15v13h-1.15z M175.5 168h1.15v13h-1.15z M179 168h1.15v13h-1.15z" fill="#9b5c54" />
+      <rect x="181" y="168" width="19" height="13" fill="#69757c" />
+      <path d="M182 168h0.9v13h-0.9z M185.7 168h0.9v13h-0.9z M189.4 168h0.9v13h-0.9z M193.1 168h0.9v13h-0.9z M196.8 168h0.9v13h-0.9z" fill="#344752" />
+      <rect x="143" y="181" width="50" height="12" fill="#30282e" />
+      <path d="M144 181h1.8v12h-1.8z M147.6 181h1.8v12h-1.8z M151.2 181h1.8v12h-1.8z M154.8 181h1.8v12h-1.8z M158.4 181h1.8v12h-1.8z M162 181h1.8v12h-1.8z M165.6 181h1.8v12h-1.8z M169.2 181h1.8v12h-1.8z M172.8 181h1.8v12h-1.8z M176.4 181h1.8v12h-1.8z M180 181h1.8v12h-1.8z M183.6 181h1.8v12h-1.8z M187.2 181h1.8v12h-1.8z M190.8 181h1.8v12h-1.8z" fill="#5d2e38" />
+      <rect x="193" y="181" width="7" height="12" fill="#30282e" />
+      <rect x="196" y="181" width="1.9" height="12" fill="#bca38c" />
+      <rect x="0" y="179" width="10" height="14" fill="#30282e" />
+      <rect x="3.8" y="180" width="1.95" height="12" fill="#bca38c" />
+      <rect x="10" y="179" width="30" height="14" fill="#69757c" />
+      <path d="M11 179h1.25v14h-1.25z M14.65 179h1.25v14h-1.25z M18.3 179h1.25v14h-1.25z M21.95 179h1.25v14h-1.25z M25.6 179h1.25v14h-1.25z M29.25 179h1.25v14h-1.25z M32.9 179h1.25v14h-1.25z M36.55 179h1.25v14h-1.25z" fill="#5d2e38" />
+      <rect x="40" y="190" width="7" height="3" fill="#5d2e38" />
+      <path d="M41 190h1.1v3h-1.1z M44.6 190h1.1v3h-1.1z" fill="#9b5c54" />
+      <rect x="47" y="190" width="29" height="3" fill="#69757c" />
+      <path d="M48 190h2.25v3h-2.25z M52.2 190h2.25v3h-2.25z M56.4 190h2.25v3h-2.25z M60.6 190h2.25v3h-2.25z M64.8 190h2.25v3h-2.25z M69 190h2.25v3h-2.25z M73.2 190h2.25v3h-2.25z" fill="#bca38c" />
+    </g>
+  </defs>
+  <rect width="300" height="300" fill="#5d2e38" />
+  <use xlink:href="#weave" transform="scale(1.5) translate(-18.4 -91.4)" />
+  <use xlink:href="#weave" transform="scale(1.5) translate(-18.4 108.6)" />
+  <use xlink:href="#weave" transform="scale(1.5) translate(181.6 -91.4)" />
+  <use xlink:href="#weave" transform="scale(1.5) translate(181.6 108.6)" />
+</svg>

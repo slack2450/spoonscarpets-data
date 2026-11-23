@@ -1,0 +1,186 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="480" height="480" viewBox="0 0 480 480">
+<title>The Malcolm Uphill, Caerphilly — octagonal floral medallions and laurel braid</title><defs>
+<g id="rosette-petal">
+<path fill="#ad8050" d="M-1.55,-3.1 C-4.3,-6.9 -5.45,-12.2 -3.2,-14.35 C-2.3,-15.1 -1.5,-14.9 -.9,-14.1 C1.2,-15.8 3.4,-14.5 3.55,-12.15 C3.65,-9.1 1.9,-5.2 .7,-3.2Z"/>
+<path fill="#ddbc8b" d="M-.95,-6.1 C-2.85,-8.7 -3.35,-11.6 -2.3,-13.05 C-.95,-14.55 .45,-13.3 .72,-11.5 C1.05,-9.55 -.22,-7.35 -.95,-6.1Z"/>
+</g>
+<g id="rosette">
+<use xlink:href="#rosette-petal" transform="rotate(0)"/>
+<use xlink:href="#rosette-petal" transform="rotate(30)"/>
+<use xlink:href="#rosette-petal" transform="rotate(60)"/>
+<use xlink:href="#rosette-petal" transform="rotate(90)"/>
+<use xlink:href="#rosette-petal" transform="rotate(120)"/>
+<use xlink:href="#rosette-petal" transform="rotate(150)"/>
+<use xlink:href="#rosette-petal" transform="rotate(180)"/>
+<use xlink:href="#rosette-petal" transform="rotate(210)"/>
+<use xlink:href="#rosette-petal" transform="rotate(240)"/>
+<use xlink:href="#rosette-petal" transform="rotate(270)"/>
+<use xlink:href="#rosette-petal" transform="rotate(300)"/>
+<use xlink:href="#rosette-petal" transform="rotate(330)"/>
+<circle cx="0" cy="0" r="4.65" fill="#ad8050"/>
+<circle cx="0" cy="0" r="3.65" fill="#741e25"/>
+<circle cx="0" cy="0" r="1.7" fill="#ddbc8b"/>
+</g>
+<g id="palmette-wing">
+<path fill="#ad8050" d="M-.8,-81.1 C-3.2,-87.7 -7.1,-88.2 -11,-91.7 C-16.2,-96.5 -17,-104.8 -20.6,-106.45 C-22.65,-107.7 -24.2,-107.2 -25.65,-106.15 C-25.55,-111.3 -19.55,-114.5 -15.4,-111.1 C-10.95,-107.55 -11.25,-100.1 -7,-97.6 C-8.9,-104.95 -7,-108.2 -5.35,-109.9 C-5.2,-101.8 -.85,-98.45 1.65,-93.8Z"/>
+<path fill="#ddbc8b" d="M-2.2,-88 C-10.25,-93.1 -11.6,-99.5 -14.5,-104.9 C-17,-109.5 -20,-110.2 -22.5,-109.55 C-18.7,-113.6 -14.55,-110.5 -12.4,-105.7 C-9.9,-99.8 -7.65,-96.45 -4.55,-95.15Z"/>
+</g>
+<g id="palmette">
+<use xlink:href="#palmette-wing"/>
+<use xlink:href="#palmette-wing" transform="scale(-1 1)"/>
+<path fill="#ad8050" d="M0,-81.2 C-3.6,-85.2 -6.1,-89.65 -5.9,-93.9 C-5.65,-98 -2.7,-99.3 -2.8,-102.75 C-3.05,-107.75 -6.55,-116.5 -12.25,-116 C-11.35,-121.4 -6.6,-122.3 -3.15,-119.55 L-5,-124.2 Q-4,-126.2 -1.8,-125.15 L0,-128.5 L1.8,-125.15 Q4,-126.2 5,-124.2 L3.15,-119.55 C6.6,-122.3 11.35,-121.4 12.25,-116 C6.55,-116.5 3.05,-107.75 2.8,-102.75 C2.7,-99.3 5.65,-98 5.9,-93.9 C6.1,-89.65 3.6,-85.2 0,-81.2Z"/>
+<path fill="#ddbc8b" d="M0,-103 C-1.2,-110.6 -4.1,-116.8 -7.6,-118.85 C-4.9,-119.4 -2.1,-116.4 -1.25,-114.9 L0,-121.75 L1.25,-114.9 C2.1,-116.4 4.9,-119.4 7.6,-118.85 C4.1,-116.8 1.2,-110.6 0,-103Z"/>
+<path fill="#741e25" d="M0,-96.1 Q4.85,-93.25 0,-88.9 Q-4.85,-93.25 0,-96.1Z"/>
+<path fill="#ddbc8b" d="M0,-86.25 C2.3,-84.7 2.95,-82.6 2.1,-80.3 C5.15,-81.7 7.65,-79.9 7.75,-76.95 L2.7,-77.4 Q3.9,-73.2 0,-69.6 Q-3.9,-73.2 -2.7,-77.4 L-7.75,-76.95 C-7.65,-79.9 -5.15,-81.7 -2.1,-80.3 Q-2.95,-83.3 0,-86.25Z"/>
+</g>
+<g id="scroll">
+<path fill="#ad8050" d="M-1.8,-17.3 C-5.3,-19.6 -9.15,-18.85 -12.05,-21.15 C-15.55,-24 -16.8,-30.7 -15.45,-34.95 C-15.1,-32.9 -13.5,-31.55 -12.75,-31.8 C-13.55,-35.05 -12.5,-37.45 -10.75,-38.4 C-11.1,-34.7 -8.5,-33.4 -9.1,-29.2 C-9.8,-26.4 -10.55,-25.85 -8.95,-24.2 C-7.4,-22.6 -3.5,-22.35 -1.9,-21.75Z"/>
+<path fill="#ddbc8b" d="M-4.5,-19.8 C-14.2,-19.65 -16.55,-28.9 -15,-32.55 C-14,-28.9 -12.6,-27.85 -11.9,-27.6 C-12.75,-24.4 -9.45,-21.95 -5,-21.8Z"/>
+</g>
+<g id="crown-leaf">
+<use xlink:href="#scroll"/>
+<use xlink:href="#scroll" transform="scale(-1 1)"/>
+<path fill="#ad8050" d="M0,-20 C-4.5,-22.9 -5.5,-26.1 -6.9,-29 C-8.7,-32.3 -10.35,-33.9 -10.3,-36.15 Q-7,-36.45 -4.75,-33.9 Q-6.9,-38.4 -5.4,-41.9 L-2.45,-40.5 Q-2.5,-44.95 0,-47.4 Q2.5,-44.95 2.45,-40.5 L5.4,-41.9 Q6.9,-38.4 4.75,-33.9 Q7,-36.45 10.3,-36.15 C10.35,-33.9 8.7,-32.3 6.9,-29 C5.5,-26.1 4.5,-22.9 0,-20Z"/>
+<path fill="#ddbc8b" d="M0,-24.6 Q-1.25,-29.2 -5.7,-32.45 Q-3.7,-33 -2.4,-32.25 L-3.1,-36.9 L-.85,-34.6 L0,-41.5 L.85,-34.6 L3.1,-36.9 L2.4,-32.25 Q3.7,-33 5.7,-32.45 Q1.25,-29.2 0,-24.6Z"/>
+</g>
+<g id="pollen">
+<path fill="#ddbc8b" d="M-1,-5 Q-4.3,-7.1 -3.25,-9.65 Q-2.55,-11.25 -.95,-10.8 Q.3,-12.9 2.1,-11.65 Q4.85,-9.3 1.8,-5Z"/>
+</g>
+<g id="heart">
+<use xlink:href="#crown-leaf" transform="rotate(0)"/>
+<use xlink:href="#crown-leaf" transform="rotate(45) scale(.92 .98)"/>
+<use xlink:href="#crown-leaf" transform="rotate(90)"/>
+<use xlink:href="#crown-leaf" transform="rotate(135) scale(.92 .98)"/>
+<use xlink:href="#crown-leaf" transform="rotate(180)"/>
+<use xlink:href="#crown-leaf" transform="rotate(225) scale(.92 .98)"/>
+<use xlink:href="#crown-leaf" transform="rotate(270)"/>
+<use xlink:href="#crown-leaf" transform="rotate(315) scale(.92 .98)"/>
+<use xlink:href="#pollen" transform="rotate(0)"/>
+<use xlink:href="#pollen" transform="rotate(45)"/>
+<use xlink:href="#pollen" transform="rotate(90)"/>
+<use xlink:href="#pollen" transform="rotate(135)"/>
+<use xlink:href="#pollen" transform="rotate(180)"/>
+<use xlink:href="#pollen" transform="rotate(225)"/>
+<use xlink:href="#pollen" transform="rotate(270)"/>
+<use xlink:href="#pollen" transform="rotate(315)"/>
+<circle cx="0" cy="0" r="5.6" fill="#ad8050"/>
+<circle cx="0" cy="0" r="3.7" fill="#251e23"/>
+</g>
+<g id="field-sector">
+<use xlink:href="#palmette" transform="scale(1.10 1)"/>
+<use xlink:href="#rosette" transform="rotate(22.5) translate(0 -94.8) scale(1.15)"/>
+</g>
+<g id="medallion">
+<path fill="#ad8050" d="M155.900,64.576 64.576,155.900 -64.576,155.900 -155.900,64.576 -155.900,-64.576 -64.576,-155.900 64.576,-155.900 155.900,-64.576Z"/>
+<path fill="#ddbc8b" d="M154.400,63.955 63.955,154.400 -63.955,154.400 -154.400,63.955 -154.400,-63.955 -63.955,-154.400 63.955,-154.400 154.400,-63.955Z"/>
+<path fill="#252838" d="M149.800,62.049 62.049,149.800 -62.049,149.800 -149.800,62.049 -149.800,-62.049 -62.049,-149.800 62.049,-149.800 149.800,-62.049Z"/>
+<path fill="#ad8050" d="M133.300,55.215 55.215,133.300 -55.215,133.300 -133.300,55.215 -133.300,-55.215 -55.215,-133.300 55.215,-133.300 133.300,-55.215Z"/>
+<path fill="#ddbc8b" d="M131.500,54.469 54.469,131.500 -54.469,131.500 -131.500,54.469 -131.500,-54.469 -54.469,-131.500 54.469,-131.500 131.500,-54.469Z"/>
+<path fill="#741e25" d="M125.300,51.901 51.901,125.300 -51.901,125.300 -125.300,51.901 -125.300,-51.901 -51.901,-125.300 51.901,-125.300 125.300,-51.901Z"/>
+<path fill="#ad8050" d="M81.200,0.000 57.417,57.417 0.000,81.200 -57.417,57.417 -81.200,0.000 -57.417,-57.417 -0.000,-81.200 57.417,-57.417Z"/>
+<path fill="#ddbc8b" d="M79.900,0.000 56.498,56.498 0.000,79.900 -56.498,56.498 -79.900,0.000 -56.498,-56.498 -0.000,-79.900 56.498,-56.498Z"/>
+<path fill="#252838" d="M77.800,0.000 55.013,55.013 0.000,77.800 -55.013,55.013 -77.800,0.000 -55.013,-55.013 -0.000,-77.800 55.013,-55.013Z"/>
+<use xlink:href="#field-sector" transform="rotate(0)"/>
+<use xlink:href="#field-sector" transform="rotate(45)"/>
+<use xlink:href="#field-sector" transform="rotate(90)"/>
+<use xlink:href="#field-sector" transform="rotate(135)"/>
+<use xlink:href="#field-sector" transform="rotate(180)"/>
+<use xlink:href="#field-sector" transform="rotate(225)"/>
+<use xlink:href="#field-sector" transform="rotate(270)"/>
+<use xlink:href="#field-sector" transform="rotate(315)"/>
+<use xlink:href="#heart"/>
+</g>
+<g id="square">
+<rect x="-56.9" y="-56.9" width="113.8" height="113.8" fill="#ad8050"/>
+<rect x="-55.3" y="-55.3" width="110.6" height="110.6" fill="#ddbc8b"/>
+<rect x="-50.2" y="-50.2" width="100.4" height="100.4" fill="#ad8050"/>
+<rect x="-48.8" y="-48.8" width="97.6" height="97.6" fill="#252838"/>
+<use xlink:href="#heart" transform="scale(1.13)"/>
+</g>
+<g id="laurel-leaf">
+<path fill="#ad8050" d="M-4.8,-.62 C-6.9,-4.45 -4.55,-9.15 -2.05,-10.95 C.85,-12.35 3.6,-11.4 6.1,-11.65 C6.95,-8.2 3.35,-6.05 1.75,-3.45 Q-.5,-.35 -4.8,-.62Z"/>
+<path fill="#ddbc8b" d="M-4.1,-1.85 C-3.7,-5.3 -1,-9.6 4.4,-10.1 C3.75,-7.4 .9,-6.5 -.3,-4.25 Q-1.95,-2 -4.1,-1.85Z"/>
+</g>
+<g id="laurel-pair">
+<use xlink:href="#laurel-leaf"/>
+<use xlink:href="#laurel-leaf" transform="scale(1 -1)"/>
+</g>
+<g id="small-bud">
+<path fill="#ddbc8b" d="M0,-1.1 C-3.1,-2.6 -4.8,-6.55 -3.3,-7.85 Q-1.8,-9.3 -.7,-8 Q1,-10.15 2.8,-8.95 C5.6,-6.95 2.4,-2.3 0,-1.1Z"/>
+</g>
+<g id="laurel">
+<use xlink:href="#laurel-pair" transform="translate(-14 0)"/>
+<use xlink:href="#laurel-pair" transform="translate(14 0) scale(-1 1)"/>
+<use xlink:href="#laurel-pair" transform="translate(-27.65 0)"/>
+<use xlink:href="#laurel-pair" transform="translate(27.65 0) scale(-1 1)"/>
+<use xlink:href="#laurel-pair" transform="translate(-41.3 0)"/>
+<use xlink:href="#laurel-pair" transform="translate(41.3 0) scale(-1 1)"/>
+<use xlink:href="#laurel-pair" transform="translate(-54.95 0)"/>
+<use xlink:href="#laurel-pair" transform="translate(54.95 0) scale(-1 1)"/>
+<use xlink:href="#small-bud" transform="rotate(0)"/>
+<use xlink:href="#small-bud" transform="rotate(90)"/>
+<use xlink:href="#small-bud" transform="rotate(180)"/>
+<use xlink:href="#small-bud" transform="rotate(270)"/>
+<circle cx="0" cy="0" r="1.8" fill="#ad8050"/>
+</g>
+<g id="junction">
+<use xlink:href="#small-bud" transform="rotate(45) scale(.77)"/>
+<use xlink:href="#small-bud" transform="rotate(135) scale(.77)"/>
+<use xlink:href="#small-bud" transform="rotate(225) scale(.77)"/>
+<use xlink:href="#small-bud" transform="rotate(315) scale(.77)"/>
+<circle cx="0" cy="0" r="1.55" fill="#ad8050"/>
+</g>
+</defs>
+<rect width="480" height="480" fill="#251e23"/>
+<use xlink:href="#medallion" transform="translate(0 0)"/>
+<use xlink:href="#laurel" transform="translate(0 0) rotate(45) translate(0 -169.7056)"/>
+<use xlink:href="#laurel" transform="translate(0 0) rotate(-45) translate(0 -169.7056)"/>
+<use xlink:href="#square" transform="translate(0 240)"/>
+<use xlink:href="#laurel" transform="translate(0 240) rotate(0) translate(0 -70.2944)"/>
+<use xlink:href="#junction" transform="translate(0 240) rotate(0) translate(70.2944 -70.2944)"/>
+<use xlink:href="#laurel" transform="translate(0 240) rotate(90) translate(0 -70.2944)"/>
+<use xlink:href="#junction" transform="translate(0 240) rotate(90) translate(70.2944 -70.2944)"/>
+<use xlink:href="#laurel" transform="translate(0 240) rotate(180) translate(0 -70.2944)"/>
+<use xlink:href="#junction" transform="translate(0 240) rotate(180) translate(70.2944 -70.2944)"/>
+<use xlink:href="#laurel" transform="translate(0 240) rotate(270) translate(0 -70.2944)"/>
+<use xlink:href="#junction" transform="translate(0 240) rotate(270) translate(70.2944 -70.2944)"/>
+<use xlink:href="#medallion" transform="translate(0 480)"/>
+<use xlink:href="#laurel" transform="translate(0 480) rotate(45) translate(0 -169.7056)"/>
+<use xlink:href="#laurel" transform="translate(0 480) rotate(-45) translate(0 -169.7056)"/>
+<use xlink:href="#square" transform="translate(240 0)"/>
+<use xlink:href="#laurel" transform="translate(240 0) rotate(0) translate(0 -70.2944)"/>
+<use xlink:href="#junction" transform="translate(240 0) rotate(0) translate(70.2944 -70.2944)"/>
+<use xlink:href="#laurel" transform="translate(240 0) rotate(90) translate(0 -70.2944)"/>
+<use xlink:href="#junction" transform="translate(240 0) rotate(90) translate(70.2944 -70.2944)"/>
+<use xlink:href="#laurel" transform="translate(240 0) rotate(180) translate(0 -70.2944)"/>
+<use xlink:href="#junction" transform="translate(240 0) rotate(180) translate(70.2944 -70.2944)"/>
+<use xlink:href="#laurel" transform="translate(240 0) rotate(270) translate(0 -70.2944)"/>
+<use xlink:href="#junction" transform="translate(240 0) rotate(270) translate(70.2944 -70.2944)"/>
+<use xlink:href="#medallion" transform="translate(240 240)"/>
+<use xlink:href="#laurel" transform="translate(240 240) rotate(45) translate(0 -169.7056)"/>
+<use xlink:href="#laurel" transform="translate(240 240) rotate(-45) translate(0 -169.7056)"/>
+<use xlink:href="#square" transform="translate(240 480)"/>
+<use xlink:href="#laurel" transform="translate(240 480) rotate(0) translate(0 -70.2944)"/>
+<use xlink:href="#junction" transform="translate(240 480) rotate(0) translate(70.2944 -70.2944)"/>
+<use xlink:href="#laurel" transform="translate(240 480) rotate(90) translate(0 -70.2944)"/>
+<use xlink:href="#junction" transform="translate(240 480) rotate(90) translate(70.2944 -70.2944)"/>
+<use xlink:href="#laurel" transform="translate(240 480) rotate(180) translate(0 -70.2944)"/>
+<use xlink:href="#junction" transform="translate(240 480) rotate(180) translate(70.2944 -70.2944)"/>
+<use xlink:href="#laurel" transform="translate(240 480) rotate(270) translate(0 -70.2944)"/>
+<use xlink:href="#junction" transform="translate(240 480) rotate(270) translate(70.2944 -70.2944)"/>
+<use xlink:href="#medallion" transform="translate(480 0)"/>
+<use xlink:href="#laurel" transform="translate(480 0) rotate(45) translate(0 -169.7056)"/>
+<use xlink:href="#laurel" transform="translate(480 0) rotate(-45) translate(0 -169.7056)"/>
+<use xlink:href="#square" transform="translate(480 240)"/>
+<use xlink:href="#laurel" transform="translate(480 240) rotate(0) translate(0 -70.2944)"/>
+<use xlink:href="#junction" transform="translate(480 240) rotate(0) translate(70.2944 -70.2944)"/>
+<use xlink:href="#laurel" transform="translate(480 240) rotate(90) translate(0 -70.2944)"/>
+<use xlink:href="#junction" transform="translate(480 240) rotate(90) translate(70.2944 -70.2944)"/>
+<use xlink:href="#laurel" transform="translate(480 240) rotate(180) translate(0 -70.2944)"/>
+<use xlink:href="#junction" transform="translate(480 240) rotate(180) translate(70.2944 -70.2944)"/>
+<use xlink:href="#laurel" transform="translate(480 240) rotate(270) translate(0 -70.2944)"/>
+<use xlink:href="#junction" transform="translate(480 240) rotate(270) translate(70.2944 -70.2944)"/>
+<use xlink:href="#medallion" transform="translate(480 480)"/>
+<use xlink:href="#laurel" transform="translate(480 480) rotate(45) translate(0 -169.7056)"/>
+<use xlink:href="#laurel" transform="translate(480 480) rotate(-45) translate(0 -169.7056)"/>
+</svg>

@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="575" height="265" viewBox="0 0 575 265">
+  <title>The Wallaw, Blyth — staggered slate-blue squares and stepped chevrons</title>
+  <defs>
+    <g id="stepped-band">
+      <polygon points="81,145 153,144 149,83 267,66 263,269 71,275" fill="#aa8655" />
+      <polygon points="78,163 155,147 161,91 211,75 190,192 80,210" fill="#743b33" />
+      <polygon points="85,218 212,208 215,85 264,74 230,228 79,263" fill="#566e82" />
+      <polygon points="78,269 235,239 264,77 252,257" fill="#743b33" />
+    </g>
+    <g id="square">
+      <polygon points="-52,-53 73,-66 58,58 -66,70" fill="#566e82" />
+      <polygon points="-69,-139 69,-129 75,-70 -62,-74" fill="#202526" />
+      <polygon points="77,-62 127,-61 142,72 88,68" fill="#202526" />
+      <polygon points="-65,76 66,84 75,131 -59,131" fill="#202526" />
+      <polygon points="-133,-65 -76,-59 -70,65 -126,70" fill="#202526" />
+      <polygon points="-140,-136 -85,-139 -89,-88 -135,-82" fill="#743b33" />
+      <polygon points="86,-125 124,-125 130,-82 80,-74" fill="#743b33" />
+      <polygon points="96,96 140,90 143,136 93,138" fill="#743b33" />
+      <polygon points="-126,81 -73,73 -79,130 -117,130" fill="#743b33" />
+    </g>
+    <g id="carpet-motif">
+      <use xlink:href="#stepped-band" transform="rotate(180)" />
+      <use xlink:href="#stepped-band" transform="translate(0 0)" />
+      <use xlink:href="#square" transform="translate(0 0)" />
+    </g>
+  </defs>
+  <rect width="575" height="265" fill="#c8b891" />
+  <use xlink:href="#carpet-motif" transform="matrix(.5 -.5 .5 .5 0 0)" />
+  <use xlink:href="#carpet-motif" transform="matrix(.5 -.5 .5 .5 575 0)" />
+  <use xlink:href="#carpet-motif" transform="matrix(.5 -.5 .5 .5 0 265)" />
+  <use xlink:href="#carpet-motif" transform="matrix(.5 -.5 .5 .5 575 265)" />
+  <use xlink:href="#carpet-motif" transform="matrix(.5 -.5 .5 .5 287.5 -132.5)" />
+  <use xlink:href="#carpet-motif" transform="matrix(.5 -.5 .5 .5 287.5 132.5)" />
+  <use xlink:href="#carpet-motif" transform="matrix(.5 -.5 .5 .5 287.5 397.5)" />
+</svg>

@@ -1,0 +1,50 @@
+name: Publish Assets to Cloudflare R2
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: |
+          sudo apt-get update && sudo apt-get install -y librsvg2-bin
+          pip install pillow numpy awscli
+
+      - name: Build dist/ (catalog, SVGs, WebP thumbs)
+        run: python3 scripts/build_dist.py
+
+      - name: Sync to Cloudflare R2
+        env:
+          AWS_ACCESS_KEY_ID: ${{ secrets.R2_ACCESS_KEY_ID }}
+          AWS_SECRET_ACCESS_KEY: ${{ secrets.R2_SECRET_ACCESS_KEY }}
+          R2_ENDPOINT: ${{ secrets.R2_ENDPOINT }}
+          R2_BUCKET: ${{ secrets.R2_BUCKET }}
+        run: |
+          aws s3 sync dist/patterns/ "s3://${R2_BUCKET}/patterns/" \
+            --endpoint-url "${R2_ENDPOINT}" \
+            --cache-control "public, max-age=31536000, immutable" \
+            --content-type "image/svg+xml"
+          if [ -d dist/floors ]; then
+            aws s3 sync dist/floors/ "s3://${R2_BUCKET}/floors/" \
+              --endpoint-url "${R2_ENDPOINT}" \
+              --cache-control "public, max-age=31536000, immutable" \
+              --content-type "image/svg+xml"
+          fi
+          aws s3 sync dist/thumbs/ "s3://${R2_BUCKET}/thumbs/" \
+            --endpoint-url "${R2_ENDPOINT}" \
+            --cache-control "public, max-age=31536000, immutable" \
+            --content-type "image/webp"
+          aws s3 cp dist/carpets.json "s3://${R2_BUCKET}/carpets.json" \
+            --endpoint-url "${R2_ENDPOINT}" \
+            --cache-control "public, max-age=300" \
+            --content-type "application/json"

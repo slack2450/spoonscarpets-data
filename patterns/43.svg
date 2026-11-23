@@ -1,0 +1,96 @@
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="288" height="224" viewBox="0 0 288 224" xmlns="http://www.w3.org/2000/svg">
+  <title>The New Fairlop Oak, Fairlop — staggered bars in groups of three</title>
+  <defs>
+    <g id="oat-check">
+      <rect x="-8" y="0" width="16" height="38" fill="#dfc5b5" />
+      <rect x="-8" y="4" width="16" height="6" fill="#b99f80" />
+      <rect x="-8" y="10" width="16" height="3" fill="#af7773" />
+      <rect x="-8" y="13" width="16" height="4" fill="#b99f80" />
+      <rect x="-8" y="17" width="16" height="6" fill="#dfc5b5" />
+      <rect x="-8" y="23" width="16" height="5" fill="#b99f80" />
+      <rect x="-8" y="28" width="16" height="3" fill="#af7773" />
+      <rect x="-8" y="31" width="16" height="4" fill="#dfc5b5" />
+      <rect x="-8" y="35" width="16" height="3" fill="#b99f80" />
+    </g>
+    <g id="oat-check-three">
+      <use xlink:href="#oat-check" x="0" y="0" />
+      <use xlink:href="#oat-check" x="32" y="0" />
+      <use xlink:href="#oat-check" x="64" y="0" />
+    </g>
+    <g id="oat-blue">
+      <rect x="-8" y="0" width="16" height="38" fill="#b99f80" />
+      <rect x="-8" y="13" width="16" height="11" fill="#8397b8" />
+      <rect x="-8" y="24" width="16" height="14" fill="#b99f80" />
+    </g>
+    <g id="oat-blue-three">
+      <use xlink:href="#oat-blue" x="0" y="0" />
+      <use xlink:href="#oat-blue" x="32" y="0" />
+      <use xlink:href="#oat-blue" x="64" y="0" />
+    </g>
+    <g id="rose-check">
+      <rect x="-8" y="0" width="16" height="37" fill="#866d89" />
+      <rect x="-8" y="4" width="16" height="11" fill="#af7773" />
+      <rect x="-8" y="15" width="16" height="9" fill="#dfc5b5" />
+      <rect x="-8" y="24" width="16" height="10" fill="#af7773" />
+      <rect x="-8" y="34" width="16" height="3" fill="#866d89" />
+    </g>
+    <g id="rose-check-three">
+      <use xlink:href="#rose-check" x="0" y="0" />
+      <use xlink:href="#rose-check" x="32" y="0" />
+      <use xlink:href="#rose-check" x="64" y="0" />
+    </g>
+    <g id="blue-check">
+      <rect x="-8" y="0" width="16" height="37" fill="#8397b8" />
+      <rect x="-8" y="5" width="16" height="3" fill="#dfc5b5" />
+      <rect x="-8" y="8" width="16" height="23" fill="#8397b8" />
+      <rect x="-8" y="31" width="16" height="3" fill="#dfc5b5" />
+      <rect x="-8" y="34" width="16" height="3" fill="#8397b8" />
+    </g>
+    <g id="blue-check-three">
+      <use xlink:href="#blue-check" x="0" y="0" />
+      <use xlink:href="#blue-check" x="32" y="0" />
+      <use xlink:href="#blue-check" x="64" y="0" />
+    </g>
+    <g id="rose-double">
+      <rect x="-8" y="0" width="16" height="37" fill="#af7773" />
+      <rect x="-8" y="5" width="16" height="5" fill="#dfc5b5" />
+      <rect x="-8" y="10" width="16" height="6" fill="#af7773" />
+      <rect x="-8" y="16" width="16" height="3" fill="#866d89" />
+      <rect x="-8" y="19" width="16" height="7" fill="#af7773" />
+      <rect x="-8" y="26" width="16" height="5" fill="#dfc5b5" />
+      <rect x="-8" y="31" width="16" height="6" fill="#af7773" />
+    </g>
+    <g id="rose-double-three">
+      <use xlink:href="#rose-double" x="0" y="0" />
+      <use xlink:href="#rose-double" x="32" y="0" />
+      <use xlink:href="#rose-double" x="64" y="0" />
+    </g>
+    <g id="plum-blue">
+      <rect x="-8" y="0" width="16" height="37" fill="#866d89" />
+      <rect x="-8" y="12" width="16" height="10" fill="#8397b8" />
+      <rect x="-8" y="22" width="16" height="15" fill="#866d89" />
+    </g>
+    <g id="plum-blue-three">
+      <use xlink:href="#plum-blue" x="0" y="0" />
+      <use xlink:href="#plum-blue" x="32" y="0" />
+      <use xlink:href="#plum-blue" x="64" y="0" />
+    </g>
+  </defs>
+  <rect x="0" y="0" width="288" height="224" fill="#253957" />
+  <use xlink:href="#oat-check-three" x="18" y="17" />
+  <use xlink:href="#oat-check-three" x="114" y="17" />
+  <use xlink:href="#oat-blue-three" x="18" y="55" />
+  <use xlink:href="#oat-blue-three" x="210" y="55" />
+  <use xlink:href="#rose-check-three" x="97" y="93" />
+  <use xlink:href="#rose-check-three" x="193" y="93" />
+  <use xlink:href="#blue-check-three" x="1" y="130" />
+  <use xlink:href="#blue-check-three" x="289" y="130" />
+  <use xlink:href="#blue-check-three" x="193" y="130" />
+  <use xlink:href="#rose-double-three" x="1" y="167" />
+  <use xlink:href="#rose-double-three" x="289" y="167" />
+  <use xlink:href="#rose-double-three" x="114" y="167" />
+  <use xlink:href="#plum-blue-three" x="97" y="-20" />
+  <use xlink:href="#plum-blue-three" x="97" y="204" />
+  <use xlink:href="#plum-blue-three" x="193" y="-20" />
+  <use xlink:href="#plum-blue-three" x="193" y="204" />
+</svg>

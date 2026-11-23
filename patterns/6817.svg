@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="384" height="384" viewBox="0 0 384 384">
+  <title>Palladium Electric, Radstock — clipped-corner medallion carpet repeat</title>
+  <desc>A wine-red field with a muted rose octagonal frame enclosing a slate-blue barred device.</desc>
+  <defs>
+    <path id="outer-frame" d="M95 53 H287 L336 98 V282 L290 330 H92 L48 285 V99 Z"/>
+    <path id="frame-tick" d="M0 0 H11 L9 2 H0 Z"/>
+    <path id="upper-tab" d="M0 0 H24 L21 9 H4 L0 6 Z"/>
+    <path id="lower-tab" d="M0 0 H17 L22 6 L19 12 H1 L-2 7 Z"/>
+  </defs>
+  <rect width="384" height="384" fill="#70343f"/>
+  <use xlink:href="#outer-frame" fill="#663b41" stroke="#57343b" stroke-width="6" stroke-linejoin="round"/>
+  <use xlink:href="#outer-frame" fill="none" stroke="#88605c" stroke-width="3.5" stroke-linejoin="round"/>
+  <g fill="#663b41">
+    <use xlink:href="#frame-tick" transform="translate(131 52)"/>
+    <use xlink:href="#frame-tick" transform="translate(224 52)"/>
+    <use xlink:href="#frame-tick" transform="translate(335 148) rotate(90)"/>
+    <use xlink:href="#frame-tick" transform="translate(335 228) rotate(90)"/>
+    <use xlink:href="#frame-tick" transform="translate(264 331) rotate(180)"/>
+    <use xlink:href="#frame-tick" transform="translate(170 331) rotate(180)"/>
+    <use xlink:href="#frame-tick" transform="translate(49 245) rotate(-90)"/>
+    <use xlink:href="#frame-tick" transform="translate(49 134) rotate(-90)"/>
+  </g>
+  <!-- The central cartouche has broad caps and a row of slanted openings. -->
+  <path fill="#57343b" d="M118 107 H263 L271 114 V177 L267 183 V211 L271 217 V262 L264 277 H116 L110 269 V225 L115 216 V176 L111 168 V119 Z"/>
+  <path fill="#484752" d="M118 112 H265 V165 L261 176 V218 L266 225 V271 H113 V229 L118 217 V168 L114 161 V122 Z"/>
+  <path fill="#626976" d="M117 124 H264 V146 L256 154 H122 L116 150 Z"/>
+  <path fill="#484752" d="M117 126 H262 V131 H252 L250 135 H229 L226 131 H207 L204 134 H180 L177 131 H155 L153 135 H131 L129 132 H117 Z"/>
+  <g fill="#484752">
+    <use xlink:href="#upper-tab" x="136" y="117"/>
+    <use xlink:href="#upper-tab" x="184" y="117"/>
+    <use xlink:href="#upper-tab" x="231" y="117"/>
+  </g>
+  <path fill="#626976" d="M119 151 H141 L120 190 H116 V163 Z M159 150 H181 L145 214 L134 218 H125 Z M205 150 H227 L193 213 L182 220 H168 Z M251 150 H263 V170 L238 216 L226 223 H213 Z"/>
+  <path fill="#57343b" d="M145 159 H152 L129 201 H122 Z M189 159 H198 L168 212 H159 Z M236 158 H244 L215 211 H207 Z"/>
+  <path fill="#663b41" d="M153 176 H160 L140 211 H134 Z M199 176 H207 L187 212 H180 Z M246 176 H253 L232 212 H225 Z"/>
+  <path fill="#626976" d="M115 235 L124 231 H155 L162 236 H190 L196 231 H222 L229 235 H255 L264 232 V257 L256 264 H118 L114 256 Z"/>
+  <path fill="#484752" d="M115 250 H125 L129 255 H144 L148 250 H168 L173 255 H189 L194 250 H214 L218 255 H237 L242 250 H264 V259 H115 Z"/>
+  <g fill="#484752">
+    <use xlink:href="#lower-tab" x="126" y="224"/>
+    <use xlink:href="#lower-tab" x="174" y="224"/>
+    <use xlink:href="#lower-tab" x="222" y="224"/>
+  </g>
+</svg>

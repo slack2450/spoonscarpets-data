@@ -1,0 +1,177 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="960" height="452" viewBox="0 0 960 452">
+  <title>The Packhorse Inn, Sleaford — three floral medallions on a wine-red ground</title>
+  <defs>
+    <g id="split-tulip">
+      <path d="M 0,-18 C -6,-25 -19,-26 -27,-35 C -37,-47 -34,-63 -25,-72 Q -17,-79 -13,-89 Q -4,-82 0,-92 Q 4,-82 13,-89 Q 15,-81 25,-72 C 36,-63 37,-47 27,-35 C 19,-26 7,-26 0,-18 Z" fill="#39251F" stroke="#D2A07B" stroke-width="3" stroke-linejoin="round" stroke-linecap="round" />
+      <path d="M -28,-40 Q -36,-56 -23,-68 Q -19,-72 -17,-78 Q -12,-66 -19,-60 Q -25,-54 -24,-44 Z" fill="#E6CBA5" />
+      <path d="M 28,-40 Q 36,-56 23,-68 Q 19,-72 17,-78 Q 12,-66 19,-60 Q 25,-54 24,-44 Z" fill="#E6CBA5" />
+      <path d="M 0,-25 Q -3,-35 -13,-39 Q -21,-42 -21,-51 Q -21,-56 -16,-61 Q -16,-68 -9,-69 Q -5,-78 0,-80 Q 6,-77 9,-69 Q 16,-68 16,-61 Q 23,-57 21,-49 Q 20,-41 12,-38 Q 4,-35 0,-25 Z" fill="#D2A07B" stroke="#AC755F" stroke-width="2" stroke-linejoin="round" stroke-linecap="round" />
+      <path d="M 0,-32 Q -1,-46 -11,-53 L -14,-59 Q -5,-57 -3,-52 L 0,-68 Q 5,-64 4,-54 L 12,-61 Q 14,-54 8,-48 Q 2,-41 0,-32 Z" fill="#AC755F" />
+      <path d="M -38,-52 Q -34,-39 -23,-34 Q -29,-34 -33,-30 Q -34,-37 -42,-38 Z" fill="#E6CBA5" />
+      <path d="M 38,-52 Q 34,-39 23,-34 Q 29,-34 33,-30 Q 34,-37 42,-38 Z" fill="#E6CBA5" />
+      <path d="M -16,-54 Q -16,-63 -9,-63 L -10,-58 Q -14,-58 -16,-54 Z M 4,-72 Q 10,-72 13,-66 L 8,-67 Z" fill="#E6CBA5" />
+    </g>
+    <g id="swept-leaf">
+      <path d="M -8,-98 C -26,-104 -37,-112 -54,-110 C -77,-109 -87,-91 -88,-69 C -89,-48 -98,-35 -103,-23 Q -108,-13 -114,-12" fill="none" stroke="#AC755F" stroke-width="3.1" stroke-linejoin="round" stroke-linecap="round" />
+      <path d="M -90,-58 Q -87,-42 -95,-31 Q -93,-41 -98,-43 Q -94,-46 -90,-58 Z" fill="#897654" />
+      <path d="M -12,-94 C -32,-116 -63,-119 -77,-101 C -86,-90 -83,-73 -74,-67 C -77,-76 -73,-83 -68,-85 C -69,-77 -66,-74 -60,-72 C -67,-89 -57,-98 -45,-101 Q -25,-108 -12,-94 Z" fill="#897654" stroke="#39251F" stroke-width="2.4" stroke-linejoin="round" stroke-linecap="round" />
+      <path d="M -77,-96 Q -66,-118 -43,-110 Q -62,-108 -65,-95 Q -69,-90 -72,-91 L -73,-84 Q -79,-86 -77,-96 Z" fill="#E6CBA5" />
+      <path d="M -12,-94 Q -29,-111 -49,-111" fill="none" stroke="#D2A07B" stroke-width="2.8" stroke-linejoin="round" stroke-linecap="round" />
+    </g>
+    <g id="cross-spire">
+      <path d="M 0,-83 C -5,-93 -18,-96 -18,-105 C -19,-115 -10,-123 -3,-124 L 0,-130 L 3,-124 C 11,-122 19,-116 18,-105 C 18,-96 6,-92 0,-83 Z" fill="#897654" stroke="#D2A07B" stroke-width="2.7" stroke-linejoin="round" stroke-linecap="round" />
+      <path d="M 0,-94 C -6,-95 -13,-100 -12,-107 Q -12,-115 -4,-116 L 0,-120 L 4,-116 Q 14,-113 12,-105 Q 11,-99 0,-94 Z" fill="#39251F" />
+      <path d="M -10,-106 Q -6,-106 -4,-111 L -1,-109 L 1,-114 Q 5,-109 9,-108 L 10,-104 Q 4,-104 1,-101 Q -4,-104 -9,-102 Z" fill="#E6CBA5" />
+    </g>
+    <g id="tulip-cross">
+      <use xlink:href="#swept-leaf" transform="rotate(0)" />
+      <use xlink:href="#swept-leaf" transform="rotate(90)" />
+      <use xlink:href="#swept-leaf" transform="rotate(180)" />
+      <use xlink:href="#swept-leaf" transform="rotate(270)" />
+      <use xlink:href="#cross-spire" transform="rotate(0)" />
+      <use xlink:href="#cross-spire" transform="rotate(90)" />
+      <use xlink:href="#cross-spire" transform="rotate(180)" />
+      <use xlink:href="#cross-spire" transform="rotate(270)" />
+      <use xlink:href="#split-tulip" transform="rotate(0)" />
+      <use xlink:href="#split-tulip" transform="rotate(90)" />
+      <use xlink:href="#split-tulip" transform="rotate(180)" />
+      <use xlink:href="#split-tulip" transform="rotate(270)" />
+      <path d="M 0.00,-25.00 L 7.27,-17.55 L 17.68,-17.68 L 17.55,-7.27 L 25.00,-0.00 L 17.55,7.27 L 17.68,17.68 L 7.27,17.55 L 0.00,25.00 L -7.27,17.55 L -17.68,17.68 L -17.55,7.27 L -25.00,0.00 L -17.55,-7.27 L -17.68,-17.68 L -7.27,-17.55 Z" fill="#AC755F" stroke="#D2A07B" stroke-width="2.2" stroke-linejoin="round" stroke-linecap="round" />
+      <path d="M 0.00,-16.00 L 4.59,-11.09 L 11.31,-11.31 L 11.09,-4.59 L 16.00,-0.00 L 11.09,4.59 L 11.31,11.31 L 4.59,11.09 L 0.00,16.00 L -4.59,11.09 L -11.31,11.31 L -11.09,4.59 L -16.00,0.00 L -11.09,-4.59 L -11.31,-11.31 L -4.59,-11.09 Z" fill="#99434C" stroke="#AC755F" stroke-width="2.8" stroke-linejoin="round" stroke-linecap="round" />
+      <path d="M 0.00,-8.00 L 2.83,-2.83 L 8.00,-0.00 L 2.83,2.83 L 0.00,8.00 L -2.83,2.83 L -8.00,0.00 L -2.83,-2.83 Z" fill="#AC755F" />
+    </g>
+    <g id="bud-cup">
+      <path d="M -20,-40 C -27,-48 -38,-54 -42,-67 C -48,-82 -45,-94 -39,-100 Q -35,-105 -31,-102 C -42,-98 -41,-81 -34,-76 C -29,-71 -28,-61 -20,-54 Z" fill="#897654" stroke="#D2A07B" stroke-width="2.5" stroke-linejoin="round" stroke-linecap="round" />
+      <path d="M 20,-40 C 27,-48 38,-54 42,-67 C 48,-82 45,-94 39,-100 Q 35,-105 31,-102 C 42,-98 41,-81 34,-76 C 29,-71 28,-61 20,-54 Z" fill="#897654" stroke="#D2A07B" stroke-width="2.5" stroke-linejoin="round" stroke-linecap="round" />
+      <path d="M 0,-39 Q -9,-46 -20,-48 Q -27,-49 -28,-58 Q -36,-67 -33,-79 Q -30,-94 -15,-97 Q -6,-99 0,-106 Q 6,-99 15,-97 Q 30,-94 33,-79 Q 36,-67 28,-58 Q 27,-49 20,-48 Q 9,-46 0,-39 Z" fill="#39251F" stroke="#AC755F" stroke-width="3.4" stroke-linejoin="round" stroke-linecap="round" />
+      <path d="M -22,-59 Q -24,-72 -16,-76 Q -21,-88 -13,-87 Q -7,-87 -4,-80 Q -6,-90 0,-93 Q 5,-91 6,-82 Q 13,-92 17,-85 Q 20,-80 15,-75 Q 23,-77 23,-68 Q 23,-59 13,-56 L 0,-44 Q -5,-53 -12,-54 Z" fill="#D2A07B" />
+      <path d="M 0,-46 C 1,-55 -3,-63 -8,-69 L -13,-67 L -15,-76 Q -6,-76 -2,-66 L 0,-82 Q 5,-77 4,-67 L 12,-74 L 13,-70 Q 4,-57 0,-46 Z" fill="#AC755F" />
+      <path d="M -28,-86 Q -29,-96 -19,-101 Q -7,-107 0,-112 Q 6,-108 12,-106 Q 25,-102 29,-96 L 26,-91 Q 21,-99 12,-100 Q 2,-101 0,-106 Q -7,-102 -14,-101 Q -25,-98 -28,-86 Z" fill="#D2A07B" />
+    </g>
+    <g id="ring-finial">
+      <path d="M 0,-52 C -8,-59 -20,-63 -21,-74 Q -23,-84 -15,-88 C -17,-98 -11,-106 -4,-110 L 0,-121 L 4,-110 Q 18,-100 15,-88 Q 23,-82 21,-74 Q 20,-63 10,-61 Z" fill="#897654" stroke="#AC755F" stroke-width="2.8" stroke-linejoin="round" stroke-linecap="round" />
+      <path d="M 0,-63 Q -16,-72 -12,-83 Q -6,-92 0,-98 Q 6,-92 12,-83 Q 16,-72 0,-63 Z" fill="#39251F" stroke="#D2A07B" stroke-width="2.2" stroke-linejoin="round" stroke-linecap="round" />
+      <path d="M 0,-68 Q -9,-76 -7,-81 L 0,-91 L 7,-81 Q 10,-76 0,-68 Z" fill="#897654" />
+      <path d="M -17,-93 Q -24,-97 -26,-106 Q -20,-102 -16,-104 L -9,-113 Q -7,-103 -17,-93 Z" fill="#D2A07B" />
+      <path d="M 17,-93 Q 24,-97 26,-106 Q 20,-102 16,-104 L 9,-113 Q 7,-103 17,-93 Z" fill="#D2A07B" />
+    </g>
+    <g id="jewel">
+      <path d="M 0,-51 C -8,-43 -17,-45 -17,-34 Q -15,-26 -22,-23 L -12,-14 Q -6,-13 0,-7 Q 6,-13 12,-14 L 22,-23 Q 15,-26 17,-34 C 17,-44 7,-44 0,-51 Z" fill="#39251F" stroke="#D2A07B" stroke-width="2.7" stroke-linejoin="round" stroke-linecap="round" />
+      <path d="M 0,-43 Q -6,-36 -12,-34 Q -12,-29 -9,-25 Q -7,-22 0,-18 Q 7,-22 9,-25 L 13,-34 Q 6,-36 0,-43 Z" fill="#E6CBA5" />
+      <path d="M 0,-39 L -5,-31 L 0,-25 L 5,-31 Z" fill="#897654" />
+    </g>
+    <g id="four-cups">
+      <use xlink:href="#bud-cup" transform="rotate(45)" />
+      <use xlink:href="#bud-cup" transform="rotate(135)" />
+      <use xlink:href="#bud-cup" transform="rotate(225)" />
+      <use xlink:href="#bud-cup" transform="rotate(315)" />
+      <use xlink:href="#ring-finial" transform="rotate(0)" />
+      <use xlink:href="#ring-finial" transform="rotate(90)" />
+      <use xlink:href="#ring-finial" transform="rotate(180)" />
+      <use xlink:href="#ring-finial" transform="rotate(270)" />
+      <path d="M 0,-62 Q 10,-50 18,-50 Q 33,-50 37,-37 Q 38,-29 48,-23 Q 57,-19 55,-9 L 60,0 L 55,9 Q 57,19 48,23 Q 38,29 37,37 Q 33,50 18,50 Q 10,50 0,62 Q -10,50 -18,50 Q -33,50 -37,37 Q -38,29 -48,23 Q -57,19 -55,9 L -60,0 L -55,-9 Q -57,-19 -48,-23 Q -38,-29 -37,-37 Q -33,-50 -18,-50 Q -10,-50 0,-62 Z" fill="#39251F" stroke="#AC755F" stroke-width="3" stroke-linejoin="round" stroke-linecap="round" />
+      <use xlink:href="#jewel" transform="rotate(0)" />
+      <use xlink:href="#jewel" transform="rotate(90)" />
+      <use xlink:href="#jewel" transform="rotate(180)" />
+      <use xlink:href="#jewel" transform="rotate(270)" />
+      <use xlink:href="#corner-seed" transform="rotate(0)" />
+      <use xlink:href="#corner-seed" transform="rotate(90)" />
+      <use xlink:href="#corner-seed" transform="rotate(180)" />
+      <use xlink:href="#corner-seed" transform="rotate(270)" />
+      <path d="M 0.00,-24.00 L 6.51,-15.71 L 16.97,-16.97 L 15.71,-6.51 L 24.00,-0.00 L 15.71,6.51 L 16.97,16.97 L 6.51,15.71 L 0.00,24.00 L -6.51,15.71 L -16.97,16.97 L -15.71,6.51 L -24.00,0.00 L -15.71,-6.51 L -16.97,-16.97 L -6.51,-15.71 Z" fill="#D2A07B" />
+      <path d="M 0.00,-17.50 L 4.97,-12.01 L 12.37,-12.37 L 12.01,-4.97 L 17.50,-0.00 L 12.01,4.97 L 12.37,12.37 L 4.97,12.01 L 0.00,17.50 L -4.97,12.01 L -12.37,12.37 L -12.01,4.97 L -17.50,0.00 L -12.01,-4.97 L -12.37,-12.37 L -4.97,-12.01 Z" fill="#E6CBA5" stroke="#897654" stroke-width="2" stroke-linejoin="round" stroke-linecap="round" />
+      <path d="M 0.00,-10.00 L 4.24,-4.24 L 10.00,-0.00 L 4.24,4.24 L 0.00,10.00 L -4.24,4.24 L -10.00,0.00 L -4.24,-4.24 Z" fill="#897654" />
+      <path d="M 0.00,-4.00 L 2.12,-2.12 L 4.00,-0.00 L 2.12,2.12 L 0.00,4.00 L -2.12,2.12 L -4.00,0.00 L -2.12,-2.12 Z" fill="#39251F" />
+    </g>
+    <g id="corner-seed">
+      <path d="M -27,-20 Q -35,-22 -35,-31 Q -34,-36 -30,-39 Q -28,-36 -23,-36 L -21,-29 Z" fill="#D2A07B" />
+      <path d="M -29,-27 L -32,-31 L -29,-34 L -26,-31 Z" fill="#E6CBA5" />
+    </g>
+    <g id="palmette-wing">
+      <path d="M -3,-29 C -13,-43 -24,-39 -30,-51 C -38,-64 -29,-79 -18,-81 Q -15,-87 -18,-94 C -23,-102 -36,-104 -41,-96 Q -45,-88 -41,-83 Q -51,-86 -51,-96 C -52,-109 -39,-117 -28,-111 C -18,-108 -13,-103 -10,-95 Q -13,-105 -7,-110 Q -5,-101 0,-96 L 0,-32 Z" fill="#AC755F" stroke="#39251F" stroke-width="2.5" stroke-linejoin="round" stroke-linecap="round" />
+      <path d="M -23,-69 C -34,-76 -39,-88 -34,-96 Q -31,-101 -26,-99 Q -23,-97 -25,-94 Q -18,-96 -15,-90 Q -12,-84 -17,-77 Q -21,-73 -23,-69 Z" fill="#E6CBA5" />
+      <path d="M -44,-99 Q -46,-109 -39,-114 Q -29,-121 -21,-119 Q -25,-115 -32,-113 Q -37,-110 -37,-106 Z" fill="#D2A07B" />
+    </g>
+    <g id="palmette">
+      <use xlink:href="#palmette-wing" />
+      <use xlink:href="#palmette-wing" transform="scale(-1 1)" />
+      <path d="M 0,-33 Q -6,-43 -18,-47 C -30,-52 -30,-65 -26,-72 Q -25,-80 -16,-83 Q -10,-90 0,-89 Q 10,-90 16,-83 Q 25,-80 26,-72 C 32,-59 25,-49 17,-47 Q 6,-43 0,-33 Z" fill="#39251F" stroke="#D2A07B" stroke-width="3" stroke-linejoin="round" stroke-linecap="round" />
+      <path d="M 0,-39 Q -7,-48 -14,-48 Q -23,-51 -21,-59 Q -24,-66 -16,-69 Q -12,-72 -6,-68 Q -7,-78 0,-79 Q 8,-78 7,-68 Q 15,-74 20,-68 Q 25,-64 21,-59 Q 24,-51 15,-48 Q 6,-47 0,-39 Z" fill="#E6CBA5" />
+      <path d="M 0,-41 Q -3,-51 -12,-55 Q -9,-60 -4,-57 Q -2,-64 0,-65 Q 5,-62 4,-57 Q 10,-60 13,-56 Q 4,-51 0,-41 Z" fill="#D2A07B" />
+      <path d="M 0,-89 Q -15,-94 -16,-104 Q -16,-116 -6,-123 L 0,-132 L 7,-123 Q 17,-116 16,-104 Q 15,-94 0,-89 Z" fill="#39251F" stroke="#AC755F" stroke-width="3.5" stroke-linejoin="round" stroke-linecap="round" />
+      <path d="M 0,-95 Q -10,-98 -10,-106 Q -10,-114 -3,-117 L 0,-121 Q 12,-112 10,-105 Q 9,-97 0,-95 Z" fill="#897654" />
+      <path d="M 0,-103 L -4,-108 L 0,-113 L 4,-108 Z" fill="#E6CBA5" />
+    </g>
+    <g id="lancet">
+      <path d="M 0,-22 Q -8,-34 -17,-33 Q -24,-32 -25,-24 Q -31,-34 -23,-41 Q -15,-48 -6,-43 Q -17,-48 -18,-59 Q -20,-68 -11,-79 L -1,-96 Q 8,-84 15,-77 Q 23,-66 17,-55 Q 15,-48 7,-43 Q 16,-48 24,-40 Q 29,-35 25,-26 Q 22,-36 15,-34 Q 6,-33 0,-22 Z" fill="#39251F" stroke="#AC755F" stroke-width="3" stroke-linejoin="round" stroke-linecap="round" />
+      <path d="M 0,-48 Q -12,-55 -13,-62 Q -13,-70 -7,-76 Q -5,-70 0,-72 Q 5,-69 9,-75 Q 15,-68 12,-61 Q 10,-54 0,-48 Z" fill="#897654" />
+      <path d="M -11,-61 Q -5,-60 -1,-65 Q 5,-61 11,-62 Q 4,-58 0,-54 Q -4,-58 -11,-58 Z" fill="#E6CBA5" />
+      <path d="M -9,-85 Q -3,-88 0,-96 Q 4,-88 10,-85 L 0,-79 Z" fill="#99434C" />
+    </g>
+    <g id="eight-petal">
+      <use xlink:href="#lancet" transform="rotate(0)" />
+      <use xlink:href="#lancet" transform="rotate(90)" />
+      <use xlink:href="#lancet" transform="rotate(180)" />
+      <use xlink:href="#lancet" transform="rotate(270)" />
+      <use xlink:href="#palmette" transform="rotate(45)" />
+      <use xlink:href="#palmette" transform="rotate(135)" />
+      <use xlink:href="#palmette" transform="rotate(225)" />
+      <use xlink:href="#palmette" transform="rotate(315)" />
+      <use xlink:href="#rosette-petal" transform="rotate(0)" />
+      <use xlink:href="#rosette-petal" transform="rotate(45)" />
+      <use xlink:href="#rosette-petal" transform="rotate(90)" />
+      <use xlink:href="#rosette-petal" transform="rotate(135)" />
+      <use xlink:href="#rosette-petal" transform="rotate(180)" />
+      <use xlink:href="#rosette-petal" transform="rotate(225)" />
+      <use xlink:href="#rosette-petal" transform="rotate(270)" />
+      <use xlink:href="#rosette-petal" transform="rotate(315)" />
+      <path d="M 0.00,-12.00 L 3.44,-8.31 L 8.49,-8.49 L 8.31,-3.44 L 12.00,-0.00 L 8.31,3.44 L 8.49,8.49 L 3.44,8.31 L 0.00,12.00 L -3.44,8.31 L -8.49,8.49 L -8.31,3.44 L -12.00,0.00 L -8.31,-3.44 L -8.49,-8.49 L -3.44,-8.31 Z" fill="#897654" stroke="#39251F" stroke-width="2" stroke-linejoin="round" stroke-linecap="round" />
+      <path d="M 0.00,-5.00 L 2.47,-2.47 L 5.00,-0.00 L 2.47,2.47 L 0.00,5.00 L -2.47,2.47 L -5.00,0.00 L -2.47,-2.47 Z" fill="#D2A07B" />
+    </g>
+    <g id="rosette-petal">
+      <path d="M 0,-7 C -7,-11 -10,-18 -6,-23 Q -1,-29 0,-32 Q 1,-29 6,-23 C 10,-18 7,-11 0,-7 Z" fill="#E6CBA5" stroke="#AC755F" stroke-width="2" stroke-linejoin="round" stroke-linecap="round" />
+      <path d="M 0,-13 Q -4,-17 -1,-22 Q 3,-22 4,-18 Z" fill="#39251F" />
+    </g>
+    <g id="chain-half">
+      <path d="M 0,-3 C -4,-9 -15,-13 -16,-24 Q -17,-35 -8,-43 Q -3,-48 0,-55 Q 3,-48 8,-43 Q 18,-34 16,-24 Q 15,-14 0,-3 Z" fill="none" stroke="#AC755F" stroke-width="3" stroke-linejoin="round" stroke-linecap="round" />
+      <path d="M -12,-32 Q -10,-40 0,-47 Q 10,-40 12,-32" fill="none" stroke="#897654" stroke-width="2.6" stroke-linejoin="round" stroke-linecap="round" />
+      <path d="M 0,-15 Q -3,-23 -9,-28 Q -3,-33 0,-39 Q 3,-33 9,-28 Q 3,-22 0,-15 Z" fill="#99434C" stroke="#897654" stroke-width="2.4" stroke-linejoin="round" stroke-linecap="round" />
+      <path d="M 0,-51 Q -4,-58 -10,-55 Q -17,-55 -16,-63 Q -9,-63 -5,-60 Q -9,-69 -4,-74 L 0,-81 L 4,-74 Q 10,-69 5,-60 Q 10,-64 16,-63 Q 16,-55 10,-55 Q 4,-58 0,-51 Z" fill="#D2A07B" stroke="#AC755F" stroke-width="2" stroke-linejoin="round" stroke-linecap="round" />
+    </g>
+    <g id="side-sprig">
+      <path d="M 3,0 Q 11,-3 18,-10 Q 26,-16 26,-24 M 12,-4 Q 16,8 25,11" fill="none" stroke="#897654" stroke-width="2.7" stroke-linejoin="round" stroke-linecap="round" />
+      <path d="M 14,-5 Q 19,-14 31,-12 Q 27,-5 20,-5 L 17,-1 Z" fill="#AC755F" />
+    </g>
+    <g id="bow">
+      <use xlink:href="#chain-half" />
+      <use xlink:href="#chain-half" transform="rotate(180)" />
+      <use xlink:href="#side-sprig" />
+      <use xlink:href="#side-sprig" transform="rotate(180)" />
+      <path d="M 0.00,-11.00 L 2.30,-5.54 L 7.78,-7.78 L 5.54,-2.30 L 11.00,-0.00 L 5.54,2.30 L 7.78,7.78 L 2.30,5.54 L 0.00,11.00 L -2.30,5.54 L -7.78,7.78 L -5.54,2.30 L -11.00,0.00 L -5.54,-2.30 L -7.78,-7.78 L -2.30,-5.54 Z" fill="#897654" stroke="#AC755F" stroke-width="2" stroke-linejoin="round" stroke-linecap="round" />
+      <path d="M 0.00,-6.50 L 2.62,-2.62 L 6.50,-0.00 L 2.62,2.62 L 0.00,6.50 L -2.62,2.62 L -6.50,0.00 L -2.62,-2.62 Z" fill="#E6CBA5" />
+    </g>
+  </defs>
+  <rect x="0" y="0" width="960" height="452" fill="#99434C" />
+  <use xlink:href="#tulip-cross" transform="translate(198 293)" />
+  <use xlink:href="#four-cups" transform="translate(518 293)" />
+  <use xlink:href="#eight-petal" transform="translate(-122 293)" />
+  <use xlink:href="#eight-petal" transform="translate(838 293)" />
+  <use xlink:href="#bow" transform="translate(38 293)" />
+  <use xlink:href="#bow" transform="translate(358 293)" />
+  <use xlink:href="#bow" transform="translate(678 293)" />
+  <use xlink:href="#tulip-cross" transform="translate(678 67)" />
+  <use xlink:href="#tulip-cross" transform="translate(678 519)" />
+  <use xlink:href="#four-cups" transform="translate(38 67)" />
+  <use xlink:href="#four-cups" transform="translate(38 519)" />
+  <use xlink:href="#four-cups" transform="translate(998 67)" />
+  <use xlink:href="#four-cups" transform="translate(998 519)" />
+  <use xlink:href="#eight-petal" transform="translate(358 67)" />
+  <use xlink:href="#eight-petal" transform="translate(358 519)" />
+  <use xlink:href="#bow" transform="translate(518 67)" />
+  <use xlink:href="#bow" transform="translate(518 519)" />
+  <use xlink:href="#bow" transform="translate(838 67)" />
+  <use xlink:href="#bow" transform="translate(838 519)" />
+  <use xlink:href="#bow" transform="translate(198 67)" />
+  <use xlink:href="#bow" transform="translate(198 519)" />
+</svg>
