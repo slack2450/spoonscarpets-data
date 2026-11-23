@@ -5,7 +5,7 @@
     "totalPubs": 776,
     "vectorizedPubs": 768,
     "noCarpetPubs": 8,
-    "updatedAt": "2026-11-23T21:17:48+00:00"
+    "updatedAt": "2026-11-23T23:06:29+00:00"
   },
   "pubs": [
     {
@@ -2430,15 +2430,15 @@
       "pattern": {
         "path": "patterns/297.svg",
         "thumb": "thumbs/297.webp",
-        "width": 384,
+        "width": 768,
         "height": 768,
-        "bytes": 162013,
-        "sha256": "d89068dcc1fbfea88728ef7f726cc8cdc9365774075ee9a13a0c91b2658e8af7",
+        "bytes": 93905,
+        "sha256": "f1ff0e947796b51c0bc4a3da64926fd9ba3aeecfd7faf0a1b01831a6e143448e",
         "colors": [
-          "#2a3b5c",
-          "#6082a8",
-          "#8d3448",
-          "#cba87a"
+          "#273151",
+          "#5c7b9f",
+          "#8b3145",
+          "#cbac85"
         ],
         "seamless": true
       }
