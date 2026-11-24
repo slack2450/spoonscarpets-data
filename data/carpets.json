@@ -5,7 +5,7 @@
     "totalPubs": 776,
     "vectorizedPubs": 768,
     "noCarpetPubs": 8,
-    "updatedAt": "2026-11-24T22:08:39Z"
+    "updatedAt": "2026-11-24T22:24:46Z"
   },
   "pubs": [
     {
@@ -279,17 +279,19 @@
       "pattern": {
         "path": "patterns/5285.svg",
         "thumb": "thumbs/5285.webp",
-        "width": 576,
-        "height": 320,
-        "bytes": 181293,
-        "sha256": "378ad3c54131aaca1c9a424baff5e7be10d44abcaea8d5cfd50a420f3f357c17",
+        "width": 750,
+        "height": 630,
+        "bytes": 38689,
+        "sha256": "02f5386328c5b75efc01475f9cd246ad83a7c4327c0ef2944e10ffa1204fc60a",
         "colors": [
-          "#3c3449",
-          "#583c51",
-          "#713d50",
-          "#854354",
-          "#af6267",
-          "#ceae9e"
+          "#302731",
+          "#49313d",
+          "#25242d",
+          "#68392f",
+          "#a34c2b",
+          "#cf7739",
+          "#ba8143",
+          "#dea954"
         ],
         "seamless": true
       }
@@ -858,15 +860,19 @@
       "pattern": {
         "path": "patterns/1204.svg",
         "thumb": "thumbs/1204.webp",
-        "width": 192,
-        "height": 224,
-        "bytes": 35921,
-        "sha256": "ffdd6f114eefa8b158f7c706051628b88f826ed4c2f20cf0295fef45e3ce13a3",
+        "width": 1200,
+        "height": 1200,
+        "bytes": 23862,
+        "sha256": "d6cc8eb6767f0f861bd5e48dc3b8e1d9a75c3b4feacb2a8cffe606a56fd416b5",
         "colors": [
-          "#472218",
-          "#593425",
-          "#684132",
-          "#765141"
+          "#eedcb5",
+          "#472a2e",
+          "#6e9474",
+          "#254b43",
+          "#83a6ac",
+          "#a52e40",
+          "#bd8048",
+          "#e1be80"
         ],
         "seamless": true
       }
@@ -5751,17 +5757,17 @@
       "pattern": {
         "path": "patterns/386.svg",
         "thumb": "thumbs/386.webp",
-        "width": 512,
-        "height": 512,
-        "bytes": 20943,
-        "sha256": "75cc462b03cfba699bdbdf842c71d65ad17da61b390b604d3342d59846ba9811",
+        "width": 400,
+        "height": 400,
+        "bytes": 6690,
+        "sha256": "9a91617c6eeff1875b39dd1a75270080a0ed55c51a9522ff227862f7e6e08773",
         "colors": [
-          "#203660",
-          "#53354f",
-          "#6784ad",
-          "#89687d",
-          "#a4a1b1",
-          "#ad858b"
+          "#53616d",
+          "#424e59",
+          "#8b7d69",
+          "#ae9a7c",
+          "#d8cdb5",
+          "#e6deca"
         ],
         "seamless": true
       }
@@ -11590,15 +11596,19 @@
       "pattern": {
         "path": "patterns/2936.svg",
         "thumb": "thumbs/2936.webp",
-        "width": 320,
-        "height": 320,
-        "bytes": 43679,
-        "sha256": "66685a0c0d10408d00bee4c193d212251c130a91759e577a2f15f1572b95d1cb",
+        "width": 372,
+        "height": 432,
+        "bytes": 114505,
+        "sha256": "5c0b1d7fcb15dfa529ece789c38e1b7b21bc2e0662413a044d18b8b73aa7061b",
         "colors": [
-          "#643934",
-          "#804c47",
-          "#a0665f",
-          "#bd8980"
+          "#312522",
+          "#644837",
+          "#74333c",
+          "#a37e60",
+          "#a07c75",
+          "#75603c",
+          "#b99c75",
+          "#c6aa81"
         ],
         "seamless": true
       }
@@ -11744,17 +11754,19 @@
       "pattern": {
         "path": "patterns/154.svg",
         "thumb": "thumbs/154.webp",
-        "width": 272,
-        "height": 200,
-        "bytes": 47581,
-        "sha256": "f2743d5d8b8e0041d89065cf30e078bf2d3d57016f42e216c03c1e3586cc8f75",
+        "width": 660,
+        "height": 474,
+        "bytes": 50103,
+        "sha256": "bbf7314a38072ade1770122496d8bb0a517b282d55c9be497123032173925fb5",
         "colors": [
-          "#501b0c",
-          "#692810",
-          "#813b1d",
-          "#984c28",
-          "#ad6538",
-          "#c0804d"
+          "#dfbd8a",
+          "#d4ad79",
+          "#c39864",
+          "#e7ca98",
+          "#78303a",
+          "#974852",
+          "#55232a",
+          "#ad7952"
         ],
         "seamless": true
       }
@@ -12072,17 +12084,19 @@
       "pattern": {
         "path": "patterns/479.svg",
         "thumb": "thumbs/479.webp",
-        "width": 300,
-        "height": 624,
-        "bytes": 17699,
-        "sha256": "52855ed0626b81a6af06bca173e5e245910061107eee57e3a56a7adff149e31d",
+        "width": 720,
+        "height": 356,
+        "bytes": 237836,
+        "sha256": "ae9ffce2c3b30fd731853aaa1006c8e5035936afb365bc2f540a49d7d79192c3",
         "colors": [
-          "#471e23",
-          "#773d46",
-          "#827048",
-          "#ac7779",
-          "#b79b76",
-          "#cfb897"
+          "#682537",
+          "#392630",
+          "#865c6e",
+          "#b67c7f",
+          "#89623f",
+          "#bc905e",
+          "#dab580",
+          "#882b40"
         ],
         "seamless": true
       }
@@ -12966,17 +12980,19 @@
       "pattern": {
         "path": "patterns/2060.svg",
         "thumb": "thumbs/2060.webp",
-        "width": 320,
-        "height": 400,
-        "bytes": 6357,
-        "sha256": "4424b9e2a82ee882d49333b600ddaf0955350c51b9cdeca23b609c9ecc137ada",
+        "width": 500,
+        "height": 248,
+        "bytes": 14578,
+        "sha256": "d64bd312557d29695ee9166853f4487595c568d7c244b955e63320b14891be34",
         "colors": [
-          "#5c4353",
-          "#6f7975",
-          "#805663",
-          "#828c8a",
-          "#877275",
-          "#895954"
+          "#923c2a",
+          "#bd8967",
+          "#781e2b",
+          "#c3ab8a",
+          "#d3bc98",
+          "#a32f3e",
+          "#ad9275",
+          "#631923"
         ],
         "seamless": true
       }
@@ -13293,15 +13309,18 @@
       "pattern": {
         "path": "patterns/6507.svg",
         "thumb": "thumbs/6507.webp",
-        "width": 256,
-        "height": 66,
-        "bytes": 744,
-        "sha256": "1c3c06a2896bbd4dd3de22074d10157199148f15cce1d2d8c6beec4d700e85c4",
+        "width": 774,
+        "height": 400,
+        "bytes": 417666,
+        "sha256": "cf62b61c34bc7131eae6f8c5933a0453e4dcc9a1552aef5e9091c8b8e520baee",
         "colors": [
-          "#373c3f",
-          "#a09586",
-          "#a49c4e",
-          "#beb8a7"
+          "#8c726a",
+          "#795b58",
+          "#65444a",
+          "#493037",
+          "#9f8880",
+          "#af9c93",
+          "#c3b3a5"
         ],
         "seamless": true
       }
@@ -16233,17 +16252,19 @@
       "pattern": {
         "path": "patterns/640.svg",
         "thumb": "thumbs/640.webp",
-        "width": 340,
-        "height": 340,
-        "bytes": 15229,
-        "sha256": "9afea5b8e6d0649220a5ef6245a9dfbb76ab5137dcbe62e0f2b7e011962646e7",
+        "width": 512,
+        "height": 512,
+        "bytes": 147187,
+        "sha256": "5781d377852f1616a94534c82f7123f74c5049993538ab70a1014e92583266ad",
         "colors": [
-          "#2c1e20",
-          "#532f36",
-          "#726044",
-          "#834c50",
-          "#a6836a",
-          "#bd7759"
+          "#171c31",
+          "#252e49",
+          "#383144",
+          "#3e4c67",
+          "#73676a",
+          "#58637a",
+          "#777b87",
+          "#978a80"
         ],
         "seamless": true
       }

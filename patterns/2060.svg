@@ -1,50 +1,165 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="320" height="400" viewBox="0 0 320 400">
-  <title>The Poste of Stone, Stone — rose, plum and sage carpet repeat</title>
-  <defs>
-    <g id="woven-cell">
-      <path fill="#805663" d="M -40 123 C -21 121 -8 128 2 139 Q 12 145 25 138 Q 37 128 45 124 C 50 141 48 151 61 164 Q 69 175 88 179 L 96 193 Q 81 201 66 198 Q 48 196 37 212 Q 26 224 9 219 L 1 213 Q -12 219 -23 212 Q -30 207 -43 211 Q -52 202 -47 192 C -38 177 -47 170 -50 157 Q -55 142 -40 123 Z"/>
-      <path fill="#895954" d="M -41 144 Q -28 142 -18 133 Q -6 126 6 140 Q 12 144 23 135 L 35 127 Q 40 142 49 150 Q 57 161 54 172 Q 56 183 70 188 Q 57 193 51 204 C 45 216 31 224 17 220 L 6 212 Q -4 211 -14 217 Q -27 219 -34 208 Q -40 202 -49 202 Q -39 190 -43 178 Q -48 168 -49 157 Z"/>
-      <path fill="#805663" d="M -33 150 Q -21 156 -17 168 Q -17 175 -12 179 Q -12 168 -15 159 Q -18 150 -16 144 Q -7 150 -5 163 Q -4 170 -6 181 Q -16 189 -25 184 Q -33 174 -29 166 Q -26 158 -33 150 Z"/>
-      <path fill="#805663" d="M 7 199 Q 17 197 23 187 Q 22 200 15 205 Q 10 209 3 207 Z"/>
-      <path fill="#805663" d="M -28 -8 Q -17 -16 -5 -13 Q 4 -11 7 -2 Q 16 4 27 -4 Q 43 -12 53 -13 C 69 -16 78 -28 92 -37 Q 107 -47 121 -47 C 115 -33 101 -27 98 -16 Q 95 -5 108 0 Q 123 4 139 3 Q 146 14 137 24 Q 132 31 119 35 Q 109 42 108 48 Q 99 57 84 58 Q 69 62 59 71 Q 49 84 41 91 Q 26 100 12 93 Q 17 81 10 71 Q 6 63 1 49 Q -3 37 -13 30 Q -25 21 -30 8 Z"/>
-      <path fill="#5c4353" d="M 3 23 Q 8 16 5 8 Q 5 1 13 -4 Q 22 -8 32 -2 Q 37 1 43 -5 Q 48 -12 57 -12 Q 67 -9 74 -16 Q 83 -28 96 -32 L 106 -34 Q 99 -21 88 -10 Q 82 -3 86 2 Q 97 7 108 6 Q 120 7 126 15 Q 130 21 121 27 Q 107 32 103 39 Q 97 48 86 47 Q 72 46 67 52 Q 66 62 51 65 Q 45 68 43 78 Q 41 86 30 87 Q 14 86 13 75 Q 17 63 10 55 Q 6 48 -2 43 Q -5 36 3 23 Z"/>
-      <path fill="#805663" d="M 48 32 Q 54 25 63 17 Q 71 10 77 14 Q 83 19 74 30 Q 66 40 57 43 Q 49 44 48 39 Z"/>
-      <path fill="#805663" d="M 56 50 Q 62 45 69 48 Q 72 53 66 56 Q 60 59 55 56 Z"/>
-      <path fill="#5c4353" d="M -39 -2 Q -29 -12 -20 -9 Q -10 -6 -12 2 L -17 11 Q -15 16 -8 17 Q -5 25 -13 30 Q -22 32 -29 22 Q -38 17 -41 8 Z"/>
-      <path fill="#805663" d="M 12 22 Q 15 14 23 11 Q 31 8 37 13 Q 42 17 40 22 Q 35 26 31 22 Q 24 18 18 26 Q 13 34 6 37 Q 11 30 12 22 Z"/>
-      <path fill="#805663" d="M 87 33 Q 94 24 103 23 Q 109 23 108 27 Q 99 29 94 36 Q 90 41 83 41 Z"/>
-      <path fill="#805663" d="M 20 65 Q 24 61 29 65 L 34 72 Q 30 78 26 75 Q 20 71 20 65 Z"/>
-      <path fill="#805663" d="M 43 108 C 48 91 64 79 76 74 C 91 67 99 55 115 52 Q 133 47 150 52 Q 167 54 181 53 Q 201 57 212 68 Q 227 58 246 53 Q 261 49 274 39 Q 291 37 305 45 Q 317 57 319 72 Q 322 86 312 103 Q 309 120 290 135 Q 275 149 248 149 Q 227 153 212 165 Q 198 177 175 180 Q 162 184 150 190 Q 130 188 118 193 Q 101 195 89 186 C 76 185 64 178 59 168 Q 47 156 45 139 Q 38 121 43 108 Z"/>
-      <path fill="#6f7975" d="M 44 108 Q 50 90 76 79 Q 85 75 93 65 Q 109 50 126 48 Q 137 46 151 54 Q 166 60 182 54 Q 192 55 206 65 L 213 69 Q 227 61 243 54 Q 262 49 274 41 Q 292 40 306 50 Q 317 62 318 75 Q 321 89 309 105 C 307 119 296 133 282 139 Q 269 146 251 144 Q 234 143 220 155 Q 209 165 192 170 Q 171 172 160 181 Q 151 189 137 183 Q 124 179 115 186 Q 100 192 88 182 Q 70 179 60 163 C 49 155 48 142 46 132 Q 40 121 44 108 Z"/>
-      <path fill="#828c8a" d="M 52 110 Q 57 100 70 97 Q 76 95 80 99 Q 81 106 87 105 Q 94 104 94 99 Q 91 92 83 91 Q 77 90 71 92 Q 80 82 92 78 Q 103 76 109 68 Q 120 54 134 53 Q 147 52 153 60 Q 157 66 149 75 Q 139 85 136 93 Q 129 100 118 99 Q 109 99 107 106 Q 115 118 107 132 Q 101 138 97 149 Q 99 156 111 159 Q 122 162 124 174 Q 124 184 114 186 Q 102 184 95 179 Q 88 176 79 176 Q 66 169 62 156 Q 51 144 54 130 Q 50 120 52 110 Z"/>
-      <path fill="#6f7975" d="M 76 116 Q 80 118 81 124 L 84 134 Q 82 137 80 133 L 76 126 Q 73 121 76 116 Z"/>
-      <path fill="#6f7975" d="M 84 120 Q 87 120 89 126 L 92 136 Q 91 140 88 136 L 85 131 Z"/>
-      <path fill="#6f7975" d="M 70 130 Q 74 134 76 140 L 73 141 Q 69 136 70 130 Z"/>
-      <path fill="#828c8a" d="M 234 67 Q 241 62 248 61 Q 256 58 263 58 Q 260 62 251 64 Q 242 67 237 71 Q 232 74 229 73 Z"/>
-      <path fill="#828c8a" d="M 267 64 Q 272 59 278 61 Q 275 65 269 67 Z"/>
-      <path fill="#877275" d="M 114 144 Q 119 133 116 126 C 119 110 131 98 141 88 Q 153 76 155 63 Q 154 57 160 54 Q 174 49 194 59 Q 207 66 209 78 Q 211 92 202 101 Q 192 111 185 124 Q 176 133 175 143 Q 177 153 168 157 Q 158 159 153 168 Q 151 176 156 181 Q 144 186 133 181 Q 126 178 119 184 Q 128 169 119 159 Q 111 153 114 144 Z"/>
-      <path fill="#805663" d="M 114 142 Q 114 125 124 112 Q 139 94 146 84 Q 154 75 157 63 Q 159 54 169 53 C 185 52 197 59 201 71 Q 202 77 195 82 Q 184 86 180 96 Q 174 108 166 116 Q 157 122 153 134 Q 149 144 138 149 Q 131 152 124 145 Q 121 141 114 142 Z"/>
-      <path fill="#5c4353" d="M 158 78 Q 164 69 173 70 Q 183 70 185 78 Q 184 85 176 89 Q 171 92 164 87 Q 156 87 158 78 Z"/>
-      <path fill="#5c4353" d="M 130 113 Q 136 105 144 105 Q 152 107 150 115 Q 146 121 137 121 Q 129 121 130 113 Z"/>
-      <path fill="#828c8a" d="M 178 125 Q 185 118 187 109 Q 192 99 201 97 Q 209 96 212 100 Q 201 106 205 117 Q 206 126 214 130 Q 214 136 204 136 Q 195 135 190 131 Z"/>
-      <path fill="#828c8a" d="M 145 166 Q 147 156 157 156 Q 166 157 170 164 Q 176 170 169 175 Q 161 182 154 177 Q 145 176 145 166 Z"/>
-      <path fill="#805663" d="M 178 131 Q 184 133 188 140 Q 194 148 190 154 Q 186 161 180 156 Q 176 151 178 145 Q 179 138 174 134 Z"/>
-    </g>
-  </defs>
-  <rect width="320" height="400" fill="#877275"/>
-  <use xlink:href="#woven-cell" x="-160" y="-200"/>
-  <use xlink:href="#woven-cell" x="160" y="-200"/>
-  <use xlink:href="#woven-cell" x="480" y="-200"/>
-  <use xlink:href="#woven-cell" x="-320" y="0"/>
-  <use xlink:href="#woven-cell" x="0" y="0"/>
-  <use xlink:href="#woven-cell" x="320" y="0"/>
-  <use xlink:href="#woven-cell" x="-160" y="200"/>
-  <use xlink:href="#woven-cell" x="160" y="200"/>
-  <use xlink:href="#woven-cell" x="480" y="200"/>
-  <use xlink:href="#woven-cell" x="-320" y="400"/>
-  <use xlink:href="#woven-cell" x="0" y="400"/>
-  <use xlink:href="#woven-cell" x="320" y="400"/>
-  <use xlink:href="#woven-cell" x="-160" y="600"/>
-  <use xlink:href="#woven-cell" x="160" y="600"/>
-  <use xlink:href="#woven-cell" x="480" y="600"/>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="500" height="248" viewBox="0 0 500 248">
+<title>The Poste of Stone, Stone — pillar boxes and postal cancellations</title>
+<defs>
+<g id="engraved-stamp">
+<rect x="0" y="0" width="87" height="80" fill="#923c2a"/>
+<path d="M1 79V4Q1 1 5 1H85V79Z" fill="none" stroke="#bd8967" stroke-width="2.6"/>
+<path d="M5 75V5H81V75Z" fill="none" stroke="#923c2a" stroke-width="1.4"/>
+<path d="M15 3H80V9H20V41H14Z" fill="#bd8967" />
+<path d="M21 10H72V43H21Z" fill="#bd8967" />
+<path d="M22 8L69 43H80V36L43 9ZM22 21L51 43H61L22 14ZM22 32L36 43H45L22 26Z" fill="#923c2a" />
+<path d="M38 9L64 29L72 33L71 25L53 10Z" fill="#781e2b" />
+<path d="M58 10H74L72 17Z" fill="#c3ab8a" />
+<circle cx="11" cy="9" r="4" fill="#bd8967"/>
+<circle cx="11" cy="9" r="1.7" fill="#923c2a"/>
+<path d="M10 20q-4 3 -1 7q4 2 3 -2q-1 -3 -4 -1m4 8q-6 1 -4 7q3 2 5 -3" fill="none" stroke="#bd8967" stroke-width="2.3"/>
+<path d="M3 48L24 43L49 48L80 65L79 75L48 63L28 52L7 58Z" fill="#bd8967" />
+<path d="M6 55L25 47L34 50L8 69Z" fill="#d3bc98" />
+<path d="M13 67L28 56L48 69L53 75L37 73L27 65L20 73L7 76Z" fill="#bd8967" />
+<path d="M31 48Q45 44 56 52T80 60M43 52Q54 49 67 58T83 62M47 60Q55 56 67 64T82 68M46 66Q54 63 63 69T80 74" fill="none" stroke="#c3ab8a" stroke-width="2.3"/>
+<path d="M4 77Q14 72 24 74T43 72T62 75" fill="none" stroke="#bd8967" stroke-width="2"/>
+</g>
+<g id="postal-print">
+<path d="M229 -26H304V49H229Z" fill="#781e2b" />
+<path d="M232 -21Q258 -37 294 -23L301 23L290 47H232Z" fill="#a32f3e" />
+<path d="M282 -24C256 -37 229 -17 230 9S241 41 260 45" fill="none" stroke="#bd8967" stroke-width="2.6"/>
+<path d="M278 -19C257 -28 236 -11 236 7Q235 27 250 37" fill="none" stroke="#923c2a" stroke-width="1.7"/>
+<ellipse cx="242" cy="29" rx="2.9" ry="4" transform="rotate(-21 242 29)" fill="#781e2b" stroke="#bd8967" stroke-width="1.5"/>
+<ellipse cx="238" cy="21" rx="2.3" ry="3.1" transform="rotate(-18 238 21)" fill="#781e2b" stroke="#bd8967" stroke-width="1.5"/>
+<ellipse cx="236" cy="11" rx="2.1" ry="3" transform="rotate(0 236 11)" fill="#781e2b" stroke="#bd8967" stroke-width="1.5"/>
+<ellipse cx="237" cy="1" rx="2.6" ry="3.7" transform="rotate(15 237 1)" fill="#781e2b" stroke="#bd8967" stroke-width="1.5"/>
+<ellipse cx="242" cy="-7" rx="2.5" ry="3.6" transform="rotate(26 242 -7)" fill="#781e2b" stroke="#bd8967" stroke-width="1.5"/>
+<ellipse cx="249" cy="-15" rx="2.6" ry="3.3" transform="rotate(35 249 -15)" fill="#781e2b" stroke="#bd8967" stroke-width="1.5"/>
+<ellipse cx="259" cy="-19" rx="2.5" ry="3.1" transform="rotate(30 259 -19)" fill="#781e2b" stroke="#bd8967" stroke-width="1.5"/>
+<ellipse cx="269" cy="-20" rx="1.9" ry="2.7" transform="rotate(-15 269 -20)" fill="#781e2b" stroke="#bd8967" stroke-width="1.5"/>
+<path d="M 246,-13 C 259,-15 267,-21 277,-20 S 299,-9 311,-13 S 331,-20 342,-19 S 361,-14 371,-17" fill="none" stroke="#c3ab8a" stroke-width="3.1"/>
+<path d="M 246,-5 C 259,-7 267,-13 277,-12 S 299,-1 311,-5 S 331,-12 342,-11 S 361,-6 371,-9" fill="none" stroke="#d3bc98" stroke-width="3.1"/>
+<path d="M 246,3 C 259,1 267,-5 277,-4 S 299,7 311,3 S 331,-4 342,-3 S 361,2 371,-1" fill="none" stroke="#d3bc98" stroke-width="3.1"/>
+<path d="M 246,11 C 259,9 267,3 277,4 S 299,15 311,11 S 331,4 342,5 S 361,10 371,7" fill="none" stroke="#c3ab8a" stroke-width="3.1"/>
+<path d="M 246,19 C 259,17 267,11 277,12 S 299,23 311,19 S 331,12 342,13 S 361,18 371,15" fill="none" stroke="#d3bc98" stroke-width="3.1"/>
+<path d="M 246,27 C 259,25 267,19 277,20 S 299,31 311,27 S 331,20 342,21 S 361,26 371,23" fill="none" stroke="#d3bc98" stroke-width="3.1"/>
+<path d="M 246,35 C 259,33 267,27 277,28 S 299,39 311,35 S 331,28 342,29 S 361,34 371,31" fill="none" stroke="#c3ab8a" stroke-width="3.1"/>
+<path d="M 246,43 C 259,41 267,35 277,36 S 299,47 311,43 S 331,36 342,37 S 361,42 371,39" fill="none" stroke="#d3bc98" stroke-width="3.1"/>
+</g>
+<g id="ground-detail">
+<g transform="translate(66 14)">
+<use xlink:href="#engraved-stamp" x="0" y="0" />
+ </g>
+<g transform="translate(145 -26)">
+<use xlink:href="#engraved-stamp" x="0" y="0" />
+ </g>
+<path d="M71 18H138" fill="none" stroke="#d3bc98" stroke-width="2.8"/>
+<path d="M73 20H139" fill="none" stroke="#bd8967" stroke-width="2.6"/>
+<path d="M75 18h2.2v3.8h-2.2Z" fill="#923c2a" />
+<path d="M81 18h2.2v3.8h-2.2Z" fill="#923c2a" />
+<path d="M87 18h2.2v3.8h-2.2Z" fill="#923c2a" />
+<path d="M93 18h2.2v3.8h-2.2Z" fill="#923c2a" />
+<path d="M99 18h2.2v3.8h-2.2Z" fill="#923c2a" />
+<path d="M105 18h2.2v3.8h-2.2Z" fill="#923c2a" />
+<path d="M111 18h2.2v3.8h-2.2Z" fill="#923c2a" />
+<path d="M117 18h2.2v3.8h-2.2Z" fill="#923c2a" />
+<path d="M123 18h2.2v3.8h-2.2Z" fill="#923c2a" />
+<path d="M129 18h2.2v3.8h-2.2Z" fill="#923c2a" />
+<path d="M135 18h2.2v3.8h-2.2Z" fill="#923c2a" />
+<use xlink:href="#postal-print" x="0" y="0" />
+<path d="M -139,24.0 C -126,26.0 -112,35.0 -101,33.0 S -80,27.0 -67,27.0 S -47,32.0 -38,34.0 S -17,31.0 -8,28.0 L 2,26.0" fill="none" stroke="#c3ab8a" stroke-width="3.5"/>
+<path d="M -139,32.0 C -126,34.0 -112,43.0 -101,41.0 S -80,35.0 -67,35.0 S -47,40.0 -38,42.0 S -17,39.0 -8,36.0 L 2,34.0" fill="none" stroke="#bd8967" stroke-width="3.0"/>
+<path d="M -139,40.0 C -126,42.0 -112,51.0 -101,49.0 S -80,43.0 -67,43.0 S -47,48.0 -38,50.0 S -17,47.0 -8,44.0 L 2,42.0" fill="none" stroke="#d3bc98" stroke-width="3.0"/>
+<path d="M -139,48.0 C -126,50.0 -112,59.0 -101,57.0 S -80,51.0 -67,51.0 S -47,56.0 -38,58.0 S -17,55.0 -8,52.0 L 2,50.0" fill="none" stroke="#c3ab8a" stroke-width="3.5"/>
+<path d="M -139,56.0 C -126,58.0 -112,67.0 -101,65.0 S -80,59.0 -67,59.0 S -47,64.0 -38,66.0 S -17,63.0 -8,60.0 L 2,58.0" fill="none" stroke="#c3ab8a" stroke-width="3.0"/>
+<path d="M -139,64.0 C -126,66.0 -112,75.0 -101,73.0 S -80,67.0 -67,67.0 S -47,72.0 -38,74.0 S -17,71.0 -8,68.0 L 2,66.0" fill="none" stroke="#bd8967" stroke-width="3.0"/>
+<path d="M -139,72.0 C -126,74.0 -112,83.0 -101,81.0 S -80,75.0 -67,75.0 S -47,80.0 -38,82.0 S -17,79.0 -8,76.0 L 2,74.0" fill="none" stroke="#d3bc98" stroke-width="3.5"/>
+<path d="M -139,80.0 C -126,82.0 -112,91.0 -101,89.0 S -80,83.0 -67,83.0 S -47,88.0 -38,90.0 S -17,87.0 -8,84.0 L 2,82.0" fill="none" stroke="#c3ab8a" stroke-width="3.0"/>
+</g>
+<g id="pale-stamp">
+<path d="M 0 0 h2.3 q0.6 2.8 2.6 1.1 q0.4 -0.5 0.4 -1.1 h0.7 h2.3 q0.6 2.8 2.6 1.1 q0.4 -0.5 0.4 -1.1 h0.7 h2.3 q0.6 2.8 2.6 1.1 q0.4 -0.5 0.4 -1.1 h0.7 h2.3 q0.6 2.8 2.6 1.1 q0.4 -0.5 0.4 -1.1 h0.7 h2.3 q0.6 2.8 2.6 1.1 q0.4 -0.5 0.4 -1.1 h0.7 h2.3 q0.6 2.8 2.6 1.1 q0.4 -0.5 0.4 -1.1 h0.7 h2.3 q0.6 2.8 2.6 1.1 q0.4 -0.5 0.4 -1.1 h0.7 h2.3 q0.6 2.8 2.6 1.1 q0.4 -0.5 0.4 -1.1 h0.7 h2.3 q0.6 2.8 2.6 1.1 q0.4 -0.5 0.4 -1.1 h0.7 h2.3 q0.6 2.8 2.6 1.1 q0.4 -0.5 0.4 -1.1 h0.7 h2.3 q0.6 2.8 2.6 1.1 q0.4 -0.5 0.4 -1.1 h0.7 h2.3 q0.6 2.8 2.6 1.1 q0.4 -0.5 0.4 -1.1 h0.7 h2.3 q0.6 2.8 2.6 1.1 q0.4 -0.5 0.4 -1.1 h0.7 h2.3 q0.6 2.8 2.6 1.1 q0.4 -0.5 0.4 -1.1 h0.7 v2 q-3 0.2 -1.4 2.6 q0.5 0.7 1.4 0.7 v0.7 v2 q-3 0.2 -1.4 2.6 q0.5 0.7 1.4 0.7 v0.7 v2 q-3 0.2 -1.4 2.6 q0.5 0.7 1.4 0.7 v0.7 v2 q-3 0.2 -1.4 2.6 q0.5 0.7 1.4 0.7 v0.7 v2 q-3 0.2 -1.4 2.6 q0.5 0.7 1.4 0.7 v0.7 v2 q-3 0.2 -1.4 2.6 q0.5 0.7 1.4 0.7 v0.7 v2 q-3 0.2 -1.4 2.6 q0.5 0.7 1.4 0.7 v0.7 v2 q-3 0.2 -1.4 2.6 q0.5 0.7 1.4 0.7 v0.7 v2 q-3 0.2 -1.4 2.6 q0.5 0.7 1.4 0.7 v0.7 v2 q-3 0.2 -1.4 2.6 q0.5 0.7 1.4 0.7 v0.7 v2 q-3 0.2 -1.4 2.6 q0.5 0.7 1.4 0.7 v0.7 v2 q-3 0.2 -1.4 2.6 q0.5 0.7 1.4 0.7 v0.7 v2 q-3 0.2 -1.4 2.6 q0.5 0.7 1.4 0.7 v0.7 v2 q-3 0.2 -1.4 2.6 q0.5 0.7 1.4 0.7 v0.7 v2 q-3 0.2 -1.4 2.6 q0.5 0.7 1.4 0.7 v0.7 v2 q-3 0.2 -1.4 2.6 q0.5 0.7 1.4 0.7 v0.7 v2 q-3 0.2 -1.4 2.6 q0.5 0.7 1.4 0.7 v0.7 v2 q-3 0.2 -1.4 2.6 q0.5 0.7 1.4 0.7 v0.7 h-2 q-0.3 -2.9 -2.7 -1.3 q-0.6 0.5 -0.6 1.3 h-0.7 h-2 q-0.3 -2.9 -2.7 -1.3 q-0.6 0.5 -0.6 1.3 h-0.7 h-2 q-0.3 -2.9 -2.7 -1.3 q-0.6 0.5 -0.6 1.3 h-0.7 h-2 q-0.3 -2.9 -2.7 -1.3 q-0.6 0.5 -0.6 1.3 h-0.7 h-2 q-0.3 -2.9 -2.7 -1.3 q-0.6 0.5 -0.6 1.3 h-0.7 h-2 q-0.3 -2.9 -2.7 -1.3 q-0.6 0.5 -0.6 1.3 h-0.7 h-2 q-0.3 -2.9 -2.7 -1.3 q-0.6 0.5 -0.6 1.3 h-0.7 h-2 q-0.3 -2.9 -2.7 -1.3 q-0.6 0.5 -0.6 1.3 h-0.7 h-2 q-0.3 -2.9 -2.7 -1.3 q-0.6 0.5 -0.6 1.3 h-0.7 h-2 q-0.3 -2.9 -2.7 -1.3 q-0.6 0.5 -0.6 1.3 h-0.7 h-2 q-0.3 -2.9 -2.7 -1.3 q-0.6 0.5 -0.6 1.3 h-0.7 h-2 q-0.3 -2.9 -2.7 -1.3 q-0.6 0.5 -0.6 1.3 h-0.7 h-2 q-0.3 -2.9 -2.7 -1.3 q-0.6 0.5 -0.6 1.3 h-0.7 h-2 q-0.3 -2.9 -2.7 -1.3 q-0.6 0.5 -0.6 1.3 h-0.7 v-2 q3 -0.5 1.3 -2.7 q-0.6 -0.6 -1.3 -0.6 v-0.7 v-2 q3 -0.5 1.3 -2.7 q-0.6 -0.6 -1.3 -0.6 v-0.7 v-2 q3 -0.5 1.3 -2.7 q-0.6 -0.6 -1.3 -0.6 v-0.7 v-2 q3 -0.5 1.3 -2.7 q-0.6 -0.6 -1.3 -0.6 v-0.7 v-2 q3 -0.5 1.3 -2.7 q-0.6 -0.6 -1.3 -0.6 v-0.7 v-2 q3 -0.5 1.3 -2.7 q-0.6 -0.6 -1.3 -0.6 v-0.7 v-2 q3 -0.5 1.3 -2.7 q-0.6 -0.6 -1.3 -0.6 v-0.7 v-2 q3 -0.5 1.3 -2.7 q-0.6 -0.6 -1.3 -0.6 v-0.7 v-2 q3 -0.5 1.3 -2.7 q-0.6 -0.6 -1.3 -0.6 v-0.7 v-2 q3 -0.5 1.3 -2.7 q-0.6 -0.6 -1.3 -0.6 v-0.7 v-2 q3 -0.5 1.3 -2.7 q-0.6 -0.6 -1.3 -0.6 v-0.7 v-2 q3 -0.5 1.3 -2.7 q-0.6 -0.6 -1.3 -0.6 v-0.7 v-2 q3 -0.5 1.3 -2.7 q-0.6 -0.6 -1.3 -0.6 v-0.7 v-2 q3 -0.5 1.3 -2.7 q-0.6 -0.6 -1.3 -0.6 v-0.7 v-2 q3 -0.5 1.3 -2.7 q-0.6 -0.6 -1.3 -0.6 v-0.7 v-2 q3 -0.5 1.3 -2.7 q-0.6 -0.6 -1.3 -0.6 v-0.7 v-2 q3 -0.5 1.3 -2.7 q-0.6 -0.6 -1.3 -0.6 v-0.7 v-2 q3 -0.5 1.3 -2.7 q-0.6 -0.6 -1.3 -0.6 v-0.7Z" fill="#c3ab8a" />
+<rect x="4" y="4" width="76" height="100" fill="#ad9275"/>
+<path d="M4 98V89Q17 86 26 80Q29 77 28 70L22 68Q20 67 21 64L21 61L17 59L19 56L16 54L18 50L14 49Q12 47 15 44L20 38Q19 34 22 29Q20 25 24 21L29 18L31 15Q34 14 37 15Q41 11 46 14Q51 11 54 15Q59 15 60 19Q65 21 63 25Q67 28 64 32Q69 39 66 45Q70 49 66 54Q64 59 61 62L55 64Q53 71 57 79Q61 86 70 93L75 102H4Z" fill="#c3ab8a" />
+<path d="M22 29Q32 23 44 23L55 26L61 29Q59 24 54 22Q40 17 25 23Z" fill="#ad9275" />
+<path d="M51 18Q59 19 62 26L65 27L62 21L60 20L58 16Z" fill="#c3ab8a" />
+<path d="M13 95Q23 91 30 85Q32 83 32 80L35 83Q31 90 22 95Z" fill="#ad9275" />
+<path d="M5 101Q17 99 24 95Q37 104 53 100L60 99L65 104H5Z" fill="#ad9275" />
+<path d="M5 8Q21 10 35 6T64 6T79 8M5 16Q23 18 39 13T69 13M5 24Q21 24 31 21" fill="none" stroke="#c3ab8a" stroke-width="2.1"/>
+<path d="M65 9l4 3l5 -2m-8 8l6 -2" fill="none" stroke="#ad9275" stroke-width="2"/>
+</g>
+<g id="pillar-box">
+<clipPath id="stripe-left"><rect x="-70" y="12" width="45" height="28" fill="#c3ab8a"/></clipPath>
+<g clip-path="url(#stripe-left)">
+<rect x="-70" y="12" width="45" height="28" fill="#d3bc98"/>
+<path d="M-71 16L-46 40H-57L-70 29ZM-55 12H-46L-25 31V40Z" fill="#c3ab8a" />
+<path d="M-70 25L-53 40H-59L-70 31Z" fill="#781e2b" />
+<path d="M-45 12H-35L-26 20V27Z" fill="#923c2a" />
+</g>
+<clipPath id="stripe-34"><rect x="34" y="12" width="39" height="28" fill="#c3ab8a"/></clipPath>
+<g clip-path="url(#stripe-34)">
+<rect x="34" y="12" width="39" height="28" fill="#c3ab8a"/>
+<path d="M9.0 12h7.4l31 28h-7.8Z" fill="#ad9275" />
+<path d="M22.8 12h7.4l31 28h-7.8Z" fill="#bd8967" />
+<path d="M36.6 12h7.4l31 28h-7.8Z" fill="#923c2a" />
+<path d="M50.400000000000006 12h7.4l31 28h-7.8Z" fill="#c3ab8a" />
+<path d="M64.2 12h7.4l31 28h-7.8Z" fill="#ad9275" />
+</g>
+<clipPath id="stripe-m18"><rect x="-18" y="43" width="43" height="26" fill="#c3ab8a"/></clipPath>
+<g clip-path="url(#stripe-m18)">
+<rect x="-18" y="43" width="43" height="26" fill="#c3ab8a"/>
+<path d="M-43.0 43h7.4l29 26h-7.8Z" fill="#781e2b" />
+<path d="M-29.2 43h7.4l29 26h-7.8Z" fill="#631923" />
+<path d="M-15.399999999999999 43h7.4l29 26h-7.8Z" fill="#781e2b" />
+<path d="M-1.5999999999999943 43h7.4l29 26h-7.8Z" fill="#923c2a" />
+<path d="M12.200000000000003 43h7.4l29 26h-7.8Z" fill="#ad9275" />
+</g>
+<path d="M-25 -40L-24 -45Q-21 -48 -16 -49Q-9 -50 -5 -53L-3 -54Q-4 -58 0 -60Q4 -62 7 -58Q10 -56 8 -53L15 -51Q24 -49 29 -44L30 -40Q19 -42 8 -42H-6Q-17 -42 -25 -39Z" fill="#a32f3e" />
+<path d="M-24 -43Q-11 -46 0 -45L-2 -43L-22 -41ZM9 -44Q22 -45 28 -41L10 -42Z" fill="#781e2b" />
+<path d="M-18 -38Q0 -40 23 -38L23 -34L21 -32L22 31L25 35L24 40H-19V35L-17 32L-17 -33Z" fill="#a32f3e" />
+<path d="M-17 -37H22V-34Q4 -36 -17 -34Z" fill="#781e2b" />
+<path d="M-15 -31L-12 -32V31L-16 35Z" fill="#781e2b" />
+<path d="M-9 -28Q4 -30 16 -27L15 -24L-9 -24Z" fill="#781e2b" />
+<path d="M-8 -27H15L14 -24H-8Z" fill="#631923" />
+<path d="M-7 -22Q4 -24 14 -22L13 -20H-7Z" fill="#bd8967" />
+<path d="M-4 -7L-3 -10L-1 -9L1 -12L3 -9L5 -11L7 -9L6 -6L-3 -5ZM-4 -4Q0 -7 6 -5L8 -2L5 2L3 1L0 3L-4 1Z" fill="#bd8967" />
+<path d="M-1 1l2 -4l1 1l-1 3" fill="none" stroke="#c3ab8a" stroke-width="1"/>
+<path d="M-18 35Q3 32 24 35V38Q3 37 -19 39Z" fill="#781e2b" />
+</g>
+<g id="medallions">
+<circle cx="2" cy="6" r="87" fill="#d3bc98"/>
+<use xlink:href="#pillar-box" x="0" y="0" />
+<circle cx="-107" cy="-38" r="42.5" fill="#631923"/>
+<g transform="translate(-108 -38) scale(.49)">
+<use xlink:href="#pillar-box" x="0" y="0" />
+<rect x="-72" y="12" width="45" height="28" fill="#c3ab8a"/>
+<rect x="34" y="12" width="45" height="28" fill="#c3ab8a"/>
+<path d="M-69 29l12 10m-13 -23l27 23m-18 -26l29 25m-16 -25l18 16m-4 -16l5 5" fill="none" stroke="#923c2a" stroke-width="3.3"/>
+<path d="M37 29l12 10m-13 -23l27 23m-18 -26l29 25m-16 -25l18 16m-4 -16l5 5" fill="none" stroke="#781e2b" stroke-width="3.3"/>
+<path d="M-71 26l19 -14m-15 27l35 -25m-24 26l25 -18" fill="none" stroke="#bd8967" stroke-width="1.7"/>
+<path d="M35 26l19 -14m-15 27l35 -25m-24 26l25 -18" fill="none" stroke="#bd8967" stroke-width="1.7"/>
+</g>
+</g>
+<g id="stamp-overlay">
+<g transform="translate(40 -111)">
+<use xlink:href="#pale-stamp" x="0" y="0" />
+</g>
+</g>
+</defs>
+<rect x="0" y="0" width="500" height="248" fill="#923c2a"/>
+<use xlink:href="#ground-detail" x="-125" y="0" />
+<use xlink:href="#ground-detail" x="375" y="0" />
+<use xlink:href="#ground-detail" x="-375" y="124" />
+<use xlink:href="#ground-detail" x="125" y="124" />
+<use xlink:href="#ground-detail" x="625" y="124" />
+<use xlink:href="#ground-detail" x="-125" y="248" />
+<use xlink:href="#ground-detail" x="375" y="248" />
+<use xlink:href="#medallions" x="-125" y="0" />
+<use xlink:href="#medallions" x="375" y="0" />
+<use xlink:href="#medallions" x="-375" y="124" />
+<use xlink:href="#medallions" x="125" y="124" />
+<use xlink:href="#medallions" x="625" y="124" />
+<use xlink:href="#medallions" x="-125" y="248" />
+<use xlink:href="#medallions" x="375" y="248" />
+<use xlink:href="#stamp-overlay" x="-125" y="0" />
+<use xlink:href="#stamp-overlay" x="375" y="0" />
+<use xlink:href="#stamp-overlay" x="-375" y="124" />
+<use xlink:href="#stamp-overlay" x="125" y="124" />
+<use xlink:href="#stamp-overlay" x="625" y="124" />
+<use xlink:href="#stamp-overlay" x="-125" y="248" />
+<use xlink:href="#stamp-overlay" x="375" y="248" />
 </svg>
