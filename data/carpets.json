@@ -5,7 +5,7 @@
     "totalPubs": 776,
     "vectorizedPubs": 768,
     "noCarpetPubs": 8,
-    "updatedAt": "2026-11-25T01:09:13Z"
+    "updatedAt": "2026-11-25T01:24:17Z"
   },
   "pubs": [
     {
@@ -894,17 +894,19 @@
       "pattern": {
         "path": "patterns/7286.svg",
         "thumb": "thumbs/7286.webp",
-        "width": 820,
-        "height": 704,
-        "bytes": 101505,
-        "sha256": "6bb32f087519dd0bf96209d72fc292c69125d92b6d86581ebb86a41a7a761c65",
+        "width": 420,
+        "height": 840,
+        "bytes": 152658,
+        "sha256": "bc5c83c2090eb61e5b9dbebebdb7e442938380ac2e1deac216cf5b326cb0399e",
         "colors": [
-          "#482819",
-          "#74291c",
-          "#81451f",
-          "#9c4c28",
-          "#ad6a36",
-          "#d69b59"
+          "#836466",
+          "#794752",
+          "#593c44",
+          "#927e70",
+          "#a07877",
+          "#b9a397",
+          "#d3c0b2",
+          "#35292d"
         ],
         "seamless": true
       }
@@ -5032,17 +5034,17 @@
       "pattern": {
         "path": "patterns/7264.svg",
         "thumb": "thumbs/7264.webp",
-        "width": 360,
-        "height": 360,
-        "bytes": 118126,
-        "sha256": "1e3b627d12b5cb971eeb050ff3d46135e44eb3241d4083a80b5c690df8dcba1b",
+        "width": 512,
+        "height": 512,
+        "bytes": 177569,
+        "sha256": "984b91a832cc43010068570b588c7306d7bd90d1d5b6df221ec2c7be1c5ce774",
         "colors": [
-          "#402f29",
-          "#5d3033",
-          "#803c3b",
-          "#956f46",
-          "#a24a43",
-          "#c69c69"
+          "#e3d2a5",
+          "#ad895a",
+          "#22202a",
+          "#552b3c",
+          "#aa5057",
+          "#d47870"
         ],
         "seamless": true
       }
@@ -5698,17 +5700,19 @@
       "pattern": {
         "path": "patterns/835.svg",
         "thumb": "thumbs/835.webp",
-        "width": 520,
-        "height": 520,
-        "bytes": 17858,
-        "sha256": "2d7f4f9a540655cab44df209c7db05bd44578268278cb17592c12ef7d1667292",
+        "width": 512,
+        "height": 512,
+        "bytes": 14655,
+        "sha256": "82384c0294a87a899b0980f76e21c1875cf775388898993f9dfc0e315319eecb",
         "colors": [
-          "#263544",
-          "#303c39",
-          "#597887",
-          "#70483d",
-          "#788e80",
-          "#b3ab93"
+          "#a4ab89",
+          "#cfac72",
+          "#dfab69",
+          "#422b20",
+          "#994f35",
+          "#ebcb96",
+          "#b68451",
+          "#49383a"
         ],
         "seamless": true
       }
@@ -8088,17 +8092,19 @@
       "pattern": {
         "path": "patterns/1795.svg",
         "thumb": "thumbs/1795.webp",
-        "width": 240,
-        "height": 240,
-        "bytes": 12264,
-        "sha256": "4d65f14ac328117020604617549b97d968d59a30ee04393023b68d15fea135c5",
+        "width": 500,
+        "height": 200,
+        "bytes": 7092,
+        "sha256": "aefb278fc7b1266968da1eb6850b48b11750ce63f2305b4d39da0ef2aae3c243",
         "colors": [
-          "#76464a",
-          "#998365",
-          "#a36851",
-          "#b38d6c",
-          "#b59187",
-          "#c8aa85"
+          "#bea684",
+          "#b08a58",
+          "#d5c7af",
+          "#a1adb0",
+          "#592e3e",
+          "#793e58",
+          "#a6a398",
+          "#af919c"
         ],
         "seamless": true
       }
@@ -8604,15 +8610,17 @@
         "thumb": "thumbs/4055.webp",
         "width": 768,
         "height": 768,
-        "bytes": 58785,
-        "sha256": "a59f336691d9d9b5d370d91411ed592cb16f93748885405b746fc91098b66f3a",
+        "bytes": 17055,
+        "sha256": "d28a52649ed6ffce5da200115a25d7fd3a440274ff88e43f6ccd92c6f3037340",
         "colors": [
-          "#2d1423",
-          "#6e2032",
-          "#813743",
-          "#976c7b",
-          "#ac3945",
-          "#c7a0a3"
+          "#817b7c",
+          "#632b3d",
+          "#a33e40",
+          "#b0aaa5",
+          "#803a4b",
+          "#a76b76",
+          "#392738",
+          "#1d2c3a"
         ],
         "seamless": true
       }
@@ -8628,16 +8636,19 @@
       "pattern": {
         "path": "patterns/5731.svg",
         "thumb": "thumbs/5731.webp",
-        "width": 288,
-        "height": 288,
-        "bytes": 10077,
-        "sha256": "ea6cc5672f3eb880d3b7e6be715cf26401c2ce7f2277f0fc29f5af6c8f3e25d1",
+        "width": 512,
+        "height": 512,
+        "bytes": 279323,
+        "sha256": "e73a9f5a3c2ced15d9681d899bac72efb1108b70b8fdd5dc460572ff1c97de23",
         "colors": [
-          "#3c4750",
-          "#424d55",
-          "#4a555e",
-          "#53616a",
-          "#5a6b74"
+          "#514849",
+          "#463d3e",
+          "#695f5e",
+          "#383233",
+          "#807977",
+          "#97908a",
+          "#757172",
+          "#a39a91"
         ],
         "seamless": true
       }
@@ -16956,17 +16967,19 @@
       "pattern": {
         "path": "patterns/291.svg",
         "thumb": "thumbs/291.webp",
-        "width": 384,
-        "height": 288,
-        "bytes": 105795,
-        "sha256": "daeee17a35af2c63a2262398f059587b04c426c6b6137b0032af22847e57f1fc",
+        "width": 480,
+        "height": 384,
+        "bytes": 1026559,
+        "sha256": "9099c8ec03bf9518ce10f33b3eec5286c0e0cdf04e39f4ec98e941f16168ba25",
         "colors": [
-          "#572b30",
-          "#796a6c",
-          "#814539",
-          "#a86c52",
-          "#b97a49",
-          "#d69b65"
+          "#855967",
+          "#683947",
+          "#c8a7b4",
+          "#8996ae",
+          "#a6c7e0",
+          "#cda675",
+          "#e6c991",
+          "#ab899b"
         ],
         "seamless": true
       }
