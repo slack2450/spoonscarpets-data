@@ -5,7 +5,7 @@
     "totalPubs": 776,
     "vectorizedPubs": 768,
     "noCarpetPubs": 8,
-    "updatedAt": "2026-11-25T01:24:17Z"
+    "updatedAt": "2026-11-25T10:30:03Z"
   },
   "pubs": [
     {
@@ -62,7 +62,7 @@
     },
     {
       "ref": "246",
-      "name": "Beckett’s Bank",
+      "name": "Beckett\u2019s Bank",
       "town": "Leeds",
       "county": "West Yorkshire",
       "postcode": "LS1 5HU",
@@ -114,7 +114,7 @@
     },
     {
       "ref": "7426",
-      "name": "Captain Ridley’s Shooting Party",
+      "name": "Captain Ridley\u2019s Shooting Party",
       "town": "Milton Keynes",
       "county": "Buckinghamshire",
       "postcode": "MK2 2ED",
@@ -168,7 +168,7 @@
     },
     {
       "ref": "1040",
-      "name": "George’s Meeting House",
+      "name": "George\u2019s Meeting House",
       "town": "Exeter",
       "county": "Devon",
       "postcode": "EX1 1ED",
@@ -195,7 +195,7 @@
     {
       "ref": "2520",
       "name": "Globe Hotel",
-      "town": "King’s Lynn",
+      "town": "King\u2019s Lynn",
       "county": "Norfolk",
       "postcode": "PE30 1EZ",
       "lat": 52.7558,
@@ -404,7 +404,7 @@
     },
     {
       "ref": "89",
-      "name": "J.J. Moon’s",
+      "name": "J.J. Moon\u2019s",
       "town": "Hornchurch",
       "county": "Havering",
       "postcode": "RM12 4UN",
@@ -430,7 +430,7 @@
     },
     {
       "ref": "27",
-      "name": "J.J. Moon’s",
+      "name": "J.J. Moon\u2019s",
       "town": "Kingsbury",
       "county": "Brent",
       "postcode": "NW9 9EL",
@@ -455,7 +455,7 @@
     },
     {
       "ref": "20",
-      "name": "J.J. Moon’s",
+      "name": "J.J. Moon\u2019s",
       "town": "Ruislip Manor",
       "county": "Hillingdon",
       "postcode": "HA4 0AA",
@@ -481,7 +481,7 @@
     },
     {
       "ref": "39",
-      "name": "J.J. Moon’s",
+      "name": "J.J. Moon\u2019s",
       "town": "Tooting",
       "county": "Wandsworth",
       "postcode": "SW17 0RN",
@@ -507,7 +507,7 @@
     },
     {
       "ref": "5",
-      "name": "J.J. Moon’s",
+      "name": "J.J. Moon\u2019s",
       "town": "Wembley",
       "county": "Brent",
       "postcode": "HA9 6AA",
@@ -554,7 +554,7 @@
     },
     {
       "ref": "6919",
-      "name": "Jolly’s Hotel",
+      "name": "Jolly\u2019s Hotel",
       "town": "Broughty Ferry",
       "county": "Dundee City",
       "postcode": "DD5 2BJ",
@@ -605,14 +605,14 @@
     },
     {
       "ref": "7905",
-      "name": "Luther’s Bar",
+      "name": "Luther\u2019s Bar",
       "town": "Newcastle upon Tyne",
       "county": "Tyne and Wear",
       "postcode": "NE1 8QB",
       "lat": 54.9789,
       "lng": -1.6152,
       "noCarpet": true,
-      "noCarpetNote": "Newcastle University student union franchise — wood & slate flooring only across all 10 official interior photos.",
+      "noCarpetNote": "Newcastle University student union franchise \u2014 wood & slate flooring only across all 10 official interior photos.",
       "floor": {
         "path": "floors/7905.svg",
         "material": "Honey Wood Boards",
@@ -633,7 +633,7 @@
     },
     {
       "ref": "6041",
-      "name": "Montgomery’s Tower",
+      "name": "Montgomery\u2019s Tower",
       "town": "Shrewsbury",
       "county": "Shropshire",
       "postcode": "SY1 1RT",
@@ -733,7 +733,7 @@
     },
     {
       "ref": "7152",
-      "name": "Parsons’ Barn",
+      "name": "Parsons\u2019 Barn",
       "town": "Shoeburyness",
       "county": "Essex",
       "postcode": "SS3 8UT",
@@ -781,7 +781,7 @@
     },
     {
       "ref": "506",
-      "name": "Penderel’s Oak",
+      "name": "Penderel\u2019s Oak",
       "town": "Holborn",
       "county": "Camden",
       "postcode": "WC1V 7HP",
@@ -970,7 +970,7 @@
       "lat": 53.7719,
       "lng": -0.3658,
       "noCarpet": true,
-      "noCarpetNote": "Hull University student union franchise — wood & concrete flooring only (though it has Spoons carpet-style wallpaper behind the dartboards!).",
+      "noCarpetNote": "Hull University student union franchise \u2014 wood & concrete flooring only (though it has Spoons carpet-style wallpaper behind the dartboards!).",
       "floor": {
         "path": "floors/7609.svg",
         "material": "Varnished Chestnut Planks",
@@ -1018,7 +1018,7 @@
     },
     {
       "ref": "239",
-      "name": "Shakespeare’s Head",
+      "name": "Shakespeare\u2019s Head",
       "town": "Holborn",
       "county": "Camden",
       "postcode": "WC2B 6BG",
@@ -1174,7 +1174,7 @@
     },
     {
       "ref": "390",
-      "name": "Spouter’s Corner",
+      "name": "Spouter\u2019s Corner",
       "town": "Wood Green",
       "county": "Haringey",
       "postcode": "N22 6EJ",
@@ -1197,7 +1197,7 @@
     },
     {
       "ref": "6694",
-      "name": "St. Matthew’s Hall",
+      "name": "St. Matthew\u2019s Hall",
       "town": "Walsall",
       "county": "West Midlands",
       "postcode": "WS1 1SX",
@@ -1230,7 +1230,7 @@
       "lat": 51.4615,
       "lng": -0.4454,
       "noCarpet": true,
-      "noCarpetNote": "Heathrow Terminal 4 airport bar — hardwood flooring only across all 11 official interior photos.",
+      "noCarpetNote": "Heathrow Terminal 4 airport bar \u2014 hardwood flooring only across all 11 official interior photos.",
       "floor": {
         "path": "floors/7649.svg",
         "material": "Honey Oak Planks",
@@ -1903,7 +1903,7 @@
     },
     {
       "ref": "6535",
-      "name": "The Barker’s Brewery",
+      "name": "The Barker\u2019s Brewery",
       "town": "Liverpool",
       "county": "Merseyside",
       "postcode": "L36 9UJ",
@@ -2467,7 +2467,7 @@
     },
     {
       "ref": "5326",
-      "name": "The Bishops’ Mill",
+      "name": "The Bishops\u2019 Mill",
       "town": "Durham",
       "county": "County Durham",
       "postcode": "DH1 1SQ",
@@ -2834,17 +2834,19 @@
       "pattern": {
         "path": "patterns/7386.svg",
         "thumb": "thumbs/7386.webp",
-        "width": 480,
-        "height": 480,
-        "bytes": 94036,
-        "sha256": "5ec2613d208e70ca544a4a4b738cc43e0687e5cda0ba5a1a3703f847f054906a",
+        "width": 2400,
+        "height": 2400,
+        "bytes": 1308447,
+        "sha256": "37cf7330f40348012ec1bbe6dcc33db1e2993d7a1fedfb3360b80ca15d089114",
         "colors": [
-          "#3c2b23",
-          "#575256",
-          "#82674b",
-          "#849b91",
-          "#944e38",
-          "#bd985f"
+          "#715445",
+          "#503438",
+          "#936f60",
+          "#414c61",
+          "#302936",
+          "#d2a262",
+          "#b44447",
+          "#47959b"
         ],
         "seamless": true
       }
@@ -3384,7 +3386,7 @@
     },
     {
       "ref": "6795",
-      "name": "The Bull’s Head Hotel",
+      "name": "The Bull\u2019s Head Hotel",
       "town": "Manchester",
       "county": "Greater Manchester",
       "postcode": "M28 3NJ",
@@ -3768,7 +3770,7 @@
     {
       "ref": "4030",
       "name": "The Central Bar",
-      "town": "Shepherd’s Bush",
+      "town": "Shepherd\u2019s Bush",
       "county": "Hammersmith & Fulham",
       "postcode": "W12 8PH",
       "lat": 51.5039,
@@ -4199,7 +4201,7 @@
     },
     {
       "ref": "7153",
-      "name": "The Clothier’s Arms",
+      "name": "The Clothier\u2019s Arms",
       "town": "Leeds",
       "county": "West Yorkshire",
       "postcode": "LS19 7PP",
@@ -4486,7 +4488,7 @@
       "lat": 54.1511,
       "lng": -4.4748,
       "noCarpet": true,
-      "noCarpetNote": "Brand-new Douglas (Isle of Man) pub — herringbone wood & tile flooring only across all 8 official interior photos.",
+      "noCarpetNote": "Brand-new Douglas (Isle of Man) pub \u2014 herringbone wood & tile flooring only across all 8 official interior photos.",
       "floor": {
         "path": "floors/7923.svg",
         "material": "Herringbone Wood",
@@ -5533,7 +5535,7 @@
     },
     {
       "ref": "5362",
-      "name": "The Draper’s Arms",
+      "name": "The Draper\u2019s Arms",
       "town": "Peterborough",
       "county": "Cambridgeshire",
       "postcode": "PE1 1LZ",
@@ -5587,7 +5589,7 @@
     },
     {
       "ref": "5499",
-      "name": "The Duke’s Head",
+      "name": "The Duke\u2019s Head",
       "town": "Leominster",
       "county": "Herefordshire",
       "postcode": "HR6 8LR",
@@ -5975,7 +5977,7 @@
     },
     {
       "ref": "6732",
-      "name": "The Fair O’Blair",
+      "name": "The Fair O\u2019Blair",
       "town": "Blairgowrie",
       "county": "Perth and Kinross",
       "postcode": "PH10 6AB",
@@ -7065,17 +7067,19 @@
       "pattern": {
         "path": "patterns/6229.svg",
         "thumb": "thumbs/6229.webp",
-        "width": 492,
-        "height": 831,
-        "bytes": 33023,
-        "sha256": "1a8d4bc3f3571914a5494fb661a11847cb668d7aa26988bc07473ed82431c5db",
+        "width": 630,
+        "height": 1148,
+        "bytes": 142607,
+        "sha256": "e08cc4c7105d1819efda684e40bd029b8244743548a4fd1981fd56f54b569ccf",
         "colors": [
-          "#762e39",
-          "#815547",
-          "#89917e",
-          "#9c6250",
-          "#b37c63",
-          "#c5b5a5"
+          "#b58293",
+          "#764c60",
+          "#af665d",
+          "#9c7180",
+          "#d1b1b3",
+          "#485b69",
+          "#94a4a5",
+          "#65818a"
         ],
         "seamless": true
       }
@@ -7338,7 +7342,7 @@
     },
     {
       "ref": "2173",
-      "name": "The Goodman’s Field",
+      "name": "The Goodman\u2019s Field",
       "town": "Tower Hamlets",
       "county": "London",
       "postcode": "E1 8AL",
@@ -7932,7 +7936,7 @@
     },
     {
       "ref": "217",
-      "name": "The Hatter’s Inn",
+      "name": "The Hatter\u2019s Inn",
       "town": "Bognor Regis",
       "county": "West Sussex",
       "postcode": "PO21 1QT",
@@ -7941,17 +7945,19 @@
       "pattern": {
         "path": "patterns/217.svg",
         "thumb": "thumbs/217.webp",
-        "width": 448,
-        "height": 848,
-        "bytes": 77557,
-        "sha256": "f5705e298ff16c75c650c2769a81bbf0fdf1c0744a5996f480d97b9c582a127e",
+        "width": 460,
+        "height": 780,
+        "bytes": 18183,
+        "sha256": "59f6b0ab1e748de10ec534e09a3e71d103132cc8c748070916c4ce55d59726f7",
         "colors": [
-          "#51432e",
-          "#744232",
-          "#766d49",
-          "#9c563e",
-          "#af754b",
-          "#c49566"
+          "#643a35",
+          "#581f21",
+          "#e1c4b0",
+          "#3d3030",
+          "#bf9381",
+          "#efdbc6",
+          "#8c4038",
+          "#702927"
         ],
         "seamless": true
       }
@@ -8033,7 +8039,7 @@
     },
     {
       "ref": "1903",
-      "name": "The Hengler’s Circus",
+      "name": "The Hengler\u2019s Circus",
       "town": "Glasgow",
       "county": "Glasgow",
       "postcode": "G2 3HU",
@@ -8429,17 +8435,19 @@
       "pattern": {
         "path": "patterns/7934.svg",
         "thumb": "thumbs/7934.webp",
-        "width": 824,
-        "height": 300,
-        "bytes": 129595,
-        "sha256": "548b708fb0e115a61615b99c696abc152437a16f5d4ed13e6a3c12c3c99bc1ce",
+        "width": 400,
+        "height": 1140,
+        "bytes": 1530851,
+        "sha256": "934b0691101c4bc82fa1f5416af1bb5abd987a90991303904ae2ad10f528b64c",
         "colors": [
-          "#532c38",
-          "#836d72",
-          "#a05553",
-          "#c39484",
-          "#dcc0a1",
-          "#e3ae75"
+          "#a4a8a7",
+          "#d1ccba",
+          "#787a80",
+          "#4d535f",
+          "#291e2c",
+          "#bbb59f",
+          "#846d76",
+          "#583c49"
         ],
         "seamless": true
       }
@@ -9546,7 +9554,7 @@
     },
     {
       "ref": "4334",
-      "name": "The King’s Head Inn",
+      "name": "The King\u2019s Head Inn",
       "town": "Salisbury",
       "county": "Wiltshire",
       "postcode": "SP1 2ND",
@@ -9555,16 +9563,19 @@
       "pattern": {
         "path": "patterns/4334.svg",
         "thumb": "thumbs/4334.webp",
-        "width": 1340,
-        "height": 1100,
-        "bytes": 136295,
-        "sha256": "95c97aed51a7c436cfa76dd464f24ade9796a26406db1dbb87b6ca605d19629a",
+        "width": 400,
+        "height": 400,
+        "bytes": 52885,
+        "sha256": "d3cb243521f17d86f797488b4e37fbf0a9e3d4892c841ab4fa07450b878a5586",
         "colors": [
-          "#2c231c",
-          "#486e80",
-          "#5b5034",
-          "#c1c382",
-          "#e8dcc6"
+          "#753e48",
+          "#ad6265",
+          "#ae9988",
+          "#ddc5a9",
+          "#c7af97",
+          "#29272d",
+          "#423d44",
+          "#857a79"
         ],
         "seamless": true
       }
@@ -11237,17 +11248,19 @@
       "pattern": {
         "path": "patterns/81.svg",
         "thumb": "thumbs/81.webp",
-        "width": 512,
-        "height": 848,
-        "bytes": 24611,
-        "sha256": "c083cfbfdac90607b598dac2b519b0dd53d341c044b6912cd379f818f5253bcd",
+        "width": 600,
+        "height": 600,
+        "bytes": 136250,
+        "sha256": "834c295c47df994095897f5c352c2562925e49f4b0ffe9e9415cfafc37d052a6",
         "colors": [
-          "#402730",
-          "#60454a",
-          "#745f60",
-          "#874d50",
-          "#a17f63",
-          "#c2a68c"
+          "#66213e",
+          "#451b32",
+          "#853157",
+          "#ad526a",
+          "#293762",
+          "#43669b",
+          "#c19b7b",
+          "#e3ceb6"
         ],
         "seamless": true
       }
@@ -11486,7 +11499,7 @@
       "lat": 51.4627,
       "lng": -3.1667,
       "noCarpet": true,
-      "noCarpetNote": "Industrial Cardiff Bay conversion — wood & ceramic tile flooring only across both floors (confirmed via Pubs Galore & Restaurant Guru interior galleries).",
+      "noCarpetNote": "Industrial Cardiff Bay conversion \u2014 wood & ceramic tile flooring only across both floors (confirmed via Pubs Galore & Restaurant Guru interior galleries).",
       "floor": {
         "path": "floors/6428.svg",
         "material": "Reclaimed Driftwood Oak",
@@ -12696,7 +12709,7 @@
     },
     {
       "ref": "474",
-      "name": "The Pilgrim’s Progress",
+      "name": "The Pilgrim\u2019s Progress",
       "town": "Bedford",
       "county": "Bedfordshire",
       "postcode": "MK40 1QB",
@@ -12901,7 +12914,7 @@
     {
       "ref": "6391",
       "name": "The Port Jackson",
-      "town": "Bishop’s Stortford",
+      "town": "Bishop\u2019s Stortford",
       "county": "Hertfordshire",
       "postcode": "CM23 3GN",
       "lat": 51.8692,
@@ -13165,16 +13178,18 @@
       "pattern": {
         "path": "patterns/1970.svg",
         "thumb": "thumbs/1970.webp",
-        "width": 384,
-        "height": 384,
-        "bytes": 29922,
-        "sha256": "92bfa37c0b2952d2e38d965f20d431b3a0fb5a72073c737a8541233c43d046df",
+        "width": 1224,
+        "height": 760,
+        "bytes": 122870,
+        "sha256": "4c12bf0960691bff32c55235e1d85b1fc187d48c93fb80238a5ec23e0a28a736",
         "colors": [
-          "#45435d",
-          "#98494b",
-          "#a06045",
-          "#c4a87c",
-          "#d2c2ab"
+          "#25231f",
+          "#9b582f",
+          "#ac6834",
+          "#ba793d",
+          "#c88b49",
+          "#d39b54",
+          "#deac61"
         ],
         "seamless": true
       }
@@ -13514,7 +13529,7 @@
     },
     {
       "ref": "7251",
-      "name": "The Queen’s Head Hotel",
+      "name": "The Queen\u2019s Head Hotel",
       "town": "Tavistock",
       "county": "Devon",
       "postcode": "PL19 8AQ",
@@ -13540,7 +13555,7 @@
     },
     {
       "ref": "6068",
-      "name": "The Queen’s Picture House",
+      "name": "The Queen\u2019s Picture House",
       "town": "Liverpool",
       "county": "Merseyside",
       "postcode": "L22 5PE",
@@ -14870,7 +14885,7 @@
     },
     {
       "ref": "6035",
-      "name": "The Sawyer’s Arms",
+      "name": "The Sawyer\u2019s Arms",
       "town": "Exeter",
       "county": "Devon",
       "postcode": "EX4 1JD",
@@ -14896,7 +14911,7 @@
     },
     {
       "ref": "6954",
-      "name": "The Sawyer’s Arms",
+      "name": "The Sawyer\u2019s Arms",
       "town": "Maesteg",
       "county": "Bridgend",
       "postcode": "CF34 9DF",
@@ -16754,7 +16769,7 @@
     },
     {
       "ref": "6151",
-      "name": "The Tailor’s Chalk",
+      "name": "The Tailor\u2019s Chalk",
       "town": "Sidcup",
       "county": "Bexley",
       "postcode": "DA14 6ED",
@@ -17686,7 +17701,7 @@
       "lat": 51.4629,
       "lng": -2.6087,
       "noCarpet": true,
-      "noCarpetNote": "Modern refit — wood, herringbone & tile flooring only across all 11 official interior photos.",
+      "noCarpetNote": "Modern refit \u2014 wood, herringbone & tile flooring only across all 11 official interior photos.",
       "floor": {
         "path": "floors/6907.svg",
         "material": "Warm Herringbone Parquet",
@@ -18093,7 +18108,7 @@
       "lat": 50.8122,
       "lng": -0.1052,
       "noCarpet": true,
-      "noCarpetNote": "Confirmed carpet-free — ceramic tile & timber flooring throughout.",
+      "noCarpetNote": "Confirmed carpet-free \u2014 ceramic tile & timber flooring throughout.",
       "floor": {
         "path": "floors/5340.svg",
         "material": "Ceramic Tile & Timber",
@@ -19294,7 +19309,7 @@
     },
     {
       "ref": "100",
-      "name": "The Wrong ’Un",
+      "name": "The Wrong \u2019Un",
       "town": "Bexleyheath",
       "county": "Bexley",
       "postcode": "DA6 8AS",
@@ -19396,14 +19411,14 @@
     },
     {
       "ref": "6491",
-      "name": "Thorn’s Farm",
+      "name": "Thorn\u2019s Farm",
       "town": "Yate",
       "county": "South Gloucestershire",
       "postcode": "BS37 4BB",
       "lat": 51.5393,
       "lng": -2.4133,
       "noCarpet": true,
-      "noCarpetNote": "Confirmed carpet-free — distressed wood-plank flooring throughout.",
+      "noCarpetNote": "Confirmed carpet-free \u2014 distressed wood-plank flooring throughout.",
       "floor": {
         "path": "floors/6491.svg",
         "material": "Distressed Wood Plank",
@@ -19838,16 +19853,18 @@
         "path": "patterns/1176.svg",
         "thumb": "thumbs/1176.webp",
         "width": 800,
-        "height": 800,
-        "bytes": 46326,
-        "sha256": "1adc7ab260d21232e2687302bff04eaa9978a1924f9328cb4638e15931704e66",
+        "height": 600,
+        "bytes": 391857,
+        "sha256": "02902141da3ee6949768a90137927b59c613c28170084f2227c9eba5625a5086",
         "colors": [
-          "#514c5c",
-          "#837e91",
-          "#847d80",
-          "#c1bac4",
-          "#e6dedf",
-          "#e9ddbd"
+          "#454b47",
+          "#bcb7ba",
+          "#dac7ad",
+          "#bf915e",
+          "#654c57",
+          "#a7606e",
+          "#b55f40",
+          "#908c8a"
         ],
         "seamless": true
       }
