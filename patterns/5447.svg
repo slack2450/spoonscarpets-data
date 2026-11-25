@@ -1,162 +1,87 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="512" height="512" viewBox="0 0 512 512">
-  <title>The Watchman, New Malden — geometric Axminster carpet repeat</title>
-  <desc>Sixteen square compartments alternate striped discs, divided annuli and quarter-cut centres in navy, blue, warm grey, stone and ochre.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="656" height="656" viewBox="0 0 656 656">
+  <title>The Watchman, New Malden — window aisle repeat</title>
+  <desc>Diagonal rows of fawn star panels alternate with navy ribbon knots around pale, bound crosses.</desc>
   <defs>
-    <clipPath id="disc"><circle cx="64" cy="64" r="60"/></clipPath>
-    <rect id="square" width="128" height="128"/>
-    <circle id="round-centre" cx="64" cy="64" r="24.8"/>
-    <g id="quarter-past">
-      <use xlink:href="#square" fill="#223e57"/>
-      <path fill="#76717e" d="M 4.054 61.450 A 60 60 0 0 1 61.450 4.054 L 61.450 30.697 A 33.4 33.4 0 0 0 30.697 61.450 Z"/>
-      <path fill="#b7a9a2" d="M 66.550 4.054 A 60 60 0 0 1 123.946 61.450 L 97.303 61.450 A 33.4 33.4 0 0 0 66.550 30.697 Z"/>
-      <path fill="#b7a9a2" d="M 123.946 66.550 A 60 60 0 0 1 66.550 123.946 L 66.550 97.303 A 33.4 33.4 0 0 0 97.303 66.550 Z"/>
-      <path fill="#d9b085" d="M 61.450 123.946 A 60 60 0 0 1 4.054 66.550 L 30.697 66.550 A 33.4 33.4 0 0 0 61.450 97.303 Z"/>
-      <path fill="#749ac0" d="M 64 64 L 64.000 39.200 A 24.8 24.8 0 1 1 39.200 64.000 Z"/>
+    <!-- Each scroll rises off the long bowed side of a knot and folds back to the binding. -->
+    <path id="scroll" d="M 2,-121 C 57,-120 110,-139 152,-163 C 129,-185 102,-207 77,-207 C 39,-207 25,-167 23,-131"/>
+    <g id="loop">
+      <use xlink:href="#scroll" stroke="#252530" stroke-width="28"/>
+      <use xlink:href="#scroll" stroke="#756b6b" stroke-width="20"/>
+      <use xlink:href="#scroll" stroke="#474654" stroke-width="16"/>
+      <use xlink:href="#scroll" stroke="#303347" stroke-width="7"/>
     </g>
-    <g id="gold-centre">
-      <use xlink:href="#square" fill="#b7a9a2"/>
-      <path fill="#76717e" d="M 4.054 61.450 A 60 60 0 0 1 61.450 4.054 L 61.450 30.697 A 33.4 33.4 0 0 0 30.697 61.450 Z"/>
-      <path fill="#749ac0" d="M 66.550 4.054 A 60 60 0 0 1 123.946 61.450 L 97.303 61.450 A 33.4 33.4 0 0 0 66.550 30.697 Z"/>
-      <path fill="#223e57" d="M 123.946 66.550 A 60 60 0 0 1 4.054 66.550 L 30.697 66.550 A 33.4 33.4 0 0 0 97.303 66.550 Z"/>
-      <use xlink:href="#round-centre" fill="#d9b085"/>
+    <g id="elbow">
+      <use xlink:href="#loop"/>
+      <use xlink:href="#loop" transform="matrix(0 -1 -1 0 0 0)"/>
     </g>
-    <g id="blue-quarter">
-      <use xlink:href="#square" fill="#223e57"/>
-      <path fill="#d9b085" d="M 4.054 61.450 A 60 60 0 0 1 61.450 4.054 L 61.450 30.697 A 33.4 33.4 0 0 0 30.697 61.450 Z"/>
-      <path fill="#b7a9a2" d="M 66.550 4.054 A 60 60 0 0 1 123.946 61.450 L 97.303 61.450 A 33.4 33.4 0 0 0 66.550 30.697 Z"/>
-      <path fill="#76717e" d="M 123.946 66.550 A 60 60 0 0 1 66.550 123.946 L 66.550 97.303 A 33.4 33.4 0 0 0 97.303 66.550 Z"/>
-      <path fill="#749ac0" d="M 61.450 123.946 A 60 60 0 0 1 4.054 66.550 L 30.697 66.550 A 33.4 33.4 0 0 0 61.450 97.303 Z"/>
-      <path fill="#749ac0" d="M 64 64 L 64.000 88.800 A 24.8 24.8 0 1 1 88.800 64.000 Z"/>
+    <path id="bowed-square" d="M -164,-164 Q 0,-70 164,-164 Q 70,0 164,164 Q 0,70 -164,164 Q -70,0 -164,-164 Z"/>
+    <g id="arm">
+      <path fill="#252530" d="M -19,1 L -18,-136 Q -19,-148 -25,-154 Q 0,-161 25,-154 Q 19,-146 18,-136 L 19,1 Z"/>
+      <path fill="#756b6b" d="M -12,-7 L -11,-140 Q 0,-144 11,-140 L 12,-7 Z"/>
+      <path fill="#ab907d" d="M -7,-12 L -7,-126 Q 0,-131 7,-126 L 7,-12 Z"/>
+      <path fill="#474654" d="M -18,-119 Q 0,-125 18,-119 L 18,-108 Q 0,-114 -18,-108 Z M -18,-138 Q 0,-145 18,-138 L 18,-133 Q 0,-139 -18,-133 Z"/>
+      <path fill="#c9b7a1" d="M -14,-133 Q 0,-140 14,-133 L 13,-126 Q 0,-131 -13,-126 Z"/>
     </g>
-    <g id="navy-base">
-      <use xlink:href="#square" fill="#b7a9a2"/>
-      <g clip-path="url(#disc)">
-        <rect x="0" y="0.00" width="128" height="30.72" fill="#76717e"/>
-        <rect x="0" y="38.40" width="128" height="20.48" fill="#76717e"/>
-        <rect x="0" y="66.56" width="128" height="19.20" fill="#749ac0"/>
-        <rect x="0" y="93.44" width="128" height="34.56" fill="#223e57"/>
+    <g id="knot" stroke-linejoin="round" stroke-linecap="round">
+      <use xlink:href="#bowed-square" fill="#303347" stroke="#252530" stroke-width="33"/>
+      <use xlink:href="#bowed-square" fill="none" stroke="#ab907d" stroke-width="23"/>
+      <use xlink:href="#bowed-square" fill="none" stroke="#474654" stroke-width="17"/>
+      <use xlink:href="#bowed-square" fill="none" stroke="#303347" stroke-width="9"/>
+      <path d="M -107,-107 Q 0,-74 107,-107 Q 74,0 107,107 Q 0,74 -107,107 Q -74,0 -107,-107 Z"
+            fill="none" stroke="#756b6b" stroke-width="6"/>
+      <path d="M -105,-105 Q 0,-72 105,-105 Q 72,0 105,105 Q 0,72 -105,105 Q -72,0 -105,-105 Z"
+            fill="none" stroke="#ab907d" stroke-width="2"/>
+      <g fill="none">
+        <use xlink:href="#elbow"/>
+        <use xlink:href="#elbow" transform="rotate(90)"/>
+        <use xlink:href="#elbow" transform="rotate(180)"/>
+        <use xlink:href="#elbow" transform="rotate(270)"/>
       </g>
+      <use xlink:href="#arm"/>
+      <use xlink:href="#arm" transform="rotate(90)"/>
+      <use xlink:href="#arm" transform="rotate(180)"/>
+      <use xlink:href="#arm" transform="rotate(270)"/>
+      <rect x="-19" y="-19" width="38" height="38" rx="4" fill="#252530"/>
+      <rect x="-12" y="-12" width="24" height="24" rx="2" fill="#756b6b"/>
+      <rect x="-8" y="-8" width="16" height="16" fill="#ab907d"/>
     </g>
-    <g id="navy-cap">
-      <use xlink:href="#square" fill="#b7a9a2"/>
-      <g clip-path="url(#disc)">
-        <rect x="0" y="0.00" width="128" height="30.72" fill="#223e57"/>
-        <rect x="0" y="49.92" width="128" height="15.36" fill="#223e57"/>
-        <rect x="0" y="78.08" width="128" height="14.08" fill="#749ac0"/>
-        <rect x="0" y="99.84" width="128" height="28.16" fill="#76717e"/>
-      </g>
+    <g id="spandrel">
+      <path fill="#474654" d="M -78,-98 Q -30,-101 -19,-143 Q -11,-160 0,-168 Q 11,-160 19,-143 Q 30,-101 78,-98 Q 0,-72 -78,-98 Z"/>
+      <path fill="#977458" d="M -49,-101 Q -21,-116 0,-158 Q 21,-116 49,-101 Q 0,-89 -49,-101 Z"/>
+      <path fill="#ab907d" d="M -28,-106 Q -13,-122 0,-144 Q 13,-122 28,-106 Z"/>
     </g>
-    <g id="pale-bands">
-      <use xlink:href="#square" fill="#749ac0"/>
-      <g clip-path="url(#disc)">
-        <rect x="0" y="0.00" width="128" height="29.44" fill="#76717e"/>
-        <rect x="0" y="49.92" width="128" height="16.64" fill="#76717e"/>
-        <rect x="0" y="78.08" width="128" height="12.80" fill="#b7a9a2"/>
-        <rect x="0" y="99.84" width="128" height="28.16" fill="#b7a9a2"/>
-      </g>
+    <g id="frame">
+      <use xlink:href="#spandrel"/>
+      <use xlink:href="#spandrel" transform="rotate(90)"/>
+      <use xlink:href="#spandrel" transform="rotate(180)"/>
+      <use xlink:href="#spandrel" transform="rotate(270)"/>
+      <path fill="#ab907d" stroke="#252530" stroke-width="5" d="M -114,-114 Q 0,-84 114,-114 Q 84,0 114,114 Q 0,84 -114,114 Q -84,0 -114,-114 Z"/>
+      <rect x="-72" y="-72" width="144" height="144" fill="#977458" stroke="#756b6b" stroke-width="4"/>
+      <rect x="-64" y="-64" width="128" height="128" fill="#ab907d"/>
+      <path fill="#977458" d="M -64,-64 L -30,-25 -64,-8 Z M 64,-64 L 30,-25 64,-8 Z M 64,64 L 30,25 64,8 Z M -64,64 L -30,25 -64,8 Z"/>
+      <path fill="#252530" d="M 0,-69 Q 8,-41 24,-24 Q 43,-10 68,0 Q 43,10 24,24 Q 8,42 0,69 Q -9,40 -24,24 Q -43,10 -68,0 Q -43,-10 -24,-24 Q -9,-42 0,-69 Z"/>
+      <path fill="#474654" d="M 0,-56 L 10,-23 0,-9 -10,-23 Z M 55,0 L 23,10 9,0 23,-10 Z M 0,56 L -10,23 0,9 10,23 Z M -55,0 L -23,-10 -9,0 -23,10 Z"/>
+      <path fill="#756b6b" d="M 0,-11 L 9,0 0,11 -9,0 Z"/>
     </g>
-    <g id="split-navy">
-      <use xlink:href="#square" fill="#b7a9a2"/>
-      <path fill="#223e57" d="M 4.054 61.450 A 60 60 0 0 1 61.450 4.054 L 61.450 30.697 A 33.4 33.4 0 0 0 30.697 61.450 Z"/>
-      <path fill="#223e57" d="M 66.550 4.054 A 60 60 0 0 1 123.946 61.450 L 97.303 61.450 A 33.4 33.4 0 0 0 66.550 30.697 Z"/>
-      <path fill="#76717e" d="M 123.946 66.550 A 60 60 0 0 1 66.550 123.946 L 66.550 97.303 A 33.4 33.4 0 0 0 97.303 66.550 Z"/>
-      <path fill="#d9b085" d="M 61.450 123.946 A 60 60 0 0 1 4.054 66.550 L 30.697 66.550 A 33.4 33.4 0 0 0 61.450 97.303 Z"/>
-      <path fill="#749ac0" d="M 64 64 L 64.000 88.800 A 24.8 24.8 0 1 1 88.800 64.000 Z"/>
-    </g>
-    <g id="gold-sectors">
-      <use xlink:href="#square" fill="#223e57"/>
-      <path fill="#d9b085" d="M 4.054 61.450 A 60 60 0 0 1 61.450 4.054 L 61.450 30.697 A 33.4 33.4 0 0 0 30.697 61.450 Z"/>
-      <path fill="#76717e" d="M 66.550 4.054 A 60 60 0 0 1 123.946 61.450 L 97.303 61.450 A 33.4 33.4 0 0 0 66.550 30.697 Z"/>
-      <path fill="#b7a9a2" d="M 123.946 66.550 A 60 60 0 0 1 66.550 123.946 L 66.550 97.303 A 33.4 33.4 0 0 0 97.303 66.550 Z"/>
-      <path fill="#d9b085" d="M 61.450 123.946 A 60 60 0 0 1 4.054 66.550 L 30.697 66.550 A 33.4 33.4 0 0 0 61.450 97.303 Z"/>
-      <path fill="#749ac0" d="M 64 64 L 88.800 64.000 A 24.8 24.8 0 1 1 64.000 39.200 Z"/>
-    </g>
-    <g id="gold-bars">
-      <use xlink:href="#square" fill="#223e57"/>
-      <g clip-path="url(#disc)">
-        <rect x="0" y="0.00" width="128" height="15.36" fill="#d9b085"/>
-        <rect x="0" y="20.48" width="128" height="14.08" fill="#d9b085"/>
-        <rect x="0" y="40.96" width="128" height="12.80" fill="#b7a9a2"/>
-        <rect x="0" y="61.44" width="128" height="15.36" fill="#76717e"/>
-        <rect x="0" y="93.44" width="128" height="34.56" fill="#749ac0"/>
-      </g>
-    </g>
-    <g id="blue-ring">
-      <use xlink:href="#square" fill="#76717e"/>
-      <path fill="#b7a9a2" d="M 4.054 61.450 A 60 60 0 0 1 61.450 4.054 L 61.450 30.697 A 33.4 33.4 0 0 0 30.697 61.450 Z"/>
-      <path fill="#749ac0" d="M 66.550 4.054 A 60 60 0 1 1 4.054 66.550 L 30.697 66.550 A 33.4 33.4 0 1 0 66.550 30.697 Z"/>
-      <use xlink:href="#round-centre" fill="#76717e"/>
-    </g>
-    <g id="amber-hub">
-      <use xlink:href="#square" fill="#223e57"/>
-      <path fill="#b7a9a2" d="M 4.054 61.450 A 60 60 0 0 1 61.450 4.054 L 61.450 30.697 A 33.4 33.4 0 0 0 30.697 61.450 Z"/>
-      <path fill="#749ac0" d="M 66.550 4.054 A 60 60 0 0 1 123.946 61.450 L 97.303 61.450 A 33.4 33.4 0 0 0 66.550 30.697 Z"/>
-      <path fill="#76717e" d="M 123.946 66.550 A 60 60 0 0 1 4.054 66.550 L 30.697 66.550 A 33.4 33.4 0 0 0 97.303 66.550 Z"/>
-      <use xlink:href="#round-centre" fill="#d9b085"/>
-    </g>
-    <g id="two-halves">
-      <use xlink:href="#square" fill="#749ac0"/>
-      <path fill="#76717e" d="M 61.450 123.946 A 60 60 0 0 1 61.450 4.054 L 61.450 30.697 A 33.4 33.4 0 0 0 61.450 97.303 Z"/>
-      <path fill="#b7a9a2" d="M 66.550 4.054 A 60 60 0 0 1 66.550 123.946 L 66.550 97.303 A 33.4 33.4 0 0 0 66.550 30.697 Z"/>
-      <use xlink:href="#round-centre" fill="#76717e"/>
-    </g>
-    <g id="gold-diagonal">
-      <use xlink:href="#square" fill="#b7a9a2"/>
-      <path fill="#d9b085" d="M 4.054 61.450 A 60 60 0 0 1 61.450 4.054 L 61.450 30.697 A 33.4 33.4 0 0 0 30.697 61.450 Z"/>
-      <path fill="#76717e" d="M 66.550 4.054 A 60 60 0 0 1 123.946 61.450 L 97.303 61.450 A 33.4 33.4 0 0 0 66.550 30.697 Z"/>
-      <path fill="#d9b085" d="M 123.946 66.550 A 60 60 0 0 1 66.550 123.946 L 66.550 97.303 A 33.4 33.4 0 0 0 97.303 66.550 Z"/>
-      <path fill="#749ac0" d="M 61.450 123.946 A 60 60 0 0 1 4.054 66.550 L 30.697 66.550 A 33.4 33.4 0 0 0 61.450 97.303 Z"/>
-      <path fill="#749ac0" d="M 64 64 L 88.800 64.000 A 24.8 24.8 0 1 1 64.000 39.200 Z"/>
-    </g>
-    <g id="grey-bars">
-      <use xlink:href="#square" fill="#223e57"/>
-      <g clip-path="url(#disc)">
-        <rect x="0" y="0.00" width="128" height="15.36" fill="#76717e"/>
-        <rect x="0" y="21.76" width="128" height="12.80" fill="#76717e"/>
-        <rect x="0" y="40.96" width="128" height="11.52" fill="#76717e"/>
-        <rect x="0" y="60.16" width="128" height="11.52" fill="#76717e"/>
-        <rect x="0" y="79.36" width="128" height="48.64" fill="#b7a9a2"/>
-      </g>
-    </g>
-    <g id="dark-hub">
-      <use xlink:href="#square" fill="#b7a9a2"/>
-      <path fill="#76717e" d="M 61.450 123.946 A 60 60 0 0 1 61.450 4.054 L 61.450 30.697 A 33.4 33.4 0 0 0 61.450 97.303 Z"/>
-      <path fill="#749ac0" d="M 66.550 4.054 A 60 60 0 0 1 66.550 123.946 L 66.550 97.303 A 33.4 33.4 0 0 0 66.550 30.697 Z"/>
-      <use xlink:href="#round-centre" fill="#223e57"/>
-    </g>
-    <g id="upright-bars">
-      <use xlink:href="#square" fill="#223e57"/>
-      <g clip-path="url(#disc)" transform="rotate(-90 64 64)">
-        <rect x="0" y="0.00" width="128" height="30.72" fill="#76717e"/>
-        <rect x="0" y="49.92" width="128" height="15.36" fill="#b7a9a2"/>
-        <rect x="0" y="76.80" width="128" height="14.08" fill="#749ac0"/>
-        <rect x="0" y="98.56" width="128" height="11.52" fill="#749ac0"/>
-        <rect x="0" y="116.48" width="128" height="11.52" fill="#749ac0"/>
-      </g>
-    </g>
-    <g id="repeat">
-      <use xlink:href="#quarter-past" x="0" y="0"/>
-      <use xlink:href="#gold-centre" x="128" y="0"/>
-      <use xlink:href="#blue-quarter" x="256" y="0"/>
-      <use xlink:href="#navy-base" x="384" y="0"/>
-      <use xlink:href="#navy-cap" x="0" y="128"/>
-      <use xlink:href="#pale-bands" x="128" y="128"/>
-      <use xlink:href="#split-navy" x="256" y="128"/>
-      <use xlink:href="#gold-sectors" x="384" y="128"/>
-      <use xlink:href="#gold-bars" x="0" y="256"/>
-      <use xlink:href="#blue-ring" x="128" y="256"/>
-      <use xlink:href="#amber-hub" x="256" y="256"/>
-      <use xlink:href="#two-halves" x="384" y="256"/>
-      <use xlink:href="#gold-diagonal" x="0" y="384"/>
-      <use xlink:href="#grey-bars" x="128" y="384"/>
-      <use xlink:href="#dark-hub" x="256" y="384"/>
-      <use xlink:href="#upright-bars" x="384" y="384"/>
+    <!-- Both versions of the diagonal crossing carry one band continuously across the junction. -->
+    <g id="crossing">
+      <path d="M -27,27 Q -12,10 0,0 Q 15,-11 27,-27" fill="none" stroke="#252530" stroke-width="16"/>
+      <path d="M -27,27 Q -12,10 0,0 Q 15,-11 27,-27" fill="none" stroke="#474654" stroke-width="11"/>
+      <path d="M -27,27 Q -12,10 0,0 Q 15,-11 27,-27" fill="none" stroke="#303347" stroke-width="5"/>
     </g>
   </defs>
-  <rect width="512" height="512" fill="#b7a9a2"/>
-  <use xlink:href="#repeat" x="-17" y="-19"/>
-  <use xlink:href="#repeat" x="495" y="-19"/>
-  <use xlink:href="#repeat" x="-17" y="493"/>
-  <use xlink:href="#repeat" x="495" y="493"/>
+  <rect width="656" height="656" fill="#303347"/>
+  <use xlink:href="#frame" x="328"/>
+  <use xlink:href="#frame" x="328" y="656"/>
+  <use xlink:href="#frame" y="328"/>
+  <use xlink:href="#frame" x="656" y="328"/>
+  <use xlink:href="#knot"/>
+  <use xlink:href="#knot" x="656"/>
+  <use xlink:href="#knot" y="656"/>
+  <use xlink:href="#knot" x="656" y="656"/>
+  <use xlink:href="#knot" x="328" y="328"/>
+  <use xlink:href="#crossing" transform="translate(164 164)"/>
+  <use xlink:href="#crossing" transform="translate(492 492)"/>
+  <use xlink:href="#crossing" transform="translate(164 492) scale(-1 1)"/>
+  <use xlink:href="#crossing" transform="translate(492 164) scale(-1 1)"/>
 </svg>
