@@ -1,515 +1,174 @@
 <?xml version='1.0' encoding='utf-8'?>
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="720" height="720" viewBox="0 0 720 720">
-  <title>The Pontlottyn, Abertillery — flower wreaths on a garnet field</title>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="640" height="640" viewBox="0 0 640 640">
+  <title>The Pontlottyn, Abertillery — crimson Axminster repeat</title>
   <defs>
-    <g id="petal">
-      <path d="M -2,-17 C -10,-22 -18,-28 -20,-40 C -21,-49 -18,-57 -16,-61 Q -15,-57 -13,-56 Q -15,-67 -12,-72 L -8,-69 Q -8,-78 -4,-82 Q -1,-87 1,-87 Q 6,-84 9,-77 L 10,-71 L 14,-73 Q 17,-68 16,-59 L 20,-62 Q 24,-50 20,-40 Q 17,-27 5,-23 Z" fill="#978362" />
-      <path d="M -17,-49 Q -19,-55 -16,-61 L -13,-56 Q -15,-66 -12,-71 L -8,-67 Q -8,-76 -3,-82 L 1,-86 Q 7,-83 8,-73 L 10,-67 L 13,-71 Q 18,-64 14,-54 L 19,-59 Q 21,-51 17,-43 Q 13,-35 10,-34 Q 14,-45 11,-51 Q 8,-47 4,-43 Q 9,-59 4,-67 Q 4,-56 -1,-49 Q -3,-59 -8,-63 Q -7,-53 -11,-44 L -13,-52 Z" fill="#C1A675" />
-      <path d="M -8,-73 Q -6,-81 0,-85 Q 3,-84 5,-80 Q 0,-79 -2,-72 L -4,-68 Z" fill="#CF9E80" />
-      <path d="M -18,-37 Q -13,-33 -12,-41 Q -11,-36 -7,-35 Q -3,-32 0,-24 L -4,-20 Q -7,-28 -13,-29 Z" fill="#97655C" />
+    <g id="star-medallion">
+      <path d="M0,-147 9,-142 14,-142 21,-135 25,-134 34,-123 37,-121 39,-116 53,-119 65,-118 72,-115 76,-108 87,-107 94,-103 103,-100 103,-103 100,-103 103,-94 107,-87 108,-76 115,-72 118,-65 119,-53 116,-39 121,-37 123,-34 134,-25 135,-21 142,-14 142,-9 147,0 142,9 142,14 135,21 134,25 123,34 121,37 116,39 119,53 118,65 115,72 108,76 107,87 103,94 100,103 103,103 103,100 94,103 87,107 76,108 72,115 65,118 53,119 39,116 37,121 34,123 25,134 21,135 14,142 9,142 0,147 -9,142 -14,142 -21,135 -25,134 -34,123 -37,121 -39,116 -53,119 -65,118 -72,115 -76,108 -87,107 -94,103 -103,100 -103,103 -100,103 -103,94 -107,87 -108,76 -115,72 -118,65 -119,53 -116,39 -121,37 -123,34 -134,25 -135,21 -142,14 -142,9 -147,0 -142,-9 -142,-14 -135,-21 -134,-25 -123,-34 -121,-37 -116,-39 -119,-53 -118,-65 -115,-72 -108,-76 -107,-87 -103,-94 -100,-103 -103,-103 -103,-100 -94,-103 -87,-107 -76,-108 -72,-115 -65,-118 -53,-119 -39,-116 -37,-121 -34,-123 -25,-134 -21,-135 -14,-142 -9,-142Z" fill="#222238" />
+      <path d="M0,-129 4,-126 4,-123 9,-124 10,-119 15,-120 17,-114 23,-114 24,-108 29,-107 28,-101 33,-101 31,-96 37,-93 46,-99 54,-103 64,-101 69,-98 73,-91 85,-89 88,-88 89,-85 91,-73 98,-69 101,-64 103,-54 99,-46 93,-37 96,-31 101,-33 101,-28 107,-29 108,-24 114,-23 114,-17 120,-15 119,-10 124,-9 123,-4 126,-4 129,0 126,4 123,4 124,9 119,10 120,15 114,17 114,23 108,24 107,29 101,28 101,33 96,31 93,37 99,46 103,54 101,64 98,69 91,73 89,85 88,88 85,89 73,91 69,98 64,101 54,103 46,99 37,93 31,96 33,101 28,101 29,107 24,108 23,114 17,114 15,120 10,119 9,124 4,123 4,126 0,129 -4,126 -4,123 -9,124 -10,119 -15,120 -17,114 -23,114 -24,108 -29,107 -28,101 -33,101 -31,96 -37,93 -46,99 -54,103 -64,101 -69,98 -73,91 -85,89 -88,88 -89,85 -91,73 -98,69 -101,64 -103,54 -99,46 -93,37 -96,31 -101,33 -101,28 -107,29 -108,24 -114,23 -114,17 -120,15 -119,10 -124,9 -123,4 -126,4 -129,0 -126,-4 -123,-4 -124,-9 -119,-10 -120,-15 -114,-17 -114,-23 -108,-24 -107,-29 -101,-28 -101,-33 -96,-31 -93,-37 -99,-46 -103,-54 -101,-64 -98,-69 -91,-73 -89,-85 -88,-88 -85,-89 -73,-91 -69,-98 -64,-101 -54,-103 -46,-99 -37,-93 -31,-96 -33,-101 -28,-101 -29,-107 -24,-108 -23,-114 -17,-114 -15,-120 -10,-119 -9,-124 -4,-123 -4,-126Z" fill="#E3AA58" />
+      <use xlink:href="#cardinal-petal" transform="rotate(0)" />
+      <use xlink:href="#diagonal-petal" transform="rotate(0)" />
+      <use xlink:href="#cardinal-petal" transform="rotate(90)" />
+      <use xlink:href="#diagonal-petal" transform="rotate(90)" />
+      <use xlink:href="#cardinal-petal" transform="rotate(180)" />
+      <use xlink:href="#diagonal-petal" transform="rotate(180)" />
+      <use xlink:href="#cardinal-petal" transform="rotate(270)" />
+      <use xlink:href="#diagonal-petal" transform="rotate(270)" />
+      <path d="M0,-39 5,-33 13,-31 23,-32 30,-36 37,-37 36,-30 32,-23 31,-13 33,-5 39,0 33,5 31,13 32,23 36,30 37,37 30,36 23,32 13,31 5,33 0,39 -5,33 -13,31 -23,32 -30,36 -37,37 -36,30 -32,23 -31,13 -33,5 -39,0 -33,-5 -31,-13 -32,-23 -36,-30 -37,-37 -30,-36 -23,-32 -13,-31 -5,-33Z" fill="#222238" />
+      <path d="M0,-24 5,-22 11,-21 19,-22 21,-21 22,-19 21,-11 22,-5 24,0 22,5 21,11 22,19 21,21 19,22 11,21 5,22 0,24 -5,22 -11,21 -19,22 -21,21 -22,19 -21,11 -22,5 -24,0 -22,-5 -21,-11 -22,-19 -21,-21 -19,-22 -11,-21 -5,-22Z" fill="#842437" />
+      <use xlink:href="#inner-bud" transform="rotate(0)" />
+      <use xlink:href="#inner-bud" transform="rotate(90)" />
+      <use xlink:href="#inner-bud" transform="rotate(180)" />
+      <use xlink:href="#inner-bud" transform="rotate(270)" />
+      <path d="M0 -5 L5 0 0 5 -5 0Z" fill="#F2C77B" />
     </g>
-    <g id="flower">
-      <use xlink:href="#petal" transform="rotate(22.5)" />
-      <use xlink:href="#petal" transform="rotate(67.5)" />
-      <use xlink:href="#petal" transform="rotate(112.5)" />
-      <use xlink:href="#petal" transform="rotate(157.5)" />
-      <use xlink:href="#petal" transform="rotate(202.5)" />
-      <use xlink:href="#petal" transform="rotate(247.5)" />
-      <use xlink:href="#petal" transform="rotate(292.5)" />
-      <use xlink:href="#petal" transform="rotate(337.5)" />
-      <use xlink:href="#calyx-lobe" transform="rotate(0)" />
-      <use xlink:href="#calyx-lobe" transform="rotate(45)" />
-      <use xlink:href="#calyx-lobe" transform="rotate(90)" />
-      <use xlink:href="#calyx-lobe" transform="rotate(135)" />
-      <use xlink:href="#calyx-lobe" transform="rotate(180)" />
-      <use xlink:href="#calyx-lobe" transform="rotate(225)" />
-      <use xlink:href="#calyx-lobe" transform="rotate(270)" />
-      <use xlink:href="#calyx-lobe" transform="rotate(315)" />
-      <path d="M-6.08,-23.15 Q0.00,-29.58 6.08,-23.15 Q14.50,-25.62 16.62,-16.95 Q25.11,-14.79 22.70,-6.20 Q29.00,-0.00 22.70,6.20 Q25.11,14.79 16.62,16.95 Q14.50,25.62 6.08,23.15 Q0.00,29.58 -6.08,23.15 Q-14.50,25.62 -16.62,16.95 Q-25.11,14.79 -22.70,6.20 Q-29.00,0.00 -22.70,-6.20 Q-25.11,-14.79 -16.62,-16.95 Q-14.50,-25.62 -6.08,-23.15 Z" fill="#5B4538" />
-      <path d="M-5.44,-20.28 Q0.00,-26.00 5.44,-20.28 Q13.00,-22.52 14.85,-14.85 Q22.52,-13.00 20.28,-5.44 Q26.00,-0.00 20.28,5.44 Q22.52,13.00 14.85,14.85 Q13.00,22.52 5.44,20.28 Q0.00,26.00 -5.44,20.28 Q-13.00,22.52 -14.85,14.85 Q-22.52,13.00 -20.28,5.44 Q-26.00,0.00 -20.28,-5.44 Q-22.52,-13.00 -14.85,-14.85 Q-13.00,-22.52 -5.44,-20.28 Z" fill="#97655C" />
-      <use xlink:href="#seed-floret" transform="rotate(9)" />
-      <use xlink:href="#seed-floret" transform="rotate(45)" />
-      <use xlink:href="#seed-floret" transform="rotate(81)" />
-      <use xlink:href="#seed-floret" transform="rotate(117)" />
-      <use xlink:href="#seed-floret" transform="rotate(153)" />
-      <use xlink:href="#seed-floret" transform="rotate(189)" />
-      <use xlink:href="#seed-floret" transform="rotate(225)" />
-      <use xlink:href="#seed-floret" transform="rotate(261)" />
-      <use xlink:href="#seed-floret" transform="rotate(297)" />
-      <use xlink:href="#seed-floret" transform="rotate(333)" />
-      <path d="M-4.56,-9.46 Q0.00,-14.00 4.56,-9.46 Q10.95,-8.73 10.24,-2.34 Q13.65,3.12 8.21,6.55 Q6.07,12.61 0.00,10.50 Q-6.07,12.61 -8.21,6.55 Q-13.65,3.12 -10.24,-2.34 Q-10.95,-8.73 -4.56,-9.46 Z" fill="#97655C" />
-      <ellipse cx="0" cy="-7.0" rx="1.9" ry="3.2" fill="#978362" transform="rotate(8)" />
-      <ellipse cx="0" cy="-7.0" rx="1.9" ry="3.2" fill="#978362" transform="rotate(80)" />
-      <ellipse cx="0" cy="-7.0" rx="1.9" ry="3.2" fill="#978362" transform="rotate(152)" />
-      <ellipse cx="0" cy="-7.0" rx="1.9" ry="3.2" fill="#978362" transform="rotate(224)" />
-      <ellipse cx="0" cy="-7.0" rx="1.9" ry="3.2" fill="#978362" transform="rotate(296)" />
-      <ellipse cx="0" cy="0" rx="3.5" ry="3" fill="#97655C" />
+    <g id="cardinal-petal">
+      <path d="M-44 -79 Q-35 -89 -27 -85 L-23 -89 -19 -87 -19 -93 -13 -93 -14 -98 -9 -97 -7 -103 -3 -101 0 -107 3 -101 7 -103 9 -97 14 -98 13 -93 19 -93 19 -87 23 -89 27 -85 Q35 -89 44 -79 L30 -58 0 -49 -30 -58Z" fill="#F2C77B" />
+      <path d="M-36 -48 L-32 -55 -30 -61 -23 -62 -21 -68 -16 -68 -15 -73 -9 -74 -8 -78 0 -86 8 -78 9 -74 15 -73 16 -68 21 -68 23 -62 30 -61 32 -55 36 -48 30 -37 25 -45 21 -49 18 -54 13 -54 12 -59 6 -61 0 -69 -6 -61 -12 -59 -13 -54 -18 -54 -21 -49 -25 -45 -30 -37Z" fill="#E74838" />
     </g>
-    <g id="calyx-lobe">
-      <path d="M -13,-19 Q -5,-23 -1,-45 Q 1,-39 2,-34 Q 5,-26 12,-23 L 13,-18 Q 4,-21 -2,-22 Q -8,-19 -13,-16 Z" fill="#5B4538" />
-      <path d="M -3,-29 Q -1,-34 0,-36 Q 1,-30 4,-27 L 0,-26 Z" fill="#978362" />
+    <g id="diagonal-petal">
+      <path d="M33 -83 Q43 -92 51 -95 Q61 -98 67 -93 L70 -85 79 -83 84 -84 83 -76 88 -71 Q95 -65 92 -55 Q90 -45 82 -36 L76 -42 72 -43 70 -52 65 -51 61 -58 Q56 -58 52 -55 L48 -51 45 -55 46 -61 44 -66 38 -68 39 -75Z" fill="#E74838" />
+      <path d="M39 -39 L43 -42 41 -46 44 -47 Q48 -52 52 -50 L53 -54 Q60 -60 63 -57 Q68 -53 62 -48 L58 -46 58 -42 54 -41 52 -37 48 -39 44 -35Z" fill="#222238" />
     </g>
-    <g id="seed-floret">
-      <path d="M -3.3,-17 Q -3.7,-21 .1,-22.7 Q 3,-22 3.5,-18 Q 2.7,-15 .5,-13.4 Q -1.8,-14.6 -3.3,-17 Z" fill="#97655C" />
-      <path d="M -2.8,-18 Q -2,-21 1,-21.5 L 2.3,-19.1 Q -.1,-19.3 -1,-16.2 Z" fill="#978362" />
+    <g id="inner-bud">
+      <path d="M-15 -14 Q-9 -21 -5 -15 L-2 -10 -4 -6 -9 -5 -13 -8Z" fill="#E74838" />
     </g>
-    <g id="ray">
-      <path d="M -1.3,-15 Q -5.9,-21 -5.0,-27 C -5,-32 -2.2,-35 1,-35.3 Q 6,-34.8 5.8,-29.3 Q 5.5,-21 1.8,-15 Z" fill="#97655C" />
-      <path d="M -3.3,-26.1 Q -4.4,-31.1 -1.4,-33.3 Q 2,-34.9 4.1,-32 Q 5.1,-28 2.5,-24 Q .3,-21.1 -1,-21.2 Z" fill="#CF9E80" />
-      <path d="M -1.9,-30.8 Q -.6,-33 1.7,-32.9 L 2.1,-30.2 L .3,-26.6 L -1.3,-26.1 Z" fill="#C1A675" />
-      <path d="M -2.4,-23.2 Q -.8,-26.2 .7,-26 Q 2.6,-25 .9,-21 L 0,-19 L -1.6,-19 Z" fill="#978362" />
-    </g>
-    <g id="disk">
-      <path d="M-5.33,-28.51 Q0.00,-37.00 5.33,-28.51 Q13.37,-34.50 15.27,-24.66 Q24.93,-27.34 23.14,-17.48 Q33.12,-16.49 27.89,-7.94 Q36.84,-3.41 28.88,2.68 Q35.59,10.13 25.96,12.93 Q29.53,22.30 19.54,21.43 Q19.48,31.46 10.48,27.04 Q6.80,36.37 0.00,29.00 Q-6.80,36.37 -10.48,27.04 Q-19.48,31.46 -19.54,21.43 Q-29.53,22.30 -25.96,12.93 Q-35.59,10.13 -28.88,2.68 Q-36.84,-3.41 -27.89,-7.94 Q-33.12,-16.49 -23.14,-17.48 Q-24.93,-27.34 -15.27,-24.66 Q-13.37,-34.50 -5.33,-28.51 Z" fill="#97655C" />
-      <use xlink:href="#ray" transform="rotate(0.00)" />
-      <use xlink:href="#ray" transform="rotate(21.18)" />
-      <use xlink:href="#ray" transform="rotate(42.35)" />
-      <use xlink:href="#ray" transform="rotate(63.53)" />
-      <use xlink:href="#ray" transform="rotate(84.71)" />
-      <use xlink:href="#ray" transform="rotate(105.88)" />
-      <use xlink:href="#ray" transform="rotate(127.06)" />
-      <use xlink:href="#ray" transform="rotate(148.24)" />
-      <use xlink:href="#ray" transform="rotate(169.41)" />
-      <use xlink:href="#ray" transform="rotate(190.59)" />
-      <use xlink:href="#ray" transform="rotate(211.76)" />
-      <use xlink:href="#ray" transform="rotate(232.94)" />
-      <use xlink:href="#ray" transform="rotate(254.12)" />
-      <use xlink:href="#ray" transform="rotate(275.29)" />
-      <use xlink:href="#ray" transform="rotate(296.47)" />
-      <use xlink:href="#ray" transform="rotate(317.65)" />
-      <use xlink:href="#ray" transform="rotate(338.82)" />
-      <path d="M-4.32,-18.91 Q0.00,-25.50 4.32,-18.91 Q11.06,-22.97 12.10,-15.17 Q19.94,-15.90 17.48,-8.42 Q24.86,-5.67 19.40,-0.00 Q24.86,5.67 17.48,8.42 Q19.94,15.90 12.10,15.17 Q11.06,22.97 4.32,18.91 Q0.00,25.50 -4.32,18.91 Q-11.06,22.97 -12.10,15.17 Q-19.94,15.90 -17.48,8.42 Q-24.86,5.67 -19.40,0.00 Q-24.86,-5.67 -17.48,-8.42 Q-19.94,-15.90 -12.10,-15.17 Q-11.06,-22.97 -4.32,-18.91 Z" fill="#978362" />
-      <use xlink:href="#disc-bract" transform="rotate(7)" />
-      <use xlink:href="#disc-bract" transform="rotate(37)" />
-      <use xlink:href="#disc-bract" transform="rotate(67)" />
-      <use xlink:href="#disc-bract" transform="rotate(97)" />
-      <use xlink:href="#disc-bract" transform="rotate(127)" />
-      <use xlink:href="#disc-bract" transform="rotate(157)" />
-      <use xlink:href="#disc-bract" transform="rotate(187)" />
-      <use xlink:href="#disc-bract" transform="rotate(217)" />
-      <use xlink:href="#disc-bract" transform="rotate(247)" />
-      <use xlink:href="#disc-bract" transform="rotate(277)" />
-      <use xlink:href="#disc-bract" transform="rotate(307)" />
-      <use xlink:href="#disc-bract" transform="rotate(337)" />
-      <path d="M-4.02,-12.36 Q0.00,-18.00 4.02,-12.36 Q10.58,-14.56 10.52,-7.64 Q17.12,-5.56 13.00,-0.00 Q17.12,5.56 10.52,7.64 Q10.58,14.56 4.02,12.36 Q0.00,18.00 -4.02,12.36 Q-10.58,14.56 -10.52,7.64 Q-17.12,5.56 -13.00,0.00 Q-17.12,-5.56 -10.52,-7.64 Q-10.58,-14.56 -4.02,-12.36 Z" fill="#978362" />
-      <ellipse cx="0" cy="-10" rx="1.7" ry="2.7" fill="#97655C" transform="rotate(0.00)" />
-      <ellipse cx="0" cy="-10" rx="1.7" ry="2.7" fill="#97655C" transform="rotate(51.43)" />
-      <ellipse cx="0" cy="-10" rx="1.7" ry="2.7" fill="#97655C" transform="rotate(102.86)" />
-      <ellipse cx="0" cy="-10" rx="1.7" ry="2.7" fill="#97655C" transform="rotate(154.29)" />
-      <ellipse cx="0" cy="-10" rx="1.7" ry="2.7" fill="#97655C" transform="rotate(205.71)" />
-      <ellipse cx="0" cy="-10" rx="1.7" ry="2.7" fill="#97655C" transform="rotate(257.14)" />
-      <ellipse cx="0" cy="-10" rx="1.7" ry="2.7" fill="#97655C" transform="rotate(308.57)" />
-      <ellipse cx="0" cy="0" rx="3" ry="3.4" fill="#97655C" />
-    </g>
-    <g id="disc-bract">
-      <path d="M -2,-17.5 Q -2.6,-20.6 -.4,-23 Q 1.7,-21.5 2.3,-18.5 L .2,-16 Z" fill="#C1A675" />
-    </g>
-    <g id="sprig">
-      <path d="M 0,-87 C 2,-92 6,-95 6,-98 Q 7,-102 3,-105 L 7,-112 Q 11,-114 10,-118 Q 21,-118 20,-125 L 13,-126 Q 14,-138 23,-150 Q 28,-159 42,-168 Q 30,-172 22,-167 Q 20,-175 16,-178 Q 23,-180 25,-186 L 18,-186 Q 21,-191 18,-195 Q 13,-195 9,-190 L 11,-199 Q 8,-200 4,-195 Q 3,-204 0,-211 Q -4,-208 -5,-196 Q -9,-201 -12,-199 L -10,-191 Q -16,-195 -19,-194 Q -21,-191 -17,-184 L -25,-186 Q -23,-177 -15,-175 L -21,-167 Q -31,-172 -42,-169 Q -30,-163 -24,-154 C -16,-144 -12,-132 -13,-126 L -19,-125 Q -21,-119 -10,-118 Q -10,-114 -6,-112 L -3,-105 Q -8,-101 -5,-97 Z" fill="#97655C" />
-      <path d="M 0,-207 Q 5,-195 2,-183 Q 7,-193 11,-196 Q 12,-189 8,-182 Q 15,-190 19,-191 Q 18,-182 11,-176 Q 19,-181 23,-181 Q 20,-173 13,-169 L 7,-167 Q 9,-174 8,-176 Q 5,-169 1,-165 Q -3,-173 -6,-175 L -6,-168 Q -17,-171 -22,-180 L -11,-176 Q -20,-182 -19,-191 Q -13,-190 -8,-182 L -11,-196 Q -5,-192 -2,-185 Q -5,-197 0,-207 Z" fill="#C1A675" />
-      <path d="M 0,-201 Q 2,-189 0,-182 Q -2,-188 0,-201 Z M -18,-187 Q -10,-183 -6,-176 L -8,-175 Z M 17,-186 Q 12,-179 6,-176 L 8,-180 Z" fill="#978362" />
-      <path d="M -41,-168 C -26,-169 -17,-164 -8,-152 L -10,-164 Q -4,-163 0,-155 Q 5,-163 11,-165 L 9,-153 Q 23,-169 40,-168 Q 27,-161 21,-149 C 16,-141 15,-131 9,-124 Q 3,-119 0,-125 Q -5,-119 -11,-127 C -16,-138 -18,-151 -28,-159 Z" fill="#C1A675" />
-      <path d="M -29,-163 Q -17,-159 -11,-148 Q -8,-143 -7,-136 Q -4,-145 0,-150 Q 4,-145 5,-138 Q 11,-151 17,-155 Q 10,-144 10,-134 Q 8,-125 3,-124 L 0,-135 L -3,-125 Q -9,-124 -12,-135 Q -16,-152 -29,-163 Z" fill="#978362" />
-      <path d="M -7,-125 Q -4,-129 0,-132 Q 5,-128 7,-122 Q 6,-116 0,-114 Q -6,-117 -7,-125 Z" fill="#C1A675" />
-      <path d="M -17,-123 L -9,-125 L -7,-120 L -12,-119 Z M 12,-125 L 17,-123 L 13,-119 L 8,-121 Z" fill="#CF9E80" />
-      <path d="M -5,-112 Q -2,-115 2,-114 L 6,-110 Q 4,-106 .5,-105 Q -2,-105 -5,-112 Z M -4,-98 Q -4,-101 0,-103 Q 4,-102 4,-98 L 0,-92 Z" fill="#C1A675" />
-    </g>
-    <g id="wreath">
-      <g transform="rotate(0)">
-        <path d="M -1,-115 C 13,-113 47,-95 82,-82 L 80,-78 C 51,-90 18,-106 -1,-110 Z" fill="#97655C" />
-        <use xlink:href="#disk" transform="rotate(22.5) translate(0 -149)" />
+    <g id="acanthus">
+      <path d="M107 309 C119 300 126 295 129 290 C112 289 98 283 92 274 C81 260 87 242 99 232 C109 223 124 222 135 228 Q144 234 136 245 C129 233 117 235 108 243 C98 252 99 265 107 272 Q118 281 132 276 Q121 273 119 260 Q134 274 145 270 Q142 266 143 259 Q160 265 172 248 Q184 231 177 212 C188 219 193 229 193 245 Q191 263 179 278 Q167 292 151 297 Q135 303 107 309Z" fill="#222238" />
+      <path d="M110 307 Q128 298 137 286 C115 289 98 276 95 266 C89 250 104 233 117 231 Q130 226 136 236 Q122 227 108 241 C93 258 104 275 119 279 Q134 286 148 276 Q138 277 133 269 Q143 274 155 271 L151 265 Q165 265 176 249 Q185 235 181 220 Q193 242 185 259 L181 261 182 266 176 269 177 274 171 276 170 281 164 282 163 285 Q146 298 110 307Z" fill="#F1CC9F" />
+      <g transform="translate(-14 5) translate(136 168) scale(.86) translate(-136 -168)">
+        <path d="M136 168 Q158 160 180 168 Q199 176 216 165 Q212 178 191 183 Q208 202 205 211 Q211 219 220 220 Q195 232 179 211 Q168 195 164 190 Q177 209 162 219 Q150 227 157 213 Q161 198 151 184Z" fill="#222238" />
+        <path d="M142 170 Q162 167 180 173 Q194 178 209 171 Q194 183 178 178 Q195 189 197 201 Q201 218 214 220 Q195 221 184 207 Q174 189 159 181 Q172 198 165 210 Q162 215 158 216 Q167 196 142 170Z" fill="#F1CC9F" />
       </g>
-      <g transform="rotate(45)">
-        <path d="M -1,-115 C 13,-113 47,-95 82,-82 L 80,-78 C 51,-90 18,-106 -1,-110 Z" fill="#97655C" />
-        <use xlink:href="#disk" transform="rotate(22.5) translate(0 -149)" />
-      </g>
-      <g transform="rotate(90)">
-        <path d="M -1,-115 C 13,-113 47,-95 82,-82 L 80,-78 C 51,-90 18,-106 -1,-110 Z" fill="#97655C" />
-        <use xlink:href="#disk" transform="rotate(22.5) translate(0 -149)" />
-      </g>
-      <g transform="rotate(135)">
-        <path d="M -1,-115 C 13,-113 47,-95 82,-82 L 80,-78 C 51,-90 18,-106 -1,-110 Z" fill="#97655C" />
-        <use xlink:href="#disk" transform="rotate(22.5) translate(0 -149)" />
-      </g>
-      <g transform="rotate(180)">
-        <path d="M -1,-115 C 13,-113 47,-95 82,-82 L 80,-78 C 51,-90 18,-106 -1,-110 Z" fill="#97655C" />
-        <use xlink:href="#disk" transform="rotate(22.5) translate(0 -149)" />
-      </g>
-      <g transform="rotate(225)">
-        <path d="M -1,-115 C 13,-113 47,-95 82,-82 L 80,-78 C 51,-90 18,-106 -1,-110 Z" fill="#97655C" />
-        <use xlink:href="#disk" transform="rotate(22.5) translate(0 -149)" />
-      </g>
-      <g transform="rotate(270)">
-        <path d="M -1,-115 C 13,-113 47,-95 82,-82 L 80,-78 C 51,-90 18,-106 -1,-110 Z" fill="#97655C" />
-        <use xlink:href="#disk" transform="rotate(22.5) translate(0 -149)" />
-      </g>
-      <g transform="rotate(315)">
-        <path d="M -1,-115 C 13,-113 47,-95 82,-82 L 80,-78 C 51,-90 18,-106 -1,-110 Z" fill="#97655C" />
-        <use xlink:href="#disk" transform="rotate(22.5) translate(0 -149)" />
-      </g>
-      <use xlink:href="#sprig" transform="rotate(0)" />
-      <use xlink:href="#sprig" transform="rotate(45)" />
-      <use xlink:href="#sprig" transform="rotate(90)" />
-      <use xlink:href="#sprig" transform="rotate(135)" />
-      <use xlink:href="#sprig" transform="rotate(180)" />
-      <use xlink:href="#sprig" transform="rotate(225)" />
-      <use xlink:href="#sprig" transform="rotate(270)" />
-      <use xlink:href="#sprig" transform="rotate(315)" />
-      <use xlink:href="#flower" transform="translate(0 0)" />
+      <path d="M50 288 Q40 272 48 252 Q57 229 57 218 Q51 219 39 210 Q54 214 59 207 Q65 183 85 178 Q105 170 122 181 Q140 192 135 211 Q126 192 111 190 Q82 186 65 212 Q82 205 94 217 Q100 222 98 231 Q82 216 65 222 Q66 233 53 253 Q44 271 51 284Z" fill="#222238" />
+      <path d="M51 281 Q45 267 56 247 Q64 234 66 225 Q71 240 59 257Z" fill="#F1CC9F" />
+      <path d="M61 211 Q66 188 87 182 Q116 173 132 199 Q118 183 98 186 Q76 188 61 211Z" fill="#F1CC9F" />
+      <path d="M54 215 Q67 218 77 214 Q88 212 97 226 Q82 217 75 220 Q66 222 54 215Z" fill="#F1CC9F" />
+      <path d="M68 181 Q91 161 70 134 Q84 138 90 151 Q98 168 81 176Z" fill="#222238" />
+      <path d="M75 174 Q88 160 75 140 Q94 159 81 171Z" fill="#F1CC9F" />
+      <path d="M37 110 Q59 84 78 109 Q82 115 82 124 Q67 104 56 106 Q46 107 37 113Z" fill="#222238" />
+      <path d="M43 110 Q57 98 68 106 Q62 105 56 110 Q49 113 43 110Z" fill="#F1CC9F" />
     </g>
-    <g id="corner-stitch">
-      <path d="M -13.5,-13.5 L -4.3,-13.5 L -4.3,-10.2 L -1.8,-10.2 L -2.6,-6.8 L -7.5,-7.2 L -7.1,-2.7 L -10.7,-1.9 L -10.7,-4.3 L -13.5,-4.3 Z" fill="#CF9E80" />
-      <path d="M -12,-12 L -7.5,-12 L -7.5,-8.2 L -11.7,-7.3 Z" fill="#C1A675" />
+    <g id="diagonal-stem">
+      <path d="M60 57 Q78 61 87 75 Q95 87 102 94 Q83 95 72 81 Q65 72 60 57Z" fill="#222238" />
+      <path d="M67 63 Q84 68 95 88 Q85 82 79 75Z" fill="#F1CC9F" />
+      <path d="M80 185 Q93 159 111 151 Q138 139 150 118 Q143 144 121 155 Q95 171 80 185Z" fill="#222238" />
+      <path d="M88 175 Q101 154 119 147 Q136 140 147 124 Q132 147 114 155Z" fill="#F1CC9F" />
+      <path d="M133 141 Q144 123 149 107 Q140 118 124 121 Q110 122 101 110 Q121 117 132 105 Q113 106 108 84 Q120 99 135 91 Q149 87 161 78 Q180 64 199 64 L207 57 206 48 214 54 218 65 230 61 239 50 Q238 64 228 70 Q219 76 211 72 Q214 86 221 98 Q207 95 204 80 Q198 88 196 104 Q189 133 207 145 Q186 143 180 128 Q174 112 181 95 Q164 111 161 129 Q159 142 169 150 Q150 144 150 128 Q147 138 133 141Z" fill="#222238" />
+      <path d="M109 111 Q125 115 140 101 Q151 92 165 85 Q149 98 142 109 Q128 123 109 111Z" fill="#F1CC9F" />
+      <path d="M113 89 Q126 99 142 90 Q161 79 176 71 L199 62 Q182 74 169 85 Q148 99 131 101 Q120 101 113 89Z" fill="#F1CC9F" />
+      <path d="M155 128 Q153 111 173 92 Q189 77 201 69 Q179 93 172 107 Q161 126 164 143 Q157 137 155 128Z" fill="#F1CC9F" />
+      <path d="M183 117 Q182 98 194 84 Q185 103 188 121 Q190 134 202 142 Q186 137 183 117Z" fill="#F1CC9F" />
+      <path d="M207 50 Q219 58 214 68 Q228 70 236 56 Q231 77 210 70 Q208 84 216 93 Q201 84 205 69 Q201 66 195 68Z" fill="#F1CC9F" />
     </g>
-    <g id="square">
-      <path d="M -13,-12 L -3,-12 L -2,-10.5 L 2,-10.5 L 4,-12.7 L 12.6,-12.7 L 12.6,12.5 L 2,12.5 L .5,11.3 L -2,12.6 L -12.8,12.6 Z" fill="#97655C" />
-      <path d="M -.7,-9 L 4,-6.7 L 7.2,-3.5 L 7,3.9 L 3.1,7.4 L -3.5,7 L -7.2,3.4 L -7.1,-3.2 Z" fill="#978362" />
-      <use xlink:href="#corner-stitch" transform="rotate(0)" />
-      <use xlink:href="#corner-stitch" transform="rotate(90)" />
-      <use xlink:href="#corner-stitch" transform="rotate(180)" />
-      <use xlink:href="#corner-stitch" transform="rotate(270)" />
-      <path d="M -4,-4.2 L 3.6,-4.2 L 4.1,3.6 L -3.8,4.1 Z" fill="#C1A675" />
-      <path d="M -2.4,-2 L 1.9,-2 L 2.2,1.5 L -2.1,2 Z" fill="#CF9E80" />
+    <g id="edge-cartouche">
+      <path d="M0 -45 C10 -44 20 -35 29 -28 Q43 -17 49 0 Q44 14 31 28 Q12 43 0 45 Q-13 43 -30 28 Q-44 16 -49 0 Q-44 -16 -30 -28 Q-12 -44 0 -45Z" fill="#222238" />
+      <path d="M0 -40 C13 -37 22 -28 29 -22 Q41 -12 44 0 Q40 13 27 24 Q11 37 0 40 Q-14 36 -26 25 Q-39 14 -44 0 Q-40 -13 -28 -24 Q-12 -38 0 -40Z" fill="#F1CC9F" />
+      <path d="M0 -35 Q14 -31 25 -20 Q36 -10 38 0 Q34 12 23 20 Q11 31 0 34 Q-14 30 -25 20 Q-36 9 -38 0 Q-34 -11 -23 -21 Q-9 -33 0 -35Z" fill="#E74838" />
+      <use xlink:href="#edge-bud" transform="rotate(0)" />
+      <use xlink:href="#edge-bud" transform="rotate(90)" />
+      <use xlink:href="#edge-bud" transform="rotate(180)" />
+      <use xlink:href="#edge-bud" transform="rotate(270)" />
+      <path d="M0 -5 L5 0 0 5 -5 0Z" fill="#842437" />
     </g>
-    <g id="pin">
-      <path d="M -1.9,-1.4 L .2,-2.3 L 2.1,-.7 L 1.6,1.8 L -.6,2.1 L -1.9,.7 Z" fill="#97655C" />
-      <path d="M -.9,-1.2 L .7,-1.3 L .9,.5 L -.7,.8 Z" fill="#CF9E80" />
+    <g id="edge-bud">
+      <path d="M0 -5 Q-8 -10 -9 -18 Q-8 -23 -2 -27 Q5 -25 7 -20 Q9 -14 2 -6Z" fill="#513346" />
+      <path d="M-1 -9 Q-5 -14 -5 -18 Q-4 -22 -1 -23 Q4 -20 4 -16Z" fill="#222238" />
+    </g>
+    <g id="edge-frond">
+      <path d="M0 43 Q7 53 18 57 Q36 63 49 56 Q44 69 29 71 Q46 78 50 91 Q37 82 27 83 Q30 90 38 97 Q20 97 10 83 Q4 72 0 64 Q-5 71 -10 83 Q-20 97 -38 97 Q-29 88 -27 83 Q-39 84 -48 91 Q-46 80 -30 72 Q-44 68 -49 56 Q-29 65 -14 56 Q-5 50 0 43Z" fill="#842437" />
+      <path d="M0 48 Q11 63 33 63 Q23 71 10 62 Q14 73 27 77 Q41 81 43 85 Q24 79 19 80 Q20 86 27 90 Q13 86 7 75 Q2 65 0 63 Q-3 67 -7 75 Q-15 88 -27 90 Q-21 84 -19 80 Q-31 80 -42 85 Q-36 79 -25 76 Q-13 71 -10 62 Q-23 71 -33 63 Q-12 64 0 48Z" fill="#513346" />
+    </g>
+    <g id="edge-lance">
+      <path d="M0 44 Q3 56 10 65 Q24 65 38 54 Q38 66 23 77 Q38 72 47 75 Q37 78 32 86 Q22 98 10 94 Q20 103 34 104 Q53 103 62 91 Q60 107 46 113 Q26 123 12 110 Q5 104 0 93 Q-5 105 -12 110 Q-28 123 -47 113 Q-60 106 -62 92 Q-49 106 -34 104 Q-17 103 -10 94 Q-22 98 -32 86 Q-36 79 -47 75 Q-36 71 -23 77 Q-38 65 -38 54 Q-24 64 -10 65 Q-3 55 0 44Z" fill="#513346" />
+      <path d="M0 56 Q3 73 9 81 Q21 90 31 82 Q21 96 7 87 L0 101 -7 87 Q-22 96 -31 82 Q-21 90 -9 81 Q-4 74 0 56Z" fill="#222238" />
+    </g>
+    <g id="corner-rosette">
+      <path d="M0,-74 12,-73 23,-69 31,-62 36,-52 38,-43 39,-39 43,-38 52,-36 62,-31 69,-23 73,-12 74,0 73,12 69,23 62,31 52,36 43,38 39,39 38,43 36,52 31,62 23,69 12,73 0,74 -12,73 -23,69 -31,62 -36,52 -38,43 -39,39 -43,38 -52,36 -62,31 -69,23 -73,12 -74,0 -73,-12 -69,-23 -62,-31 -52,-36 -43,-38 -39,-39 -38,-43 -36,-52 -31,-62 -23,-69 -12,-73Z" fill="#842437" />
+      <path d="M0,-69 12,-68 23,-63 30,-54 33,-44 34,-34 44,-33 54,-30 63,-23 68,-12 69,0 68,12 63,23 54,30 44,33 34,34 33,44 30,54 23,63 12,68 0,69 -12,68 -23,63 -30,54 -33,44 -34,34 -44,33 -54,30 -63,23 -68,12 -69,0 -68,-12 -63,-23 -54,-30 -44,-33 -34,-34 -33,-44 -30,-54 -23,-63 -12,-68Z" fill="#F1CC9F" />
+      <path d="M0,-63 13,-61 21,-56 26,-49 28,-37 30,-30 37,-28 49,-26 56,-21 61,-13 63,0 61,13 56,21 49,26 37,28 30,30 28,37 26,49 21,56 13,61 0,63 -13,61 -21,56 -26,49 -28,37 -30,30 -37,28 -49,26 -56,21 -61,13 -63,0 -61,-13 -56,-21 -49,-26 -37,-28 -30,-30 -28,-37 -26,-49 -21,-56 -13,-61Z" fill="#222238" />
+      <use xlink:href="#corner-petal" transform="rotate(0)" />
+      <use xlink:href="#corner-petal" transform="rotate(90)" />
+      <use xlink:href="#corner-petal" transform="rotate(180)" />
+      <use xlink:href="#corner-petal" transform="rotate(270)" />
+      <path d="M0,-32 6,-24 14,-20 19,-19 20,-14 24,-6 32,0 24,6 20,14 19,19 14,20 6,24 0,32 -6,24 -14,20 -19,19 -20,14 -24,6 -32,0 -24,-6 -20,-14 -19,-19 -14,-20 -6,-24Z" fill="#F1CC9F" />
+      <path d="M0,-27 6,-20 12,-18 16,-16 18,-12 20,-6 27,0 20,6 18,12 16,16 12,18 6,20 0,27 -6,20 -12,18 -16,16 -18,12 -20,6 -27,0 -20,-6 -18,-12 -16,-16 -12,-18 -6,-20Z" fill="#E74838" />
+    </g>
+    <g id="corner-petal">
+      <path d="M0 -54 Q15 -54 18 -42 Q21 -32 14 -24 L17 -17 8 -13 0 -18 -9 -13 -16 -17 -13 -25 Q-23 -41 -15 -49 Q-9 -54 0 -54Z" fill="#513346" />
+      <path d="M0 -51 L6 -50 7 -47 12 -47 12 -44 16 -42 15 -37 17 -33 12 -27 13 -23 7 -22 6 -17 0 -21 -7 -17 -8 -22 -13 -23 -11 -29 -15 -31 -15 -40 -12 -41 -11 -46 -5 -46 -5 -50Z" fill="#E3AA58" />
+    </g>
+    <g id="little-cross">
+      <use xlink:href="#cross-arm" transform="rotate(0)" />
+      <use xlink:href="#cross-arm" transform="rotate(90)" />
+      <use xlink:href="#cross-arm" transform="rotate(180)" />
+      <use xlink:href="#cross-arm" transform="rotate(270)" />
+      <path d="M0 -13 L6 -7 12 0 7 6 1 13 -5 8 -12 1 -6 -6Z" fill="#513346" />
+    </g>
+    <g id="cross-arm">
+      <path d="M0 -30 L5 -24 9 -23 11 -18 8 -13 4 -10 1 -5 -4 -10 -9 -13 -10 -19 -6 -22Z" fill="#842437" />
+      <path d="M0 -24 L4 -20 8 -18 5 -15 1 -14 -2 -12 -4 -16 -7 -18 -3 -20Z" fill="#F1CC9F" />
     </g>
   </defs>
-  <rect width="720" height="720" fill="#9D3644" />
-  <use xlink:href="#pin" transform="translate(7 1)" />
-  <use xlink:href="#pin" transform="translate(7 31)" />
-  <use xlink:href="#pin" transform="translate(7 61)" />
-  <use xlink:href="#pin" transform="translate(7 91)" />
-  <use xlink:href="#pin" transform="translate(7 121)" />
-  <use xlink:href="#pin" transform="translate(7 151)" />
-  <use xlink:href="#pin" transform="translate(7 181)" />
-  <use xlink:href="#pin" transform="translate(7 211)" />
-  <use xlink:href="#pin" transform="translate(7 241)" />
-  <use xlink:href="#pin" transform="translate(7 271)" />
-  <use xlink:href="#pin" transform="translate(7 301)" />
-  <use xlink:href="#pin" transform="translate(7 331)" />
-  <use xlink:href="#pin" transform="translate(7 361)" />
-  <use xlink:href="#pin" transform="translate(7 391)" />
-  <use xlink:href="#pin" transform="translate(7 421)" />
-  <use xlink:href="#pin" transform="translate(7 451)" />
-  <use xlink:href="#pin" transform="translate(7 691)" />
-  <use xlink:href="#pin" transform="translate(7 721)" />
-  <use xlink:href="#pin" transform="translate(37 1)" />
-  <use xlink:href="#square" transform="translate(37 31)" />
-  <use xlink:href="#pin" transform="translate(37 61)" />
-  <use xlink:href="#pin" transform="translate(37 91)" />
-  <use xlink:href="#pin" transform="translate(37 121)" />
-  <use xlink:href="#square" transform="translate(37 151)" />
-  <use xlink:href="#square" transform="translate(37 271)" />
-  <use xlink:href="#pin" transform="translate(37 301)" />
-  <use xlink:href="#pin" transform="translate(37 331)" />
-  <use xlink:href="#pin" transform="translate(37 361)" />
-  <use xlink:href="#square" transform="translate(37 391)" />
-  <use xlink:href="#pin" transform="translate(37 421)" />
-  <use xlink:href="#pin" transform="translate(37 451)" />
-  <use xlink:href="#pin" transform="translate(37 481)" />
-  <use xlink:href="#square" transform="translate(37 511)" />
-  <use xlink:href="#square" transform="translate(37 631)" />
-  <use xlink:href="#pin" transform="translate(37 661)" />
-  <use xlink:href="#pin" transform="translate(37 691)" />
-  <use xlink:href="#pin" transform="translate(37 721)" />
-  <use xlink:href="#pin" transform="translate(67 1)" />
-  <use xlink:href="#pin" transform="translate(67 31)" />
-  <use xlink:href="#pin" transform="translate(67 61)" />
-  <use xlink:href="#pin" transform="translate(67 91)" />
-  <use xlink:href="#pin" transform="translate(67 331)" />
-  <use xlink:href="#pin" transform="translate(67 361)" />
-  <use xlink:href="#pin" transform="translate(67 391)" />
-  <use xlink:href="#pin" transform="translate(67 421)" />
-  <use xlink:href="#pin" transform="translate(67 451)" />
-  <use xlink:href="#pin" transform="translate(67 481)" />
-  <use xlink:href="#pin" transform="translate(67 511)" />
-  <use xlink:href="#pin" transform="translate(67 541)" />
-  <use xlink:href="#pin" transform="translate(67 571)" />
-  <use xlink:href="#pin" transform="translate(67 601)" />
-  <use xlink:href="#pin" transform="translate(67 631)" />
-  <use xlink:href="#pin" transform="translate(67 661)" />
-  <use xlink:href="#pin" transform="translate(67 691)" />
-  <use xlink:href="#pin" transform="translate(67 721)" />
-  <use xlink:href="#pin" transform="translate(97 1)" />
-  <use xlink:href="#pin" transform="translate(97 31)" />
-  <use xlink:href="#pin" transform="translate(97 61)" />
-  <use xlink:href="#pin" transform="translate(97 361)" />
-  <use xlink:href="#pin" transform="translate(97 391)" />
-  <use xlink:href="#pin" transform="translate(97 421)" />
-  <use xlink:href="#square" transform="translate(97 451)" />
-  <use xlink:href="#pin" transform="translate(97 481)" />
-  <use xlink:href="#pin" transform="translate(97 511)" />
-  <use xlink:href="#pin" transform="translate(97 541)" />
-  <use xlink:href="#square" transform="translate(97 571)" />
-  <use xlink:href="#pin" transform="translate(97 601)" />
-  <use xlink:href="#pin" transform="translate(97 631)" />
-  <use xlink:href="#pin" transform="translate(97 661)" />
-  <use xlink:href="#square" transform="translate(97 691)" />
-  <use xlink:href="#pin" transform="translate(97 721)" />
-  <use xlink:href="#pin" transform="translate(127 1)" />
-  <use xlink:href="#pin" transform="translate(127 31)" />
-  <use xlink:href="#pin" transform="translate(127 391)" />
-  <use xlink:href="#pin" transform="translate(127 421)" />
-  <use xlink:href="#pin" transform="translate(127 451)" />
-  <use xlink:href="#pin" transform="translate(127 481)" />
-  <use xlink:href="#pin" transform="translate(127 511)" />
-  <use xlink:href="#pin" transform="translate(127 541)" />
-  <use xlink:href="#pin" transform="translate(127 571)" />
-  <use xlink:href="#pin" transform="translate(127 601)" />
-  <use xlink:href="#pin" transform="translate(127 631)" />
-  <use xlink:href="#pin" transform="translate(127 661)" />
-  <use xlink:href="#pin" transform="translate(127 691)" />
-  <use xlink:href="#pin" transform="translate(127 721)" />
-  <use xlink:href="#pin" transform="translate(157 1)" />
-  <use xlink:href="#square" transform="translate(157 31)" />
-  <use xlink:href="#square" transform="translate(157 391)" />
-  <use xlink:href="#pin" transform="translate(157 421)" />
-  <use xlink:href="#pin" transform="translate(157 451)" />
-  <use xlink:href="#pin" transform="translate(157 481)" />
-  <use xlink:href="#square" transform="translate(157 511)" />
-  <use xlink:href="#square" transform="translate(157 631)" />
-  <use xlink:href="#pin" transform="translate(157 661)" />
-  <use xlink:href="#pin" transform="translate(157 691)" />
-  <use xlink:href="#pin" transform="translate(157 721)" />
-  <use xlink:href="#pin" transform="translate(187 1)" />
-  <use xlink:href="#pin" transform="translate(187 421)" />
-  <use xlink:href="#pin" transform="translate(187 451)" />
-  <use xlink:href="#pin" transform="translate(187 481)" />
-  <use xlink:href="#pin" transform="translate(187 661)" />
-  <use xlink:href="#pin" transform="translate(187 691)" />
-  <use xlink:href="#pin" transform="translate(187 721)" />
-  <use xlink:href="#pin" transform="translate(217 1)" />
-  <use xlink:href="#pin" transform="translate(217 421)" />
-  <use xlink:href="#square" transform="translate(217 451)" />
-  <use xlink:href="#pin" transform="translate(217 481)" />
-  <use xlink:href="#pin" transform="translate(217 661)" />
-  <use xlink:href="#square" transform="translate(217 691)" />
-  <use xlink:href="#pin" transform="translate(217 721)" />
-  <use xlink:href="#pin" transform="translate(247 1)" />
-  <use xlink:href="#pin" transform="translate(247 421)" />
-  <use xlink:href="#pin" transform="translate(247 451)" />
-  <use xlink:href="#pin" transform="translate(247 481)" />
-  <use xlink:href="#pin" transform="translate(247 661)" />
-  <use xlink:href="#pin" transform="translate(247 691)" />
-  <use xlink:href="#pin" transform="translate(247 721)" />
-  <use xlink:href="#pin" transform="translate(277 1)" />
-  <use xlink:href="#square" transform="translate(277 31)" />
-  <use xlink:href="#square" transform="translate(277 391)" />
-  <use xlink:href="#pin" transform="translate(277 421)" />
-  <use xlink:href="#pin" transform="translate(277 451)" />
-  <use xlink:href="#pin" transform="translate(277 481)" />
-  <use xlink:href="#square" transform="translate(277 511)" />
-  <use xlink:href="#square" transform="translate(277 631)" />
-  <use xlink:href="#pin" transform="translate(277 661)" />
-  <use xlink:href="#pin" transform="translate(277 691)" />
-  <use xlink:href="#pin" transform="translate(277 721)" />
-  <use xlink:href="#pin" transform="translate(307 1)" />
-  <use xlink:href="#pin" transform="translate(307 31)" />
-  <use xlink:href="#pin" transform="translate(307 391)" />
-  <use xlink:href="#pin" transform="translate(307 421)" />
-  <use xlink:href="#pin" transform="translate(307 451)" />
-  <use xlink:href="#pin" transform="translate(307 481)" />
-  <use xlink:href="#pin" transform="translate(307 511)" />
-  <use xlink:href="#pin" transform="translate(307 541)" />
-  <use xlink:href="#pin" transform="translate(307 571)" />
-  <use xlink:href="#pin" transform="translate(307 601)" />
-  <use xlink:href="#pin" transform="translate(307 631)" />
-  <use xlink:href="#pin" transform="translate(307 661)" />
-  <use xlink:href="#pin" transform="translate(307 691)" />
-  <use xlink:href="#pin" transform="translate(307 721)" />
-  <use xlink:href="#pin" transform="translate(337 1)" />
-  <use xlink:href="#pin" transform="translate(337 31)" />
-  <use xlink:href="#pin" transform="translate(337 61)" />
-  <use xlink:href="#pin" transform="translate(337 361)" />
-  <use xlink:href="#pin" transform="translate(337 391)" />
-  <use xlink:href="#pin" transform="translate(337 421)" />
-  <use xlink:href="#square" transform="translate(337 451)" />
-  <use xlink:href="#pin" transform="translate(337 481)" />
-  <use xlink:href="#pin" transform="translate(337 511)" />
-  <use xlink:href="#pin" transform="translate(337 541)" />
-  <use xlink:href="#square" transform="translate(337 571)" />
-  <use xlink:href="#pin" transform="translate(337 601)" />
-  <use xlink:href="#pin" transform="translate(337 631)" />
-  <use xlink:href="#pin" transform="translate(337 661)" />
-  <use xlink:href="#square" transform="translate(337 691)" />
-  <use xlink:href="#pin" transform="translate(337 721)" />
-  <use xlink:href="#pin" transform="translate(367 1)" />
-  <use xlink:href="#pin" transform="translate(367 31)" />
-  <use xlink:href="#pin" transform="translate(367 61)" />
-  <use xlink:href="#pin" transform="translate(367 91)" />
-  <use xlink:href="#pin" transform="translate(367 331)" />
-  <use xlink:href="#pin" transform="translate(367 361)" />
-  <use xlink:href="#pin" transform="translate(367 391)" />
-  <use xlink:href="#pin" transform="translate(367 421)" />
-  <use xlink:href="#pin" transform="translate(367 451)" />
-  <use xlink:href="#pin" transform="translate(367 481)" />
-  <use xlink:href="#pin" transform="translate(367 511)" />
-  <use xlink:href="#pin" transform="translate(367 541)" />
-  <use xlink:href="#pin" transform="translate(367 571)" />
-  <use xlink:href="#pin" transform="translate(367 601)" />
-  <use xlink:href="#pin" transform="translate(367 631)" />
-  <use xlink:href="#pin" transform="translate(367 661)" />
-  <use xlink:href="#pin" transform="translate(367 691)" />
-  <use xlink:href="#pin" transform="translate(367 721)" />
-  <use xlink:href="#pin" transform="translate(397 1)" />
-  <use xlink:href="#square" transform="translate(397 31)" />
-  <use xlink:href="#pin" transform="translate(397 61)" />
-  <use xlink:href="#pin" transform="translate(397 91)" />
-  <use xlink:href="#pin" transform="translate(397 121)" />
-  <use xlink:href="#square" transform="translate(397 151)" />
-  <use xlink:href="#square" transform="translate(397 271)" />
-  <use xlink:href="#pin" transform="translate(397 301)" />
-  <use xlink:href="#pin" transform="translate(397 331)" />
-  <use xlink:href="#pin" transform="translate(397 361)" />
-  <use xlink:href="#square" transform="translate(397 391)" />
-  <use xlink:href="#pin" transform="translate(397 421)" />
-  <use xlink:href="#pin" transform="translate(397 451)" />
-  <use xlink:href="#pin" transform="translate(397 481)" />
-  <use xlink:href="#square" transform="translate(397 511)" />
-  <use xlink:href="#square" transform="translate(397 631)" />
-  <use xlink:href="#pin" transform="translate(397 661)" />
-  <use xlink:href="#pin" transform="translate(397 691)" />
-  <use xlink:href="#pin" transform="translate(397 721)" />
-  <use xlink:href="#pin" transform="translate(427 1)" />
-  <use xlink:href="#pin" transform="translate(427 31)" />
-  <use xlink:href="#pin" transform="translate(427 61)" />
-  <use xlink:href="#pin" transform="translate(427 91)" />
-  <use xlink:href="#pin" transform="translate(427 121)" />
-  <use xlink:href="#pin" transform="translate(427 151)" />
-  <use xlink:href="#pin" transform="translate(427 181)" />
-  <use xlink:href="#pin" transform="translate(427 211)" />
-  <use xlink:href="#pin" transform="translate(427 241)" />
-  <use xlink:href="#pin" transform="translate(427 271)" />
-  <use xlink:href="#pin" transform="translate(427 301)" />
-  <use xlink:href="#pin" transform="translate(427 331)" />
-  <use xlink:href="#pin" transform="translate(427 361)" />
-  <use xlink:href="#pin" transform="translate(427 391)" />
-  <use xlink:href="#pin" transform="translate(427 421)" />
-  <use xlink:href="#pin" transform="translate(427 451)" />
-  <use xlink:href="#pin" transform="translate(427 691)" />
-  <use xlink:href="#pin" transform="translate(427 721)" />
-  <use xlink:href="#pin" transform="translate(457 1)" />
-  <use xlink:href="#pin" transform="translate(457 31)" />
-  <use xlink:href="#pin" transform="translate(457 61)" />
-  <use xlink:href="#square" transform="translate(457 91)" />
-  <use xlink:href="#pin" transform="translate(457 121)" />
-  <use xlink:href="#pin" transform="translate(457 151)" />
-  <use xlink:href="#pin" transform="translate(457 181)" />
-  <use xlink:href="#square" transform="translate(457 211)" />
-  <use xlink:href="#pin" transform="translate(457 241)" />
-  <use xlink:href="#pin" transform="translate(457 271)" />
-  <use xlink:href="#pin" transform="translate(457 301)" />
-  <use xlink:href="#square" transform="translate(457 331)" />
-  <use xlink:href="#pin" transform="translate(457 361)" />
-  <use xlink:href="#pin" transform="translate(457 391)" />
-  <use xlink:href="#pin" transform="translate(457 421)" />
-  <use xlink:href="#pin" transform="translate(457 721)" />
-  <use xlink:href="#pin" transform="translate(487 31)" />
-  <use xlink:href="#pin" transform="translate(487 61)" />
-  <use xlink:href="#pin" transform="translate(487 91)" />
-  <use xlink:href="#pin" transform="translate(487 121)" />
-  <use xlink:href="#pin" transform="translate(487 151)" />
-  <use xlink:href="#pin" transform="translate(487 181)" />
-  <use xlink:href="#pin" transform="translate(487 211)" />
-  <use xlink:href="#pin" transform="translate(487 241)" />
-  <use xlink:href="#pin" transform="translate(487 271)" />
-  <use xlink:href="#pin" transform="translate(487 301)" />
-  <use xlink:href="#pin" transform="translate(487 331)" />
-  <use xlink:href="#pin" transform="translate(487 361)" />
-  <use xlink:href="#pin" transform="translate(487 391)" />
-  <use xlink:href="#square" transform="translate(517 31)" />
-  <use xlink:href="#pin" transform="translate(517 61)" />
-  <use xlink:href="#pin" transform="translate(517 91)" />
-  <use xlink:href="#pin" transform="translate(517 121)" />
-  <use xlink:href="#square" transform="translate(517 151)" />
-  <use xlink:href="#square" transform="translate(517 271)" />
-  <use xlink:href="#pin" transform="translate(517 301)" />
-  <use xlink:href="#pin" transform="translate(517 331)" />
-  <use xlink:href="#pin" transform="translate(517 361)" />
-  <use xlink:href="#square" transform="translate(517 391)" />
-  <use xlink:href="#pin" transform="translate(547 61)" />
-  <use xlink:href="#pin" transform="translate(547 91)" />
-  <use xlink:href="#pin" transform="translate(547 121)" />
-  <use xlink:href="#pin" transform="translate(547 301)" />
-  <use xlink:href="#pin" transform="translate(547 331)" />
-  <use xlink:href="#pin" transform="translate(547 361)" />
-  <use xlink:href="#pin" transform="translate(577 61)" />
-  <use xlink:href="#square" transform="translate(577 91)" />
-  <use xlink:href="#pin" transform="translate(577 121)" />
-  <use xlink:href="#pin" transform="translate(577 301)" />
-  <use xlink:href="#square" transform="translate(577 331)" />
-  <use xlink:href="#pin" transform="translate(577 361)" />
-  <use xlink:href="#pin" transform="translate(607 61)" />
-  <use xlink:href="#pin" transform="translate(607 91)" />
-  <use xlink:href="#pin" transform="translate(607 121)" />
-  <use xlink:href="#pin" transform="translate(607 301)" />
-  <use xlink:href="#pin" transform="translate(607 331)" />
-  <use xlink:href="#pin" transform="translate(607 361)" />
-  <use xlink:href="#square" transform="translate(637 31)" />
-  <use xlink:href="#pin" transform="translate(637 61)" />
-  <use xlink:href="#pin" transform="translate(637 91)" />
-  <use xlink:href="#pin" transform="translate(637 121)" />
-  <use xlink:href="#square" transform="translate(637 151)" />
-  <use xlink:href="#square" transform="translate(637 271)" />
-  <use xlink:href="#pin" transform="translate(637 301)" />
-  <use xlink:href="#pin" transform="translate(637 331)" />
-  <use xlink:href="#pin" transform="translate(637 361)" />
-  <use xlink:href="#square" transform="translate(637 391)" />
-  <use xlink:href="#pin" transform="translate(667 31)" />
-  <use xlink:href="#pin" transform="translate(667 61)" />
-  <use xlink:href="#pin" transform="translate(667 91)" />
-  <use xlink:href="#pin" transform="translate(667 121)" />
-  <use xlink:href="#pin" transform="translate(667 151)" />
-  <use xlink:href="#pin" transform="translate(667 181)" />
-  <use xlink:href="#pin" transform="translate(667 211)" />
-  <use xlink:href="#pin" transform="translate(667 241)" />
-  <use xlink:href="#pin" transform="translate(667 271)" />
-  <use xlink:href="#pin" transform="translate(667 301)" />
-  <use xlink:href="#pin" transform="translate(667 331)" />
-  <use xlink:href="#pin" transform="translate(667 361)" />
-  <use xlink:href="#pin" transform="translate(667 391)" />
-  <use xlink:href="#pin" transform="translate(697 1)" />
-  <use xlink:href="#pin" transform="translate(697 31)" />
-  <use xlink:href="#pin" transform="translate(697 61)" />
-  <use xlink:href="#square" transform="translate(697 91)" />
-  <use xlink:href="#pin" transform="translate(697 121)" />
-  <use xlink:href="#pin" transform="translate(697 151)" />
-  <use xlink:href="#pin" transform="translate(697 181)" />
-  <use xlink:href="#square" transform="translate(697 211)" />
-  <use xlink:href="#pin" transform="translate(697 241)" />
-  <use xlink:href="#pin" transform="translate(697 271)" />
-  <use xlink:href="#pin" transform="translate(697 301)" />
-  <use xlink:href="#square" transform="translate(697 331)" />
-  <use xlink:href="#pin" transform="translate(697 361)" />
-  <use xlink:href="#pin" transform="translate(697 391)" />
-  <use xlink:href="#pin" transform="translate(697 421)" />
-  <use xlink:href="#pin" transform="translate(697 721)" />
-  <use xlink:href="#pin" transform="translate(727 1)" />
-  <use xlink:href="#pin" transform="translate(727 31)" />
-  <use xlink:href="#pin" transform="translate(727 61)" />
-  <use xlink:href="#pin" transform="translate(727 91)" />
-  <use xlink:href="#pin" transform="translate(727 121)" />
-  <use xlink:href="#pin" transform="translate(727 151)" />
-  <use xlink:href="#pin" transform="translate(727 181)" />
-  <use xlink:href="#pin" transform="translate(727 211)" />
-  <use xlink:href="#pin" transform="translate(727 241)" />
-  <use xlink:href="#pin" transform="translate(727 271)" />
-  <use xlink:href="#pin" transform="translate(727 301)" />
-  <use xlink:href="#pin" transform="translate(727 331)" />
-  <use xlink:href="#pin" transform="translate(727 361)" />
-  <use xlink:href="#pin" transform="translate(727 391)" />
-  <use xlink:href="#pin" transform="translate(727 421)" />
-  <use xlink:href="#pin" transform="translate(727 451)" />
-  <use xlink:href="#pin" transform="translate(727 691)" />
-  <use xlink:href="#pin" transform="translate(727 721)" />
-  <use xlink:href="#wreath" transform="translate(-143 -149)" />
-  <use xlink:href="#wreath" transform="translate(-143 571)" />
-  <use xlink:href="#wreath" transform="translate(217 211)" />
-  <use xlink:href="#flower" transform="translate(217 571)" />
-  <use xlink:href="#wreath" transform="translate(217 931)" />
-  <use xlink:href="#wreath" transform="translate(577 -149)" />
-  <use xlink:href="#flower" transform="translate(577 211)" />
-  <use xlink:href="#wreath" transform="translate(577 571)" />
+  <rect width="640" height="640" fill="#D12B35" />
+  <g transform="translate(0 0)">
+    <use xlink:href="#acanthus" />
+    <use xlink:href="#acanthus" transform="matrix(0 1 1 0 0 0)" />
+    <use xlink:href="#diagonal-stem" />
+  </g>
+  <g transform="translate(640 0) scale(-1 1)">
+    <use xlink:href="#acanthus" />
+    <use xlink:href="#acanthus" transform="matrix(0 1 1 0 0 0)" />
+    <use xlink:href="#diagonal-stem" />
+  </g>
+  <g transform="translate(0 640) scale(1 -1)">
+    <use xlink:href="#acanthus" />
+    <use xlink:href="#acanthus" transform="matrix(0 1 1 0 0 0)" />
+    <use xlink:href="#diagonal-stem" />
+  </g>
+  <g transform="translate(640 640) scale(-1 -1)">
+    <use xlink:href="#acanthus" />
+    <use xlink:href="#acanthus" transform="matrix(0 1 1 0 0 0)" />
+    <use xlink:href="#diagonal-stem" />
+  </g>
+  <use xlink:href="#star-medallion" transform="translate(320 320) scale(1 .93)" />
+  <g transform="translate(320 0) rotate(0)">
+    <use xlink:href="#edge-frond" transform="rotate(0)" />
+    <use xlink:href="#edge-lance" transform="rotate(90)" />
+    <use xlink:href="#edge-frond" transform="rotate(180)" />
+    <use xlink:href="#edge-lance" transform="rotate(270)" />
+    <use xlink:href="#edge-cartouche" />
+  </g>
+  <g transform="translate(320 640) rotate(0)">
+    <use xlink:href="#edge-frond" transform="rotate(0)" />
+    <use xlink:href="#edge-lance" transform="rotate(90)" />
+    <use xlink:href="#edge-frond" transform="rotate(180)" />
+    <use xlink:href="#edge-lance" transform="rotate(270)" />
+    <use xlink:href="#edge-cartouche" />
+  </g>
+  <g transform="translate(0 320) rotate(90)">
+    <use xlink:href="#edge-frond" transform="rotate(0)" />
+    <use xlink:href="#edge-lance" transform="rotate(90)" />
+    <use xlink:href="#edge-frond" transform="rotate(180)" />
+    <use xlink:href="#edge-lance" transform="rotate(270)" />
+    <use xlink:href="#edge-cartouche" />
+  </g>
+  <g transform="translate(640 320) rotate(90)">
+    <use xlink:href="#edge-frond" transform="rotate(0)" />
+    <use xlink:href="#edge-lance" transform="rotate(90)" />
+    <use xlink:href="#edge-frond" transform="rotate(180)" />
+    <use xlink:href="#edge-lance" transform="rotate(270)" />
+    <use xlink:href="#edge-cartouche" />
+  </g>
+  <use xlink:href="#corner-rosette" transform="translate(0 0)" />
+  <use xlink:href="#corner-rosette" transform="translate(0 640)" />
+  <use xlink:href="#corner-rosette" transform="translate(640 0)" />
+  <use xlink:href="#corner-rosette" transform="translate(640 640)" />
+  <use xlink:href="#little-cross" transform="translate(136 0)" />
+  <use xlink:href="#little-cross" transform="translate(504 0)" />
+  <use xlink:href="#little-cross" transform="translate(136 640)" />
+  <use xlink:href="#little-cross" transform="translate(504 640)" />
+  <use xlink:href="#little-cross" transform="translate(0 136)" />
+  <use xlink:href="#little-cross" transform="translate(0 504)" />
+  <use xlink:href="#little-cross" transform="translate(640 136)" />
+  <use xlink:href="#little-cross" transform="translate(640 504)" />
 </svg>
